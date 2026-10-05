@@ -5,7 +5,7 @@
 ## Стек
 
 - **Next.js 16** (App Router, TypeScript, Tailwind CSS 4): сайт и API
-- **PostgreSQL 16 + pgvector**: база блюд, полнотекстовый поиск по-русски, колонка под эмбеддинги для семантического поиска
+- **PostgreSQL 16 + pgvector**: база блюд, полнотекстовый поиск по-русски, колонка под эмбеддинги для семантического поиска; для разработки — встроенный PGlite
 - **Drizzle ORM**: схема и миграции
 - **Claude API** (`@anthropic-ai/sdk`): ассистент, который ищет ответы по базе через инструменты
 
@@ -26,7 +26,7 @@ drizzle/              SQL-миграции
 
 ## Локальный запуск
 
-Нужны [Node.js 22](https://nodejs.org), [Git](https://git-scm.com) и [Docker Desktop](https://www.docker.com/products/docker-desktop/) (в нём будет база данных).
+Нужны [Node.js 22](https://nodejs.org) и [Git](https://git-scm.com). База данных для разработки встроенная (PGlite — PostgreSQL внутри Node.js, с pgvector), отдельно ставить её не нужно: данные лежат в папке `.pglite`.
 
 ```bash
 git clone https://github.com/Jjkantalay/gastroguia.git
@@ -34,12 +34,15 @@ cd gastroguia
 git checkout claude/sleepy-faraday-80szzq
 npm install
 cp .env.example .env          # в Windows: copy .env.example .env
-docker compose up -d db       # PostgreSQL с pgvector на localhost:5432
 npm run db:migrate            # создать таблицы
 npm run db:seed               # загрузить content/dishes.json (можно запускать повторно)
 npm run images:download       # скачать фото блюд со старого сайта
 npm run dev                   # открыть http://localhost:3000
 ```
+
+С папкой `.pglite` одновременно работает только один процесс: перед `db:migrate` или `db:seed` остановите `npm run dev` (Ctrl+C).
+
+Чтобы работать с обычным PostgreSQL (например, `docker compose up -d db`), поменяйте `DATABASE_URL` в `.env` на `postgres://…` — пример есть в `.env.example`.
 
 Для ассистента впишите ключ Claude API в `ANTHROPIC_API_KEY` в файле `.env`. Без ключа сайт работает, а ассистент отвечает, что не настроен.
 

@@ -7,6 +7,8 @@ const legacyImageOrigin = process.env.LEGACY_IMAGE_ORIGIN;
 
 const nextConfig: NextConfig = {
   output: "standalone",
+  // PGlite загружает свои wasm-файлы сам, бандлить его нельзя
+  serverExternalPackages: ["@electric-sql/pglite", "@electric-sql/pglite-pgvector"],
   async redirects() {
     return [
       // Старые адреса WordPress: переименованные карточки, затем все остальные

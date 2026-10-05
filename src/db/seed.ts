@@ -1,8 +1,7 @@
 import { readFileSync } from "node:fs";
 import { eq, sql } from "drizzle-orm";
-import { drizzle } from "drizzle-orm/postgres-js";
-import postgres from "postgres";
 import { slugify } from "../lib/slug";
+import { connect } from "./client";
 import type { ContentFile } from "./content";
 import * as schema from "./schema";
 
@@ -14,8 +13,7 @@ try {
   process.loadEnvFile();
 } catch {}
 
-const client = postgres(process.env.DATABASE_URL!, { max: 1, onnotice: () => {} });
-const db = drizzle(client, { schema });
+const { db, close } = connect(undefined, { poolSize: 1 });
 
 await db.transaction(async (tx) => {
   const cuisineIds = new Map<string, number>();
@@ -72,5 +70,5 @@ await db.transaction(async (tx) => {
   }
 });
 
-await client.end();
+await close();
 console.log(`Загружено: кухонь ${content.cuisines.length}, блюд ${content.dishes.length}`);
