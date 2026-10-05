@@ -9,6 +9,11 @@ import * as schema from "./schema";
 // Загружает content/dishes.json в базу. Повторный запуск обновляет данные, а не дублирует их.
 const content: ContentFile = JSON.parse(readFileSync(new URL("../../content/dishes.json", import.meta.url), "utf8"));
 
+// Подхватываем .env при локальном запуске; в Docker переменные приходят из окружения
+try {
+  process.loadEnvFile();
+} catch {}
+
 const client = postgres(process.env.DATABASE_URL!, { max: 1, onnotice: () => {} });
 const db = drizzle(client, { schema });
 

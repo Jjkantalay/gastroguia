@@ -6,6 +6,9 @@ services:
       POSTGRES_USER: gastroguia
       POSTGRES_PASSWORD: ${POSTGRES_PASSWORD:-gastroguia}
       POSTGRES_DB: gastroguia
+    # Порт открыт только на этом компьютере — для локальной разработки (npm run dev)
+    ports:
+      - "127.0.0.1:5432:5432"
     volumes:
       - pgdata:/var/lib/postgresql/data
     healthcheck:

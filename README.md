@@ -26,15 +26,22 @@ drizzle/              SQL-миграции
 
 ## Локальный запуск
 
-Нужны Node.js 22 и PostgreSQL 16 с расширением pgvector (или Docker).
+Нужны [Node.js 22](https://nodejs.org), [Git](https://git-scm.com) и [Docker Desktop](https://www.docker.com/products/docker-desktop/) (в нём будет база данных).
 
 ```bash
-cp .env.example .env          # укажите DATABASE_URL и ANTHROPIC_API_KEY
+git clone https://github.com/Jjkantalay/gastroguia.git
+cd gastroguia
+git checkout claude/sleepy-faraday-80szzq
 npm install
+cp .env.example .env          # в Windows: copy .env.example .env
+docker compose up -d db       # PostgreSQL с pgvector на localhost:5432
 npm run db:migrate            # создать таблицы
 npm run db:seed               # загрузить content/dishes.json (можно запускать повторно)
-npm run dev                   # http://localhost:3000
+npm run images:download       # скачать фото блюд со старого сайта
+npm run dev                   # открыть http://localhost:3000
 ```
+
+Для ассистента впишите ключ Claude API в `ANTHROPIC_API_KEY` в файле `.env`. Без ключа сайт работает, а ассистент отвечает, что не настроен.
 
 ## Перенос с WordPress
 
