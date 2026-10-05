@@ -1,47 +1,46 @@
 import Link from "next/link";
-import { DIFFICULTY_LABELS, formatTime, type DishSummary } from "@/lib/dishes";
+import type { DishSummary } from "@/lib/dishes";
 
-export function DietBadges({ dish }: { dish: Pick<DishSummary, "vegan" | "vegetarian" | "glutenFree" | "spicy"> }) {
-  const badges = [
-    dish.vegan ? "веган" : dish.vegetarian ? "вегетарианское" : null,
-    dish.glutenFree ? "без глютена" : null,
-    dish.spicy ? "острое" : null,
-  ].filter(Boolean);
-  if (!badges.length) return null;
+// Карточка как в листинге JetEngine на старом сайте: высокое фото, название поверх снизу
+export function DishCard({ dish, className = "" }: { dish: DishSummary; className?: string }) {
   return (
-    <div className="flex flex-wrap gap-1.5">
-      {badges.map((b) => (
-        <span key={b} className="rounded-full bg-accent-soft px-2 py-0.5 text-xs text-accent">
-          {b}
-        </span>
-      ))}
+    <Link
+      href={`/dishes/${dish.slug}`}
+      className={`group relative block h-[360px] overflow-hidden rounded-[10px] bg-ink-soft sm:h-[500px] sm:rounded-[30px] ${className}`}
+    >
+      {dish.imageUrl && (
+        // eslint-disable-next-line @next/next/no-img-element
+        <img
+          src={dish.imageUrl}
+          alt=""
+          loading="lazy"
+          className="h-full w-full object-cover brightness-90 contrast-125 transition duration-500 group-hover:scale-105"
+        />
+      )}
+      <span className="absolute inset-x-0 bottom-0 bg-gradient-to-t from-black/70 to-transparent px-6 pb-6 pt-16 text-center">
+        <span className="t-section block text-light">{dish.name}</span>
+        {dish.cuisine && <span className="mt-2 block text-sm lowercase text-light/80">{dish.cuisine} кухня</span>}
+      </span>
+    </Link>
+  );
+}
+
+export function SectionHeading({ title, hint, id }: { title: string; hint?: string; id?: string }) {
+  return (
+    <div id={id} className="mb-6 flex scroll-mt-6 flex-col gap-2 border-b-2 border-ink pb-3 sm:flex-row sm:items-end sm:justify-between">
+      <h2 className="t-section">{title}</h2>
+      {hint && <p className="text-base sm:text-xl">{hint}</p>}
     </div>
   );
 }
 
-export function DishCard({ dish }: { dish: DishSummary }) {
-  const meta = [
-    dish.cuisine,
-    dish.course,
-    formatTime(dish.cookingTimeMin),
-    dish.difficulty ? DIFFICULTY_LABELS[dish.difficulty] : null,
-    dish.calories ? `${dish.calories} ккал` : null,
-  ].filter(Boolean);
+// Горизонтальная лента карточек: «листай влево и смотри все блюда»
+export function DishRow({ dishes }: { dishes: DishSummary[] }) {
   return (
-    <Link
-      href={`/dishes/${dish.slug}`}
-      className="flex flex-col gap-2 overflow-hidden rounded-xl border border-line transition hover:border-accent"
-    >
-      {dish.imageUrl && (
-        // eslint-disable-next-line @next/next/no-img-element
-        <img src={dish.imageUrl} alt="" loading="lazy" className="aspect-[4/3] w-full object-cover" />
-      )}
-      <div className="flex flex-col gap-2 p-4">
-      <h3 className="font-serif text-lg font-semibold">{dish.name}</h3>
-      <p className="text-xs text-muted">{meta.join(" · ")}</p>
-      <p className="line-clamp-3 text-sm">{dish.description}</p>
-      <DietBadges dish={dish} />
-      </div>
-    </Link>
+    <div className="-mx-4 flex snap-x snap-mandatory gap-4 overflow-x-auto px-4 pb-4 sm:-mx-8 sm:gap-6 sm:px-8">
+      {dishes.map((d) => (
+        <DishCard key={d.slug} dish={d} className="w-[72%] shrink-0 snap-start sm:w-[calc((100%-3*1.5rem)/4)]" />
+      ))}
+    </div>
   );
 }

@@ -18,9 +18,9 @@ function renderText(text: string): ReactNode[] {
     if (!m) return part;
     const [, label, href] = m;
     return href.startsWith("/") ? (
-      <Link key={i} href={href} className="text-accent underline">{label}</Link>
+      <Link key={i} href={href} className="font-semibold underline decoration-accent decoration-2 underline-offset-2">{label}</Link>
     ) : (
-      <a key={i} href={href} target="_blank" rel="noopener noreferrer" className="text-accent underline">{label}</a>
+      <a key={i} href={href} target="_blank" rel="noopener noreferrer" className="font-semibold underline decoration-accent decoration-2 underline-offset-2">{label}</a>
     );
   });
 }
@@ -58,12 +58,12 @@ export function Chat() {
   }
 
   return (
-    <div className="flex flex-col gap-4 rounded-xl border border-line p-4">
+    <div className="frame flex flex-col gap-4 p-4 sm:p-6">
       <div className="flex min-h-64 flex-col gap-3">
         {messages.length === 0 && (
           <div className="flex flex-wrap gap-2">
             {SUGGESTIONS.map((s) => (
-              <button key={s} onClick={() => send(s)} className="rounded-full border border-line px-3 py-1.5 text-left text-sm hover:border-accent">
+              <button key={s} onClick={() => send(s)} className="border-2 border-ink px-3 py-1.5 text-left text-sm hover:bg-ink hover:text-light">
                 {s}
               </button>
             ))}
@@ -74,15 +74,15 @@ export function Chat() {
             key={i}
             className={
               m.role === "user"
-                ? "max-w-[85%] self-end rounded-2xl bg-accent px-4 py-2 text-white"
-                : "max-w-[85%] self-start whitespace-pre-wrap rounded-2xl bg-accent-soft px-4 py-2"
+                ? "max-w-[85%] self-end rounded-[20px] bg-ink px-4 py-2 text-light"
+                : "max-w-[85%] self-start whitespace-pre-wrap rounded-[20px] border-2 border-ink bg-light px-4 py-2"
             }
           >
             {m.role === "assistant" ? renderText(m.content) : m.content}
           </div>
         ))}
-        {loading && <div className="self-start text-sm text-muted">Ассистент думает…</div>}
-        {error && <div className="text-sm text-red-600">{error}</div>}
+        {loading && <div className="self-start text-sm">// гид думает…</div>}
+        {error && <div className="text-sm text-accent">{error}</div>}
       </div>
       <form
         onSubmit={(e) => {
@@ -96,9 +96,9 @@ export function Chat() {
           onChange={(e) => setInput(e.target.value)}
           placeholder="Спросите про блюдо или продукты"
           maxLength={4000}
-          className="min-w-0 flex-1 rounded-lg border border-line bg-transparent px-4 py-2.5 outline-none focus:border-accent"
+          className="min-w-0 flex-1 border-2 border-ink bg-transparent px-4 py-2.5 outline-none focus:bg-light"
         />
-        <button disabled={loading} className="rounded-lg bg-accent px-5 py-2.5 font-medium text-white disabled:opacity-50">
+        <button disabled={loading} className="bg-ink px-5 py-2.5 font-bold uppercase text-light hover:bg-moss disabled:opacity-50">
           Отправить
         </button>
       </form>

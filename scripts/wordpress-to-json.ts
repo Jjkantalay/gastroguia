@@ -87,7 +87,12 @@ function cleanText(html: string): string {
 const splitSections = (s: string) => s.replace(/\s+((?:Для|For|Para) [^:\n]{1,30}:)/g, "\n$1").trim();
 
 // Цитаты на сайте были набраны в прямых кавычках — кавычки добавит шаблон
-const stripQuotes = (s: string) => s.replace(/^["«“]\s*/, "").replace(/\s*["»”]$/, "");
+const stripQuotes = (s: string) => {
+  if (!s.startsWith('"')) return s;
+  const inner = s.slice(1);
+  // Закрывающая кавычка бывает и перед точкой: "…alegría".
+  return inner.endsWith('".') ? inner.slice(0, -2) + "." : inner.endsWith('"') ? inner.slice(0, -1) : inner;
+};
 
 function cleanAllergen(s: string): string | null {
   const t = cleanText(s);

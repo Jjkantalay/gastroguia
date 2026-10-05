@@ -89,7 +89,7 @@
         "es": {
           "name": "Gata",
           "description": "Gata es un símbolo dulce de la cocina Armenia, que se asocia con la comodidad y el calor del hogar. Es un pastel de hojaldre relleno de mantequilla, harina y azúcar que crea una textura única: crujiente por fuera y suave por dentro. El gata puede ser redondo como el sol o dividido en porciones. A menudo se prepara para las vacaciones o simplemente como un regalo para el té. Cada región de Armenia tiene su propia receta única para este postre.",
-          "quote": "Cada región de Armenia tiene su propia receta única de Ghats, pero una cosa permanece sin cambios: su capacidad para unir a las personas en una mesa\".",
+          "quote": "Cada región de Armenia tiene su propia receta única de Ghats, pero una cosa permanece sin cambios: su capacidad para unir a las personas en una mesa.",
           "history": "La primera mención escrita de Gotha se encuentra en el siglo XIII, pero no se sabe exactamente cuándo apareció este postre.  Sin duda, existe tanto como el propio pueblo armenio. Este plato absorbió el espíritu nacional. A pesar de que los armenios se encontraban en condiciones extremadamente desfavorables hasta principios del siglo XX, lograron preservar su identidad y sus valores culturales. Los Ghats son apreciados y amados tanto en su tierra natal como entre las diásporas dispersas por la tierra.\n\nIncluso lejos de su tierra natal, la gente ha conservado las características nacionales de su cocina.",
           "ingredientsText": "Harina de trigo 58 G Mantequilla 33 G Matzoni de leche de vaca 20 G Soda de grado alimenticio 1 cucharadita sal En la punta del cuchillo para el relleno: mantequilla derretida 13 G azúcar de vainilla 1 cucharadita Harina de trigo 40 G Azúcar en polvo 41 G",
           "allergens": [
@@ -204,7 +204,7 @@
         "es": {
           "name": "Kutaba",
           "description": "Los kutabs son tortillas finas hechas de masa que conquistan con su simplicidad y sabor exquisito. El relleno puede ser muy diverso: desde verduras jugosas (cilantro, eneldo, espinacas) hasta carne tierna o calabaza. Los kutabs se fríen en una sartén seca hasta que estén dorados y luego se untan con ghee para una suavidad especial. Se sirve con yogur o una bebida de leche fermentada para resaltar su rico sabor. Este plato es un bocadillo perfecto o una cena ligera.",
-          "quote": "Los kutabs son tortillas delgadas con relleno que se pueden llamar la versión Azerbaiyana de las empanadas. Se preparan con carne, verduras, calabaza o queso, y se sirven con salsas de leche fermentada\".",
+          "quote": "Los kutabs son tortillas delgadas con relleno que se pueden llamar la versión Azerbaiyana de las empanadas. Se preparan con carne, verduras, calabaza o queso, y se sirven con salsas de leche fermentada.",
           "history": null,
           "ingredientsText": "Harina de trigo 96 G aceite vegetal refinado 1 Art. l Cebolla 1 PC Mantequilla 1 Art. l perejil 80 G zumaque al gusto sal en la punta Del cuchillo",
           "allergens": [
@@ -340,7 +340,7 @@
         "es": {
           "name": "Plov",
           "description": "El pilaf es el rey de la cocina Azerbaiyana, un plato que combina una gran cantidad de sabores y tradiciones. En Azerbaiyán, el pilaf se prepara con una emoción especial: el arroz al vapor se sirve con carne fragante (la mayoría de las veces cordero), frutas secas, castañas y especias. Cada componente del pilaf se prepara por separado y luego se combina en un todo armonioso. El pilaf no es solo comida, es un símbolo de hospitalidad y celebración que se sirve en grandes celebraciones y cenas familiares.",
-          "quote": "El azafrán es el secreto del color dorado y el aroma único del pilaf azerbaiyano. Se agrega al agua de arroz para que cada grano brille como una joya\".",
+          "quote": "El azafrán es el secreto del color dorado y el aroma único del pilaf azerbaiyano. Se agrega al agua de arroz para que cada grano brille como una joya.",
           "history": null,
           "ingredientsText": "Cuatro cebollas grandes, media taza de pasas, un vaso de albaricoques secos, media taza de ciruelas pasas, medio kilo de castañas, una pizca de canela, 2-3 paquetes de mantequilla, para gazmakh-media taza de harina, huevo y kéfir",
           "allergens": [
@@ -384,7 +384,7 @@
         "es": {
           "name": "Satsivi",
           "description": "Satsivi es un plato refinado que se sirve frío y sorprende por su compleja textura y sabor. La base de la salsa es nueces molidas con ajo, especias y vinagre, lo que crea una masa espesa y aterciopelada. Se agrega pollo o pavo hervido a esta salsa, y luego se infunde el plato para que todos los sabores se unan en armonía. Satsivi es un atributo obligatorio de la mesa festiva georgiana.",
-          "quote": "Satsivi es un plato navideño que se prepara con nueces, cilantro y especias. Simboliza la abundancia y la alegría\".",
+          "quote": "Satsivi es un plato navideño que se prepara con nueces, cilantro y especias. Simboliza la abundancia y la alegría.",
           "history": null,
           "ingredientsText": "pollo o pavo – 1 PC. (peso hasta 2 kg) mantequilla – 20 G cebolla – 1 kg cilantro – 4 ramitas nueces peladas – 600 G pimienta negra recién molida – 1 Art. l cilantro molido – 1 Art. l. azafrán Imereti molido – 1 Art. l. brotes de clavo de olor – 3-6 PCs. canela molida – en la punta del cuchillo ajo – 4-8 dientes vinagre de vino blanco – 1 Art. L. sal – al gusto",
           "allergens": []
@@ -425,7 +425,7 @@
         "es": {
           "name": "Khachapuri",
           "description": "Khachapuri es la tarjeta de visita de la cocina georgiana, una tortilla de queso que conquista los corazones con su simplicidad y rico sabor. La masa delgada rellena con queso derretido suluguni o Imereti crea el equilibrio perfecto de crujiente y relleno tierno. Dependiendo de la región, khachapuri puede ser redondo (Imereti), barco (Adjara) o Puff (megrelian). Se sirve caliente para que el queso se extienda como un verdadero alma georgiana.",
-          "quote": "Khachapuri no es solo un pastel de queso, es toda la cultura culinaria de Georgia. No importa en qué región se encuentre, khachapuri siempre encontrará un lugar en su Escritorio\".",
+          "quote": "Khachapuri no es solo un pastel de queso, es toda la cultura culinaria de Georgia. No importa en qué región se encuentre, khachapuri siempre encontrará un lugar en su Escritorio.",
           "history": null,
           "ingredientsText": "Leche de vaca-250 ml; Agua - 250 ml; levadura Fresca - 10 G; Azúcar - 10 G; sal – 5 G; Harina de grado superior - 700 G; Huevos de pollo – 2 piezas; aceite de girasol Refinado – 120 G; queso Suluguni – 300 G; queso Brynza – 300 G; queso Duro-50 G; mantequilla – 100 G;",
           "allergens": [
@@ -466,7 +466,7 @@
       "cuisine": "chechenskaya",
       "course": "выпечка",
       "description": "Хингалаш — уникальное блюдо чеченской кухни — лепешки из крутого пшеничного теста со сладкой тыквой: нежная начинка идеально сочетается с тающей во рту корочкой; принято подавать с топленым маслом. Для достижения мягкой текстуры лепешку испокон веков окунали в горячую воду после приготовления",
-      "quote": "Блюдо столь питательное, что, если гость за столом плохо ест, хозяин может ему заявить: «Вы кушаете так, словно недавно хингалаш съели",
+      "quote": "Блюдо столь питательное, что, если гость за столом плохо ест, хозяин может ему заявить: «Вы кушаете так, словно недавно хингалаш съели»",
       "history": "Издавна в Чечне сеяли не только ячмень, пшеницу, просо, кукурузу, овес, рис, но и многие другие культуры, в том числе и технические (лен, хлопок). Наиболее древними злаковыми на территории республики можно считать ячмень и пшеницу. Для приготовления мучных изделий тесто — буод — готовили как обычное, так и на дрожжах (севсина буод — заквашенное тесто).\n\nС дрожжами, изготовленными из хмеля — хояхар, чеченцы, были знакомы издавна. Тесто для лепешек и пирожков часто закисляется простоквашей, сдобное же тесто готовится с примесью яиц и сахара. Начинкой для большинства лепешек является творог, свежий сыр, пюре, тыква. Неудивительно, что именно вышеперечисленное шло в пищу, ведь Чечня славится успешным разведением бахчевых культур и животноводством.",
       "ingredientsText": "Пшеничное тесто\nСладкая тыква\nТопленое масло",
       "allergens": [
@@ -480,7 +480,7 @@
         "en": {
           "name": "Hingalsh",
           "description": "Khingalash is a unique dish of Chechen cuisine — tortillas made from hard-boiled wheat dough with sweet pumpkin: the delicate filling is perfectly combined with a crust melting in the mouth; it is customary to serve with melted butter. To achieve a soft texture, the tortilla has been dipped in hot water for centuries after cooking",
-          "quote": "The dish is so nutritious that if a guest at the table is not eating well, the host can tell him: \"You are eating as if you have recently eaten khingalash.",
+          "quote": "The dish is so nutritious that if a guest at the table is not eating well, the host can tell him: \"You are eating as if you have recently eaten khingalash.\"",
           "history": "For a long time in Chechnya, not only barley, wheat, millet, corn, oats, rice, but also many other crops, including industrial (flax, cotton). The most ancient cereals in the republic can be considered barley and wheat. For the preparation of flour products, buod dough was prepared both as usual and with yeast (sevsina buod — fermented dough).\n\nChechens have long been familiar with yeast made from hops — khoyakhar. The dough for tortillas and pies is often acidified with sour milk, while the pastry is prepared with an admixture of eggs and sugar. The filling for most tortillas is cottage cheese, fresh cheese, mashed potatoes, pumpkin. It is not surprising that it was the above that was used for food, because Chechnya is famous for the successful cultivation of melons and animal husbandry.",
           "ingredientsText": "Wheat dough\nSweet pumpkin\nGhee",
           "allergens": [
@@ -537,7 +537,7 @@
         "es": {
           "name": "Khinkali",
           "description": "Khinkali no son solo albóndigas georgianas, es un verdadero arte. La masa, delgada y elástica, esconde en su interior un jugoso relleno de carne picada (generalmente carne de res o cerdo), generosamente sazonado con cebolla, ajo y hierbas. El secreto principal es el caldo que permanece dentro del Khinkali, creando una explosión de sabor en el primer bocado. Se comen con las manos, sosteniendo una \"cola\", que tradicionalmente no se come. Khinkali no es solo comida, es un ritual.",
-          "quote": "Khinkali no es solo albóndigas, es una verdadera aventura culinaria. Cada bocado va acompañado de una explosión de jugos y sabores\".",
+          "quote": "Khinkali no es solo albóndigas, es una verdadera aventura culinaria. Cada bocado va acompañado de una explosión de jugos y sabores.",
           "history": null,
           "ingredientsText": "Harina de trigo 500 G Agua 400 ml Sal 1½ cucharaditas Ternera 250 G ternera 250 G Manteca de cerdo 100 G cebolla 100 G Ajo 2 dientes kumin Molido (Zira) al gusto Chile Rojo al gusto Cilantro",
           "allergens": [
@@ -615,7 +615,7 @@
         "es": {
           "name": "Chahokhbili",
           "description": "Chakhokhbili es un plato fragante de pollo estofado que encarna el espíritu de la fiesta georgiana. La carne tierna, languidecida con jugosos tomates, cebollas, ajo y una generosa porción de especias, crea un sabor rico y brillante. Originalmente, este plato estaba hecho de faisán, pero hoy en día el pollo se ha convertido en una alternativa más asequible. Servido con pan georgiano o arroz para absorber toda la deliciosa salsa.",
-          "quote": "Chahokhbili es un plato que une a la familia en la mesa. Su aroma llena la casa de calidez y confort\".",
+          "quote": "Chahokhbili es un plato que une a la familia en la mesa. Su aroma llena la casa de calidez y confort.",
           "history": null,
           "ingredientsText": "Cilantro fresco (cilantro) al gusto cebolla 3 piezas Pollo 800 G Tomates 4 piezas pimiento ½ piezas Ajo 3 dientes Perejil al gusto Sal al gusto Especias Al gusto Chile ½ piezas",
           "allergens": []

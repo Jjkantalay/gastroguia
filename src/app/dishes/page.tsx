@@ -1,10 +1,10 @@
 import type { Metadata } from "next";
-import { DishCard } from "@/components/DishCard";
+import { DishCard, SectionHeading } from "@/components/DishCard";
 import { COURSES } from "@/db/schema";
 import { listCuisines, searchDishes } from "@/lib/dishes";
 import { filtersFromSearchParams } from "@/lib/filters";
 
-export const metadata: Metadata = { title: "Блюда" };
+export const metadata: Metadata = { title: "Все блюда" };
 
 type SearchParams = Promise<Record<string, string | string[] | undefined>>;
 
@@ -26,68 +26,53 @@ export default async function DishesPage({ searchParams }: { searchParams: Searc
   const [items, cuisines] = await Promise.all([searchDishes({ ...filtersResult, limit: 50 }), listCuisines()]);
   const checked = (k: string) => params.get(k) === "true";
 
-  return (
-    <div className="flex flex-col gap-6">
-      <h1 className="font-serif text-3xl font-semibold">Блюда</h1>
+  const field = "border-2 border-ink bg-transparent px-3 py-2.5 outline-none focus:bg-light";
 
-      <form className="grid gap-3 rounded-xl border border-line p-4 sm:grid-cols-2 lg:grid-cols-4">
-        <input
-          name="q"
-          defaultValue={params.get("q") ?? ""}
-          placeholder="Название или описание"
-          className="rounded-lg border border-line bg-transparent px-3 py-2 sm:col-span-2"
-        />
-        <select name="cuisine" defaultValue={params.get("cuisine") ?? ""} className="rounded-lg border border-line bg-transparent px-3 py-2">
-          <option value="">Любая кухня</option>
-          {cuisines.map((c) => (
-            <option key={c.slug} value={c.slug}>{c.name}</option>
-          ))}
+  return (
+    <div className="flex flex-col gap-8">
+      <SectionHeading title="Все блюда" hint={`найдено: ${items.length}`} />
+
+      <form className="frame grid gap-3 p-4 sm:grid-cols-2 lg:grid-cols-4">
+        <input name="q" defaultValue={params.get("q") ?? ""} placeholder="название или описание" className={`${field} sm:col-span-2`} />
+        <select name="cuisine" defaultValue={params.get("cuisine") ?? ""} className={field}>
+          <option value="">любая кухня</option>
+          {cuisines
+            .filter((c) => c.dishCount > 0)
+            .map((c) => (
+              <option key={c.slug} value={c.slug}>{c.name.toLowerCase()}</option>
+            ))}
         </select>
-        <select name="course" defaultValue={params.get("course") ?? ""} className="rounded-lg border border-line bg-transparent px-3 py-2">
-          <option value="">Любой тип</option>
+        <select name="course" defaultValue={params.get("course") ?? ""} className={field}>
+          <option value="">любой тип</option>
           {COURSES.map((c) => (
             <option key={c} value={c}>{c}</option>
           ))}
         </select>
-        <input
-          name="with"
-          defaultValue={params.get("with") ?? ""}
-          placeholder="Есть ингредиент, например нут"
-          className="rounded-lg border border-line bg-transparent px-3 py-2"
-        />
-        <input
-          name="without"
-          defaultValue={params.get("without") ?? ""}
-          placeholder="Без ингредиента"
-          className="rounded-lg border border-line bg-transparent px-3 py-2"
-        />
-        <select name="maxTimeMin" defaultValue={params.get("maxTimeMin") ?? ""} className="rounded-lg border border-line bg-transparent px-3 py-2">
-          <option value="">Любое время</option>
-          <option value="30">до 30 мин</option>
-          <option value="60">до 1 часа</option>
-          <option value="120">до 2 часов</option>
-        </select>
+        <input name="with" defaultValue={params.get("with") ?? ""} placeholder="есть ингредиент: тыква" className={field} />
+        <input name="without" defaultValue={params.get("without") ?? ""} placeholder="без ингредиента" className={field} />
         <div className="flex flex-wrap items-center gap-x-4 gap-y-1 text-sm">
           {[
             ["vegetarian", "вегетарианское"],
-            ["vegan", "веган"],
             ["glutenFree", "без глютена"],
           ].map(([name, label]) => (
             <label key={name} className="flex items-center gap-1.5">
-              <input type="checkbox" name={name} value="true" defaultChecked={checked(name)} />
+              <input type="checkbox" name={name} value="true" defaultChecked={checked(name)} className="accent-ink" />
               {label}
             </label>
           ))}
         </div>
-        <button className="rounded-lg bg-accent px-4 py-2 font-medium text-white lg:col-start-4">Показать</button>
+        <button className="bg-ink px-4 py-2.5 font-bold uppercase text-light hover:bg-moss">Показать</button>
       </form>
 
-      <p className="text-sm text-muted">Найдено: {items.length}</p>
-      <div className="grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
-        {items.map((d) => (
-          <DishCard key={d.slug} dish={d} />
-        ))}
-      </div>
+      {items.length === 0 ? (
+        <p className="t-body">Ничего не нашлось — попробуйте убрать часть фильтров.</p>
+      ) : (
+        <div className="grid gap-6 sm:grid-cols-2 lg:grid-cols-3">
+          {items.map((d) => (
+            <DishCard key={d.slug} dish={d} />
+          ))}
+        </div>
+      )}
     </div>
   );
 }

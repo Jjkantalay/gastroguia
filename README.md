@@ -36,7 +36,7 @@ npm install
 cp .env.example .env          # в Windows: copy .env.example .env
 npm run db:migrate            # создать таблицы
 npm run db:seed               # загрузить content/dishes.json (можно запускать повторно)
-npm run images:download       # скачать фото блюд со старого сайта
+npm run images:download       # скачать фото блюд, логотип, текстуру, иконки и шрифт со старого сайта
 npm run dev                   # открыть http://localhost:3000
 ```
 

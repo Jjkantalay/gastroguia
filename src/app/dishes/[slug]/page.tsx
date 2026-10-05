@@ -2,8 +2,9 @@ import type { Metadata } from "next";
 import Link from "next/link";
 import { notFound } from "next/navigation";
 import { cache } from "react";
-import { DietBadges } from "@/components/DishCard";
-import { DIFFICULTY_LABELS, formatTime, getDish } from "@/lib/dishes";
+import { DishCard } from "@/components/DishCard";
+import { SITE_ASSETS } from "@/lib/assets";
+import { DIFFICULTY_LABELS, formatTime, getDish, searchDishes } from "@/lib/dishes";
 
 type Params = Promise<{ slug: string }>;
 
@@ -20,13 +21,13 @@ export async function generateMetadata({ params }: { params: Params }): Promise<
   };
 }
 
-function Paragraphs({ text, className }: { text: string; className?: string }) {
+// Заголовок раздела как на старом сайте: капс и тонкая серая линия снизу
+function Section({ title, children }: { title: string; children: React.ReactNode }) {
   return (
-    <div className={`flex flex-col gap-3 ${className ?? ""}`}>
-      {text.split(/\n{2,}/).map((p, i) => (
-        <p key={i} className="whitespace-pre-line">{p}</p>
-      ))}
-    </div>
+    <section className="flex flex-col gap-5">
+      <h2 className="t-label rule pb-2">{title}</h2>
+      {children}
+    </section>
   );
 }
 
@@ -34,10 +35,15 @@ export default async function DishPage({ params }: { params: Params }) {
   const dish = await loadDish((await params).slug);
   if (!dish) notFound();
 
-  const hasRecipe = dish.steps.length > 0;
-  const ingredientLines = dish.ingredients.map((i) => [i.name, i.amount].filter(Boolean).join(" — "));
+  const related = (await searchDishes({ cuisine: dish.cuisine?.slug, limit: 4 }))
+    .filter((d) => d.slug !== dish.slug)
+    .slice(0, 3);
+  if (related.length < 3) {
+    const more = await searchDishes({ limit: 10 });
+    for (const d of more) if (related.length < 3 && d.slug !== dish.slug && !related.some((r) => r.slug === d.slug)) related.push(d);
+  }
 
-  // Разметка schema.org для поисковиков: Recipe, если есть шаги, иначе описание блюда
+  const hasRecipe = dish.steps.length > 0;
   const jsonLd = {
     "@context": "https://schema.org",
     "@type": hasRecipe ? "Recipe" : "Article",
@@ -49,116 +55,129 @@ export default async function DishPage({ params }: { params: Params }) {
       ? {
           recipeCuisine: dish.cuisine?.name,
           recipeCategory: dish.course ?? undefined,
-          recipeYield: dish.servings ? `${dish.servings} порц.` : undefined,
           totalTime: dish.cookingTimeMin ? `PT${dish.cookingTimeMin}M` : undefined,
-          recipeIngredient: ingredientLines.length ? ingredientLines : undefined,
+          recipeIngredient: dish.ingredients.map((i) => [i.name, i.amount].filter(Boolean).join(" — ")),
           recipeInstructions: dish.steps.map((text) => ({ "@type": "HowToStep", text })),
-          nutrition: dish.calories ? { "@type": "NutritionInformation", calories: `${dish.calories} ккал` } : undefined,
         }
       : {}),
   };
 
   const facts = [
-    ["Кухня", dish.cuisine?.name],
-    ["Тип", dish.course],
     ["Время", formatTime(dish.cookingTimeMin)],
     ["Сложность", dish.difficulty ? DIFFICULTY_LABELS[dish.difficulty] : null],
     ["Порций", dish.servings],
     ["Калории", dish.calories ? `${dish.calories} ккал` : null],
-    ["Б / Ж / У", dish.protein != null ? `${dish.protein} / ${dish.fat} / ${dish.carbs} г` : null],
   ].filter(([, v]) => v != null);
 
   return (
-    <article className="flex flex-col gap-8">
+    <article className="flex flex-col gap-12 sm:gap-16">
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd).replace(/</g, "\\u003c") }} />
 
-      <div className="grid gap-6 md:grid-cols-[3fr_2fr] md:items-start">
-        <header className="flex flex-col gap-3">
-          <p className="text-sm text-muted">
-            <Link href="/dishes" className="hover:text-accent">Блюда</Link>
+      <div className="flex flex-col gap-8 md:flex-row md:justify-between">
+        <div className="md:w-1/2">
+          {dish.imageUrl ? (
+            // eslint-disable-next-line @next/next/no-img-element
+            <img src={dish.imageUrl} alt={dish.name} className="aspect-[4/3] w-full rounded-[25px] object-cover md:aspect-auto md:h-full md:max-h-[80vh]" />
+          ) : (
+            <div className="aspect-[4/3] w-full rounded-[25px] bg-ink-soft" />
+          )}
+        </div>
+
+        <div className="flex flex-col gap-6 md:w-[46%]">
+          <p className="text-sm">
+            <Link href="/dishes" className="hover:text-accent">// блюда</Link>
             {dish.cuisine && (
               <>
                 {" / "}
-                <Link href={`/dishes?cuisine=${dish.cuisine.slug}`} className="hover:text-accent">{dish.cuisine.name} кухня</Link>
+                <Link href={`/#${dish.cuisine.slug}`} className="hover:text-accent">{dish.cuisine.name.toLowerCase()} кухня</Link>
               </>
             )}
           </p>
-          <h1 className="font-serif text-4xl font-semibold">{dish.name}</h1>
-          {dish.originalName && <p className="text-muted">{dish.originalName}</p>}
-          <p className="text-lg">{dish.description}</p>
-          <DietBadges dish={dish} />
-        </header>
-        {dish.imageUrl && (
-          // Фото переносятся со старого сайта как есть, поэтому обычный img
-          // eslint-disable-next-line @next/next/no-img-element
-          <img src={dish.imageUrl} alt={dish.name} className="aspect-[4/3] w-full rounded-xl border border-line object-cover" />
-        )}
+          <h1 className="t-title">{dish.name}</h1>
+          {dish.cuisine && <p className="t-label rule pb-2">{dish.cuisine.name} кухня</p>}
+          <p className="t-body">{dish.description}</p>
+
+          {dish.quote && (
+            <figure className="flex items-start justify-between gap-4">
+              {/* eslint-disable-next-line @next/next/no-img-element */}
+              <img src={SITE_ASSETS.quote} alt="" className="w-[10%] min-w-8" />
+              <blockquote className="w-[85%] text-lg italic sm:text-2xl">{dish.quote}</blockquote>
+            </figure>
+          )}
+
+          {facts.length > 0 && (
+            <dl className="flex flex-wrap gap-3">
+              {facts.map(([label, value]) => (
+                <div key={label as string} className="border border-ink-soft px-3 py-1.5">
+                  <dt className="inline text-sm">{label}: </dt>
+                  <dd className="inline font-semibold">{value}</dd>
+                </div>
+              ))}
+            </dl>
+          )}
+        </div>
       </div>
 
-      {dish.quote && (
-        <blockquote className="border-l-4 border-accent pl-4 font-serif text-xl italic">«{dish.quote}»</blockquote>
+      <Section title="Ингредиенты">
+        {dish.ingredients.length > 0 ? (
+          <ul className="flex flex-wrap gap-x-6 gap-y-4">
+            {dish.ingredients.map((i) => (
+              <li key={i.name} className="flex">
+                <span className="t-body border border-ink-soft px-2.5 py-1">{i.name}</span>
+                {i.amount && <span className="t-body self-center border-l border-dotted border-ink px-3">{i.amount}</span>}
+              </li>
+            ))}
+          </ul>
+        ) : dish.ingredientsText ? (
+          <p className="t-body whitespace-pre-line md:columns-2 md:gap-12">{dish.ingredientsText}</p>
+        ) : (
+          <p className="t-body">Пока не указаны.</p>
+        )}
+      </Section>
+
+      {dish.allergens.length > 0 && (
+        <Section title="Аллергены">
+          <ul className="flex flex-wrap gap-3">
+            {dish.allergens.map((a) => (
+              <li key={a} className="rounded-[clamp(6px,0.52vw,12px)] border border-ink px-3 pb-1.5 pt-1 text-base sm:text-xl">
+                {a}
+              </li>
+            ))}
+          </ul>
+        </Section>
       )}
 
-      <dl className="grid grid-cols-2 gap-3 sm:grid-cols-4">
-        {facts.map(([label, value]) => (
-          <div key={label as string} className="rounded-lg border border-line p-3">
-            <dt className="text-xs text-muted">{label}</dt>
-            <dd className="font-medium">{value}</dd>
+      {hasRecipe && (
+        <Section title="Приготовление">
+          <ol className="t-body flex flex-col gap-4">
+            {dish.steps.map((step, i) => (
+              <li key={i} className="flex gap-4">
+                <span className="font-bold">// {String(i + 1).padStart(2, "0")}</span>
+                <p>{step}</p>
+              </li>
+            ))}
+          </ol>
+        </Section>
+      )}
+
+      {dish.history && (
+        <Section title="Историческая справка">
+          <div className="t-body flex flex-col gap-4 md:block md:columns-2 md:gap-[6%]">
+            {dish.history.split(/\n{2,}/).map((p, i) => (
+              <p key={i} className="whitespace-pre-line md:mb-4 md:break-inside-avoid-column">{p}</p>
+            ))}
           </div>
-        ))}
-      </dl>
+        </Section>
+      )}
 
-      <div className={hasRecipe ? "grid gap-8 md:grid-cols-[1fr_2fr]" : "grid gap-8 md:grid-cols-2"}>
-        <section className="flex flex-col gap-3">
-          <h2 className="font-serif text-2xl font-semibold">Ингредиенты</h2>
-          {dish.ingredients.length > 0 ? (
-            <ul className="flex flex-col divide-y divide-line">
-              {dish.ingredients.map((i) => (
-                <li key={i.name} className="flex justify-between gap-4 py-2 text-sm">
-                  <span>{i.name}</span>
-                  <span className="text-muted">{i.amount}</span>
-                </li>
-              ))}
-            </ul>
-          ) : dish.ingredientsText ? (
-            <p className="whitespace-pre-line text-sm leading-relaxed">{dish.ingredientsText}</p>
-          ) : (
-            <p className="text-sm text-muted">Пока не указаны.</p>
-          )}
-          {dish.allergens.length > 0 && (
-            <p className="text-sm">
-              <span className="text-muted">Аллергены: </span>
-              {dish.allergens.join(", ").toLowerCase()}
-            </p>
-          )}
-        </section>
-
-        {hasRecipe && (
-          <section>
-            <h2 className="mb-3 font-serif text-2xl font-semibold">Приготовление</h2>
-            <ol className="flex flex-col gap-4">
-              {dish.steps.map((step, i) => (
-                <li key={i} className="flex gap-3">
-                  <span className="flex h-7 w-7 shrink-0 items-center justify-center rounded-full bg-accent-soft text-sm font-semibold text-accent">
-                    {i + 1}
-                  </span>
-                  <p className="pt-0.5">{step}</p>
-                </li>
-              ))}
-            </ol>
-          </section>
-        )}
-
-        {dish.history && (
-          <section className="flex flex-col gap-3">
-            <h2 className="font-serif text-2xl font-semibold">История</h2>
-            <Paragraphs text={dish.history} className="leading-relaxed" />
-          </section>
-        )}
-      </div>
-
-      {dish.tags.length > 0 && (
-        <p className="text-sm text-muted">Теги: {dish.tags.map((t) => t.name).join(", ")}</p>
+      {related.length > 0 && (
+        <Section title="Вам также может понравиться">
+          <div className="grid gap-6 sm:grid-cols-3 sm:gap-[62px]">
+            {related.map((d) => (
+              <DishCard key={d.slug} dish={d} />
+            ))}
+          </div>
+        </Section>
       )}
     </article>
   );
