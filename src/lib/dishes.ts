@@ -1,12 +1,12 @@
 import { and, asc, desc, eq, ilike, lte, or, sql, type SQL } from "drizzle-orm";
 import { z } from "zod";
 import { db } from "@/db";
-import { COURSES, cuisines, dishes, dishIngredients, dishTags, ingredients, tags } from "@/db/schema";
+import { COURSES, cuisines, dishes, dishIngredients, dishTags, dishTranslations, ingredients, tags } from "@/db/schema";
 
 // Один набор фильтров для сайта, REST API и инструментов агента
 export const dishFiltersSchema = z.object({
   q: z.string().trim().max(200).describe("Свободный текстовый запрос: название, описание").optional(),
-  cuisine: z.string().describe("Слаг кухни, например italyanskaya").optional(),
+  cuisine: z.string().describe("Слаг кухни, например gruzinskaya").optional(),
   course: z.enum(COURSES).describe("Тип блюда").optional(),
   vegetarian: z.boolean().optional(),
   vegan: z.boolean().optional(),
@@ -25,13 +25,15 @@ function escapeLike(s: string) {
   return s.replace(/[\\%_]/g, (m) => `\\${m}`);
 }
 
+// Ищем и в структурированном списке, и в тексте ингредиентов (у перенесённых блюд есть только текст)
 function hasIngredient(name: string) {
-  return sql`exists (
+  const pattern = "%" + escapeLike(name) + "%";
+  return sql`(${dishes.ingredientsText} ilike ${pattern} or exists (
     select 1 from ${dishIngredients}
     join ${ingredients} on ${ingredients.id} = ${dishIngredients.ingredientId}
     where ${dishIngredients.dishId} = ${dishes.id}
-      and ${ingredients.name} ilike ${"%" + escapeLike(name) + "%"}
-  )`;
+      and ${ingredients.name} ilike ${pattern}
+  ))`;
 }
 
 export async function searchDishes(input: DishFilters = {}) {
@@ -95,7 +97,7 @@ export async function getDish(slug: string) {
     .limit(1);
   if (!dish) return null;
 
-  const [ingredientRows, tagRows] = await Promise.all([
+  const [ingredientRows, tagRows, translationRows] = await Promise.all([
     db
       .select({ name: ingredients.name, amount: dishIngredients.amount })
       .from(dishIngredients)
@@ -108,11 +110,24 @@ export async function getDish(slug: string) {
       .innerJoin(tags, eq(tags.id, dishTags.tagId))
       .where(eq(dishTags.dishId, dish.dish.id))
       .orderBy(asc(tags.name)),
+    db
+      .select({
+        locale: dishTranslations.locale,
+        name: dishTranslations.name,
+        description: dishTranslations.description,
+        quote: dishTranslations.quote,
+        history: dishTranslations.history,
+        ingredientsText: dishTranslations.ingredientsText,
+        allergens: dishTranslations.allergens,
+      })
+      .from(dishTranslations)
+      .where(eq(dishTranslations.dishId, dish.dish.id))
+      .orderBy(asc(dishTranslations.locale)),
   ]);
 
   // Эмбеддинг и служебные поля наружу не отдаём
   const { embedding: _e, search: _s, id: _id, cuisineId: _c, ...rest } = dish.dish;
-  return { ...rest, cuisine: dish.cuisine, ingredients: ingredientRows, tags: tagRows };
+  return { ...rest, cuisine: dish.cuisine, ingredients: ingredientRows, tags: tagRows, translations: translationRows };
 }
 
 export type DishDetails = NonNullable<Awaited<ReturnType<typeof getDish>>>;

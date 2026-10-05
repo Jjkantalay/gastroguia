@@ -8,8 +8,8 @@ const lora = Lora({ subsets: ["latin", "cyrillic"], variable: "--font-lora" });
 
 export const metadata: Metadata = {
   metadataBase: new URL(process.env.SITE_URL ?? "https://gastroguia.ru"),
-  title: { default: "Гастрогид — блюда и рецепты кухонь мира", template: "%s — Гастрогид" },
-  description: "База блюд кухонь мира: рецепты, ингредиенты, КБЖУ и кулинарный ассистент.",
+  title: { default: "Гастрогид — путеводитель по блюдам Кавказа", template: "%s — Гастрогид" },
+  description: "Истории, ингредиенты и традиции блюд грузинской, армянской, азербайджанской и чеченской кухни.",
 };
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
@@ -29,7 +29,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
         </header>
         <main className="mx-auto max-w-5xl px-4 py-8">{children}</main>
         <footer className="mx-auto max-w-5xl px-4 py-10 text-xs text-muted">
-          © {new Date().getFullYear()} Гастрогид. КБЖУ указаны приблизительно.
+          © {new Date().getFullYear()} Гастрогид
         </footer>
       </body>
     </html>

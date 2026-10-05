@@ -30,12 +30,18 @@ export function DishCard({ dish }: { dish: DishSummary }) {
   return (
     <Link
       href={`/dishes/${dish.slug}`}
-      className="flex flex-col gap-2 rounded-xl border border-line p-4 transition hover:border-accent"
+      className="flex flex-col gap-2 overflow-hidden rounded-xl border border-line transition hover:border-accent"
     >
+      {dish.imageUrl && (
+        // eslint-disable-next-line @next/next/no-img-element
+        <img src={dish.imageUrl} alt="" loading="lazy" className="aspect-[4/3] w-full object-cover" />
+      )}
+      <div className="flex flex-col gap-2 p-4">
       <h3 className="font-serif text-lg font-semibold">{dish.name}</h3>
       <p className="text-xs text-muted">{meta.join(" · ")}</p>
       <p className="line-clamp-3 text-sm">{dish.description}</p>
       <DietBadges dish={dish} />
+      </div>
     </Link>
   );
 }

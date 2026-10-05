@@ -50,7 +50,7 @@ export const dishes = pgTable(
     originalName: text("original_name"),
     description: text("description").notNull(),
     cuisineId: integer("cuisine_id").references(() => cuisines.id),
-    course: text("course").$type<Course>().notNull(),
+    course: text("course").$type<Course>(),
     cookingTimeMin: integer("cooking_time_min"),
     difficulty: integer("difficulty"), // 1 — легко, 2 — средне, 3 — сложно
     servings: integer("servings"),
@@ -64,10 +64,15 @@ export const dishes = pgTable(
     glutenFree: boolean("gluten_free").notNull().default(false),
     spicy: boolean("spicy").notNull().default(false),
     steps: jsonb("steps").$type<string[]>().notNull().default([]),
+    // Ингредиенты свободным текстом, как на старом сайте; структурированный список — в dish_ingredients
+    ingredientsText: text("ingredients_text"),
+    allergens: jsonb("allergens").$type<string[]>().notNull().default([]),
+    quote: text("quote"),
+    history: text("history"),
     imageUrl: text("image_url"),
     // Полнотекстовый поиск по-русски: название весит больше описания
     search: tsvector("search").generatedAlwaysAs(
-      sql`setweight(to_tsvector('russian', coalesce(name, '') || ' ' || coalesce(original_name, '')), 'A') || setweight(to_tsvector('russian', coalesce(description, '')), 'B')`,
+      sql`setweight(to_tsvector('russian', coalesce(name, '') || ' ' || coalesce(original_name, '')), 'A') || setweight(to_tsvector('russian', coalesce(description, '')), 'B') || setweight(to_tsvector('russian', coalesce(ingredients_text, '')), 'C')`,
     ),
     // Семантический поиск для агентов; заполняется отдельным скриптом
     embedding: vector("embedding", { dimensions: EMBEDDING_DIMENSIONS }),
@@ -80,6 +85,27 @@ export const dishes = pgTable(
     index("dishes_cuisine_idx").on(t.cuisineId),
     index("dishes_course_idx").on(t.course),
   ],
+);
+
+export const LOCALES = ["en", "es"] as const;
+export type Locale = (typeof LOCALES)[number];
+
+// Переводы текстов блюда; основной язык (русский) хранится в самой таблице dishes
+export const dishTranslations = pgTable(
+  "dish_translations",
+  {
+    dishId: integer("dish_id")
+      .notNull()
+      .references(() => dishes.id, { onDelete: "cascade" }),
+    locale: text("locale").$type<Locale>().notNull(),
+    name: text("name").notNull(),
+    description: text("description").notNull(),
+    ingredientsText: text("ingredients_text"),
+    allergens: jsonb("allergens").$type<string[]>().notNull().default([]),
+    quote: text("quote"),
+    history: text("history"),
+  },
+  (t) => [primaryKey({ columns: [t.dishId, t.locale] })],
 );
 
 export const ingredients = pgTable("ingredients", {
