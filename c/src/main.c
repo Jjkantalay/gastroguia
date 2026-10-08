@@ -38,12 +38,12 @@ typedef int sock_t;
 #define MAX_PARAMS 32
 
 typedef struct {
-    const char *data_path, *public_dir, *static_dir, *host;
+    const char *content_dir, *public_dir, *static_dir, *host;
     int port;
 } Config;
 
 static Site SITE;
-static Config CFG = {"content/dishes.json", "public", "c/static", "127.0.0.1", 8080};
+static Config CFG = {"content", "public", "c/static", "127.0.0.1", 8080};
 
 /* --- разбор запроса --- */
 
@@ -187,9 +187,9 @@ static void redirect(sock_t s, const Request *r, const char *to) {
     buf_free(&loc);
 }
 
-static void not_found(sock_t s, const Request *r, Lang lang) {
+static void not_found(sock_t s, const Request *r, int lang) {
     Buf b = {0};
-    page_not_found(&b, lang);
+    page_not_found(&b, &SITE, lang);
     respond_buf(s, r, 404, "text/html; charset=utf-8", &b);
     buf_free(&b);
 }
@@ -261,10 +261,16 @@ static int starts(const char *s, const char *prefix, const char **rest) {
 }
 
 static Filter filter_from(const Request *r) {
-    Filter f = {param(r, "q"), param(r, "cuisine"), param(r, "course"), 0, 0, 0};
-    f.no_gluten = param(r, "no_gluten") != NULL;
-    f.no_lactose = param(r, "no_lactose") != NULL;
-    f.no_sugar = param(r, "no_sugar") != NULL;
+    Filter f = {param(r, "q"), param(r, "cuisine"), param(r, "course"), 0};
+    /* ?x=gluten&x=nuts — исключить блюда с этими аллергенами; no_gluten=1 и т. п. — старый вид */
+    for (int i = 0; i < r->nparams; i++)
+        for (int a = 0; a < ALLERGEN_COUNT; a++) {
+            char legacy[32];
+            snprintf(legacy, sizeof legacy, "no_%s", ALLERGEN_CODES[a]);
+            if ((!strcmp(r->params[i].key, "x") && !strcmp(r->params[i].value, ALLERGEN_CODES[a])) ||
+                !strcmp(r->params[i].key, legacy))
+                f.exclude |= 1u << a;
+        }
     return f;
 }
 
@@ -278,7 +284,7 @@ static void handle(sock_t s, const char *raw) {
         respond(s, &r, 405, "text/plain; charset=utf-8", NULL, "Method Not Allowed", 18, NULL);
         return;
     }
-    Lang lang = lang_parse(param(&r, "lang"));
+    int lang = lang_find(param(&r, "lang"));
     const char *rest;
     Buf b = {0};
 
@@ -346,7 +352,7 @@ static void read_and_handle(sock_t c) {
 }
 
 static void usage(const char *prog) {
-    printf("Использование: %s [-p порт] [-H адрес] [-d content/dishes.json] [-r public] [-s c/static]\n", prog);
+    printf("Использование: %s [-p порт] [-H адрес] [-c content] [-r public] [-s c/static]\n", prog);
 }
 
 int main(int argc, char **argv) {
@@ -367,7 +373,7 @@ int main(int argc, char **argv) {
         if (!v) { usage(argv[0]); return 1; }
         if (!strcmp(a, "-p")) CFG.port = atoi(v);
         else if (!strcmp(a, "-H")) CFG.host = v;
-        else if (!strcmp(a, "-d")) CFG.data_path = v;
+        else if (!strcmp(a, "-c")) CFG.content_dir = v;
         else if (!strcmp(a, "-r")) CFG.public_dir = v;
         else if (!strcmp(a, "-s")) CFG.static_dir = v;
         else { usage(argv[0]); return 1; }
@@ -377,7 +383,13 @@ int main(int argc, char **argv) {
         fputs("Неверный порт\n", stderr);
         return 1;
     }
-    if (!site_load(&SITE, CFG.data_path)) return 1;
+    char i18n_path[1024];
+    snprintf(i18n_path, sizeof i18n_path, "%s/i18n.json", CFG.content_dir);
+    if (!i18n_load(i18n_path)) return 1;
+    if (!site_load(&SITE, CFG.content_dir)) {
+        fprintf(stderr, "Не удалось загрузить блюда из папки %s\n", CFG.content_dir);
+        return 1;
+    }
 
     sock_t srv = socket(AF_INET, SOCK_STREAM, 0);
     if (srv == SOCK_INVALID) {
@@ -398,7 +410,7 @@ int main(int argc, char **argv) {
         fprintf(stderr, "Порт %d занят или недоступен. Попробуйте другой: -p 8081\n", CFG.port);
         return 1;
     }
-    printf("Гастрогид: блюд %lu, кухонь %lu\nОткройте http://%s:%d  (остановить — Ctrl+C)\n", (unsigned long)SITE.ndishes, (unsigned long)SITE.ncuisines,
+    printf("Гастрогид: блюд %lu, кухонь %lu, языков %d\nОткройте http://%s:%d  (остановить — Ctrl+C)\n", (unsigned long)SITE.ndishes, (unsigned long)SITE.ncuisines, NLANGS,
            strcmp(CFG.host, "0.0.0.0") ? CFG.host : "localhost", CFG.port);
     fflush(stdout);
 

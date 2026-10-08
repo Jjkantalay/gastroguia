@@ -16,7 +16,7 @@ export const dishFiltersSchema = z.object({
   maxCalories: z.number().int().positive().describe("Максимум калорий на порцию").optional(),
   withIngredients: z.array(z.string()).max(10).describe("Блюдо должно содержать все эти ингредиенты").optional(),
   withoutIngredients: z.array(z.string()).max(10).describe("Блюдо не должно содержать эти ингредиенты").optional(),
-  limit: z.number().int().min(1).max(50).default(20),
+  limit: z.number().int().min(1).max(500).default(20),
   offset: z.number().int().min(0).default(0),
 });
 export type DishFilters = z.input<typeof dishFiltersSchema>;

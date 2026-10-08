@@ -23,7 +23,7 @@ export default async function DishesPage({ searchParams }: { searchParams: Searc
       return {};
     }
   })();
-  const [items, cuisines] = await Promise.all([searchDishes({ ...filtersResult, limit: 50 }), listCuisines()]);
+  const [items, cuisines] = await Promise.all([searchDishes({ ...filtersResult, limit: 500 }), listCuisines()]);
   const checked = (k: string) => params.get(k) === "true";
 
   const field = "border-2 border-ink bg-transparent px-3 py-2.5 outline-none focus:bg-light";

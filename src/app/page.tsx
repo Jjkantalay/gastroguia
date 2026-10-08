@@ -6,7 +6,7 @@ import { listCuisines, searchDishes } from "@/lib/dishes";
 export const dynamic = "force-dynamic";
 
 export default async function HomePage() {
-  const [cuisines, dishes] = await Promise.all([listCuisines(), searchDishes({ limit: 50 })]);
+  const [cuisines, dishes] = await Promise.all([listCuisines(), searchDishes({ limit: 500 })]);
   const withDishes = cuisines
     .filter((c) => c.dishCount > 0)
     .sort((a, b) => b.dishCount - a.dishCount)

@@ -15,3 +15,9 @@ document.addEventListener("DOMContentLoaded", () => {
     }
   });
 });
+
+// Список языков закрывается кликом мимо него
+document.addEventListener("click", (e) => {
+  const langs = document.querySelector("details.langs[open]");
+  if (langs && !langs.contains(e.target)) langs.open = false;
+});

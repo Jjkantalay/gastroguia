@@ -1,5 +1,12 @@
 import type { NextConfig } from "next";
-import content from "./content/dishes.json" with { type: "json" };
+import main from "./content/dishes.json" with { type: "json" };
+import extra from "./content/dishes-extra.json" with { type: "json" };
+
+// Редиректы пустых карточек со старого сайта на каталог не нужны, если блюдо уже появилось
+const added = new Set(extra.dishes.map((d) => d.slug));
+const legacyRedirects = main.redirects.filter(
+  (r) => !(r.destination === "/dishes" && added.has(r.source.replace("/bliuda/", ""))),
+);
 
 // Откуда брать фото, которые ещё не скачаны в public/ (npm run images:download).
 // Нужно только на время переезда, пока старый сайт доступен по другому адресу.
@@ -12,7 +19,7 @@ const nextConfig: NextConfig = {
   async redirects() {
     return [
       // Старые адреса WordPress: переименованные карточки, затем все остальные
-      ...content.redirects.map((r) => ({ ...r, permanent: true })),
+      ...legacyRedirects.map((r) => ({ ...r, permanent: true })),
       { source: "/bliuda/:slug", destination: "/dishes/:slug", permanent: true },
       { source: "/bliuda", destination: "/dishes", permanent: true },
       { source: "/kukhnia/:slug", destination: "/dishes?cuisine=:slug", permanent: true },

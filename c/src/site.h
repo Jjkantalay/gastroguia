@@ -3,24 +3,15 @@
 
 #include <stddef.h>
 
-#include "buf.h"
+#include "i18n.h"
 
-typedef enum { LANG_RU, LANG_EN, LANG_ES, LANG_COUNT } Lang;
-
-#define MAX_ALLERGENS 8
-
-/* Тексты блюда на одном языке */
-typedef struct {
-    const char *name, *description, *quote, *history, *ingredients;
-    const char *allergens[MAX_ALLERGENS];
-    int nallergens;
-} DishText;
+typedef enum { F_NAME, F_DESCRIPTION, F_QUOTE, F_HISTORY, F_INGREDIENTS, F_COUNT } Field;
 
 typedef struct {
     const char *slug, *cuisine, *course, *image;
-    DishText text[LANG_COUNT];
-    int has[LANG_COUNT];
-    char *haystack; /* все тексты в нижнем регистре, для поиска */
+    unsigned allergens;                       /* биты по ALLERGEN_CODES */
+    const char *text[MAX_LANGS][F_COUNT];     /* тексты по языкам; NULL — нет перевода */
+    char *haystack;                           /* все тексты в нижнем регистре, для поиска */
 } Dish;
 
 typedef struct {
@@ -34,26 +25,26 @@ typedef struct {
 
 typedef struct {
     Dish *dishes;
-    size_t ndishes;
+    size_t ndishes, cap;
     Cuisine *cuisines;
     size_t ncuisines;
     Redirect *redirects;
     size_t nredirects;
 } Site;
 
-int site_load(Site *site, const char *path);
+/* Читает dishes.json (перенос с WordPress) и dishes-extra.json (новые блюда и названия на других языках) */
+int site_load(Site *site, const char *content_dir);
 const Dish *site_dish(const Site *site, const char *slug);
 const Cuisine *site_cuisine(const Site *site, const char *slug);
-/* Тексты на нужном языке; если перевода нет — русские */
-const DishText *dish_text(const Dish *d, Lang lang);
 
-/* Нижний регистр для латиницы, кириллицы и испанских букв; «ё» → «е». Результат освобождает вызывающий */
+/* Поле на нужном языке; если перевода нет — английское, затем русское. В *from — язык, откуда взято */
+const char *dish_get(const Dish *d, int lang, Field field, int *from);
+
 char *utf8_fold(const char *s);
 
-/* Фильтры каталога */
 typedef struct {
     const char *q, *cuisine, *course;
-    int no_gluten, no_lactose, no_sugar;
+    unsigned exclude; /* аллергены, которых не должно быть */
 } Filter;
 
 int dish_matches(const Dish *d, const Filter *f, const char *folded_q);

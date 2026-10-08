@@ -4,33 +4,103 @@
 #include <stdlib.h>
 #include <string.h>
 
+#include "buf.h"
 #include "json.h"
 
-static char *read_file(const char *path) {
+static const char *const FIELD_KEYS[F_COUNT] = {"name", "description", "quote", "history", "ingredientsText"};
+
+static JVal *load_json(const char *path, int required) {
     FILE *f = fopen(path, "rb");
-    if (!f) return NULL;
+    if (!f) {
+        if (required) fprintf(stderr, "Не удалось открыть %s\n", path);
+        return NULL;
+    }
     Buf b = {0};
     char chunk[65536];
     size_t n;
     while ((n = fread(chunk, 1, sizeof chunk, f)) > 0) buf_put(&b, chunk, n);
     fclose(f);
-    if (!b.p) buf_puts(&b, "");
-    return b.p;
+    char err[200];
+    JVal *root = json_parse(b.p ? b.p : "", err, sizeof err);
+    buf_free(&b);
+    if (!root) fprintf(stderr, "Ошибка в %s: %s\n", path, err);
+    return root;
 }
 
-static void load_text(DishText *t, const JVal *o) {
-    t->name = json_str(o, "name");
-    t->description = json_str(o, "description");
-    t->quote = json_str(o, "quote");
-    t->history = json_str(o, "history");
-    t->ingredients = json_str(o, "ingredientsText");
-    const JVal *a = json_get(o, "allergens");
-    if (a && a->type == J_ARR)
-        for (size_t i = 0; i < a->len && t->nallergens < MAX_ALLERGENS; i++)
-            if (a->items[i].type == J_STR) t->allergens[t->nallergens++] = a->items[i].s;
+static void set_texts(Dish *d, int lang, const JVal *o) {
+    for (int f = 0; f < F_COUNT; f++) {
+        const char *v = json_str(o, FIELD_KEYS[f]);
+        if (v && *v) d->text[lang][f] = v;
+    }
 }
 
-static const char *LANG_KEYS[LANG_COUNT] = {"ru", "en", "es"};
+/* Старые блюда хранят аллергены словами по-русски — переводим в коды */
+static unsigned allergens_from_words(const JVal *arr) {
+    static const char *const STEMS[ALLERGEN_COUNT] = {"глютен", "лактоз", "яйц", "орех", "сахар", "кунжут", "рыб"};
+    unsigned bits = 0;
+    if (!arr || arr->type != J_ARR) return 0;
+    for (size_t i = 0; i < arr->len; i++) {
+        if (arr->items[i].type != J_STR) continue;
+        char *f = utf8_fold(arr->items[i].s);
+        for (int a = 0; a < ALLERGEN_COUNT; a++)
+            if (strstr(f, STEMS[a])) bits |= 1u << a;
+        free(f);
+    }
+    return bits;
+}
+
+static unsigned allergens_from_codes(const JVal *arr) {
+    unsigned bits = 0;
+    if (!arr || arr->type != J_ARR) return 0;
+    for (size_t i = 0; i < arr->len; i++)
+        for (int a = 0; a < ALLERGEN_COUNT; a++)
+            if (arr->items[i].type == J_STR && !strcmp(arr->items[i].s, ALLERGEN_CODES[a])) bits |= 1u << a;
+    return bits;
+}
+
+static void add_dishes(Site *site, const JVal *list) {
+    if (!list || list->type != J_ARR) return;
+    for (size_t i = 0; i < list->len; i++) {
+        const JVal *o = &list->items[i];
+        const char *slug = json_str(o, "slug");
+        if (!slug || !json_str(o, "name") || site_dish(site, slug)) continue;
+        if (site->ndishes == site->cap) {
+            site->cap = site->cap ? site->cap * 2 : 64;
+            site->dishes = realloc(site->dishes, site->cap * sizeof *site->dishes);
+            if (!site->dishes) { fputs("Не хватает памяти\n", stderr); exit(1); }
+        }
+        Dish *d = &site->dishes[site->ndishes++];
+        memset(d, 0, sizeof *d);
+        d->slug = slug;
+        d->cuisine = json_str(o, "cuisine");
+        d->course = json_str(o, "course");
+        d->image = json_str(o, "image");
+        const JVal *codes = json_get(o, "allergenCodes");
+        d->allergens = codes ? allergens_from_codes(codes) : allergens_from_words(json_get(o, "allergens"));
+        set_texts(d, LANG_RU, o);
+        const JVal *tr = json_get(o, "translations");
+        if (tr && tr->type == J_OBJ)
+            for (size_t k = 0; k < tr->len; k++) {
+                int lang = lang_find(tr->keys[k]);
+                if (lang != LANG_RU || !strcmp(tr->keys[k], "ru")) set_texts(d, lang, &tr->items[k]);
+            }
+    }
+}
+
+/* Названия блюд на языках, для которых нет полных текстов */
+static void add_names(Site *site, const JVal *names) {
+    if (!names || names->type != J_OBJ) return;
+    for (size_t i = 0; i < names->len; i++) {
+        Dish *d = (Dish *)site_dish(site, names->keys[i]);
+        const JVal *m = &names->items[i];
+        if (!d || m->type != J_OBJ) continue;
+        for (size_t k = 0; k < m->len; k++) {
+            int lang = lang_find(m->keys[k]);
+            if (lang == LANG_RU && strcmp(m->keys[k], "ru")) continue;
+            if (m->items[k].type == J_STR && *m->items[k].s && !d->text[lang][F_NAME]) d->text[lang][F_NAME] = m->items[k].s;
+        }
+    }
+}
 
 static void append_folded(Buf *b, const char *s) {
     if (!s) return;
@@ -40,21 +110,15 @@ static void append_folded(Buf *b, const char *s) {
     free(f);
 }
 
-int site_load(Site *site, const char *path) {
-    char *text = read_file(path);
-    if (!text) {
-        fprintf(stderr, "Не удалось открыть %s\n", path);
-        return 0;
-    }
-    char err[200];
-    JVal *root = json_parse(text, err, sizeof err);
-    free(text);
-    if (!root) {
-        fprintf(stderr, "Ошибка в %s: %s\n", path, err);
-        return 0;
-    }
+int site_load(Site *site, const char *dir) {
+    char path[1024];
+    snprintf(path, sizeof path, "%s/dishes.json", dir);
+    JVal *main = load_json(path, 1);
+    if (!main) return 0;
+    snprintf(path, sizeof path, "%s/dishes-extra.json", dir);
+    JVal *extra = load_json(path, 0);
 
-    const JVal *cs = json_get(root, "cuisines");
+    const JVal *cs = json_get(main, "cuisines");
     if (cs && cs->type == J_ARR) {
         site->cuisines = calloc(cs->len ? cs->len : 1, sizeof *site->cuisines);
         for (size_t i = 0; i < cs->len; i++) {
@@ -62,55 +126,63 @@ int site_load(Site *site, const char *path) {
             if (slug && name) site->cuisines[site->ncuisines++] = (Cuisine){slug, name, 0};
         }
     }
-
-    const JVal *ds = json_get(root, "dishes");
-    if (!ds || ds->type != J_ARR) {
-        fprintf(stderr, "В %s нет списка dishes\n", path);
-        return 0;
-    }
-    site->dishes = calloc(ds->len ? ds->len : 1, sizeof *site->dishes);
-    for (size_t i = 0; i < ds->len; i++) {
-        const JVal *o = &ds->items[i];
-        Dish *d = &site->dishes[site->ndishes];
-        d->slug = json_str(o, "slug");
-        if (!d->slug || !json_str(o, "name")) continue;
-        d->cuisine = json_str(o, "cuisine");
-        d->course = json_str(o, "course");
-        d->image = json_str(o, "image");
-        load_text(&d->text[LANG_RU], o);
-        d->has[LANG_RU] = 1;
-        const JVal *tr = json_get(o, "translations");
-        for (int l = 1; l < LANG_COUNT; l++) {
-            const JVal *t = json_get(tr, LANG_KEYS[l]);
-            if (t && t->type == J_OBJ && json_str(t, "name")) {
-                load_text(&d->text[l], t);
-                d->has[l] = 1;
+    add_dishes(site, json_get(main, "dishes"));
+    if (extra) {
+        add_dishes(site, json_get(extra, "dishes"));
+        add_names(site, json_get(extra, "names"));
+        /* Тексты, дописанные для старых блюд: заполняют только пустые поля */
+        const JVal *sup = json_get(extra, "supplements");
+        if (sup && sup->type == J_OBJ)
+            for (size_t i = 0; i < sup->len; i++) {
+                Dish *d = (Dish *)site_dish(site, sup->keys[i]);
+                const JVal *m = &sup->items[i];
+                if (!d || m->type != J_OBJ) continue;
+                for (size_t k = 0; k < m->len; k++) {
+                    int lang = lang_find(m->keys[k]);
+                    for (int f = 0; f < F_COUNT; f++) {
+                        const char *v = json_str(&m->items[k], FIELD_KEYS[f]);
+                        if (v && *v && !d->text[lang][f]) d->text[lang][f] = v;
+                    }
+                }
             }
-        }
-        Buf h = {0};
-        for (int l = 0; l < LANG_COUNT; l++) {
-            if (!d->has[l]) continue;
-            append_folded(&h, d->text[l].name);
-            append_folded(&h, d->text[l].description);
-            append_folded(&h, d->text[l].ingredients);
-        }
-        const Cuisine *c = site_cuisine(site, d->cuisine);
-        if (c) append_folded(&h, c->name);
-        d->haystack = h.p ? h.p : calloc(1, 1);
-        if (c) ((Cuisine *)c)->count++;
-        site->ndishes++;
+        /* Аллергены, дописанные вручную для старых блюд */
+        const JVal *al = json_get(extra, "allergens");
+        if (al && al->type == J_OBJ)
+            for (size_t i = 0; i < al->len; i++) {
+                Dish *d = (Dish *)site_dish(site, al->keys[i]);
+                if (d && !d->allergens) d->allergens = allergens_from_codes(&al->items[i]);
+            }
     }
 
-    const JVal *rs = json_get(root, "redirects");
+    for (size_t i = 0; i < site->ndishes; i++) {
+        Dish *d = &site->dishes[i];
+        Buf h = {0};
+        for (int l = 0; l < NLANGS; l++) {
+            append_folded(&h, d->text[l][F_NAME]);
+            append_folded(&h, d->text[l][F_DESCRIPTION]);
+            append_folded(&h, d->text[l][F_INGREDIENTS]);
+        }
+        Cuisine *c = (Cuisine *)site_cuisine(site, d->cuisine);
+        if (c) {
+            append_folded(&h, c->name);
+            c->count++;
+        }
+        d->haystack = h.p ? h.p : calloc(1, 1);
+    }
+
+    /* Редиректы старых пустых карточек на каталог больше не нужны, если блюдо появилось */
+    const JVal *rs = json_get(main, "redirects");
     if (rs && rs->type == J_ARR) {
         site->redirects = calloc(rs->len ? rs->len : 1, sizeof *site->redirects);
         for (size_t i = 0; i < rs->len; i++) {
             const char *src = json_str(&rs->items[i], "source"), *dst = json_str(&rs->items[i], "destination");
-            if (src && dst) site->redirects[site->nredirects++] = (Redirect){src, dst};
+            if (!src || !dst) continue;
+            if (!strncmp(src, "/bliuda/", 8) && !strcmp(dst, "/dishes") && site_dish(site, src + 8)) continue;
+            site->redirects[site->nredirects++] = (Redirect){src, dst};
         }
     }
-    /* Дерево JSON живёт до конца работы: строки блюд указывают прямо в него */
-    return 1;
+    /* Деревья JSON живут до конца работы: строки блюд указывают прямо в них */
+    return site->ndishes > 0;
 }
 
 const Dish *site_dish(const Site *site, const char *slug) {
@@ -126,8 +198,15 @@ const Cuisine *site_cuisine(const Site *site, const char *slug) {
     return NULL;
 }
 
-const DishText *dish_text(const Dish *d, Lang lang) {
-    return d->has[lang] ? &d->text[lang] : &d->text[LANG_RU];
+const char *dish_get(const Dish *d, int lang, Field field, int *from) {
+    int order[3] = {lang, LANG_EN, LANG_RU};
+    for (int i = 0; i < 3; i++)
+        if (d->text[order[i]][field]) {
+            if (from) *from = order[i];
+            return d->text[order[i]][field];
+        }
+    if (from) *from = lang;
+    return NULL;
 }
 
 /* --- UTF-8 --- */
@@ -171,23 +250,16 @@ char *utf8_fold(const char *s) {
         unsigned cp = decode(&p);
         if (cp >= 'A' && cp <= 'Z') cp += 32;
         else if (cp >= 0x410 && cp <= 0x42F) cp += 0x20;              /* А–Я */
-        else if (cp >= 0x400 && cp <= 0x40F) cp += 0x50;              /* Ѐ–Џ */
+        else if (cp >= 0x400 && cp <= 0x40F) cp += 0x50;              /* Ѐ–Џ, в том числе Ё и Є, І, Ї */
         else if (cp >= 0xC0 && cp <= 0xDE && cp != 0xD7) cp += 0x20; /* À–Þ */
+        else if (cp == 0x130) cp = 'i';                               /* турецкая İ */
+        else if (cp >= 0x531 && cp <= 0x556) cp += 0x30;              /* армянские заглавные */
+        else if (cp == 0x18F) cp = 0x259;                             /* азербайджанская Ə */
         if (cp == 0x451) cp = 0x435;                                  /* ё → е */
         encode(&b, cp);
     }
     if (!b.p) buf_puts(&b, "");
     return b.p;
-}
-
-static int has_allergen(const Dish *d, const char *needle) {
-    for (int i = 0; i < d->text[LANG_RU].nallergens; i++) {
-        char *f = utf8_fold(d->text[LANG_RU].allergens[i]);
-        int hit = strstr(f, needle) != NULL;
-        free(f);
-        if (hit) return 1;
-    }
-    return 0;
 }
 
 /* Грубое отсечение окончания: «тыква» → «тыкв», «супы» → «суп», чтобы находить и «тыквой» */
@@ -197,7 +269,7 @@ static size_t stem_len(const char *w, size_t len) {
         int cut = 0;
         for (int i = 0; ENDINGS[i]; i++) {
             size_t el = strlen(ENDINGS[i]);
-            /* Корень оставляем не короче трёх букв (кириллица — по 2 байта) */
+            /* Корень оставляем не короче трёх кириллических букв */
             if (len >= el + 6 && !memcmp(w + len - el, ENDINGS[i], el)) {
                 len -= el;
                 cut = 1;
@@ -234,10 +306,6 @@ int dish_matches(const Dish *d, const Filter *f, const char *folded_q) {
     if (f->cuisine && *f->cuisine && (!d->cuisine || strcmp(d->cuisine, f->cuisine))) return 0;
     if (f->course && *f->course && (!d->course || strcmp(d->course, f->course))) return 0;
     if (folded_q && *folded_q && !matches_query(d->haystack, folded_q)) return 0;
-    /* «Без …» — только если аллергены у блюда указаны и нужного среди них нет */
-    int known = d->text[LANG_RU].nallergens > 0;
-    if (f->no_gluten && (!known || has_allergen(d, "глютен"))) return 0;
-    if (f->no_lactose && (!known || has_allergen(d, "лактоз"))) return 0;
-    if (f->no_sugar && (!known || has_allergen(d, "сахар"))) return 0;
+    if (d->allergens & f->exclude) return 0;
     return 1;
 }

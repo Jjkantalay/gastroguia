@@ -1,0 +1,4833 @@
+{
+ "note": "Блюда, добавленные после переноса с WordPress. Тексты на русском и английском требуют редакторской проверки.",
+ "dishes": [
+  {
+   "slug": "abysta",
+   "cuisine": "abhazskaya",
+   "course": "гарнир",
+   "allergenCodes": [],
+   "name": "Абыста",
+   "description": "Густая кукурузная каша без соли, которую подают вместо хлеба с сыром и мясом.",
+   "history": "Абысту варят в котле и раскладывают деревянной лопаткой. В неё часто кладут кусочки сыра.",
+   "ingredientsText": "Кукурузная крупа, вода",
+   "quote": null,
+   "image": null,
+   "translations": {
+    "en": {
+     "name": "Abysta",
+     "description": "A thick unsalted cornmeal porridge served instead of bread with cheese and meat.",
+     "history": "Abysta is cooked in a cauldron and served with a wooden paddle, often with pieces of cheese pressed into it.",
+     "ingredientsText": "Cornmeal, water"
+    }
+   }
+  },
+  {
+   "slug": "achapa",
+   "cuisine": "abhazskaya",
+   "course": "закуска",
+   "allergenCodes": [
+    "nuts"
+   ],
+   "name": "Ачапа",
+   "description": "Отварная фасоль или зелень, заправленная ореховой пастой с аджикой и зеленью.",
+   "history": "Ачапа — абхазский родственник грузинского пхали. Её часто готовят из стручковой фасоли и свёклы.",
+   "ingredientsText": "Стручковая фасоль или свекольная ботва, грецкие орехи, аджика, кинза",
+   "quote": null,
+   "image": null,
+   "translations": {
+    "en": {
+     "name": "Achapa",
+     "description": "Boiled beans or greens dressed with walnut paste, adjika and herbs.",
+     "history": "Achapa is the Abkhaz cousin of Georgian pkhali, often made with green beans and beetroot.",
+     "ingredientsText": "Green beans or beet greens, walnuts, adjika, coriander"
+    }
+   }
+  },
+  {
+   "slug": "achash",
+   "cuisine": "abhazskaya",
+   "course": "выпечка",
+   "allergenCodes": [
+    "gluten",
+    "lactose"
+   ],
+   "name": "Ачаш",
+   "description": "Лепёшки из кукурузной или пшеничной муки с начинкой из молодого сыра, обжаренные в масле.",
+   "history": "Ачаш готовят в абхазских деревнях на завтрак, используя свежий домашний сыр.",
+   "ingredientsText": "Кукурузная или пшеничная мука, молодой сыр, сливочное масло",
+   "quote": null,
+   "image": null,
+   "translations": {
+    "en": {
+     "name": "Achash",
+     "description": "Flatbreads of corn or wheat flour filled with young cheese and fried in butter.",
+     "history": "Achash is made for breakfast in Abkhaz villages with fresh homemade cheese.",
+     "ingredientsText": "Corn or wheat flour, young cheese, butter"
+    }
+   }
+  },
+  {
+   "slug": "achma",
+   "cuisine": "gruzinskaya",
+   "course": "выпечка",
+   "allergenCodes": [
+    "gluten",
+    "lactose",
+    "eggs"
+   ],
+   "name": "Ачма",
+   "description": "Слоёный сырный пирог: тонкие листы отваренного теста перекладывают сыром и сливочным маслом и запекают. По вкусу и устройству напоминает лазанью.",
+   "history": "Блюдо Аджарии и Абхазии. Отваривание листов теста делает пирог нежным внутри и хрустящим сверху.",
+   "ingredientsText": "Пшеничная мука, яйца, сулугуни, имеретинский сыр, сливочное масло",
+   "quote": null,
+   "image": null,
+   "translations": {
+    "en": {
+     "name": "Achma",
+     "description": "A layered cheese pie: thin sheets of boiled dough are stacked with cheese and butter and baked. In taste and structure it resembles lasagna.",
+     "history": "A dish from Adjara and Abkhazia. Boiling the dough sheets makes the pie tender inside and crisp on top.",
+     "ingredientsText": "Wheat flour, eggs, sulguni, Imeretian cheese, butter"
+    }
+   }
+  },
+  {
+   "slug": "adygeyskiy-syr",
+   "cuisine": "cherkesskaya",
+   "course": "закуска",
+   "allergenCodes": [
+    "lactose"
+   ],
+   "name": "Адыгейский сыр",
+   "description": "Мягкий несолёный сыр из пастеризованного молока с нежной текстурой. Его едят свежим, жарят и копчёным.",
+   "history": "Адыгейский сыр сворачивают сывороткой, а не сычугом. Его форма зависит от плетёной корзинки.",
+   "ingredientsText": "Коровье молоко, кислая сыворотка, соль",
+   "quote": null,
+   "image": null,
+   "translations": {
+    "en": {
+     "name": "Adyghe cheese",
+     "description": "A soft, mild cheese from pasteurised milk with a delicate texture, eaten fresh, fried or smoked.",
+     "history": "Adyghe cheese is set with whey rather than rennet; its shape comes from the woven basket it drains in.",
+     "ingredientsText": "Cow's milk, sour whey, salt"
+    }
+   }
+  },
+  {
+   "slug": "adzhapsandali",
+   "cuisine": "gruzinskaya",
+   "course": "основное",
+   "allergenCodes": [],
+   "name": "Аджапсандали",
+   "description": "Овощное рагу из баклажанов, сладкого перца, помидоров и лука с большим количеством зелени и чеснока. Подают горячим или холодным.",
+   "history": "Похожие овощные рагу есть по всему Кавказу. В Грузии аджапсандали особенно любят летом, когда овощи самые спелые.",
+   "ingredientsText": "Баклажаны, сладкий перец, помидоры, репчатый лук, чеснок, кинза, базилик, растительное масло",
+   "quote": null,
+   "image": null,
+   "translations": {
+    "en": {
+     "name": "Ajapsandali",
+     "description": "A vegetable stew of aubergine, sweet pepper, tomatoes and onion with plenty of herbs and garlic. Served hot or cold.",
+     "history": "Similar vegetable stews are found across the Caucasus. In Georgia ajapsandali is especially loved in summer when vegetables are ripest.",
+     "ingredientsText": "Aubergine, sweet pepper, tomatoes, onion, garlic, coriander, basil, vegetable oil"
+    }
+   }
+  },
+  {
+   "slug": "adzhika",
+   "cuisine": "abhazskaya",
+   "course": "соус",
+   "allergenCodes": [],
+   "name": "Аджика",
+   "description": "Острая паста из красного перца, чеснока, кориандра и соли, перетёртая на камне. Даже ложка добавляет блюду жар.",
+   "history": "Слово «аджика» по-абхазски означает «соль». Раньше перец перетирали с солью, чтобы она дольше хранилась.",
+   "ingredientsText": "Острый красный перец, чеснок, кориандр, уцхо-сунели, соль",
+   "quote": null,
+   "image": null,
+   "translations": {
+    "en": {
+     "name": "Adjika",
+     "description": "A hot paste of red pepper, garlic, coriander and salt ground on a stone. Even a spoonful adds heat to a dish.",
+     "history": "Adjika means \"salt\" in Abkhaz; peppers were once ground with salt so it would keep longer.",
+     "ingredientsText": "Hot red pepper, garlic, coriander, blue fenugreek, salt"
+    }
+   }
+  },
+  {
+   "slug": "afarar",
+   "cuisine": "lezginskaya",
+   "course": "выпечка",
+   "allergenCodes": [
+    "gluten"
+   ],
+   "name": "Афарар",
+   "description": "Тонкие лепёшки с начинкой из дикой зелени — крапивы, щавеля, лебеды — с луком.",
+   "history": "Афарар печут весной, когда в горах появляется первая зелень.",
+   "ingredientsText": "Пшеничная мука, вода, крапива, щавель, зелёный лук, сливочное масло",
+   "quote": null,
+   "image": null,
+   "translations": {
+    "en": {
+     "name": "Afarar",
+     "description": "Thin flatbreads filled with wild greens — nettle, sorrel, orache — and onion.",
+     "history": "Afarar are baked in spring when the first greens appear in the mountains.",
+     "ingredientsText": "Wheat flour, water, nettle, sorrel, spring onion, butter"
+    }
+   }
+  },
+  {
+   "slug": "akhar-khudar",
+   "cuisine": "chechenskaya",
+   "course": "гарнир",
+   "allergenCodes": [
+    "lactose"
+   ],
+   "name": "Ахьар-худар",
+   "description": "Кукурузная каша на молоке со сливочным маслом. Простое блюдо на завтрак.",
+   "history": "Кукуруза стала одной из главных культур Чечни, и каши из неё едят ежедневно.",
+   "ingredientsText": "Кукурузная крупа, молоко, сливочное масло, соль",
+   "quote": null,
+   "image": null,
+   "translations": {
+    "en": {
+     "name": "Akhar khudar",
+     "description": "A cornmeal porridge cooked with milk and finished with butter. A simple breakfast dish.",
+     "history": "Maize became one of Chechnya's main crops, and porridges made from it are eaten daily.",
+     "ingredientsText": "Cornmeal, milk, butter, salt"
+    }
+   }
+  },
+  {
+   "slug": "akuarchal",
+   "cuisine": "abhazskaya",
+   "course": "выпечка",
+   "allergenCodes": [],
+   "name": "Акуарчал",
+   "description": "Маленькие кукурузные лепёшки, которые пекут на раскалённой сковороде или в золе.",
+   "history": "Акуарчал — традиционный хлеб абхазов, его подают к супам и соусам.",
+   "ingredientsText": "Кукурузная мука, вода, соль",
+   "quote": null,
+   "image": null,
+   "translations": {
+    "en": {
+     "name": "Akuarchal",
+     "description": "Small cornmeal cakes baked on a hot pan or in embers.",
+     "history": "Akuarchal is the traditional bread of the Abkhaz, served with soups and sauces.",
+     "ingredientsText": "Cornmeal, water, salt"
+    }
+   }
+  },
+  {
+   "slug": "alani",
+   "cuisine": "armyanskaya",
+   "course": "десерт",
+   "allergenCodes": [
+    "nuts"
+   ],
+   "name": "Алани",
+   "description": "Сушёные персики, начинённые толчёными грецкими орехами с сахаром и корицей. Натуральное лакомство без выпечки.",
+   "history": "Персики сушат на солнце целиком, удаляя косточку. Такие сладости готовят в Араратской долине.",
+   "ingredientsText": "Сушёные персики, грецкие орехи, сахар, корица",
+   "quote": null,
+   "image": null,
+   "translations": {
+    "en": {
+     "name": "Alani",
+     "description": "Dried peaches stuffed with crushed walnuts mixed with sugar and cinnamon. A natural, no-bake treat.",
+     "history": "The peaches are sun-dried whole after removing the stone. Such sweets are made in the Ararat Valley.",
+     "ingredientsText": "Dried peaches, walnuts, sugar, cinnamon"
+    }
+   }
+  },
+  {
+   "slug": "arganak",
+   "cuisine": "armyanskaya",
+   "course": "суп",
+   "allergenCodes": [
+    "eggs"
+   ],
+   "name": "Арганак",
+   "description": "Прозрачный куриный бульон с маленькими фрикадельками из курицы и зеленью. Лёгкий праздничный суп.",
+   "history": "Арганак варили на свадьбы и праздники в Араратской долине. Бульон томят долго, чтобы он стал прозрачным.",
+   "ingredientsText": "Курица, рис, яйцо, репчатый лук, кинза, соль",
+   "quote": null,
+   "image": null,
+   "translations": {
+    "en": {
+     "name": "Arganak",
+     "description": "A clear chicken broth with small chicken meatballs and herbs. A light festive soup.",
+     "history": "Arganak was cooked for weddings and holidays in the Ararat Valley. The broth is simmered long to make it clear.",
+     "ingredientsText": "Chicken, rice, egg, onion, coriander, salt"
+    }
+   }
+  },
+  {
+   "slug": "arishta",
+   "cuisine": "armyanskaya",
+   "course": "гарнир",
+   "allergenCodes": [
+    "gluten",
+    "eggs"
+   ],
+   "name": "Аришта",
+   "description": "Домашняя яичная лапша, которую обжаривают в масле и подают с мацуном и чесноком.",
+   "history": "Аришту заготавливали впрок: лапшу сушили и хранили всю зиму. Её готовят в Армении и Арцахе.",
+   "ingredientsText": "Пшеничная мука, яйца, сливочное масло, мацун, чеснок",
+   "quote": null,
+   "image": null,
+   "translations": {
+    "en": {
+     "name": "Arishta",
+     "description": "Homemade egg noodles fried in butter and served with garlic yogurt.",
+     "history": "Arishta was made in advance: the noodles were dried and kept all winter. It is cooked in Armenia and Artsakh.",
+     "ingredientsText": "Wheat flour, eggs, butter, matsun yogurt, garlic"
+    }
+   }
+  },
+  {
+   "slug": "avarskiy-hinkal",
+   "cuisine": "avarskaya",
+   "course": "основное",
+   "allergenCodes": [
+    "gluten"
+   ],
+   "name": "Аварский хинкал",
+   "description": "Крупные куски отварного теста с мясом, бульоном и чесночным соусом. Не путать с грузинскими хинкали.",
+   "history": "Хинкал — главное блюдо Дагестана. У аварцев тесто пышное, его режут ромбами и варят в бульоне.",
+   "ingredientsText": "Пшеничная мука, кефир, сода, баранина или говядина, чеснок, томатный соус",
+   "quote": null,
+   "image": null,
+   "translations": {
+    "en": {
+     "name": "Avar khinkal",
+     "description": "Large pieces of boiled dough served with meat, broth and garlic sauce — not to be confused with Georgian khinkali.",
+     "history": "Khinkal is the main dish of Dagestan; the Avar version has fluffy dough cut into diamonds and cooked in broth.",
+     "ingredientsText": "Wheat flour, kefir, baking soda, lamb or beef, garlic, tomato sauce"
+    }
+   }
+  },
+  {
+   "slug": "ayran",
+   "cuisine": "azerbajdzhanskaya",
+   "course": "напиток",
+   "allergenCodes": [
+    "lactose"
+   ],
+   "name": "Айран",
+   "description": "Освежающий напиток из йогурта, разбавленного холодной водой, с солью и иногда с мятой.",
+   "history": "Айран пьют по всему Кавказу и в Турции. Особенно хорош он к жирному мясу и кебабам.",
+   "ingredientsText": "Йогурт, холодная вода, соль, мята",
+   "quote": null,
+   "image": null,
+   "translations": {
+    "en": {
+     "name": "Ayran",
+     "description": "A refreshing drink of yogurt diluted with cold water, with salt and sometimes mint.",
+     "history": "Ayran is drunk throughout the Caucasus and Turkey, and goes especially well with rich meat and kebabs.",
+     "ingredientsText": "Yogurt, cold water, salt, mint"
+    }
+   }
+  },
+  {
+   "slug": "badambura",
+   "cuisine": "azerbajdzhanskaya",
+   "course": "десерт",
+   "allergenCodes": [
+    "gluten",
+    "lactose",
+    "eggs",
+    "nuts",
+    "sugar"
+   ],
+   "name": "Бадамбура",
+   "description": "Рулетики из тонкого слоёного теста с начинкой из миндаля и сахара, посыпанные сахарной пудрой.",
+   "history": "Название происходит от слова «бадам» — миндаль. Бадамбуру пекут в Баку к праздникам.",
+   "ingredientsText": "Пшеничная мука, сливочное масло, яйца, миндаль, сахар, кардамон",
+   "quote": null,
+   "image": null,
+   "translations": {
+    "en": {
+     "name": "Badambura",
+     "description": "Rolls of thin flaky pastry filled with almonds and sugar, dusted with icing sugar.",
+     "history": "The name comes from badam, meaning almond. Badambura is baked in Baku for celebrations.",
+     "ingredientsText": "Wheat flour, butter, eggs, almonds, sugar, cardamom"
+    }
+   }
+  },
+  {
+   "slug": "badrijani-nigvzit",
+   "cuisine": "gruzinskaya",
+   "course": "закуска",
+   "allergenCodes": [
+    "nuts"
+   ],
+   "name": "Бадриджани нигвзит",
+   "description": "Тонкие ломтики обжаренного баклажана, свёрнутые рулетиками с ореховой пастой, чесноком и пряностями. Сверху — зёрна граната.",
+   "history": "Название переводится как «баклажаны с орехами». Без этой закуски редко обходится грузинское застолье — супра.",
+   "ingredientsText": "Баклажаны, грецкие орехи, чеснок, кинза, хмели-сунели, винный уксус, гранат",
+   "quote": null,
+   "image": null,
+   "translations": {
+    "en": {
+     "name": "Badrijani nigvzit",
+     "description": "Thin slices of fried aubergine rolled around a walnut paste with garlic and spices, topped with pomegranate seeds.",
+     "history": "The name means \"aubergines with walnuts\". A Georgian feast, the supra, rarely goes without this starter.",
+     "ingredientsText": "Aubergine, walnuts, garlic, coriander, khmeli suneli, wine vinegar, pomegranate"
+    }
+   }
+  },
+  {
+   "slug": "bagany",
+   "cuisine": "osetinskaya",
+   "course": "напиток",
+   "allergenCodes": [
+    "gluten"
+   ],
+   "name": "Осетинское пиво",
+   "description": "Тёмное домашнее пиво из ячменя или кукурузы с хмелем. Его варят к праздникам и обрядам.",
+   "history": "Пиво по-осетински называется «бæгæны». Его варят большими котлами и подают в общей чаше.",
+   "ingredientsText": "Ячмень или кукуруза, хмель, вода, сахар",
+   "quote": null,
+   "image": null,
+   "translations": {
+    "en": {
+     "name": "Ossetian beer",
+     "description": "A dark home-brewed beer of barley or maize with hops, made for celebrations and rituals.",
+     "history": "In Ossetian the beer is called baegaeny; it is brewed in big pots and served from a shared bowl.",
+     "ingredientsText": "Barley or maize, hops, water, sugar"
+    }
+   }
+  },
+  {
+   "slug": "balyk-lyavangi",
+   "cuisine": "azerbajdzhanskaya",
+   "course": "основное",
+   "allergenCodes": [
+    "fish",
+    "nuts"
+   ],
+   "name": "Балык-лявянги",
+   "description": "Рыба, фаршированная грецкими орехами, луком и кислой пастой из алычи, запечённая в духовке или тандыре.",
+   "history": "Рыбный вариант лявянги готовят на Каспии, чаще всего из кутума или сазана.",
+   "ingredientsText": "Рыба, грецкие орехи, репчатый лук, паста из алычи, соль",
+   "quote": null,
+   "image": null,
+   "translations": {
+    "en": {
+     "name": "Fish lavangi",
+     "description": "Fish stuffed with walnuts, onion and sour plum paste, baked in an oven or tandoor.",
+     "history": "The fish version of lavangi is made on the Caspian, usually with kutum or carp.",
+     "ingredientsText": "Fish, walnuts, onion, sour plum paste, salt"
+    }
+   }
+  },
+  {
+   "slug": "basturma",
+   "cuisine": "armyanskaya",
+   "course": "закуска",
+   "allergenCodes": [],
+   "name": "Бастурма",
+   "description": "Вяленая говядина в пряной обмазке чаман из пажитника, паприки и чеснока. Нарезают очень тонко и подают как закуску.",
+   "history": "Способ вялить мясо со специями известен в регионе с давних времён. Сушка на ветру позволяла хранить мясо месяцами.",
+   "ingredientsText": "Говяжья вырезка, соль, пажитник, паприка, чеснок, острый перец",
+   "quote": null,
+   "image": null,
+   "translations": {
+    "en": {
+     "name": "Basturma",
+     "description": "Air-dried beef coated in chaman, a spicy paste of fenugreek, paprika and garlic. Sliced very thin and served as a starter.",
+     "history": "Curing meat with spices has long been known in the region. Wind-drying let people keep meat for months.",
+     "ingredientsText": "Beef tenderloin, salt, fenugreek, paprika, garlic, chilli"
+    }
+   }
+  },
+  {
+   "slug": "bazhe",
+   "cuisine": "gruzinskaya",
+   "course": "соус",
+   "allergenCodes": [
+    "nuts"
+   ],
+   "name": "Баже",
+   "description": "Густой ореховый соус с чесноком, пряностями и уксусом. Его подают к птице, рыбе и жареным овощам.",
+   "history": "Баже — основа многих грузинских блюд, включая сациви. В западной Грузии его особенно любят и готовят на праздники.",
+   "ingredientsText": "Грецкие орехи, чеснок, кориандр, уцхо-сунели, острый перец, винный уксус, вода",
+   "quote": null,
+   "image": null,
+   "translations": {
+    "en": {
+     "name": "Bazhe",
+     "description": "A thick walnut sauce with garlic, spices and vinegar. Served with poultry, fish and fried vegetables.",
+     "history": "Bazhe is the base of many Georgian dishes, including satsivi. It is especially loved in western Georgia and made for holidays.",
+     "ingredientsText": "Walnuts, garlic, coriander, blue fenugreek, chilli, wine vinegar, water"
+    }
+   }
+  },
+  {
+   "slug": "bozartma",
+   "cuisine": "azerbajdzhanskaya",
+   "course": "основное",
+   "allergenCodes": [],
+   "name": "Бозартма",
+   "description": "Баранина или курица, тушённая с луком и помидорами в собственном соку до мягкости.",
+   "history": "Бозартма — повседневное блюдо азербайджанской кухни. Мясо не обжаривают, а сразу тушат, чтобы оно осталось сочным.",
+   "ingredientsText": "Баранина или курица, репчатый лук, помидоры, шафран, соль, перец",
+   "quote": null,
+   "image": null,
+   "translations": {
+    "en": {
+     "name": "Bozartma",
+     "description": "Lamb or chicken stewed with onion and tomatoes in its own juices until tender.",
+     "history": "Bozartma is an everyday dish; the meat is stewed straight away rather than browned, so it stays juicy.",
+     "ingredientsText": "Lamb or chicken, onion, tomatoes, saffron, salt, pepper"
+    }
+   }
+  },
+  {
+   "slug": "bozbash",
+   "cuisine": "armyanskaya",
+   "course": "суп",
+   "allergenCodes": [],
+   "name": "Бозбаш",
+   "description": "Густой суп из баранины с нутом, картофелем, айвой или яблоками. Сытный и чуть сладковатый.",
+   "history": "Бозбаш готовят по всему Закавказью, в каждой области по-своему. В Ереване кладут айву, в Шираке — горох.",
+   "ingredientsText": "Баранина, нут, картофель, айва, репчатый лук, томатная паста, зелень",
+   "quote": null,
+   "image": null,
+   "translations": {
+    "en": {
+     "name": "Bozbash",
+     "description": "A thick lamb soup with chickpeas, potatoes and quince or apples. Hearty and slightly sweet.",
+     "history": "Bozbash is made throughout the South Caucasus, differently in every region — with quince in Yerevan, with peas in Shirak.",
+     "ingredientsText": "Lamb, chickpeas, potatoes, quince, onion, tomato paste, herbs"
+    }
+   }
+  },
+  {
+   "slug": "chakapuli",
+   "cuisine": "gruzinskaya",
+   "course": "основное",
+   "allergenCodes": [],
+   "name": "Чакапули",
+   "description": "Молодая баранина или телятина, тушённая в белом вине с тархуном, зелёной алычой и большим количеством зелени. Готовят весной.",
+   "history": "Чакапули связано с Пасхой: в это время появляются молодая зелень, тархун и незрелая алыча, без которых блюдо не готовят.",
+   "ingredientsText": "Баранина или телятина, тархун, зелёная алыча, белое вино, кинза, зелёный лук, чеснок",
+   "quote": null,
+   "image": null,
+   "translations": {
+    "en": {
+     "name": "Chakapuli",
+     "description": "Young lamb or veal stewed in white wine with tarragon, green sour plums and plenty of herbs. A spring dish.",
+     "history": "Chakapuli is linked to Easter, when young herbs, tarragon and unripe sour plums appear — the dish is not made without them.",
+     "ingredientsText": "Lamb or veal, tarragon, green sour plums, white wine, coriander, spring onion, garlic"
+    }
+   }
+  },
+  {
+   "slug": "chashushuli",
+   "cuisine": "gruzinskaya",
+   "course": "основное",
+   "allergenCodes": [],
+   "name": "Чашушули",
+   "description": "Тушёная говядина с помидорами, луком, чесноком и острым перцем. Простое домашнее блюдо с насыщенным пряным соусом.",
+   "history": "Слово «чашушули» означает «тушёное». Такие рагу готовят по всей Грузии, меняя мясо и специи по сезону.",
+   "ingredientsText": "Говядина, помидоры, репчатый лук, чеснок, острый перец, кинза, хмели-сунели",
+   "quote": null,
+   "image": null,
+   "translations": {
+    "en": {
+     "name": "Chashushuli",
+     "description": "Beef stewed with tomatoes, onion, garlic and chilli. A simple home dish with a rich, spicy sauce.",
+     "history": "Chashushuli means \"stewed\". Such stews are made all over Georgia, with the meat and spices changing with the season.",
+     "ingredientsText": "Beef, tomatoes, onion, garlic, chilli, coriander, khmeli suneli"
+    }
+   }
+  },
+  {
+   "slug": "chepalgash",
+   "cuisine": "chechenskaya",
+   "course": "выпечка",
+   "allergenCodes": [
+    "gluten",
+    "lactose"
+   ],
+   "name": "Чепалгаш",
+   "description": "Тонкие лепёшки с начинкой из творога с зеленью, которые после варки или жарки обмакивают в горячую воду и смазывают маслом, складывая стопкой.",
+   "history": "Чепалгаш пекут, когда в семье рождается ребёнок, и к праздникам. Стопку разрезают как торт.",
+   "ingredientsText": "Пшеничная мука, кефир, творог, зелёный лук, сливочное масло, соль",
+   "quote": null,
+   "image": null,
+   "translations": {
+    "en": {
+     "name": "Chepalgash",
+     "description": "Thin flatbreads filled with curd cheese and herbs; after cooking they are dipped in hot water, buttered and stacked.",
+     "history": "Chepalgash is baked when a child is born in the family and for holidays. The stack is cut like a cake.",
+     "ingredientsText": "Wheat flour, kefir, curd cheese, spring onion, butter, salt"
+    }
+   }
+  },
+  {
+   "slug": "chikhirtma",
+   "cuisine": "gruzinskaya",
+   "course": "суп",
+   "allergenCodes": [
+    "gluten",
+    "eggs"
+   ],
+   "name": "Чихиртма",
+   "description": "Куриный суп, который загущают взбитыми яйцами и мукой и подкисляют уксусом или лимонным соком. Нежный, с лёгкой кислинкой.",
+   "history": "В Грузии чихиртму считают лучшим средством после застолья. Яйца добавляют в самом конце, чтобы они не свернулись.",
+   "ingredientsText": "Курица, репчатый лук, яйца, пшеничная мука, винный уксус, кинза",
+   "quote": null,
+   "image": null,
+   "translations": {
+    "en": {
+     "name": "Chikhirtma",
+     "description": "A chicken soup thickened with beaten eggs and flour and soured with vinegar or lemon juice. Delicate with a light tang.",
+     "history": "In Georgia chikhirtma is considered the best remedy after a feast. The eggs go in at the very end so they don't curdle.",
+     "ingredientsText": "Chicken, onion, eggs, wheat flour, wine vinegar, coriander"
+    }
+   }
+  },
+  {
+   "slug": "chilov",
+   "cuisine": "azerbajdzhanskaya",
+   "course": "гарнир",
+   "allergenCodes": [],
+   "name": "Чилов",
+   "description": "Рассыпчатый рис, сваренный с фасолью, чечевицей или зеленью. Подают как гарнир к мясу и рыбе.",
+   "history": "Чилов — простая версия плова: рис готовят вместе с добавками, а не отдельно.",
+   "ingredientsText": "Рис, маш или чечевица, сливочное масло, шафран, соль",
+   "quote": null,
+   "image": null,
+   "translations": {
+    "en": {
+     "name": "Chilov",
+     "description": "Fluffy rice cooked with beans, lentils or herbs, served as a side to meat and fish.",
+     "history": "Chilov is a simpler form of pilaf in which the rice is cooked together with the additions rather than separately.",
+     "ingredientsText": "Rice, mung beans or lentils, butter, saffron, salt"
+    }
+   }
+  },
+  {
+   "slug": "chudu",
+   "cuisine": "avarskaya",
+   "course": "выпечка",
+   "allergenCodes": [
+    "gluten",
+    "lactose"
+   ],
+   "name": "Чуду",
+   "description": "Тонкая лепёшка с начинкой из мяса, творога, тыквы или зелени, смазанная маслом.",
+   "history": "Чуду пекут по всему Дагестану. Начинку меняют по сезону, а готовые лепёшки складывают стопкой.",
+   "ingredientsText": "Пшеничная мука, вода, мясо или творог, зелень, сливочное масло",
+   "quote": null,
+   "image": null,
+   "translations": {
+    "en": {
+     "name": "Chudu",
+     "description": "A thin flatbread filled with meat, curd cheese, pumpkin or greens, brushed with butter.",
+     "history": "Chudu are baked across Dagestan; the filling changes with the season and the flatbreads are stacked.",
+     "ingredientsText": "Wheat flour, water, meat or curd cheese, herbs, butter"
+    }
+   }
+  },
+  {
+   "slug": "churchkhela",
+   "cuisine": "gruzinskaya",
+   "course": "десерт",
+   "allergenCodes": [
+    "gluten",
+    "nuts",
+    "sugar"
+   ],
+   "name": "Чурчхела",
+   "description": "Нанизанные на нить орехи, которые много раз окунают в загущённый мукой виноградный сок и сушат. Получается сладкая «колбаска».",
+   "history": "Чурчхелу готовят осенью после сбора винограда. Её брали в дорогу: она долго хранится и очень питательна.",
+   "ingredientsText": "Грецкие орехи или фундук, виноградный сок, пшеничная мука",
+   "quote": null,
+   "image": null,
+   "translations": {
+    "en": {
+     "name": "Churchkhela",
+     "description": "Nuts threaded on a string, dipped many times in grape juice thickened with flour and then dried, making a sweet \"sausage\".",
+     "history": "Churchkhela is made in autumn after the grape harvest. People took it on journeys because it keeps well and is very nourishing.",
+     "ingredientsText": "Walnuts or hazelnuts, grape juice, wheat flour"
+    }
+   }
+  },
+  {
+   "slug": "chvishtari",
+   "cuisine": "gruzinskaya",
+   "course": "выпечка",
+   "allergenCodes": [
+    "lactose"
+   ],
+   "name": "Чвиштари",
+   "description": "Кукурузные лепёшки с сыром внутри, которые жарят до хрустящей корочки. Сыр плавится и делает их мягкими внутри.",
+   "history": "Блюдо Сванетии. Сваны добавляют в тесто сулугуни, поэтому чвиштари получаются сытнее обычного мчади.",
+   "ingredientsText": "Кукурузная мука, сулугуни, сливочное масло, вода",
+   "quote": null,
+   "image": null,
+   "translations": {
+    "en": {
+     "name": "Chvishtari",
+     "description": "Cornmeal cakes with cheese inside, fried until crisp. The melting cheese makes them soft in the middle.",
+     "history": "A dish from Svaneti. The Svans mix sulguni into the dough, so chvishtari are richer than ordinary mchadi.",
+     "ingredientsText": "Cornmeal, sulguni cheese, butter, water"
+    }
+   }
+  },
+  {
+   "slug": "chygyrtma",
+   "cuisine": "azerbajdzhanskaya",
+   "course": "основное",
+   "allergenCodes": [
+    "eggs"
+   ],
+   "name": "Чыгыртма",
+   "description": "Курица или овощи, обжаренные с луком и помидорами, в которые в конце вбивают яйца.",
+   "history": "Чыгыртма — простое и быстрое блюдо. Его готовят из курицы, шпината или баклажанов.",
+   "ingredientsText": "Курица, репчатый лук, помидоры, яйца, сливочное масло, зелень",
+   "quote": null,
+   "image": null,
+   "translations": {
+    "en": {
+     "name": "Chighirtma",
+     "description": "Chicken or vegetables fried with onion and tomatoes, with eggs cracked in at the end.",
+     "history": "Chighirtma is quick and simple, made with chicken, spinach or aubergines.",
+     "ingredientsText": "Chicken, onion, tomatoes, eggs, butter, herbs"
+    }
+   }
+  },
+  {
+   "slug": "dovga",
+   "cuisine": "azerbajdzhanskaya",
+   "course": "суп",
+   "allergenCodes": [
+    "lactose",
+    "eggs"
+   ],
+   "name": "Довга",
+   "description": "Суп на основе кислого молока или йогурта с рисом и большим количеством зелени. Подают горячим или холодным.",
+   "history": "Летом довгу пьют холодной для освежения, зимой едят горячей. Чтобы йогурт не свернулся, суп помешивают в одну сторону.",
+   "ingredientsText": "Йогурт, рис, яйцо, шпинат, щавель, укроп, кинза, мята",
+   "quote": null,
+   "image": null,
+   "translations": {
+    "en": {
+     "name": "Dovga",
+     "description": "A soup of sour milk or yogurt with rice and lots of herbs, served hot or cold.",
+     "history": "In summer dovga is drunk cold to refresh, in winter eaten hot. It is stirred in one direction so the yogurt does not curdle.",
+     "ingredientsText": "Yogurt, rice, egg, spinach, sorrel, dill, coriander, mint"
+    }
+   }
+  },
+  {
+   "slug": "dulkh-khyaltam",
+   "cuisine": "chechenskaya",
+   "course": "основное",
+   "allergenCodes": [
+    "gluten"
+   ],
+   "name": "Дулх-хьалтам",
+   "description": "Отварное мясо с картофелем, луком и чесночным соусом, иногда с галушками.",
+   "history": "Блюдо горных районов Чечни, где мясо и картофель — основа зимнего рациона.",
+   "ingredientsText": "Говядина или баранина, картофель, репчатый лук, чеснок, пшеничная мука",
+   "quote": null,
+   "image": null,
+   "translations": {
+    "en": {
+     "name": "Dulkh-khaltam",
+     "description": "Boiled meat with potatoes, onion and garlic sauce, sometimes with dumplings.",
+     "history": "A dish of Chechnya's mountain areas, where meat and potatoes are the basis of the winter diet.",
+     "ingredientsText": "Beef or lamb, potatoes, onion, garlic, wheat flour"
+    }
+   }
+  },
+  {
+   "slug": "dyushbara",
+   "cuisine": "azerbajdzhanskaya",
+   "course": "суп",
+   "allergenCodes": [
+    "gluten",
+    "eggs"
+   ],
+   "name": "Дюшбара",
+   "description": "Крошечные пельмени с бараньим фаршем в прозрачном бульоне с мятой и уксусом с чесноком.",
+   "history": "Хорошая хозяйка лепит дюшбару так мелко, что в ложку помещается больше десяти штук.",
+   "ingredientsText": "Пшеничная мука, яйцо, баранина, репчатый лук, мята, винный уксус, чеснок",
+   "quote": null,
+   "image": null,
+   "translations": {
+    "en": {
+     "name": "Dushbara",
+     "description": "Tiny lamb dumplings in a clear broth with mint and garlic vinegar.",
+     "history": "A skilled cook makes dushbara so small that more than ten fit on a spoon.",
+     "ingredientsText": "Wheat flour, egg, lamb, onion, mint, wine vinegar, garlic"
+    }
+   }
+  },
+  {
+   "slug": "dzavar-plov",
+   "cuisine": "armyanskaya",
+   "course": "гарнир",
+   "allergenCodes": [
+    "gluten"
+   ],
+   "name": "Дзавар плов",
+   "description": "Плов из булгура с обжаренной вермишелью и луком. Рассыпчатый гарнир к мясу.",
+   "history": "Булгур — одна из древнейших круп региона. В деревнях дзавар заготавливали сами, варя и высушивая пшеницу.",
+   "ingredientsText": "Булгур, вермишель, сливочное масло, репчатый лук, бульон",
+   "quote": null,
+   "image": null,
+   "translations": {
+    "en": {
+     "name": "Dzavarov pilaf",
+     "description": "Bulgur pilaf with toasted vermicelli and onion. A fluffy side dish for meat.",
+     "history": "Bulgur is one of the oldest grains of the region. In villages people made it themselves by boiling and drying wheat.",
+     "ingredientsText": "Bulgur, vermicelli, butter, onion, broth"
+    }
+   }
+  },
+  {
+   "slug": "dzykka",
+   "cuisine": "osetinskaya",
+   "course": "гарнир",
+   "allergenCodes": [
+    "gluten",
+    "lactose"
+   ],
+   "name": "Дзыкка",
+   "description": "Густая каша из свежего сыра, сметаны и муки, которую варят, пока не выступит масло.",
+   "history": "Дзыкку готовят пастухи в горах из свежего сыра. Её едят горячей, обмакивая хлеб.",
+   "ingredientsText": "Свежий осетинский сыр, сметана, пшеничная или кукурузная мука, соль",
+   "quote": null,
+   "image": null,
+   "translations": {
+    "en": {
+     "name": "Dzykka",
+     "description": "A thick dish of fresh cheese, sour cream and flour cooked until the butter separates.",
+     "history": "Dzykka is made by mountain shepherds from fresh cheese and eaten hot by dipping bread into it.",
+     "ingredientsText": "Fresh Ossetian cheese, sour cream, wheat or corn flour, salt"
+    }
+   }
+  },
+  {
+   "slug": "eech",
+   "cuisine": "armyanskaya",
+   "course": "салат",
+   "allergenCodes": [
+    "gluten"
+   ],
+   "name": "Ич",
+   "description": "Холодный салат из булгура с томатной пастой, луком, зеленью и лимонным соком. Постное блюдо.",
+   "history": "Ич готовят в Великий пост, когда нельзя есть мясо и молочное. Он хорошо хранится и становится вкуснее на следующий день.",
+   "ingredientsText": "Булгур, томатная паста, помидоры, репчатый лук, петрушка, лимонный сок, растительное масло",
+   "quote": null,
+   "image": null,
+   "translations": {
+    "en": {
+     "name": "Eetch",
+     "description": "A cold bulgur salad with tomato paste, onion, herbs and lemon juice. A fasting dish.",
+     "history": "Eetch is made during Lent when meat and dairy are avoided. It keeps well and tastes better the next day.",
+     "ingredientsText": "Bulgur, tomato paste, tomatoes, onion, parsley, lemon juice, vegetable oil"
+    }
+   }
+  },
+  {
+   "slug": "elarji",
+   "cuisine": "gruzinskaya",
+   "course": "гарнир",
+   "allergenCodes": [
+    "lactose"
+   ],
+   "name": "Эларджи",
+   "description": "Густая кукурузная каша, в которую вмешивают много сулугуни, пока она не начнёт тянуться. Подают горячей к мясу и соусам.",
+   "history": "Классика мегрельской кухни. Эларджи вымешивают деревянной лопаткой долго и усердно — от этого зависит его тягучесть.",
+   "ingredientsText": "Кукурузная крупа, сулугуни, вода, соль",
+   "quote": null,
+   "image": null,
+   "translations": {
+    "en": {
+     "name": "Elarji",
+     "description": "A thick cornmeal porridge with plenty of sulguni stirred in until it turns stretchy. Served hot with meat and sauces.",
+     "history": "A classic of Megrelian cuisine. Elarji is stirred long and hard with a wooden paddle — its stretchiness depends on it.",
+     "ingredientsText": "Cornmeal, sulguni cheese, water, salt"
+    }
+   }
+  },
+  {
+   "slug": "fydzhyn",
+   "cuisine": "osetinskaya",
+   "course": "выпечка",
+   "allergenCodes": [
+    "gluten",
+    "lactose"
+   ],
+   "name": "Фыдджын",
+   "description": "Осетинский пирог с мясом. Тонкое тесто, много начинки, сверху — растопленное сливочное масло.",
+   "history": "Осетинские пироги на праздник пекут по три — их связывают с солнцем, землёй и водой. В центре фыдджына оставляют маленькое отверстие, чтобы выходил пар и сок не растекался.",
+   "ingredientsText": "Пшеничная мука, дрожжи, кефир, сливочное масло, говядина, репчатый лук, чеснок, перец",
+   "quote": null,
+   "image": null,
+   "translations": {
+    "en": {
+     "name": "Fydjyn",
+     "description": "An Ossetian pie with meat. Thin dough, plenty of filling and melted butter on top.",
+     "history": "For celebrations Ossetian pies are baked in threes, linked to the sun, the earth and water. A small hole is left in the centre of fydjyn to let steam out so the juices don't run.",
+     "ingredientsText": "Wheat flour, yeast, kefir, butter, beef, onion, garlic, pepper"
+    }
+   }
+  },
+  {
+   "slug": "gedlibzhe",
+   "cuisine": "kabardinskaya",
+   "course": "основное",
+   "allergenCodes": [
+    "gluten",
+    "lactose"
+   ],
+   "name": "Гедлибже",
+   "description": "Курица, тушённая в густом соусе из сметаны с луком, чесноком и красным перцем. Подают с пастой.",
+   "history": "Гедлибже — праздничное блюдо кабардинцев. Соус загущают мукой, обжаренной на масле.",
+   "ingredientsText": "Курица, сметана, репчатый лук, чеснок, пшеничная мука, красный перец",
+   "quote": null,
+   "image": null,
+   "translations": {
+    "en": {
+     "name": "Gedlibzhe",
+     "description": "Chicken stewed in a thick sauce of sour cream with onion, garlic and red pepper, served with pasta (millet porridge).",
+     "history": "Gedlibzhe is a Kabardian festive dish; the sauce is thickened with flour toasted in butter.",
+     "ingredientsText": "Chicken, sour cream, onion, garlic, wheat flour, red pepper"
+    }
+   }
+  },
+  {
+   "slug": "ghapama",
+   "cuisine": "armyanskaya",
+   "course": "основное",
+   "allergenCodes": [
+    "nuts",
+    "sugar"
+   ],
+   "name": "Гапама",
+   "description": "Тыква, начинённая рисом, сухофруктами, орехами и мёдом и запечённая целиком. Подают, разрезав на дольки.",
+   "history": "Гапама — блюдо зимних праздников. О нём даже поют в народной песне «Ой, гапама».",
+   "ingredientsText": "Тыква, рис, курага, изюм, чернослив, грецкие орехи, мёд, сливочное масло, корица",
+   "quote": null,
+   "image": null,
+   "translations": {
+    "en": {
+     "name": "Ghapama",
+     "description": "A whole pumpkin stuffed with rice, dried fruit, nuts and honey and baked. Served cut into wedges.",
+     "history": "Ghapama is a winter holiday dish — there is even a folk song about it, \"Hey Ghapama\".",
+     "ingredientsText": "Pumpkin, rice, dried apricots, raisins, prunes, walnuts, honey, butter, cinnamon"
+    }
+   }
+  },
+  {
+   "slug": "gogal",
+   "cuisine": "azerbajdzhanskaya",
+   "course": "выпечка",
+   "allergenCodes": [
+    "gluten",
+    "lactose",
+    "eggs"
+   ],
+   "name": "Гогал",
+   "description": "Слоёные круглые булочки с пряной начинкой из муки, масла, фенхеля и куркумы. Солёные или сладкие.",
+   "history": "Гогал — одно из главных угощений Новруза вместе с шекербурой и пахлавой.",
+   "ingredientsText": "Пшеничная мука, сливочное масло, яйца, дрожжи, фенхель, куркума, соль",
+   "quote": null,
+   "image": null,
+   "translations": {
+    "en": {
+     "name": "Gogal",
+     "description": "Round flaky buns with a spiced filling of flour, butter, fennel and turmeric, savoury or sweet.",
+     "history": "Gogal is one of the main Novruz treats, along with shakarbura and pakhlava.",
+     "ingredientsText": "Wheat flour, butter, eggs, yeast, fennel, turmeric, salt"
+    }
+   }
+  },
+  {
+   "slug": "gomi",
+   "cuisine": "gruzinskaya",
+   "course": "гарнир",
+   "allergenCodes": [],
+   "name": "Гоми",
+   "description": "Плотная каша из кукурузной крупы без соли и масла. Её едят с сулугуни, соусами и мясом, как хлеб.",
+   "history": "Гоми — основа питания западной Грузии. Раньше её готовили из проса, а после появления кукурузы — из кукурузной крупы.",
+   "ingredientsText": "Кукурузная крупа, вода",
+   "quote": null,
+   "image": null,
+   "translations": {
+    "en": {
+     "name": "Gomi",
+     "description": "A dense porridge of cornmeal made without salt or butter. It is eaten with sulguni, sauces and meat, much like bread.",
+     "history": "Gomi is a staple of western Georgia. It was once made from millet and, after maize arrived, from cornmeal.",
+     "ingredientsText": "Cornmeal, water"
+    }
+   }
+  },
+  {
+   "slug": "govurma",
+   "cuisine": "azerbajdzhanskaya",
+   "course": "основное",
+   "allergenCodes": [],
+   "name": "Говурма",
+   "description": "Мясо, обжаренное в собственном жиру до золотистой корочки. Раньше так заготавливали баранину на зиму.",
+   "history": "Обжаренное мясо заливали жиром и хранили в кувшинах. Сегодня говурму готовят и как самостоятельное блюдо.",
+   "ingredientsText": "Баранина, курдючный жир, репчатый лук, соль",
+   "quote": null,
+   "image": null,
+   "translations": {
+    "en": {
+     "name": "Govurma",
+     "description": "Meat fried in its own fat until golden. This was once how lamb was preserved for winter.",
+     "history": "The fried meat was covered in fat and kept in jars. Today govurma is also cooked as a dish in its own right.",
+     "ingredientsText": "Lamb, tail fat, onion, salt"
+    }
+   }
+  },
+  {
+   "slug": "gozinaki",
+   "cuisine": "gruzinskaya",
+   "course": "десерт",
+   "allergenCodes": [
+    "nuts",
+    "sugar"
+   ],
+   "name": "Гозинаки",
+   "description": "Грецкие орехи, обжаренные в мёде и нарезанные ромбиками. Простое лакомство из двух ингредиентов.",
+   "history": "Гозинаки — обязательный новогодний десерт в Грузии. Ромбики раскладывают на праздничном столе, чтобы год был сладким.",
+   "ingredientsText": "Грецкие орехи, мёд, сахар",
+   "quote": null,
+   "image": null,
+   "translations": {
+    "en": {
+     "name": "Gozinaki",
+     "description": "Walnuts caramelised in honey and cut into diamonds. A simple treat with two ingredients.",
+     "history": "Gozinaki is an essential New Year sweet in Georgia, laid out on the festive table so the year will be sweet.",
+     "ingredientsText": "Walnuts, honey, sugar"
+    }
+   }
+  },
+  {
+   "slug": "guruli-gvezeli",
+   "cuisine": "gruzinskaya",
+   "course": "выпечка",
+   "allergenCodes": [
+    "gluten",
+    "lactose",
+    "eggs"
+   ],
+   "name": "Гурули гвезели",
+   "description": "Пирог в форме полумесяца с сыром и варёными яйцами внутри. Его пекут на Рождество, поэтому в Грузии его ещё называют рождественским хачапури.",
+   "history": "Блюдо региона Гурия на западе Грузии. Форму полумесяца объясняют по-разному, в том числе сходством с рогаликом или луной.",
+   "ingredientsText": "Пшеничная мука, дрожжи, мацони, сулугуни, имеретинский сыр, варёные яйца",
+   "quote": null,
+   "image": null,
+   "translations": {
+    "en": {
+     "name": "Guruli gvezeli",
+     "description": "A crescent-shaped pie filled with cheese and boiled eggs. It is baked for Christmas, so in Georgia it is also called Christmas khachapuri.",
+     "history": "A dish from the Guria region of western Georgia. The crescent shape is explained in different ways, including a likeness to a horn or the moon.",
+     "ingredientsText": "Wheat flour, yeast, matsoni yogurt, sulguni, Imeretian cheese, boiled eggs"
+    }
+   }
+  },
+  {
+   "slug": "guymag",
+   "cuisine": "azerbajdzhanskaya",
+   "course": "десерт",
+   "allergenCodes": [
+    "gluten",
+    "lactose",
+    "sugar"
+   ],
+   "name": "Гуймаг",
+   "description": "Сладкая каша из муки, обжаренной в сливочном масле, с сахаром или мёдом, куркумой и корицей.",
+   "history": "Гуймаг готовят для молодых матерей и в холодные дни: он считается очень питательным.",
+   "ingredientsText": "Пшеничная мука, сливочное масло, сахар или мёд, куркума, корица",
+   "quote": null,
+   "image": null,
+   "translations": {
+    "en": {
+     "name": "Quymaq",
+     "description": "A sweet porridge of flour toasted in butter with sugar or honey, turmeric and cinnamon.",
+     "history": "Quymaq is made for new mothers and on cold days, as it is considered very nourishing.",
+     "ingredientsText": "Wheat flour, butter, sugar or honey, turmeric, cinnamon"
+    }
+   }
+  },
+  {
+   "slug": "gyurza",
+   "cuisine": "azerbajdzhanskaya",
+   "course": "основное",
+   "allergenCodes": [
+    "gluten",
+    "eggs"
+   ],
+   "name": "Гюрза",
+   "description": "Пельмени с мясом, защипанные косичкой, похожей на чешую змеи. Отваривают или жарят.",
+   "history": "Гюрза — бакинское блюдо. Название дано по ядовитой змее за похожий узор шва.",
+   "ingredientsText": "Пшеничная мука, яйцо, баранина, репчатый лук, соль",
+   "quote": null,
+   "image": null,
+   "translations": {
+    "en": {
+     "name": "Gurza",
+     "description": "Meat dumplings sealed with a braided edge that resembles snake scales, boiled or fried.",
+     "history": "Gurza is a Baku dish named after a viper because the seam pattern looks like its scales.",
+     "ingredientsText": "Wheat flour, egg, lamb, onion, salt"
+    }
+   }
+  },
+  {
+   "slug": "hachapuri-imeretinskij",
+   "cuisine": "gruzinskaya",
+   "course": "выпечка",
+   "allergenCodes": [
+    "gluten",
+    "lactose"
+   ],
+   "name": "Имеретинский хачапури",
+   "description": "Круглая закрытая лепёшка, внутри которой много солоноватого имеретинского сыра. Самый распространённый в Грузии вид хачапури, который пекут дома почти каждый день.",
+   "history": "Назван по региону Имерети в западной Грузии. Тесто часто замешивают на мацони, что делает его мягким и чуть кисловатым.",
+   "ingredientsText": "Пшеничная мука, мацони, сода, имеретинский сыр, сливочное масло",
+   "quote": null,
+   "image": null,
+   "translations": {
+    "en": {
+     "name": "Imeretian khachapuri",
+     "description": "A round closed flatbread packed with salty Imeretian cheese. It is the most common kind of khachapuri in Georgia, baked at home almost every day.",
+     "history": "Named after the Imereti region of western Georgia. The dough is often made with matsoni yogurt, which makes it soft and slightly tangy.",
+     "ingredientsText": "Wheat flour, matsoni yogurt, baking soda, Imeretian cheese, butter"
+    }
+   }
+  },
+  {
+   "slug": "hachapuri-penovani",
+   "cuisine": "gruzinskaya",
+   "course": "выпечка",
+   "allergenCodes": [
+    "gluten",
+    "lactose"
+   ],
+   "name": "Пеновани",
+   "description": "Хачапури из слоёного теста: сыр заворачивают в квадрат или конверт и запекают до хрустящей золотистой корочки. Популярный уличный перекус в Тбилиси.",
+   "history": "Слово «пеновани» означает «слоистый». Этот вариант появился позже классических и прижился в городских пекарнях.",
+   "ingredientsText": "Слоёное тесто, сулугуни, имеретинский сыр, сливочное масло",
+   "quote": null,
+   "image": null,
+   "translations": {
+    "en": {
+     "name": "Penovani khachapuri",
+     "description": "Khachapuri made with puff pastry: cheese is folded into a square or envelope and baked until crisp and golden. A popular street snack in Tbilisi.",
+     "history": "The word penovani means \"layered\". This version appeared later than the classic ones and took root in city bakeries.",
+     "ingredientsText": "Puff pastry, sulguni, Imeretian cheese, butter"
+    }
+   }
+  },
+  {
+   "slug": "hachapuri-po-adzharski",
+   "cuisine": "gruzinskaya",
+   "course": "выпечка",
+   "allergenCodes": [
+    "gluten",
+    "lactose",
+    "eggs"
+   ],
+   "name": "Хачапури по-аджарски",
+   "description": "Открытая лодочка из дрожжевого теста с расплавленным сыром, в центр которой перед подачей кладут сырой желток и кусочек сливочного масла. Есть принято, отламывая края и смешивая их с начинкой.",
+   "history": "Блюдо родом из Аджарии на черноморском побережье Грузии. Форму лодки часто связывают с морской жизнью региона, а желток — с солнцем над морем.",
+   "ingredientsText": "Пшеничная мука, дрожжи, молоко, сулугуни, имеретинский сыр, яйца, сливочное масло",
+   "quote": null,
+   "image": null,
+   "translations": {
+    "en": {
+     "name": "Adjarian khachapuri",
+     "description": "An open boat of yeast dough filled with melted cheese, topped just before serving with a raw egg yolk and a knob of butter. You eat it by tearing off the crust and stirring it into the filling.",
+     "history": "The dish comes from Adjara on Georgia's Black Sea coast. Its boat shape is often linked to the region's seafaring life, and the yolk to the sun over the sea.",
+     "ingredientsText": "Wheat flour, yeast, milk, sulguni, Imeretian cheese, eggs, butter"
+    }
+   }
+  },
+  {
+   "slug": "harissa",
+   "cuisine": "armyanskaya",
+   "course": "основное",
+   "allergenCodes": [
+    "gluten"
+   ],
+   "name": "Ариса",
+   "description": "Густая каша из цельной пшеницы и курицы или баранины, которую долго варят и взбивают до однородности. Подают с растопленным сливочным маслом.",
+   "history": "Арису готовят на праздники и в память о событиях 1915 года, когда её варили защитники Муса-дага. Это одно из самых символичных армянских блюд.",
+   "ingredientsText": "Очищенная пшеница, курица или баранина, сливочное масло, соль",
+   "quote": null,
+   "image": null,
+   "translations": {
+    "en": {
+     "name": "Harissa",
+     "description": "A thick porridge of whole wheat and chicken or lamb, cooked for hours and beaten until smooth. Served with melted butter.",
+     "history": "Harissa is made for holidays and in memory of 1915, when it was cooked by the defenders of Musa Dagh. It is one of the most symbolic Armenian dishes.",
+     "ingredientsText": "Hulled wheat, chicken or lamb, butter, salt"
+    }
+   }
+  },
+  {
+   "slug": "iron-tsykht",
+   "cuisine": "osetinskaya",
+   "course": "закуска",
+   "allergenCodes": [
+    "lactose"
+   ],
+   "name": "Осетинский сыр",
+   "description": "Мягкий рассольный сыр из коровьего или овечьего молока. Его едят свежим и кладут в пироги.",
+   "history": "Без осетинского сыра не обходится ни один пирог. По-осетински он называется «ирон цыхт».",
+   "ingredientsText": "Коровье или овечье молоко, закваска, соль",
+   "quote": null,
+   "image": null,
+   "translations": {
+    "en": {
+     "name": "Ossetian cheese",
+     "description": "A soft brined cheese from cow's or sheep's milk, eaten fresh and used in pies.",
+     "history": "No Ossetian pie is made without this cheese; in Ossetian it is called iron tsykht.",
+     "ingredientsText": "Cow's or sheep's milk, rennet, salt"
+    }
+   }
+  },
+  {
+   "slug": "ishkhan",
+   "cuisine": "armyanskaya",
+   "course": "основное",
+   "allergenCodes": [
+    "fish"
+   ],
+   "name": "Ишхан",
+   "description": "Севанская форель, запечённая или приготовленная на углях с лимоном и зеленью. Нежное белое мясо почти без костей.",
+   "history": "Название переводится как «князь». Эндемичная форель озера Севан сегодня редка, поэтому её разводят в хозяйствах.",
+   "ingredientsText": "Форель, лимон, тархун, сливочное масло, соль",
+   "quote": null,
+   "image": null,
+   "translations": {
+    "en": {
+     "name": "Ishkhan trout",
+     "description": "Sevan trout, baked or grilled over coals with lemon and herbs. Tender white flesh with very few bones.",
+     "history": "The name means \"prince\". The endemic trout of Lake Sevan is rare today, so it is raised on farms.",
+     "ingredientsText": "Trout, lemon, tarragon, butter, salt"
+    }
+   }
+  },
+  {
+   "slug": "jonjoli",
+   "cuisine": "gruzinskaya",
+   "course": "закуска",
+   "allergenCodes": [],
+   "name": "Джонджоли",
+   "description": "Маринованные соцветия клекачки — кустарника, растущего на Кавказе. Подают с луком и маслом как закуску к мясу.",
+   "history": "Джонджоли собирают весной и заготавливают впрок. Вкус у них кисловатый, чуть похожий на каперсы.",
+   "ingredientsText": "Соцветия клекачки, соль, винный уксус, репчатый лук, растительное масло",
+   "quote": null,
+   "image": null,
+   "translations": {
+    "en": {
+     "name": "Jonjoli",
+     "description": "Pickled flower buds of bladdernut, a shrub that grows in the Caucasus. Served with onion and oil as a starter with meat.",
+     "history": "Jonjoli is picked in spring and preserved for the year. It has a tangy flavour slightly reminiscent of capers.",
+     "ingredientsText": "Bladdernut buds, salt, wine vinegar, onion, vegetable oil"
+    }
+   }
+  },
+  {
+   "slug": "kabuskadzhyn",
+   "cuisine": "osetinskaya",
+   "course": "выпечка",
+   "allergenCodes": [
+    "gluten",
+    "lactose"
+   ],
+   "name": "Кабускаджын",
+   "description": "Осетинский пирог с капустой и сыром. Тонкое тесто, много начинки, сверху — растопленное сливочное масло.",
+   "history": "Осетинские пироги на праздник пекут по три — их связывают с солнцем, землёй и водой. Капустный пирог особенно популярен осенью и зимой.",
+   "ingredientsText": "Пшеничная мука, дрожжи, кефир, сливочное масло, белокочанная капуста, осетинский сыр",
+   "quote": null,
+   "image": null,
+   "translations": {
+    "en": {
+     "name": "Kabuskajyn",
+     "description": "An Ossetian pie with cabbage and cheese. Thin dough, plenty of filling and melted butter on top.",
+     "history": "For celebrations Ossetian pies are baked in threes, linked to the sun, the earth and water. The cabbage pie is especially popular in autumn and winter.",
+     "ingredientsText": "Wheat flour, yeast, kefir, butter, white cabbage, Ossetian cheese"
+    }
+   }
+  },
+  {
+   "slug": "kada",
+   "cuisine": "gruzinskaya",
+   "course": "десерт",
+   "allergenCodes": [
+    "gluten",
+    "lactose",
+    "eggs",
+    "sugar"
+   ],
+   "name": "Када",
+   "description": "Сладкая выпечка из сдобного теста с начинкой из муки, растёртой со сливочным маслом и сахаром. Рассыпчатая внутри.",
+   "history": "Каду пекут в Грузии к праздникам. Похожая выпечка есть у армян и азербайджанцев, и рецепты отличаются от семьи к семье.",
+   "ingredientsText": "Пшеничная мука, сливочное масло, сахар, яйца, мацони, дрожжи, ваниль",
+   "quote": null,
+   "image": null,
+   "translations": {
+    "en": {
+     "name": "Kada",
+     "description": "A sweet pastry of rich dough with a filling of flour rubbed with butter and sugar, crumbly inside.",
+     "history": "Kada is baked in Georgia for holidays. Armenians and Azerbaijanis have similar pastries, and recipes vary from family to family.",
+     "ingredientsText": "Wheat flour, butter, sugar, eggs, matsoni yogurt, yeast, vanilla"
+    }
+   }
+  },
+  {
+   "slug": "kaghamb-tolma",
+   "cuisine": "armyanskaya",
+   "course": "основное",
+   "allergenCodes": [],
+   "name": "Капустная толма",
+   "description": "Голубцы по-армянски: капустные листья с начинкой из мяса и риса, тушённые в томатном соусе.",
+   "history": "Капустную толму готовят осенью и зимой, когда виноградных листьев нет.",
+   "ingredientsText": "Белокочанная капуста, говяжий фарш, рис, репчатый лук, томатная паста, зелень",
+   "quote": null,
+   "image": null,
+   "translations": {
+    "en": {
+     "name": "Cabbage tolma",
+     "description": "Armenian cabbage rolls: cabbage leaves stuffed with meat and rice, stewed in tomato sauce.",
+     "history": "Cabbage tolma is made in autumn and winter, when there are no grape leaves.",
+     "ingredientsText": "White cabbage, ground beef, rice, onion, tomato paste, herbs"
+    }
+   }
+  },
+  {
+   "slug": "kartofdzhyn",
+   "cuisine": "osetinskaya",
+   "course": "выпечка",
+   "allergenCodes": [
+    "gluten",
+    "lactose"
+   ],
+   "name": "Картофджын",
+   "description": "Осетинский пирог с картофелем и сыром. Тонкое тесто, много начинки, сверху — растопленное сливочное масло.",
+   "history": "Осетинские пироги на праздник пекут по три — их связывают с солнцем, землёй и водой. Картофельная начинка появилась после того, как картофель распространился на Кавказе в XIX веке.",
+   "ingredientsText": "Пшеничная мука, дрожжи, кефир, сливочное масло, картофель, осетинский сыр",
+   "quote": null,
+   "image": null,
+   "translations": {
+    "en": {
+     "name": "Kartofjyn",
+     "description": "An Ossetian pie with potato and cheese. Thin dough, plenty of filling and melted butter on top.",
+     "history": "For celebrations Ossetian pies are baked in threes, linked to the sun, the earth and water. The potato filling appeared after potatoes spread across the Caucasus in the 19th century.",
+     "ingredientsText": "Wheat flour, yeast, kefir, butter, potatoes, Ossetian cheese"
+    }
+   }
+  },
+  {
+   "slug": "kchuch",
+   "cuisine": "armyanskaya",
+   "course": "основное",
+   "allergenCodes": [],
+   "name": "Кчуч",
+   "description": "Мясо с овощами, запечённое в глиняном горшке. Овощи томятся в соку мяса и становятся очень нежными.",
+   "history": "Кчуч — это и название блюда, и глиняного горшка, в котором его готовят.",
+   "ingredientsText": "Баранина, баклажаны, картофель, помидоры, перец, репчатый лук, зелень",
+   "quote": null,
+   "image": null,
+   "translations": {
+    "en": {
+     "name": "Kchuch",
+     "description": "Meat and vegetables baked in a clay pot, where the vegetables simmer in the meat juices until very tender.",
+     "history": "Kchuch is the name of both the dish and the clay pot in which it is cooked.",
+     "ingredientsText": "Lamb, aubergine, potatoes, tomatoes, peppers, onion, herbs"
+    }
+   }
+  },
+  {
+   "slug": "khadurdzhyn",
+   "cuisine": "osetinskaya",
+   "course": "выпечка",
+   "allergenCodes": [
+    "gluten",
+    "lactose"
+   ],
+   "name": "Хадурджын",
+   "description": "Осетинский пирог с фасолью. Тонкое тесто, много начинки, сверху — растопленное сливочное масло.",
+   "history": "Осетинские пироги на праздник пекут по три — их связывают с солнцем, землёй и водой. Фасолевый пирог пекут в постные дни, когда мясо не едят.",
+   "ingredientsText": "Пшеничная мука, дрожжи, кефир, сливочное масло, красная фасоль, репчатый лук",
+   "quote": null,
+   "image": null,
+   "translations": {
+    "en": {
+     "name": "Khadurjyn",
+     "description": "An Ossetian pie with beans. Thin dough, plenty of filling and melted butter on top.",
+     "history": "For celebrations Ossetian pies are baked in threes, linked to the sun, the earth and water. The bean pie is baked on fasting days when meat is not eaten.",
+     "ingredientsText": "Wheat flour, yeast, kefir, butter, red beans, onion"
+    }
+   }
+  },
+  {
+   "slug": "khalyuzh",
+   "cuisine": "cherkesskaya",
+   "course": "выпечка",
+   "allergenCodes": [
+    "gluten",
+    "lactose"
+   ],
+   "name": "Хьалыжъо",
+   "description": "Жареные пирожки в форме треугольника с начинкой из адыгейского сыра с луком или картофелем.",
+   "history": "Хьалыжъо готовят к праздникам. Треугольная форма помогает пирожкам равномерно прожариться.",
+   "ingredientsText": "Пшеничная мука, кефир, адыгейский сыр, зелёный лук, растительное масло",
+   "quote": null,
+   "image": null,
+   "translations": {
+    "en": {
+     "name": "Khalyuzh",
+     "description": "Fried triangular pastries filled with Adyghe cheese and onion or potato.",
+     "history": "Khalyuzh are made for celebrations; the triangle shape helps them fry evenly.",
+     "ingredientsText": "Wheat flour, kefir, Adyghe cheese, spring onion, vegetable oil"
+    }
+   }
+  },
+  {
+   "slug": "khamrashi",
+   "cuisine": "azerbajdzhanskaya",
+   "course": "суп",
+   "allergenCodes": [
+    "gluten"
+   ],
+   "name": "Хамраши",
+   "description": "Суп с домашней лапшой, фасолью и маленькими мясными фрикадельками.",
+   "history": "Хамраши готовят зимой на юге Азербайджана. Лапшу режут вручную очень тонко.",
+   "ingredientsText": "Пшеничная мука, фасоль, баранина, репчатый лук, зелень",
+   "quote": null,
+   "image": null,
+   "translations": {
+    "en": {
+     "name": "Khamrashi",
+     "description": "A soup with homemade noodles, beans and small meatballs.",
+     "history": "Khamrashi is a winter soup of southern Azerbaijan, with noodles cut by hand very thin.",
+     "ingredientsText": "Wheat flour, beans, lamb, onion, herbs"
+    }
+   }
+  },
+  {
+   "slug": "kharcho",
+   "cuisine": "gruzinskaya",
+   "course": "суп",
+   "allergenCodes": [
+    "nuts"
+   ],
+   "name": "Харчо",
+   "description": "Густой говяжий суп с рисом, кислым соусом ткемали или тклапи, грецкими орехами и пряностями. Острый, насыщенный и ароматный.",
+   "history": "Харчо — один из самых известных грузинских супов за пределами Грузии. В Мегрелии его готовят без риса и подают скорее как рагу.",
+   "ingredientsText": "Говядина, рис, ткемали или тклапи, грецкие орехи, репчатый лук, чеснок, кинза, хмели-сунели",
+   "quote": null,
+   "image": null,
+   "translations": {
+    "en": {
+     "name": "Kharcho",
+     "description": "A thick beef soup with rice, sour tkemali or tklapi, walnuts and spices. Spicy, rich and fragrant.",
+     "history": "Kharcho is one of the best-known Georgian soups abroad. In Samegrelo it is made without rice and served more like a stew.",
+     "ingredientsText": "Beef, rice, tkemali or tklapi, walnuts, onion, garlic, coriander, khmeli suneli"
+    }
+   }
+  },
+  {
+   "slug": "khashil",
+   "cuisine": "azerbajdzhanskaya",
+   "course": "десерт",
+   "allergenCodes": [
+    "gluten",
+    "lactose",
+    "sugar"
+   ],
+   "name": "Хашил",
+   "description": "Густая каша из муки на воде, которую подают с растопленным маслом и мёдом или дошабом.",
+   "history": "Хашил готовят в холодное время и для рожениц. В центр делают углубление, куда наливают масло.",
+   "ingredientsText": "Пшеничная мука, вода, сливочное масло, мёд или дошаб",
+   "quote": null,
+   "image": null,
+   "translations": {
+    "en": {
+     "name": "Khashil",
+     "description": "A thick porridge of flour and water served with melted butter and honey or grape molasses.",
+     "history": "Khashil is made in cold weather and for new mothers; a well in the centre is filled with butter.",
+     "ingredientsText": "Wheat flour, water, butter, honey or grape molasses"
+    }
+   }
+  },
+  {
+   "slug": "khashlama",
+   "cuisine": "armyanskaya",
+   "course": "основное",
+   "allergenCodes": [],
+   "name": "Хашлама",
+   "description": "Баранина или говядина, тушённая крупными кусками с овощами в собственном соку, иногда с добавлением пива или вина.",
+   "history": "Название связано со словом «варить». Хашламу готовят в большом котле на всю семью, укладывая овощи слоями.",
+   "ingredientsText": "Баранина или говядина, картофель, помидоры, сладкий перец, репчатый лук, зелень, соль",
+   "quote": null,
+   "image": null,
+   "translations": {
+    "en": {
+     "name": "Khashlama",
+     "description": "Lamb or beef stewed in large pieces with vegetables in their own juices, sometimes with beer or wine.",
+     "history": "The name relates to the word for \"to boil\". Khashlama is made in a big pot for the whole family, with vegetables laid in layers.",
+     "ingredientsText": "Lamb or beef, potatoes, tomatoes, sweet peppers, onion, herbs, salt"
+    }
+   }
+  },
+  {
+   "slug": "khingal",
+   "cuisine": "azerbajdzhanskaya",
+   "course": "основное",
+   "allergenCodes": [
+    "gluten",
+    "lactose"
+   ],
+   "name": "Хингал",
+   "description": "Широкие квадраты отварного теста с жареным мясом и луком, заправленные йогуртом с чесноком и сушёным творогом курут.",
+   "history": "Хингал готовят в Азербайджане и на севере Кавказа. В разных районах тесто режут по-разному — квадратами или ромбами.",
+   "ingredientsText": "Пшеничная мука, баранина, репчатый лук, йогурт, чеснок, курут",
+   "quote": null,
+   "image": null,
+   "translations": {
+    "en": {
+     "name": "Khingal",
+     "description": "Wide squares of boiled dough topped with fried meat and onion, garlic yogurt and dried curd called qurut.",
+     "history": "Khingal is made in Azerbaijan and the North Caucasus. Different areas cut the dough differently, into squares or diamonds.",
+     "ingredientsText": "Wheat flour, lamb, onion, yogurt, garlic, qurut"
+    }
+   }
+  },
+  {
+   "slug": "khorovats-ovoshchnoy",
+   "cuisine": "armyanskaya",
+   "course": "закуска",
+   "allergenCodes": [],
+   "name": "Овощной хоровац",
+   "description": "Баклажаны, помидоры и перцы, запечённые на углях, очищенные и порубленные с чесноком и зеленью.",
+   "history": "Овощи жарят на тех же углях, что и мясной хоровац, и подают вместе с ним.",
+   "ingredientsText": "Баклажаны, помидоры, сладкий перец, чеснок, кинза, соль",
+   "quote": null,
+   "image": null,
+   "translations": {
+    "en": {
+     "name": "Vegetable khorovats",
+     "description": "Aubergines, tomatoes and peppers roasted over coals, peeled and chopped with garlic and herbs.",
+     "history": "The vegetables are roasted over the same coals as the meat khorovats and served alongside it.",
+     "ingredientsText": "Aubergines, tomatoes, sweet peppers, garlic, coriander, salt"
+    }
+   }
+  },
+  {
+   "slug": "khychiny",
+   "cuisine": "kabardinskaya",
+   "course": "выпечка",
+   "allergenCodes": [
+    "gluten",
+    "lactose"
+   ],
+   "name": "Хычины",
+   "description": "Тонкие лепёшки с начинкой из картофеля с сыром или мяса, обжаренные на сухой сковороде и смазанные маслом.",
+   "history": "Хычины — блюдо балкарцев и карачаевцев, популярное во всей Кабардино-Балкарии.",
+   "ingredientsText": "Пшеничная мука, кефир, картофель, сыр, сливочное масло",
+   "quote": null,
+   "image": null,
+   "translations": {
+    "en": {
+     "name": "Khychin",
+     "description": "Thin flatbreads filled with potato and cheese or meat, cooked on a dry pan and brushed with butter.",
+     "history": "Khychin is a Balkar and Karachay dish popular throughout Kabardino-Balkaria.",
+     "ingredientsText": "Wheat flour, kefir, potato, cheese, butter"
+    }
+   }
+  },
+  {
+   "slug": "khyovla",
+   "cuisine": "chechenskaya",
+   "course": "десерт",
+   "allergenCodes": [
+    "gluten",
+    "lactose",
+    "sugar"
+   ],
+   "name": "Хьовла",
+   "description": "Чеченская халва из обжаренной муки, масла и сахара или мёда. Её режут ромбиками.",
+   "history": "Хьовлу готовят на поминки и праздники, чтобы угостить соседей.",
+   "ingredientsText": "Пшеничная мука, сливочное масло, сахар или мёд",
+   "quote": null,
+   "image": null,
+   "translations": {
+    "en": {
+     "name": "Khovla",
+     "description": "Chechen halva of toasted flour, butter and sugar or honey, cut into diamonds.",
+     "history": "Khovla is made for memorials and celebrations and shared with neighbours.",
+     "ingredientsText": "Wheat flour, butter, sugar or honey"
+    }
+   }
+  },
+  {
+   "slug": "kololik",
+   "cuisine": "armyanskaya",
+   "course": "суп",
+   "allergenCodes": [
+    "eggs"
+   ],
+   "name": "Кололак",
+   "description": "Суп с крупными фрикадельками из мяса и риса в томатном бульоне. Каждая фрикаделька — почти отдельное блюдо.",
+   "history": "Блюдо ширакской кухни. В фарш добавляют рис и яйцо, чтобы фрикадельки держали форму при варке.",
+   "ingredientsText": "Говяжий фарш, рис, яйцо, репчатый лук, томатная паста, зелень, соль",
+   "quote": null,
+   "image": null,
+   "translations": {
+    "en": {
+     "name": "Kololak",
+     "description": "A soup with large meat-and-rice balls in tomato broth — each ball is almost a meal on its own.",
+     "history": "A dish of the Shirak region. Rice and egg are added to the meat so the balls hold their shape while simmering.",
+     "ingredientsText": "Ground beef, rice, egg, onion, tomato paste, herbs, salt"
+    }
+   }
+  },
+  {
+   "slug": "kubdari",
+   "cuisine": "gruzinskaya",
+   "course": "выпечка",
+   "allergenCodes": [
+    "gluten"
+   ],
+   "name": "Кубдари",
+   "description": "Закрытый пирог со щедрой начинкой из рубленого мяса, лука и сванских специй. Мясо режут ножом, а не прокручивают, поэтому начинка остаётся сочной и крупной.",
+   "history": "Традиционное блюдо Сванетии, горного региона Грузии. Для него используют сванскую соль — смесь соли с травами и пряностями.",
+   "ingredientsText": "Пшеничная мука, дрожжи, говядина, свинина, репчатый лук, сванская соль, кориандр, чеснок",
+   "quote": null,
+   "image": null,
+   "translations": {
+    "en": {
+     "name": "Kubdari",
+     "description": "A closed pie with a generous filling of hand-chopped meat, onion and Svan spices. The meat is cut with a knife rather than minced, so the filling stays juicy and chunky.",
+     "history": "A traditional dish of Svaneti, Georgia's mountain region. It is seasoned with Svan salt, a mix of salt with herbs and spices.",
+     "ingredientsText": "Wheat flour, yeast, beef, pork, onion, Svan salt, coriander, garlic"
+    }
+   }
+  },
+  {
+   "slug": "kuchmachi",
+   "cuisine": "gruzinskaya",
+   "course": "основное",
+   "allergenCodes": [
+    "nuts"
+   ],
+   "name": "Кучмачи",
+   "description": "Жареные субпродукты — печень, сердце, лёгкие — с луком, гранатом и толчёными грецкими орехами. Подают горячими.",
+   "history": "Кучмачи — блюдо бережливой кухни, в которой ничего не пропадает после забоя скота. Его часто готовят в праздники.",
+   "ingredientsText": "Говяжья или свиная печень, сердце, лёгкие, репчатый лук, грецкие орехи, гранат, кинза",
+   "quote": null,
+   "image": null,
+   "translations": {
+    "en": {
+     "name": "Kuchmachi",
+     "description": "Fried offal — liver, heart and lungs — with onion, pomegranate and crushed walnuts. Served hot.",
+     "history": "Kuchmachi comes from a thrifty cuisine where nothing goes to waste after slaughter. It is often cooked for holidays.",
+     "ingredientsText": "Beef or pork liver, heart, lungs, onion, walnuts, pomegranate, coriander"
+    }
+   }
+  },
+  {
+   "slug": "kufta-bozbash",
+   "cuisine": "azerbajdzhanskaya",
+   "course": "суп",
+   "allergenCodes": [],
+   "name": "Кюфта-бозбаш",
+   "description": "Суп с большими мясными шарами из баранины и риса, внутри каждого — ягода алычи. Варят с нутом и картофелем.",
+   "history": "Спрятанная в кюфте алыча — сюрприз для едока и источник кислинки, которая раскрывается при варке.",
+   "ingredientsText": "Баранина, рис, нут, картофель, сушёная алыча, репчатый лук, шафран, мята",
+   "quote": null,
+   "image": null,
+   "translations": {
+    "en": {
+     "name": "Kufta bozbash",
+     "description": "A soup of large lamb-and-rice meatballs, each hiding a dried sour plum inside, cooked with chickpeas and potatoes.",
+     "history": "The sour plum hidden in each meatball is a surprise and a source of tartness that comes through as it cooks.",
+     "ingredientsText": "Lamb, rice, chickpeas, potatoes, dried sour plums, onion, saffron, mint"
+    }
+   }
+  },
+  {
+   "slug": "kupaty",
+   "cuisine": "gruzinskaya",
+   "course": "основное",
+   "allergenCodes": [],
+   "name": "Купаты",
+   "description": "Жареные колбаски из свинины или говядины со специями, чесноком и барбарисом в натуральной оболочке. Подают с гранатом и луком.",
+   "history": "Купаты в Грузии жарят на сковороде или на углях. В советское время они стали популярны далеко за пределами страны.",
+   "ingredientsText": "Свинина или говядина, натуральная оболочка, чеснок, барбарис, кориандр, перец",
+   "quote": null,
+   "image": null,
+   "translations": {
+    "en": {
+     "name": "Kupati",
+     "description": "Fried sausages of pork or beef with spices, garlic and barberry in natural casing. Served with pomegranate and onion.",
+     "history": "In Georgia kupati are fried in a pan or over coals. In Soviet times they became popular far beyond the country.",
+     "ingredientsText": "Pork or beef, natural casing, garlic, barberry, coriander, pepper"
+    }
+   }
+  },
+  {
+   "slug": "kurze",
+   "cuisine": "avarskaya",
+   "course": "основное",
+   "allergenCodes": [
+    "gluten"
+   ],
+   "name": "Курзе",
+   "description": "Дагестанские пельмени в форме капли с косичкой по краю. Начинка — мясо, тыква, крапива или творог.",
+   "history": "Косичка на курзе — признак мастерства хозяйки. Говорят, чем мельче узор, тем лучше.",
+   "ingredientsText": "Пшеничная мука, вода, баранина или говядина, репчатый лук, соль",
+   "quote": null,
+   "image": null,
+   "translations": {
+    "en": {
+     "name": "Kurze",
+     "description": "Drop-shaped Dagestani dumplings with a braided edge, filled with meat, pumpkin, nettle or curd cheese.",
+     "history": "The braid on kurze shows the cook's skill: the finer the pattern, the better, as they say.",
+     "ingredientsText": "Wheat flour, water, lamb or beef, onion, salt"
+    }
+   }
+  },
+  {
+   "slug": "kyata",
+   "cuisine": "azerbajdzhanskaya",
+   "course": "выпечка",
+   "allergenCodes": [
+    "gluten",
+    "lactose",
+    "eggs",
+    "sugar"
+   ],
+   "name": "Кята",
+   "description": "Слоёная сдобная лепёшка с начинкой из муки, растёртой с маслом и сахаром. Подают к чаю.",
+   "history": "Кята известна в Азербайджане и Армении. В разных районах её делают сладкой или несладкой.",
+   "ingredientsText": "Пшеничная мука, сливочное масло, яйца, молоко, дрожжи, сахар",
+   "quote": null,
+   "image": null,
+   "translations": {
+    "en": {
+     "name": "Kata",
+     "description": "A flaky rich flatbread with a filling of flour rubbed with butter and sugar, served with tea.",
+     "history": "Kata is known in Azerbaijan and Armenia; in some areas it is sweet, in others savoury.",
+     "ingredientsText": "Wheat flour, butter, eggs, milk, yeast, sugar"
+    }
+   }
+  },
+  {
+   "slug": "kyufta",
+   "cuisine": "armyanskaya",
+   "course": "основное",
+   "allergenCodes": [
+    "eggs"
+   ],
+   "name": "Кюфта",
+   "description": "Крупные шары из тщательно отбитого говяжьего фарша, отваренные и нарезанные ломтиками. Подают с маслом и луком.",
+   "history": "Кюфта — гордость Гюмри. Мясо для неё не прокручивают, а отбивают деревянными молотками до состояния пасты.",
+   "ingredientsText": "Говядина, репчатый лук, яйцо, сливочное масло, соль, перец",
+   "quote": null,
+   "image": null,
+   "translations": {
+    "en": {
+     "name": "Kyufta",
+     "description": "Large balls of finely beaten beef, boiled and sliced. Served with butter and onion.",
+     "history": "Kyufta is the pride of Gyumri. The meat is not minced but pounded with wooden mallets into a paste.",
+     "ingredientsText": "Beef, onion, egg, butter, salt, pepper"
+    }
+   }
+  },
+  {
+   "slug": "kyukyu",
+   "cuisine": "azerbajdzhanskaya",
+   "course": "основное",
+   "allergenCodes": [
+    "eggs",
+    "nuts"
+   ],
+   "name": "Кюкю",
+   "description": "Запечённый омлет с большим количеством зелени, иногда с орехами и барбарисом. Подают тёплым или холодным.",
+   "history": "Кюкю готовят на Новруз. Зелёный цвет блюда символизирует весну.",
+   "ingredientsText": "Яйца, кинза, укроп, шпинат, зелёный лук, грецкие орехи, сливочное масло",
+   "quote": null,
+   "image": null,
+   "translations": {
+    "en": {
+     "name": "Kuku",
+     "description": "A baked omelette packed with herbs, sometimes with nuts and barberries, served warm or cold.",
+     "history": "Kuku is made for Novruz; its green colour symbolises spring.",
+     "ingredientsText": "Eggs, coriander, dill, spinach, spring onion, walnuts, butter"
+    }
+   }
+  },
+  {
+   "slug": "lakume",
+   "cuisine": "kabardinskaya",
+   "course": "выпечка",
+   "allergenCodes": [
+    "gluten",
+    "lactose",
+    "eggs",
+    "sugar"
+   ],
+   "name": "Лакумэ",
+   "description": "Пышные жареные пончики из дрожжевого теста. Подают с чаем, мёдом или к мясу.",
+   "history": "Лакумэ раздают на праздниках и поминках. Ромбовидная форма — самая традиционная.",
+   "ingredientsText": "Пшеничная мука, дрожжи, молоко, яйца, сахар, растительное масло",
+   "quote": null,
+   "image": null,
+   "translations": {
+    "en": {
+     "name": "Lakume",
+     "description": "Fluffy fried doughnuts of yeast dough, served with tea, honey or meat.",
+     "history": "Lakume are handed out at celebrations and memorials; the diamond shape is the most traditional.",
+     "ingredientsText": "Wheat flour, yeast, milk, eggs, sugar, vegetable oil"
+    }
+   }
+  },
+  {
+   "slug": "lavash",
+   "cuisine": "armyanskaya",
+   "course": "выпечка",
+   "allergenCodes": [
+    "gluten"
+   ],
+   "name": "Лаваш",
+   "description": "Тонкий пресный хлеб, который раскатывают и пекут на стенках печи тонир. Высохший лаваш хранится месяцами.",
+   "history": "Приготовление лаваша как выражение армянской культуры внесено ЮНЕСКО в список нематериального наследия.",
+   "ingredientsText": "Пшеничная мука, вода, соль",
+   "quote": null,
+   "image": null,
+   "translations": {
+    "en": {
+     "name": "Lavash",
+     "description": "A thin unleavened bread rolled out and baked on the walls of a tonir oven. Dried lavash keeps for months.",
+     "history": "The making of lavash as an expression of Armenian culture is inscribed on UNESCO's intangible heritage list.",
+     "ingredientsText": "Wheat flour, water, salt"
+    }
+   }
+  },
+  {
+   "slug": "lobiani",
+   "cuisine": "gruzinskaya",
+   "course": "выпечка",
+   "allergenCodes": [
+    "gluten"
+   ],
+   "name": "Лобиани",
+   "description": "Лепёшка с начинкой из пюре варёной фасоли с луком и специями. Простое и сытное блюдо, которое в Грузии часто готовят в постные дни.",
+   "history": "Название происходит от слова «лобио» — фасоль. Особенно популярно в Раче, где лобиани нередко готовят с беконом.",
+   "ingredientsText": "Пшеничная мука, дрожжи, красная фасоль, репчатый лук, сливочное или растительное масло, кориандр",
+   "quote": null,
+   "image": null,
+   "translations": {
+    "en": {
+     "name": "Lobiani",
+     "description": "A flatbread filled with mashed cooked beans, onion and spices. A simple, filling dish that Georgians often make on fasting days.",
+     "history": "The name comes from lobio, meaning beans. It is especially popular in Racha, where lobiani is often made with bacon.",
+     "ingredientsText": "Wheat flour, yeast, red beans, onion, butter or oil, coriander"
+    }
+   }
+  },
+  {
+   "slug": "lyavangi",
+   "cuisine": "azerbajdzhanskaya",
+   "course": "основное",
+   "allergenCodes": [
+    "nuts"
+   ],
+   "name": "Лявянги",
+   "description": "Курица, фаршированная грецкими орехами, луком и кислой пастой из алычи, запечённая в печи.",
+   "history": "Лявянги — блюдо Ленкорани и Талыша на юге Азербайджана. Его готовят в тандыре на праздники.",
+   "ingredientsText": "Курица, грецкие орехи, репчатый лук, лявянги (паста из алычи), соль, перец",
+   "quote": null,
+   "image": null,
+   "translations": {
+    "en": {
+     "name": "Lavangi",
+     "description": "Chicken stuffed with walnuts, onion and sour cherry-plum paste, baked in the oven.",
+     "history": "Lavangi is a dish of Lankaran and Talysh in southern Azerbaijan, cooked in a tandoor for celebrations.",
+     "ingredientsText": "Chicken, walnuts, onion, sour plum paste, salt, pepper"
+    }
+   }
+  },
+  {
+   "slug": "lyulya-kebab",
+   "cuisine": "azerbajdzhanskaya",
+   "course": "основное",
+   "allergenCodes": [],
+   "name": "Люля-кебаб",
+   "description": "Продолговатые колбаски из рубленой баранины с луком и курдючным жиром, жаренные на шампурах над углями.",
+   "history": "Фарш для люля рубят ножами и долго вымешивают, иначе он не удержится на шампуре.",
+   "ingredientsText": "Баранина, курдючный жир, репчатый лук, соль, перец, сумах",
+   "quote": null,
+   "image": null,
+   "translations": {
+    "en": {
+     "name": "Lula kebab",
+     "description": "Long skewered kebabs of chopped lamb with onion and tail fat, grilled over charcoal.",
+     "history": "The meat for lula is chopped with knives and kneaded at length, otherwise it won't stay on the skewer.",
+     "ingredientsText": "Lamb, tail fat, onion, salt, pepper, sumac"
+    }
+   }
+  },
+  {
+   "slug": "lyvzha",
+   "cuisine": "osetinskaya",
+   "course": "основное",
+   "allergenCodes": [
+    "gluten"
+   ],
+   "name": "Лывжа",
+   "description": "Густой суп-рагу из мяса или курицы с картофелем, луком и мукой, заправленный перцем.",
+   "history": "Лывжу варят на праздники. Её подают горячей в глубоких тарелках с пирогами.",
+   "ingredientsText": "Говядина или курица, картофель, репчатый лук, пшеничная мука, перец, зелень",
+   "quote": null,
+   "image": null,
+   "translations": {
+    "en": {
+     "name": "Lyvzha",
+     "description": "A thick stew-like soup of meat or chicken with potatoes, onion and flour, seasoned with pepper.",
+     "history": "Lyvzha is cooked for celebrations and served hot in deep bowls with pies.",
+     "ingredientsText": "Beef or chicken, potatoes, onion, wheat flour, pepper, herbs"
+    }
+   }
+  },
+  {
+   "slug": "mantapur",
+   "cuisine": "armyanskaya",
+   "course": "суп",
+   "allergenCodes": [
+    "gluten",
+    "lactose"
+   ],
+   "name": "Мантапур",
+   "description": "Суп с маленькими запечёнными мантами в бульоне с мацуном и чесноком.",
+   "history": "Мантапур готовят зимой. Манты сначала запекают до золотистого цвета, а потом заливают горячим бульоном.",
+   "ingredientsText": "Пшеничная мука, говяжий фарш, репчатый лук, бульон, мацун, чеснок",
+   "quote": null,
+   "image": null,
+   "translations": {
+    "en": {
+     "name": "Mantapur",
+     "description": "A soup with small baked manti dumplings in broth with garlic yogurt.",
+     "history": "Mantapur is a winter dish: the manti are first baked golden and then covered with hot broth.",
+     "ingredientsText": "Wheat flour, ground beef, onion, broth, matsun yogurt, garlic"
+    }
+   }
+  },
+  {
+   "slug": "matnakash",
+   "cuisine": "armyanskaya",
+   "course": "выпечка",
+   "allergenCodes": [
+    "gluten"
+   ],
+   "name": "Матнакаш",
+   "description": "Мягкий овальный хлеб с золотистой корочкой и продольными бороздками. Пекут на дрожжах и смазывают чайной заваркой перед выпечкой.",
+   "history": "Название означает «вытянутый пальцами»: бороздки на хлебе делают пальцами.",
+   "ingredientsText": "Пшеничная мука, дрожжи, вода, сахар, соль",
+   "quote": null,
+   "image": null,
+   "translations": {
+    "en": {
+     "name": "Matnakash",
+     "description": "A soft oval bread with a golden crust and lengthwise grooves. It is leavened and brushed with tea before baking.",
+     "history": "The name means \"pulled by fingers\": the grooves on the loaf are made by hand.",
+     "ingredientsText": "Wheat flour, yeast, water, sugar, salt"
+    }
+   }
+  },
+  {
+   "slug": "matsun",
+   "cuisine": "armyanskaya",
+   "course": "напиток",
+   "allergenCodes": [
+    "lactose"
+   ],
+   "name": "Мацун",
+   "description": "Кисломолочный продукт, похожий на густой йогурт. Едят ложкой, добавляют в супы и соусы.",
+   "history": "Закваску мацуна в семьях передают поколениями. Мацун — основа многих армянских блюд, от тана до спаса.",
+   "ingredientsText": "Коровье молоко, закваска",
+   "quote": null,
+   "image": null,
+   "translations": {
+    "en": {
+     "name": "Matsun",
+     "description": "A fermented milk product similar to thick yogurt, eaten with a spoon and added to soups and sauces.",
+     "history": "Matsun starter is passed down through generations. It is the basis of many Armenian dishes, from tan to spas.",
+     "ingredientsText": "Cow's milk, starter culture"
+    }
+   }
+  },
+  {
+   "slug": "mchadi",
+   "cuisine": "gruzinskaya",
+   "course": "выпечка",
+   "allergenCodes": [],
+   "name": "Мчади",
+   "description": "Небольшие лепёшки из кукурузной муки без дрожжей, которые жарят на сухой сковороде. Едят с сыром, лобио и пхали.",
+   "history": "Мчади — традиционный хлеб западной Грузии. Из-за отсутствия пшеничной муки он подходит людям, избегающим глютена.",
+   "ingredientsText": "Кукурузная мука, вода, соль",
+   "quote": null,
+   "image": null,
+   "translations": {
+    "en": {
+     "name": "Mchadi",
+     "description": "Small unleavened cornmeal flatbreads cooked on a dry pan. Eaten with cheese, lobio and pkhali.",
+     "history": "Mchadi is the traditional bread of western Georgia. Since it contains no wheat flour, it suits people avoiding gluten.",
+     "ingredientsText": "Cornmeal, water, salt"
+    }
+   }
+  },
+  {
+   "slug": "megruli-hachapuri",
+   "cuisine": "gruzinskaya",
+   "course": "выпечка",
+   "allergenCodes": [
+    "gluten",
+    "lactose",
+    "eggs"
+   ],
+   "name": "Мегрельский хачапури",
+   "description": "Круглый хачапури, у которого сыр не только внутри, но и сверху: его посыпают сулугуни перед выпечкой. Получается очень сытная и сырная лепёшка.",
+   "history": "Происходит из Самегрело (Мегрелии) на западе Грузии, региона, известного острыми блюдами и любовью к сулугуни.",
+   "ingredientsText": "Пшеничная мука, мацони, яйцо, сулугуни, имеретинский сыр, сливочное масло",
+   "quote": null,
+   "image": null,
+   "translations": {
+    "en": {
+     "name": "Megrelian khachapuri",
+     "description": "A round khachapuri with cheese both inside and on top, sprinkled with sulguni before baking. The result is a rich, very cheesy flatbread.",
+     "history": "It comes from Samegrelo (Mingrelia) in western Georgia, a region known for spicy food and its love of sulguni cheese.",
+     "ingredientsText": "Wheat flour, matsoni yogurt, egg, sulguni, Imeretian cheese, butter"
+    }
+   }
+  },
+  {
+   "slug": "motal",
+   "cuisine": "azerbajdzhanskaya",
+   "course": "закуска",
+   "allergenCodes": [
+    "lactose"
+   ],
+   "name": "Мотал",
+   "description": "Солёный овечий сыр, который выдерживают в бурдюке из овечьей шкуры. У него острый вкус и характерный аромат.",
+   "history": "Мотал делают пастухи в горных районах. Выдержка в шкуре придаёт сыру особый вкус.",
+   "ingredientsText": "Овечье молоко, закваска, соль",
+   "quote": null,
+   "image": null,
+   "translations": {
+    "en": {
+     "name": "Motal cheese",
+     "description": "A salty sheep's cheese aged in a sheepskin, with a sharp taste and distinctive aroma.",
+     "history": "Motal is made by shepherds in mountain areas; ageing in sheepskin gives it its unique flavour.",
+     "ingredientsText": "Sheep's milk, rennet, salt"
+    }
+   }
+  },
+  {
+   "slug": "mtsvadi",
+   "cuisine": "gruzinskaya",
+   "course": "основное",
+   "allergenCodes": [],
+   "name": "Мцвади",
+   "description": "Грузинский шашлык из свинины или телятины, который жарят на углях виноградной лозы. Подают с тонко нарезанным луком и соусом ткемали.",
+   "history": "Жарка на углях виноградной лозы — давняя традиция винодельческих регионов, особенно Кахети. Лоза даёт мясу лёгкий дымный аромат.",
+   "ingredientsText": "Свинина или телятина, репчатый лук, соль, перец, гранатовый сок",
+   "quote": null,
+   "image": null,
+   "translations": {
+    "en": {
+     "name": "Mtsvadi",
+     "description": "Georgian skewered pork or veal grilled over grapevine embers. Served with thinly sliced onion and tkemali sauce.",
+     "history": "Grilling over grapevine embers is an old tradition of the wine regions, especially Kakheti. The vines give the meat a light smoky aroma.",
+     "ingredientsText": "Pork or veal, onion, salt, pepper, pomegranate juice"
+    }
+   }
+  },
+  {
+   "slug": "mutaki",
+   "cuisine": "azerbajdzhanskaya",
+   "course": "десерт",
+   "allergenCodes": [
+    "gluten",
+    "lactose",
+    "eggs",
+    "nuts",
+    "sugar"
+   ],
+   "name": "Мутаки",
+   "description": "Хрустящие трубочки из тонкого теста с начинкой из орехов и сахара, обсыпанные сахарной пудрой.",
+   "history": "Название переводится как «подушечка». Мутаки пекут в Баку и Гяндже к праздникам.",
+   "ingredientsText": "Пшеничная мука, сливочное масло, сметана, яйца, грецкие орехи, сахар",
+   "quote": null,
+   "image": null,
+   "translations": {
+    "en": {
+     "name": "Mutaki",
+     "description": "Crisp tubes of thin pastry filled with nuts and sugar and dusted with icing sugar.",
+     "history": "The name means \"little pillow\". Mutaki are baked in Baku and Ganja for celebrations.",
+     "ingredientsText": "Wheat flour, butter, sour cream, eggs, walnuts, sugar"
+    }
+   }
+  },
+  {
+   "slug": "narsharab",
+   "cuisine": "azerbajdzhanskaya",
+   "course": "соус",
+   "allergenCodes": [
+    "sugar"
+   ],
+   "name": "Наршараб",
+   "description": "Густой кисло-сладкий соус из уваренного гранатового сока. Подают к кебабам и рыбе.",
+   "history": "Наршараб варят осенью в Гейчае и Шемахе, где растут лучшие гранаты.",
+   "ingredientsText": "Гранатовый сок, соль, специи",
+   "quote": null,
+   "image": null,
+   "translations": {
+    "en": {
+     "name": "Narsharab",
+     "description": "A thick sweet-and-sour sauce of reduced pomegranate juice, served with kebabs and fish.",
+     "history": "Narsharab is made in autumn in Goychay and Shamakhi, where the best pomegranates grow.",
+     "ingredientsText": "Pomegranate juice, salt, spices"
+    }
+   }
+  },
+  {
+   "slug": "nasdzhyn",
+   "cuisine": "osetinskaya",
+   "course": "выпечка",
+   "allergenCodes": [
+    "gluten",
+    "lactose",
+    "sugar"
+   ],
+   "name": "Насджын",
+   "description": "Осетинский пирог с тыквой. Тонкое тесто, много начинки, сверху — растопленное сливочное масло.",
+   "history": "Осетинские пироги на праздник пекут по три — их связывают с солнцем, землёй и водой. Тыквенный пирог чуть сладкий, его пекут осенью после сбора урожая.",
+   "ingredientsText": "Пшеничная мука, дрожжи, кефир, сливочное масло, тыква, сахар или мёд",
+   "quote": null,
+   "image": null,
+   "translations": {
+    "en": {
+     "name": "Nasjyn",
+     "description": "An Ossetian pie with pumpkin. Thin dough, plenty of filling and melted butter on top.",
+     "history": "For celebrations Ossetian pies are baked in threes, linked to the sun, the earth and water. The pumpkin pie is slightly sweet and is baked in autumn after the harvest.",
+     "ingredientsText": "Wheat flour, yeast, kefir, butter, pumpkin, sugar or honey"
+    }
+   }
+  },
+  {
+   "slug": "nazuk",
+   "cuisine": "armyanskaya",
+   "course": "десерт",
+   "allergenCodes": [
+    "gluten",
+    "lactose",
+    "eggs",
+    "sugar"
+   ],
+   "name": "Назук",
+   "description": "Рулет из сдобного дрожжевого теста с рассыпчатой сладкой начинкой из муки, масла и сахара. Нарезают косыми ломтиками.",
+   "history": "Назук подают к чаю и кофе. Его часто пекут к Рождеству и Пасхе.",
+   "ingredientsText": "Пшеничная мука, сливочное масло, сметана, дрожжи, яйцо, сахар, ваниль",
+   "quote": null,
+   "image": null,
+   "translations": {
+    "en": {
+     "name": "Nazook",
+     "description": "A roll of rich yeast dough with a crumbly sweet filling of flour, butter and sugar, cut on the diagonal.",
+     "history": "Nazook is served with tea and coffee and often baked for Christmas and Easter.",
+     "ingredientsText": "Wheat flour, butter, sour cream, yeast, egg, sugar, vanilla"
+    }
+   }
+  },
+  {
+   "slug": "ostri",
+   "cuisine": "gruzinskaya",
+   "course": "основное",
+   "allergenCodes": [],
+   "name": "Остри",
+   "description": "Острое рагу из говядины в густом томатном соусе с маринованными огурцами, чесноком и пряностями. Подают с хлебом или картофелем.",
+   "history": "Название происходит от слова, означающего «острый». Остри — популярное блюдо тбилисских духанов.",
+   "ingredientsText": "Говядина, помидоры, томатная паста, маринованные огурцы, репчатый лук, чеснок, острый перец, хмели-сунели",
+   "quote": null,
+   "image": null,
+   "translations": {
+    "en": {
+     "name": "Ostri",
+     "description": "A spicy beef stew in a thick tomato sauce with pickled cucumbers, garlic and spices. Served with bread or potatoes.",
+     "history": "The name comes from a word for \"spicy\". Ostri is a popular dish in Tbilisi taverns.",
+     "ingredientsText": "Beef, tomatoes, tomato paste, pickled cucumbers, onion, garlic, chilli, khmeli suneli"
+    }
+   }
+  },
+  {
+   "slug": "pasta-adyg",
+   "cuisine": "cherkesskaya",
+   "course": "гарнир",
+   "allergenCodes": [],
+   "name": "Паста",
+   "description": "Очень густая пшённая каша, которую режут ломтями, как хлеб, и подают с мясом и щипсом.",
+   "history": "Паста заменяла адыгам хлеб. Её нарезают ниткой, чтобы не помять.",
+   "ingredientsText": "Пшено, вода, соль",
+   "quote": null,
+   "image": null,
+   "translations": {
+    "en": {
+     "name": "Pasta (millet porridge)",
+     "description": "A very thick millet porridge that is sliced like bread and served with meat and shchips.",
+     "history": "Pasta took the place of bread for the Adyghe; it is cut with a thread so as not to squash it.",
+     "ingredientsText": "Millet, water, salt"
+    }
+   }
+  },
+  {
+   "slug": "pasuc-tolma",
+   "cuisine": "armyanskaya",
+   "course": "основное",
+   "allergenCodes": [],
+   "name": "Пасуц толма",
+   "description": "Постная толма: капустные листья, начинённые фасолью, чечевицей, нутом, булгуром и рисом с пряностями.",
+   "history": "Пасуц толму готовят в Великий пост. Количество бобовых в начинке символизирует изобилие.",
+   "ingredientsText": "Капуста, фасоль, чечевица, нут, булгур, рис, томатная паста, репчатый лук, пряности",
+   "quote": null,
+   "image": null,
+   "translations": {
+    "en": {
+     "name": "Pasuts tolma",
+     "description": "Lenten tolma: cabbage leaves stuffed with beans, lentils, chickpeas, bulgur and rice with spices.",
+     "history": "Pasuts tolma is made during Lent. The many pulses in the filling symbolise abundance.",
+     "ingredientsText": "Cabbage, beans, lentils, chickpeas, bulgur, rice, tomato paste, onion, spices"
+    }
+   }
+  },
+  {
+   "slug": "pelamushi",
+   "cuisine": "gruzinskaya",
+   "course": "десерт",
+   "allergenCodes": [
+    "gluten",
+    "sugar"
+   ],
+   "name": "Пеламуши",
+   "description": "Густой кисель из виноградного сока и муки, который застывает в формах. Часто посыпают орехами.",
+   "history": "Пеламуши — побочный продукт виноделия, как и чурчхела: из того же сгущённого сока делают оба лакомства.",
+   "ingredientsText": "Виноградный сок, пшеничная или кукурузная мука",
+   "quote": null,
+   "image": null,
+   "translations": {
+    "en": {
+     "name": "Pelamushi",
+     "description": "A thick pudding of grape juice and flour that sets in moulds. Often sprinkled with nuts.",
+     "history": "Like churchkhela, pelamushi is a by-product of winemaking — both treats are made from the same thickened juice.",
+     "ingredientsText": "Grape juice, wheat or corn flour"
+    }
+   }
+  },
+  {
+   "slug": "piti",
+   "cuisine": "azerbajdzhanskaya",
+   "course": "суп",
+   "allergenCodes": [],
+   "name": "Пити",
+   "description": "Суп из баранины с нутом, каштанами, айвой и шафраном, который томят в порционном глиняном горшочке. Сначала едят бульон с хлебом, потом мясо.",
+   "history": "Пити — визитная карточка Шеки. Горшочки ставят в печь на несколько часов, и курдючный жир делает бульон насыщенным.",
+   "ingredientsText": "Баранина, курдючный жир, нут, каштаны, айва, репчатый лук, шафран",
+   "quote": null,
+   "image": null,
+   "translations": {
+    "en": {
+     "name": "Piti",
+     "description": "A lamb soup with chickpeas, chestnuts, quince and saffron, slow-cooked in an individual clay pot. You eat the broth with bread first, then the meat.",
+     "history": "Piti is the signature dish of Shaki. The pots stay in the oven for hours, and tail fat makes the broth rich.",
+     "ingredientsText": "Lamb, tail fat, chickpeas, chestnuts, quince, onion, saffron"
+    }
+   }
+  },
+  {
+   "slug": "pkhali",
+   "cuisine": "gruzinskaya",
+   "course": "закуска",
+   "allergenCodes": [
+    "nuts"
+   ],
+   "name": "Пхали",
+   "description": "Закуска из рубленых овощей или зелени — шпината, свёклы, капусты — смешанных с ореховой пастой, чесноком и специями. Её формуют в шарики и украшают зёрнами граната.",
+   "history": "Пхали — одно из главных постных блюд грузинского стола. Вариантов столько, сколько съедобной зелени растёт в саду.",
+   "ingredientsText": "Шпинат или свёкла, грецкие орехи, чеснок, кинза, хмели-сунели, винный уксус, гранат",
+   "quote": null,
+   "image": null,
+   "translations": {
+    "en": {
+     "name": "Pkhali",
+     "description": "A starter of chopped vegetables or greens such as spinach, beetroot or cabbage, mixed with walnut paste, garlic and spices. It is shaped into balls and garnished with pomegranate seeds.",
+     "history": "Pkhali is one of the main fasting dishes of the Georgian table. There are as many versions as there are edible greens in the garden.",
+     "ingredientsText": "Spinach or beetroot, walnuts, garlic, coriander, khmeli suneli, wine vinegar, pomegranate"
+    }
+   }
+  },
+  {
+   "slug": "pokhindz",
+   "cuisine": "armyanskaya",
+   "course": "десерт",
+   "allergenCodes": [
+    "gluten",
+    "sugar"
+   ],
+   "name": "Похиндз",
+   "description": "Обжаренная пшеничная мука, смешанная с мёдом или сахаром и маслом. Её едят ложкой или скатывают в шарики.",
+   "history": "Похиндз — традиционное новогоднее лакомство. Его готовили в каждой семье и угощали детей.",
+   "ingredientsText": "Пшеничная мука, мёд или сахар, сливочное масло",
+   "quote": null,
+   "image": null,
+   "translations": {
+    "en": {
+     "name": "Pokhindz",
+     "description": "Toasted wheat flour mixed with honey or sugar and butter, eaten with a spoon or rolled into balls.",
+     "history": "Pokhindz is a traditional New Year treat made in every family and given to children.",
+     "ingredientsText": "Wheat flour, honey or sugar, butter"
+    }
+   }
+  },
+  {
+   "slug": "sabzi-govurma",
+   "cuisine": "azerbajdzhanskaya",
+   "course": "основное",
+   "allergenCodes": [],
+   "name": "Сабзи-говурма",
+   "description": "Тушёная баранина с большим количеством зелени — шпината, кинзы, укропа, зелёного лука — и сушёной алычой.",
+   "history": "«Сабзи» значит «зелень». Блюдо особенно популярно весной, когда появляется молодая зелень.",
+   "ingredientsText": "Баранина, шпинат, кинза, укроп, зелёный лук, сушёная алыча, репчатый лук",
+   "quote": null,
+   "image": null,
+   "translations": {
+    "en": {
+     "name": "Sabzi govurma",
+     "description": "Lamb stewed with plenty of greens — spinach, coriander, dill, spring onion — and dried sour plums.",
+     "history": "Sabzi means \"greens\". The dish is especially popular in spring when young herbs appear.",
+     "ingredientsText": "Lamb, spinach, coriander, dill, spring onion, dried sour plums, onion"
+    }
+   }
+  },
+  {
+   "slug": "sadzh",
+   "cuisine": "azerbajdzhanskaya",
+   "course": "основное",
+   "allergenCodes": [],
+   "name": "Садж",
+   "description": "Мясо, картофель, баклажаны и перцы, обжаренные на выпуклой железной сковороде садж и поданные прямо на ней.",
+   "history": "Садж — и сковорода, и блюдо. Под ней часто держат угли, чтобы еда оставалась горячей на столе.",
+   "ingredientsText": "Баранина или курица, картофель, баклажаны, помидоры, сладкий перец, репчатый лук",
+   "quote": null,
+   "image": null,
+   "translations": {
+    "en": {
+     "name": "Saj",
+     "description": "Meat, potatoes, aubergines and peppers fried on a domed iron pan called saj and served right on it.",
+     "history": "Saj is both the pan and the dish. Coals are often kept underneath so the food stays hot at the table.",
+     "ingredientsText": "Lamb or chicken, potatoes, aubergines, tomatoes, sweet peppers, onion"
+    }
+   }
+  },
+  {
+   "slug": "satsebeli",
+   "cuisine": "gruzinskaya",
+   "course": "соус",
+   "allergenCodes": [],
+   "name": "Сацебели",
+   "description": "Томатный соус с чесноком, острым перцем и зеленью. Подают к мясу, птице и хачапури.",
+   "history": "Само слово «сацебели» означает «соус» вообще. Раньше его готовили из ягод и фруктов, томатный вариант появился позже.",
+   "ingredientsText": "Помидоры, чеснок, острый перец, кинза, базилик, соль",
+   "quote": null,
+   "image": null,
+   "translations": {
+    "en": {
+     "name": "Satsebeli",
+     "description": "A tomato sauce with garlic, chilli and herbs. Served with meat, poultry and khachapuri.",
+     "history": "The word satsebeli simply means \"sauce\". It was once made from berries and fruit; the tomato version came later.",
+     "ingredientsText": "Tomatoes, garlic, chilli, coriander, basil, salt"
+    }
+   }
+  },
+  {
+   "slug": "shchips",
+   "cuisine": "cherkesskaya",
+   "course": "соус",
+   "allergenCodes": [
+    "gluten",
+    "lactose"
+   ],
+   "name": "Щипс",
+   "description": "Густой соус из бульона или сливок, загущённый обжаренной мукой, с чесноком и красным перцем.",
+   "history": "Щипс подают с мясом, курицей и пастой. Без него трудно представить адыгский стол.",
+   "ingredientsText": "Бульон или сливки, пшеничная мука, сливочное масло, чеснок, красный перец",
+   "quote": null,
+   "image": null,
+   "translations": {
+    "en": {
+     "name": "Shchips",
+     "description": "A thick sauce of broth or cream thickened with toasted flour, with garlic and red pepper.",
+     "history": "Shchips is served with meat, chicken and pasta and is hard to imagine an Adyghe table without.",
+     "ingredientsText": "Broth or cream, wheat flour, butter, garlic, red pepper"
+    }
+   }
+  },
+  {
+   "slug": "shekerbura",
+   "cuisine": "azerbajdzhanskaya",
+   "course": "десерт",
+   "allergenCodes": [
+    "gluten",
+    "lactose",
+    "eggs",
+    "nuts",
+    "sugar"
+   ],
+   "name": "Шекербура",
+   "description": "Пирожок в форме полумесяца с начинкой из толчёного миндаля или ореха с сахаром. Сверху — узор, нанесённый щипчиками.",
+   "history": "Шекербуру пекут к Новрузу. Узор на ней называют нахыш, и у каждой хозяйки он свой.",
+   "ingredientsText": "Пшеничная мука, сливочное масло, яйца, молоко, дрожжи, миндаль или фундук, сахар, кардамон",
+   "quote": null,
+   "image": null,
+   "translations": {
+    "en": {
+     "name": "Shakarbura",
+     "description": "A crescent-shaped pastry filled with ground almonds or walnuts and sugar, decorated on top with a pattern made by tweezers.",
+     "history": "Shakarbura is baked for Novruz. The pattern on top is called nakhysh, and every cook has her own.",
+     "ingredientsText": "Wheat flour, butter, eggs, milk, yeast, almonds or hazelnuts, sugar, cardamom"
+    }
+   }
+  },
+  {
+   "slug": "shekerchorek",
+   "cuisine": "azerbajdzhanskaya",
+   "course": "десерт",
+   "allergenCodes": [
+    "gluten",
+    "lactose",
+    "eggs",
+    "sugar"
+   ],
+   "name": "Шекерчорек",
+   "description": "Рассыпчатое песочное печенье из муки, масла и сахара. Тает во рту.",
+   "history": "Шекерчорек пекут к Новрузу вместе с другими сладостями праздничного стола.",
+   "ingredientsText": "Пшеничная мука, сливочное масло, сахарная пудра, яичный желток, кардамон",
+   "quote": null,
+   "image": null,
+   "translations": {
+    "en": {
+     "name": "Shakarchorek",
+     "description": "A crumbly shortbread of flour, butter and sugar that melts in the mouth.",
+     "history": "Shakarchorek is baked for Novruz along with the other sweets of the festive table.",
+     "ingredientsText": "Wheat flour, butter, icing sugar, egg yolk, cardamom"
+    }
+   }
+  },
+  {
+   "slug": "sherbet",
+   "cuisine": "azerbajdzhanskaya",
+   "course": "напиток",
+   "allergenCodes": [
+    "sugar"
+   ],
+   "name": "Шербет",
+   "description": "Сладкий охлаждённый напиток из фруктового сока, лепестков роз, базилика или шафрана. Подают к плову.",
+   "history": "Шербет пьют на свадьбах и торжествах. Цвет и аромат напитка зависят от сезона.",
+   "ingredientsText": "Вода, сахар, лимонный сок, лепестки роз или семена базилика, шафран",
+   "quote": null,
+   "image": null,
+   "translations": {
+    "en": {
+     "name": "Sherbet",
+     "description": "A sweet chilled drink of fruit juice, rose petals, basil or saffron, served with pilaf.",
+     "history": "Sherbet is drunk at weddings and celebrations; its colour and aroma change with the season.",
+     "ingredientsText": "Water, sugar, lemon juice, rose petals or basil seeds, saffron"
+    }
+   }
+  },
+  {
+   "slug": "shilaplavi",
+   "cuisine": "gruzinskaya",
+   "course": "основное",
+   "allergenCodes": [],
+   "name": "Шилаплави",
+   "description": "Рис, сваренный с бараниной и луком до кремовой, чуть вязкой консистенции. Ближе к ризотто, чем к рассыпчатому плову.",
+   "history": "Шилаплави готовят в Сванетии и Раче на праздники. Его варят в больших котлах, чтобы хватило всем гостям.",
+   "ingredientsText": "Рис, баранина, репчатый лук, сванская соль, растительное масло",
+   "quote": null,
+   "image": null,
+   "translations": {
+    "en": {
+     "name": "Shilaplavi",
+     "description": "Rice cooked with lamb and onion to a creamy, slightly sticky consistency — closer to risotto than to fluffy pilaf.",
+     "history": "Shilaplavi is made in Svaneti and Racha for celebrations, cooked in large pots so there is enough for every guest.",
+     "ingredientsText": "Rice, lamb, onion, Svan salt, vegetable oil"
+    }
+   }
+  },
+  {
+   "slug": "shirin-plov",
+   "cuisine": "azerbajdzhanskaya",
+   "course": "гарнир",
+   "allergenCodes": [
+    "sugar",
+    "nuts"
+   ],
+   "name": "Ширин плов",
+   "description": "Сладкий плов с сухофруктами, каштанами и шафраном, который подают на праздничном столе.",
+   "history": "«Ширин» значит «сладкий». Это один из многих видов азербайджанского плова.",
+   "ingredientsText": "Рис, изюм, курага, каштаны, сливочное масло, шафран, сахар",
+   "quote": null,
+   "image": null,
+   "translations": {
+    "en": {
+     "name": "Sweet pilaf",
+     "description": "A sweet pilaf with dried fruit, chestnuts and saffron, served at festive tables.",
+     "history": "Shirin means \"sweet\"; it is one of many kinds of Azerbaijani pilaf.",
+     "ingredientsText": "Rice, raisins, dried apricots, chestnuts, butter, saffron, sugar"
+    }
+   }
+  },
+  {
+   "slug": "shkmeruli",
+   "cuisine": "gruzinskaya",
+   "course": "основное",
+   "allergenCodes": [
+    "lactose"
+   ],
+   "name": "Шкмерули",
+   "description": "Жареный цыплёнок, запечённый в сливочно-чесночном соусе в глиняной сковороде кеци. Чеснока не жалеют.",
+   "history": "Блюдо из села Шкмери в Раче. Глиняная посуда долго держит тепло, поэтому шкмерули подают прямо в ней.",
+   "ingredientsText": "Цыплёнок, сливки или молоко, чеснок, сливочное масло, соль",
+   "quote": null,
+   "image": null,
+   "translations": {
+    "en": {
+     "name": "Shkmeruli",
+     "description": "Fried chicken baked in a creamy garlic sauce in a clay pan called ketsi. Garlic is used generously.",
+     "history": "The dish comes from the village of Shkmeri in Racha. Clay pans hold heat for a long time, so shkmeruli is served right in them.",
+     "ingredientsText": "Chicken, cream or milk, garlic, butter, salt"
+    }
+   }
+  },
+  {
+   "slug": "shoti",
+   "cuisine": "gruzinskaya",
+   "course": "выпечка",
+   "allergenCodes": [
+    "gluten"
+   ],
+   "name": "Шоти",
+   "description": "Хлеб в форме каноэ, который пекут на стенках круглой глиняной печи тоне. Хрустящий снаружи и мягкий внутри.",
+   "history": "Пекарни-тоне можно найти в каждом районе Тбилиси. Горячий шоти покупают утром и едят прямо по дороге.",
+   "ingredientsText": "Пшеничная мука, дрожжи, вода, соль",
+   "quote": null,
+   "image": null,
+   "translations": {
+    "en": {
+     "name": "Shoti",
+     "description": "Canoe-shaped bread baked on the walls of a round clay oven called tone. Crisp outside and soft inside.",
+     "history": "Tone bakeries are found in every district of Tbilisi. People buy hot shoti in the morning and eat it on the way.",
+     "ingredientsText": "Wheat flour, yeast, water, salt"
+    }
+   }
+  },
+  {
+   "slug": "siskal",
+   "cuisine": "chechenskaya",
+   "course": "выпечка",
+   "allergenCodes": [],
+   "name": "Сискал",
+   "description": "Простая лепёшка из кукурузной муки, которую пекут на сковороде или в золе. Подают к мясу и бульону.",
+   "history": "Сискал — повседневный хлеб чеченцев. В горах его пекли прямо в золе очага.",
+   "ingredientsText": "Кукурузная мука, вода, соль",
+   "quote": null,
+   "image": null,
+   "translations": {
+    "en": {
+     "name": "Siskal",
+     "description": "A simple cornbread cooked in a pan or in embers, served with meat and broth.",
+     "history": "Siskal is the everyday bread of the Chechens; in the mountains it was baked right in the hearth's ashes.",
+     "ingredientsText": "Cornmeal, water, salt"
+    }
+   }
+  },
+  {
+   "slug": "spas",
+   "cuisine": "armyanskaya",
+   "course": "суп",
+   "allergenCodes": [
+    "gluten",
+    "lactose",
+    "eggs"
+   ],
+   "name": "Спас",
+   "description": "Горячий суп на мацуне с пшеничной крупой, яйцом и зеленью. Нежный, кисловатый и согревающий.",
+   "history": "Спас — домашний суп, который варят зимой. Чтобы мацун не свернулся, его постоянно помешивают в одну сторону.",
+   "ingredientsText": "Мацун, пшеничная крупа, яйцо, сливочное масло, репчатый лук, мята, кинза",
+   "quote": null,
+   "image": null,
+   "translations": {
+    "en": {
+     "name": "Spas",
+     "description": "A hot yogurt soup made with matsun, wheat berries, egg and herbs. Gentle, tangy and warming.",
+     "history": "Spas is a home-style winter soup. To stop the yogurt curdling, it is stirred constantly in one direction.",
+     "ingredientsText": "Matsun yogurt, wheat berries, egg, butter, onion, mint, coriander"
+    }
+   }
+  },
+  {
+   "slug": "sudzhuk",
+   "cuisine": "armyanskaya",
+   "course": "закуска",
+   "allergenCodes": [],
+   "name": "Суджук",
+   "description": "Сыровяленая колбаса из говядины с чесноком и пряностями, плоской формы. Нарезают тонкими ломтиками.",
+   "history": "Суджук известен по всему региону от Армении до Турции. В армянских семьях его готовили осенью, когда становилось прохладно.",
+   "ingredientsText": "Говядина, говяжий жир, чеснок, тмин, паприка, перец, соль",
+   "quote": null,
+   "image": null,
+   "translations": {
+    "en": {
+     "name": "Sujuk",
+     "description": "A flat, air-dried beef sausage with garlic and spices, cut into thin slices.",
+     "history": "Sujuk is known across the region from Armenia to Turkey. Armenian families made it in autumn when the weather turned cool.",
+     "ingredientsText": "Beef, beef fat, garlic, cumin, paprika, pepper, salt"
+    }
+   }
+  },
+  {
+   "slug": "suluguni",
+   "cuisine": "gruzinskaya",
+   "course": "закуска",
+   "allergenCodes": [
+    "lactose"
+   ],
+   "name": "Сулугуни",
+   "description": "Рассольный сыр с упругой слоистой текстурой и солоноватым вкусом. Его едят свежим, жареным и копчёным.",
+   "history": "Сулугуни родом из Самегрело. Сыр вымешивают в горячей воде, поэтому он тянется и расслаивается.",
+   "ingredientsText": "Коровье молоко, закваска, соль",
+   "quote": null,
+   "image": null,
+   "translations": {
+    "en": {
+     "name": "Sulguni",
+     "description": "A brined cheese with an elastic, layered texture and a salty taste. It is eaten fresh, fried and smoked.",
+     "history": "Sulguni comes from Samegrelo. The cheese is kneaded in hot water, which makes it stretchy and layered.",
+     "ingredientsText": "Cow's milk, rennet, salt"
+    }
+   }
+  },
+  {
+   "slug": "surj",
+   "cuisine": "armyanskaya",
+   "course": "напиток",
+   "allergenCodes": [
+    "sugar"
+   ],
+   "name": "Сурдж",
+   "description": "Крепкий кофе тонкого помола, сваренный в джезве. Подают в маленьких чашках с гущей.",
+   "history": "Кофе — часть армянского гостеприимства. По гуще после чашки нередко гадают.",
+   "ingredientsText": "Кофе тонкого помола, вода, сахар по вкусу",
+   "quote": null,
+   "image": null,
+   "translations": {
+    "en": {
+     "name": "Armenian coffee",
+     "description": "Strong, finely ground coffee brewed in a jazzve pot and served in small cups with the grounds.",
+     "history": "Coffee is part of Armenian hospitality, and the grounds are often read after the cup is finished.",
+     "ingredientsText": "Finely ground coffee, water, sugar to taste"
+    }
+   }
+  },
+  {
+   "slug": "tan",
+   "cuisine": "armyanskaya",
+   "course": "напиток",
+   "allergenCodes": [
+    "lactose"
+   ],
+   "name": "Тан",
+   "description": "Освежающий напиток из мацуна, разведённого холодной водой с щепоткой соли. Пьют в жару и к мясу.",
+   "history": "Тан — самый простой способ использовать мацун. Его подают почти в каждой армянской закусочной.",
+   "ingredientsText": "Мацун, холодная вода, соль",
+   "quote": null,
+   "image": null,
+   "translations": {
+    "en": {
+     "name": "Tan",
+     "description": "A refreshing drink of matsun yogurt diluted with cold water and a pinch of salt. Drunk in hot weather and with meat.",
+     "history": "Tan is the simplest way to use matsun yogurt and is served in almost every Armenian eatery.",
+     "ingredientsText": "Matsun yogurt, cold water, salt"
+    }
+   }
+  },
+  {
+   "slug": "tava-kebab",
+   "cuisine": "azerbajdzhanskaya",
+   "course": "основное",
+   "allergenCodes": [
+    "eggs"
+   ],
+   "name": "Тава-кебаб",
+   "description": "Котлеты из бараньего фарша, запечённые на сковороде тава с яйцом и помидорами.",
+   "history": "«Тава» — это сковорода, в которой блюдо и подают. Кебаб получается сочным благодаря яйцу.",
+   "ingredientsText": "Баранина, репчатый лук, яйца, помидоры, соль, перец",
+   "quote": null,
+   "image": null,
+   "translations": {
+    "en": {
+     "name": "Tava kebab",
+     "description": "Minced lamb patties baked in a tava pan with egg and tomatoes.",
+     "history": "Tava is the pan in which the dish is served; the egg keeps the kebab juicy.",
+     "ingredientsText": "Lamb, onion, eggs, tomatoes, salt, pepper"
+    }
+   }
+  },
+  {
+   "slug": "tendir-chorek",
+   "cuisine": "azerbajdzhanskaya",
+   "course": "выпечка",
+   "allergenCodes": [
+    "gluten"
+   ],
+   "name": "Тендир-чорек",
+   "description": "Круглый хлеб, который пекут на стенках глиняной печи тендир. С хрустящей корочкой и мягким мякишем.",
+   "history": "Тендир есть почти в каждом деревенском дворе. Хлеб из него считается самым вкусным в первые часы после выпечки.",
+   "ingredientsText": "Пшеничная мука, дрожжи, вода, соль",
+   "quote": null,
+   "image": null,
+   "translations": {
+    "en": {
+     "name": "Tandir bread",
+     "description": "A round bread baked on the walls of a clay tandir oven, with a crisp crust and soft crumb.",
+     "history": "Almost every village yard has a tandir, and its bread is thought to taste best in the first hours after baking.",
+     "ingredientsText": "Wheat flour, yeast, water, salt"
+    }
+   }
+  },
+  {
+   "slug": "tika-kebab",
+   "cuisine": "azerbajdzhanskaya",
+   "course": "основное",
+   "allergenCodes": [],
+   "name": "Тикя-кебаб",
+   "description": "Кусочки маринованной баранины, нанизанные на шампур вперемешку с курдючным жиром и пожаренные на углях.",
+   "history": "«Тикя» значит «кусок». Это самый распространённый вид кебаба, без которого не обходится ни одно застолье.",
+   "ingredientsText": "Баранина, курдючный жир, репчатый лук, соль, перец, сумах",
+   "quote": null,
+   "image": null,
+   "translations": {
+    "en": {
+     "name": "Tika kebab",
+     "description": "Pieces of marinated lamb threaded on skewers with bits of tail fat and grilled over coals.",
+     "history": "Tika means \"piece\". It is the most common kind of kebab and appears at every feast.",
+     "ingredientsText": "Lamb, tail fat, onion, salt, pepper, sumac"
+    }
+   }
+  },
+  {
+   "slug": "tkemali",
+   "cuisine": "gruzinskaya",
+   "course": "соус",
+   "allergenCodes": [],
+   "name": "Ткемали",
+   "description": "Кисло-острый соус из алычи с чесноком, укропом, кинзой и мятой омбало. Главная приправа к шашлыку и жареному картофелю.",
+   "history": "Ткемали называют и сам соус, и сорт алычи, из которой его варят. Существует зелёный ткемали из незрелых плодов и красный — из спелых.",
+   "ingredientsText": "Алыча, чеснок, укроп, кинза, мята омбало, острый перец, соль",
+   "quote": null,
+   "image": null,
+   "translations": {
+    "en": {
+     "name": "Tkemali",
+     "description": "A sour and spicy sauce made from cherry plums with garlic, dill, coriander and pennyroyal mint. The go-to condiment for kebabs and fried potatoes.",
+     "history": "Tkemali names both the sauce and the cherry plum it is made from. There is green tkemali from unripe fruit and red from ripe.",
+     "ingredientsText": "Cherry plums, garlic, dill, coriander, pennyroyal mint, chilli, salt"
+    }
+   }
+  },
+  {
+   "slug": "tsakharadzhyn",
+   "cuisine": "osetinskaya",
+   "course": "выпечка",
+   "allergenCodes": [
+    "gluten",
+    "lactose"
+   ],
+   "name": "Цахараджын",
+   "description": "Осетинский пирог со свекольной ботвой и сыром. Тонкое тесто, много начинки, сверху — растопленное сливочное масло.",
+   "history": "Осетинские пироги на праздник пекут по три — их связывают с солнцем, землёй и водой. Цахараджын пекут весной и летом, пока ботва молодая и нежная.",
+   "ingredientsText": "Пшеничная мука, дрожжи, кефир, сливочное масло, свекольная ботва, осетинский сыр, зелёный лук",
+   "quote": null,
+   "image": null,
+   "translations": {
+    "en": {
+     "name": "Tsakharajyn",
+     "description": "An Ossetian pie with beet greens and cheese. Thin dough, plenty of filling and melted butter on top.",
+     "history": "For celebrations Ossetian pies are baked in threes, linked to the sun, the earth and water. Tsakharajyn is baked in spring and summer while the beet greens are young and tender.",
+     "ingredientsText": "Wheat flour, yeast, kefir, butter, beet greens, Ossetian cheese, spring onion"
+    }
+   }
+  },
+  {
+   "slug": "ttu-lavash",
+   "cuisine": "armyanskaya",
+   "course": "десерт",
+   "allergenCodes": [],
+   "name": "Тту лаваш",
+   "description": "Тонкая кисло-сладкая пастила из протёртых слив, абрикосов или кизила, высушенная на солнце листами.",
+   "history": "Название переводится как «кислый лаваш». Пастилу заготавливали летом, чтобы зимой были витамины.",
+   "ingredientsText": "Сливы, абрикосы или кизил",
+   "quote": null,
+   "image": null,
+   "translations": {
+    "en": {
+     "name": "Ttu lavash",
+     "description": "A thin sweet-and-sour fruit leather of puréed plums, apricots or cornelian cherries, sun-dried in sheets.",
+     "history": "The name means \"sour lavash\". It was made in summer so there would be vitamins in winter.",
+     "ingredientsText": "Plums, apricots or cornelian cherries"
+    }
+   }
+  },
+  {
+   "slug": "tzhvzhik",
+   "cuisine": "armyanskaya",
+   "course": "основное",
+   "allergenCodes": [],
+   "name": "Тжвжик",
+   "description": "Жареная печень и другие субпродукты с луком, помидорами и специями. Быстрое и сытное блюдо.",
+   "history": "Тжвжик готовили сразу после забоя скота из самых свежих субпродуктов. Блюдо известно по одноимённому армянскому фильму.",
+   "ingredientsText": "Говяжья или баранья печень, почки, сердце, репчатый лук, помидоры, перец, кинза",
+   "quote": null,
+   "image": null,
+   "translations": {
+    "en": {
+     "name": "Tjvjik",
+     "description": "Fried liver and other offal with onion, tomatoes and spices. A quick, hearty dish.",
+     "history": "Tjvjik was cooked right after slaughter from the freshest offal. The dish is known from an Armenian film of the same name.",
+     "ingredientsText": "Beef or lamb liver, kidneys, heart, onion, tomatoes, pepper, coriander"
+    }
+   }
+  },
+  {
+   "slug": "ualibakh",
+   "cuisine": "osetinskaya",
+   "course": "выпечка",
+   "allergenCodes": [
+    "gluten",
+    "lactose"
+   ],
+   "name": "Уалибах",
+   "description": "Осетинский пирог с сыром. Тонкое тесто, много начинки, сверху — растопленное сливочное масло.",
+   "history": "Осетинские пироги на праздник пекут по три — их связывают с солнцем, землёй и водой. Уалибах — самый распространённый из осетинских пирогов, его пекут почти каждый день.",
+   "ingredientsText": "Пшеничная мука, дрожжи, кефир, сливочное масло, осетинский сыр",
+   "quote": null,
+   "image": null,
+   "translations": {
+    "en": {
+     "name": "Walibakh",
+     "description": "An Ossetian pie with cheese. Thin dough, plenty of filling and melted butter on top.",
+     "history": "For celebrations Ossetian pies are baked in threes, linked to the sun, the earth and water. Walibakh is the most common Ossetian pie and is baked almost every day.",
+     "ingredientsText": "Wheat flour, yeast, kefir, butter, Ossetian cheese"
+    }
+   }
+  },
+  {
+   "slug": "uch-badzhi",
+   "cuisine": "azerbajdzhanskaya",
+   "course": "основное",
+   "allergenCodes": [],
+   "name": "Уч баджи",
+   "description": "«Три сестры» — фаршированные мясом и рисом баклажаны, помидоры и сладкие перцы, тушённые вместе.",
+   "history": "Название связано с тем, что три овоща готовят в одной кастрюле. Это летний вариант долмы.",
+   "ingredientsText": "Баклажаны, помидоры, сладкий перец, баранина, рис, репчатый лук, зелень",
+   "quote": null,
+   "image": null,
+   "translations": {
+    "en": {
+     "name": "Three sisters dolma",
+     "description": "\"Three sisters\": aubergines, tomatoes and sweet peppers stuffed with meat and rice and stewed together.",
+     "history": "The name comes from cooking the three vegetables in one pot. It is a summer version of dolma.",
+     "ingredientsText": "Aubergines, tomatoes, sweet peppers, lamb, rice, onion, herbs"
+    }
+   }
+  },
+  {
+   "slug": "urbech",
+   "cuisine": "avarskaya",
+   "course": "соус",
+   "allergenCodes": [
+    "nuts"
+   ],
+   "name": "Урбеч",
+   "description": "Густая паста из перетёртых на каменных жерновах семян льна, косточек абрикоса или орехов. Едят с мёдом и маслом.",
+   "history": "Урбеч в горах брали в дорогу как быстрый источник сил.",
+   "ingredientsText": "Семена льна, косточки абрикоса или орехи",
+   "quote": null,
+   "image": null,
+   "translations": {
+    "en": {
+     "name": "Urbech",
+     "description": "A thick paste of flax seeds, apricot kernels or nuts ground on millstones, eaten with honey and butter.",
+     "history": "In the mountains urbech was taken on journeys as a quick source of energy.",
+     "ingredientsText": "Flax seeds, apricot kernels or nuts"
+    }
+   }
+  },
+  {
+   "slug": "zhingyalov-hats",
+   "cuisine": "armyanskaya",
+   "course": "выпечка",
+   "allergenCodes": [
+    "gluten"
+   ],
+   "name": "Жингялов хац",
+   "description": "Тонкая лепёшка, начинённая десятками видов мелко нарезанной зелени. Её жарят на сухой сковороде и едят горячей.",
+   "history": "Визитная карточка Арцаха. Для одной лепёшки собирают до 20 видов дикорастущей и садовой зелени.",
+   "ingredientsText": "Пшеничная мука, вода, шпинат, щавель, крапива, кинза, укроп, зелёный лук, растительное масло",
+   "quote": null,
+   "image": null,
+   "translations": {
+    "en": {
+     "name": "Zhingyalov hats",
+     "description": "A thin flatbread filled with dozens of kinds of finely chopped greens, cooked on a dry pan and eaten hot.",
+     "history": "The signature dish of Artsakh. Up to 20 kinds of wild and garden greens go into a single flatbread.",
+     "ingredientsText": "Wheat flour, water, spinach, sorrel, nettle, coriander, dill, spring onion, vegetable oil"
+    }
+   }
+  },
+  {
+   "slug": "zhizhig-chorpa",
+   "cuisine": "chechenskaya",
+   "course": "суп",
+   "allergenCodes": [],
+   "name": "Жижиг-чорпа",
+   "description": "Наваристый мясной бульон с картофелем и зеленью. Его подают отдельно к жижиг-галнашу.",
+   "history": "«Чорпа» значит «бульон». Его пьют из пиалы, заедая мясом и галушками.",
+   "ingredientsText": "Говядина или баранина, картофель, репчатый лук, зелень, соль",
+   "quote": null,
+   "image": null,
+   "translations": {
+    "en": {
+     "name": "Zhizhig chorpa",
+     "description": "A rich meat broth with potatoes and herbs, served on the side with zhizhig galnash.",
+     "history": "Chorpa means \"broth\"; it is drunk from a bowl alongside the meat and dumplings.",
+     "ingredientsText": "Beef or lamb, potatoes, onion, herbs, salt"
+    }
+   }
+  },
+  {
+   "slug": "zhizhig-galnash",
+   "cuisine": "chechenskaya",
+   "course": "основное",
+   "allergenCodes": [
+    "gluten"
+   ],
+   "name": "Жижиг-галнаш",
+   "description": "Отварное мясо с галушками из пшеничной или кукурузной муки, бульоном и чесночным соусом. Главное блюдо чеченского стола.",
+   "history": "Название переводится как «мясо с галушками». Его готовят к приходу гостей и на праздники.",
+   "ingredientsText": "Говядина или баранина, пшеничная или кукурузная мука, чеснок, бульон, соль",
+   "quote": null,
+   "image": null,
+   "translations": {
+    "en": {
+     "name": "Zhizhig galnash",
+     "description": "Boiled meat with dumplings of wheat or corn flour, broth and garlic sauce. The main dish of the Chechen table.",
+     "history": "The name means \"meat with dumplings\". It is cooked when guests arrive and for celebrations.",
+     "ingredientsText": "Beef or lamb, wheat or corn flour, garlic, broth, salt"
+    }
+   }
+  }
+ ],
+ "allergens": {
+  "plov": [
+   "gluten",
+   "lactose",
+   "eggs"
+  ],
+  "hachapuri": [
+   "gluten",
+   "lactose",
+   "eggs"
+  ],
+  "hinkali": [
+   "gluten"
+  ],
+  "lobio": [
+   "nuts"
+  ],
+  "saczivi": [
+   "nuts"
+  ],
+  "dolma-armyanskaya": [],
+  "hash": [],
+  "horovacz-narsharab": [],
+  "chahohbili": []
+ },
+ "supplements": {
+  "hachapuri": {
+   "ru": {
+    "history": "Хачапури пекут по всей Грузии, и почти у каждого региона свой вариант: имеретинский, мегрельский, аджарский, гурийский. Название обычно объясняют как «хлеб с творогом» — от слов «хачо» (творог) и «пури» (хлеб)."
+   },
+   "en": {
+    "history": "Khachapuri is baked all over Georgia, and almost every region has its own version: Imeretian, Megrelian, Adjarian, Gurian. The name is usually explained as \"curd bread\", from khacho (curd) and puri (bread)."
+   }
+  },
+  "hinkali": {
+   "ru": {
+    "history": "Хинкали пришли с гор восточной Грузии — из Пшави, Хевсурети и Тушети. Горская версия с рубленым мясом и пряностями называется «мтиулури», городская с зеленью — «калакури». Едят их руками, держа за хвостик, который потом оставляют на тарелке."
+   },
+   "en": {
+    "history": "Khinkali came from the mountains of eastern Georgia — Pshavi, Khevsureti and Tusheti. The mountain version with chopped meat and spices is called mtiuluri, the town version with herbs kalakuri. They are eaten by hand, holding the topknot, which is then left on the plate."
+   }
+  },
+  "chahohbili": {
+   "ru": {
+    "history": "Название происходит от слова «хохоби» — фазан: изначально блюдо готовили из дичи. Позже фазана заменила домашняя курица, а помидоры, без которых чахохбили сейчас не представить, появились в рецепте сравнительно недавно."
+   },
+   "en": {
+    "history": "The name comes from khokhobi, meaning pheasant: the dish was originally made with game. Later chicken replaced the pheasant, and tomatoes — now essential to chakhokhbili — entered the recipe relatively recently."
+   }
+  },
+  "lobio": {
+   "ru": {
+    "history": "Фасоль пришла на Кавказ из Америки в Новое время, но быстро стала основой грузинского стола. Лобио готовят и горячим, в глиняном горшке, и холодным с орехами; его едят с мчади и соленьями, особенно в постные дни."
+   },
+   "en": {
+    "history": "Beans reached the Caucasus from the Americas in the early modern period but quickly became a staple of the Georgian table. Lobio is made both hot, in a clay pot, and cold with walnuts, and eaten with mchadi and pickles, especially on fasting days."
+   }
+  },
+  "saczivi": {
+   "ru": {
+    "history": "Название связано со словом «цива» — холодный: сациви подают охлаждённым. Это одно из главных блюд новогоднего стола в Грузии, его готовят с курицей, индейкой или жареными овощами."
+   },
+   "en": {
+    "history": "The name relates to tsiva, meaning cold: satsivi is served chilled. It is one of the main dishes of the Georgian New Year table, made with chicken, turkey or fried vegetables."
+   }
+  },
+  "dolma-armyanskaya": {
+   "ru": {
+    "history": "Долму в виноградных листьях готовят по всему Кавказу и Ближнему Востоку. В Армении её называют «толма» и подают с мацуном с чесноком; летом листья берут молодые, а на зиму их солят."
+   },
+   "en": {
+    "history": "Dolma in grape leaves is made across the Caucasus and the Middle East. In Armenia it is called tolma and served with garlic matsun; in summer young leaves are used, and for winter they are pickled."
+   }
+  }
+ },
+ "names": {
+  "abysta": {
+   "zh": "阿布哈兹玉米糊",
+   "ja": "アビスタ",
+   "ko": "아비스타",
+   "ar": "أبيستا",
+   "fa": "آبیستا",
+   "hi": "अबिस्ता",
+   "uk": "Абиста",
+   "ka": "აბისტა",
+   "hy": "Աբիստա",
+   "az": "Abısta"
+  },
+  "achapa": {
+   "zh": "核桃拌豆",
+   "ja": "アチャパ",
+   "ko": "아차파",
+   "ar": "أتشابا",
+   "fa": "آچاپا",
+   "hi": "अचापा",
+   "uk": "Ачапа",
+   "ka": "აჩაპა",
+   "hy": "Աչապա",
+   "az": "Açapa"
+  },
+  "achash": {
+   "zh": "奶酪玉米饼",
+   "ja": "アチャシュ",
+   "ko": "아차시",
+   "ar": "أتشاش",
+   "fa": "آچاش",
+   "hi": "अचाश",
+   "uk": "Ачаш",
+   "ka": "აჩაში",
+   "hy": "Աչաշ",
+   "az": "Açaş"
+  },
+  "achma": {
+   "zh": "阿奇马奶酪派",
+   "ja": "アチマ",
+   "ko": "아치마",
+   "ar": "أتشما",
+   "fa": "آچما",
+   "hi": "अचमा",
+   "uk": "Ачма",
+   "ka": "აჩმა",
+   "hy": "Աչմա",
+   "az": "Açma"
+  },
+  "adygeyskiy-syr": {
+   "zh": "阿迪格奶酪",
+   "ja": "アディゲチーズ",
+   "ko": "아디게 치즈",
+   "ar": "الجبن الأديغي",
+   "fa": "پنیر آدیغه",
+   "hi": "अदिगे पनीर",
+   "uk": "Адигейський сир",
+   "ka": "ადიღეური ყველი",
+   "hy": "Ադըղեյական պանիր",
+   "az": "Adıgey pendiri"
+  },
+  "adzhapsandali": {
+   "zh": "阿贾普桑达利",
+   "ja": "アジャプサンダリ",
+   "ko": "아잡산달리",
+   "ar": "أجابساندالي",
+   "fa": "آجاپساندالی",
+   "hi": "अजापसंदाली",
+   "uk": "Аджапсандалі",
+   "ka": "აჯაფსანდალი",
+   "hy": "Աջափսանդալի",
+   "az": "Acapsandali"
+  },
+  "adzhika": {
+   "zh": "阿吉卡辣酱",
+   "ja": "アジカ",
+   "ko": "아지카",
+   "ar": "أدجيكا",
+   "fa": "آجیکا",
+   "hi": "अदजिका",
+   "uk": "Аджика",
+   "ka": "აჯიკა",
+   "hy": "Աջիկա",
+   "az": "Acika"
+  },
+  "afarar": {
+   "zh": "野菜薄饼",
+   "ja": "アファラル",
+   "ko": "아파라르",
+   "ar": "أفارار",
+   "fa": "افارار",
+   "hi": "अफ़ारार",
+   "uk": "Афарар",
+   "ka": "აფარარი",
+   "hy": "Աֆարար",
+   "az": "Afarar"
+  },
+  "akhar-khudar": {
+   "zh": "玉米粥",
+   "ja": "アハル・フダル",
+   "ko": "아하르 후다르",
+   "ar": "أخار خودار",
+   "fa": "آخار خودار",
+   "hi": "अख़ार ख़ुदार",
+   "uk": "Ахьар-худар",
+   "ka": "ახარ-ხუდარი",
+   "hy": "Ախար խուդար",
+   "az": "Axar-xudar"
+  },
+  "akuarchal": {
+   "zh": "阿布哈兹玉米饼",
+   "ja": "アクアルチャル",
+   "ko": "아쿠아르찰",
+   "ar": "أكوارتشال",
+   "fa": "آکوارچال",
+   "hi": "अकुआरचाल",
+   "uk": "Акуарчал",
+   "ka": "აკუარჩალი",
+   "hy": "Ակուարչալ",
+   "az": "Akuarçal"
+  },
+  "alani": {
+   "zh": "核桃干桃",
+   "ja": "アラニ",
+   "ko": "알라니",
+   "ar": "ألاني",
+   "fa": "آلانی",
+   "hi": "अलानी",
+   "uk": "Алані",
+   "ka": "ალანი",
+   "hy": "Ալանի",
+   "az": "Alani"
+  },
+  "arganak": {
+   "zh": "鸡肉丸清汤",
+   "ja": "アルガナク",
+   "ko": "아르가나크",
+   "ar": "أرغاناك",
+   "fa": "آرگاناک",
+   "hi": "अर्गानाक",
+   "uk": "Арганак",
+   "ka": "არგანაკი",
+   "hy": "Արգանակ",
+   "az": "Arqanak"
+  },
+  "arishta": {
+   "zh": "亚美尼亚鸡蛋面",
+   "ja": "アリシュタ",
+   "ko": "아리시타",
+   "ar": "أريشتا",
+   "fa": "آریشتا",
+   "hi": "अरिश्ता",
+   "uk": "Арішта",
+   "ka": "არიშტა",
+   "hy": "Արիշտա",
+   "az": "Əriştə"
+  },
+  "avarskiy-hinkal": {
+   "zh": "阿瓦尔面片肉",
+   "ja": "アヴァル・ヒンカル",
+   "ko": "아바르 힌칼",
+   "ar": "خينكال أفاري",
+   "fa": "خینکال آواری",
+   "hi": "अवार ख़िंकाल",
+   "uk": "Аварський хінкал",
+   "ka": "ხუნძური ხინკალი",
+   "hy": "Ավարական խինկալ",
+   "az": "Avar xəngəli"
+  },
+  "ayran": {
+   "zh": "酸奶饮料",
+   "ja": "アイラン",
+   "ko": "아이란",
+   "ar": "عيران",
+   "fa": "دوغ",
+   "hi": "आयरन",
+   "uk": "Айран",
+   "ka": "აირანი",
+   "hy": "Այրան",
+   "az": "Ayran"
+  },
+  "badambura": {
+   "zh": "杏仁卷",
+   "ja": "バダンブラ",
+   "ko": "바담부라",
+   "ar": "بادامبورة",
+   "fa": "بادامبوره",
+   "hi": "बादामबूरा",
+   "uk": "Бадамбура",
+   "ka": "ბადამბურა",
+   "hy": "Բադամբուրա",
+   "az": "Badambura"
+  },
+  "badrijani-nigvzit": {
+   "zh": "核桃茄子卷",
+   "ja": "バドリジャニ・ニグヴズィト",
+   "ko": "바드리자니 니그브짓",
+   "ar": "باذنجان بالجوز",
+   "fa": "بادمجان با گردو",
+   "hi": "अखरोट वाले बैंगन",
+   "uk": "Баклажани з горіхами",
+   "ka": "ბადრიჯანი ნიგვზით",
+   "hy": "Սմբուկ ընկույզով",
+   "az": "Qozlu badımcan"
+  },
+  "bagany": {
+   "zh": "奥塞梯啤酒",
+   "ja": "オセチアのビール",
+   "ko": "오세티야 맥주",
+   "ar": "بيرة أوسيتية",
+   "fa": "آبجوی اوستی",
+   "hi": "ओसेटियाई बीयर",
+   "uk": "Осетинське пиво",
+   "ka": "ოსური ლუდი",
+   "hy": "Օսական գարեջուր",
+   "az": "Osetin pivəsi"
+  },
+  "balyk-lyavangi": {
+   "zh": "核桃酿鱼",
+   "ja": "魚のレヴェンギ",
+   "ko": "생선 레뱅기",
+   "ar": "سمك لافانغي",
+   "fa": "ماهی لونگی",
+   "hi": "मछली लवांगी",
+   "uk": "Риба лявянгі",
+   "ka": "თევზის ლავანგი",
+   "hy": "Ձկան լավանգի",
+   "az": "Balıq ləvəngi"
+  },
+  "basturma": {
+   "zh": "风干牛肉",
+   "ja": "バストゥルマ",
+   "ko": "바스투르마",
+   "ar": "بسطرمة",
+   "fa": "باستورما",
+   "hi": "बस्तुरमा",
+   "uk": "Бастурма",
+   "ka": "ბასტურმა",
+   "hy": "Բաստուրմա",
+   "az": "Basdırma"
+  },
+  "bazhe": {
+   "zh": "核桃酱",
+   "ja": "バジェ",
+   "ko": "바제",
+   "ar": "باجي",
+   "fa": "باژه",
+   "hi": "बाझे",
+   "uk": "Баже",
+   "ka": "ბაჟე",
+   "hy": "Բաժե",
+   "az": "Baje"
+  },
+  "bozartma": {
+   "zh": "番茄炖肉",
+   "ja": "ボザルトマ",
+   "ko": "보자르트마",
+   "ar": "بوزارتما",
+   "fa": "بوزارتما",
+   "hi": "बोज़ार्टमा",
+   "uk": "Бозартма",
+   "ka": "ბოზარტმა",
+   "hy": "Բոզարտմա",
+   "az": "Bozartma"
+  },
+  "bozbash": {
+   "zh": "羊肉鹰嘴豆汤",
+   "ja": "ボズバシュ",
+   "ko": "보즈바시",
+   "ar": "بوزباش",
+   "fa": "بزباش",
+   "hi": "बोज़बाश",
+   "uk": "Бозбаш",
+   "ka": "ბოზბაში",
+   "hy": "Բոզբաշ",
+   "az": "Bozbaş"
+  },
+  "chahohbili": {
+   "zh": "番茄炖鸡",
+   "ja": "チャホフビリ",
+   "ko": "차호흐빌리",
+   "ar": "تشاخوخبيلي",
+   "fa": "چاخوخبیلی",
+   "hi": "चाखोख़बिली",
+   "uk": "Чахохбілі",
+   "ka": "ჩახოხბილი",
+   "hy": "Չախոխբիլի",
+   "az": "Çaxoxbili"
+  },
+  "chakapuli": {
+   "zh": "恰卡普利炖羊肉",
+   "ja": "チャカプリ",
+   "ko": "차카풀리",
+   "ar": "تشاكابولي",
+   "fa": "چاکاپولی",
+   "hi": "चाकापुली",
+   "uk": "Чакапулі",
+   "ka": "ჩაქაფული",
+   "hy": "Չաքափուլի",
+   "az": "Çaqapuli"
+  },
+  "chashushuli": {
+   "zh": "恰舒舒利炖牛肉",
+   "ja": "チャシュシュリ",
+   "ko": "차슈슐리",
+   "ar": "تشاشوشولي",
+   "fa": "چاشوشولی",
+   "hi": "चाशुशुली",
+   "uk": "Чашушулі",
+   "ka": "ჩაშუშული",
+   "hy": "Չաշուշուլի",
+   "az": "Çaşuşuli"
+  },
+  "chepalgash": {
+   "zh": "奶酪薄饼",
+   "ja": "チェパルガシュ",
+   "ko": "체팔가시",
+   "ar": "تشيبالغاش",
+   "fa": "چپالگاش",
+   "hi": "चेपालगाश",
+   "uk": "Чепалгаш",
+   "ka": "ჩეპალგაში",
+   "hy": "Չեպալգաշ",
+   "az": "Çepalqaş"
+  },
+  "chikhirtma": {
+   "zh": "奇希尔特马鸡汤",
+   "ja": "チヒルトマ",
+   "ko": "치히르트마",
+   "ar": "تشيخيرتما",
+   "fa": "چیخیرتما",
+   "hi": "चिखिर्तमा",
+   "uk": "Чіхіртма",
+   "ka": "ჩიხირთმა",
+   "hy": "Չիխիրթմա",
+   "az": "Çixirtma"
+  },
+  "chilov": {
+   "zh": "豆子米饭",
+   "ja": "チロフ",
+   "ko": "칠로프",
+   "ar": "تشيلوف",
+   "fa": "چلو",
+   "hi": "चिलोव",
+   "uk": "Чілов",
+   "ka": "ჩილოვი",
+   "hy": "Չիլով",
+   "az": "Çilov"
+  },
+  "chudu": {
+   "zh": "达吉斯坦馅饼",
+   "ja": "チュドゥ",
+   "ko": "추두",
+   "ar": "تشودو",
+   "fa": "چودو",
+   "hi": "चुडू",
+   "uk": "Чуду",
+   "ka": "ჩუდუ",
+   "hy": "Չուդու",
+   "az": "Çudu"
+  },
+  "churchkhela": {
+   "zh": "丘尔赫拉葡萄坚果糖",
+   "ja": "チュルチヘラ",
+   "ko": "추르치헬라",
+   "ar": "تشورتشخيلا",
+   "fa": "چورچخلا",
+   "hi": "चुर्चखेला",
+   "uk": "Чурчхела",
+   "ka": "ჩურჩხელა",
+   "hy": "Չուրչխելա",
+   "az": "Çurçxela"
+  },
+  "chvishtari": {
+   "zh": "奶酪玉米饼",
+   "ja": "チヴィシュタリ",
+   "ko": "츠비슈타리",
+   "ar": "تشفيشتاري",
+   "fa": "چویشتاری",
+   "hi": "च्विश्तारी",
+   "uk": "Чвіштарі",
+   "ka": "ჭვიშტარი",
+   "hy": "Չվիշտարի",
+   "az": "Çviştari"
+  },
+  "chygyrtma": {
+   "zh": "番茄鸡蛋炒鸡",
+   "ja": "チグルトマ",
+   "ko": "치기르트마",
+   "ar": "تشيغيرتما",
+   "fa": "چغیرتما",
+   "hi": "चिगिर्त्मा",
+   "uk": "Чигиртма",
+   "ka": "ჩიღირთმა",
+   "hy": "Չըղըրթմա",
+   "az": "Çığırtma"
+  },
+  "dolma-armyanskaya": {
+   "zh": "亚美尼亚多尔玛",
+   "ja": "アルメニアのドルマ",
+   "ko": "아르메니아 돌마",
+   "ar": "دولمة أرمنية",
+   "fa": "دلمه ارمنی",
+   "hi": "आर्मेनियाई डोल्मा",
+   "uk": "Вірменська долма",
+   "ka": "სომხური ტოლმა",
+   "hy": "Տոլմա",
+   "az": "Erməni dolması"
+  },
+  "dolma-azerbajdzhanskaya": {
+   "zh": "阿塞拜疆多尔玛",
+   "ja": "アゼルバイジャンのドルマ",
+   "ko": "아제르바이잔 돌마",
+   "ar": "دولمة أذربيجانية",
+   "fa": "دلمه آذربایجانی",
+   "hi": "अज़रबैजानी डोल्मा",
+   "uk": "Азербайджанська долма",
+   "ka": "აზერბაიჯანული ტოლმა",
+   "hy": "Ադրբեջանական դոլմա",
+   "az": "Yarpaq dolması"
+  },
+  "dovga": {
+   "zh": "酸奶香草汤",
+   "ja": "ドヴガ",
+   "ko": "도브가",
+   "ar": "دوغا",
+   "fa": "دوغا",
+   "hi": "दोवगा",
+   "uk": "Довга",
+   "ka": "დოვღა",
+   "hy": "Դովղա",
+   "az": "Dovğa"
+  },
+  "dulkh-khyaltam": {
+   "zh": "车臣炖肉土豆",
+   "ja": "ドゥルフ・ハルタム",
+   "ko": "둘흐 할탐",
+   "ar": "دولخ خالتام",
+   "fa": "دولخ هالتام",
+   "hi": "दुल्ख ख़ाल्ताम",
+   "uk": "Дулх-хьалтам",
+   "ka": "დულხ-ხალთამი",
+   "hy": "Դուլխ խալթամ",
+   "az": "Dulx-xaltam"
+  },
+  "dyushbara": {
+   "zh": "迷你饺子汤",
+   "ja": "ドゥシュバラ",
+   "ko": "뒤시바라",
+   "ar": "دوشبره",
+   "fa": "دوشبره",
+   "hi": "दुशबारा",
+   "uk": "Дюшбара",
+   "ka": "დიუშბარა",
+   "hy": "Դյուշբարա",
+   "az": "Düşbərə"
+  },
+  "dzavar-plov": {
+   "zh": "碎麦抓饭",
+   "ja": "ザヴァル・ピラフ",
+   "ko": "자바르 필라프",
+   "ar": "برغل بالشعيرية",
+   "fa": "پلو بلغور",
+   "hi": "बुलगुर पुलाव",
+   "uk": "Дзавар плов",
+   "ka": "ძავარის ფლავი",
+   "hy": "Ձավարով փլավ",
+   "az": "Bulqur plovu"
+  },
+  "dzykka": {
+   "zh": "奥塞梯奶酪糊",
+   "ja": "ズィッカ",
+   "ko": "지카",
+   "ar": "دزيكا",
+   "fa": "دزیکا",
+   "hi": "ज़िक्का",
+   "uk": "Дзикка",
+   "ka": "ძიკა",
+   "hy": "Ձըկկա",
+   "az": "Dzıkka"
+  },
+  "eech": {
+   "zh": "碎麦沙拉",
+   "ja": "イーチ",
+   "ko": "이치",
+   "ar": "إيتش",
+   "fa": "ایچ",
+   "hi": "ईच",
+   "uk": "Іч",
+   "ka": "იჩი",
+   "hy": "Իչ",
+   "az": "İç"
+  },
+  "elarji": {
+   "zh": "奶酪玉米糊",
+   "ja": "エラルジ",
+   "ko": "엘라르지",
+   "ar": "إلارجي",
+   "fa": "الارجی",
+   "hi": "एलार्जी",
+   "uk": "Еларджі",
+   "ka": "ელარჯი",
+   "hy": "Էլարջի",
+   "az": "Elarci"
+  },
+  "fydzhyn": {
+   "zh": "奥塞梯肉饼",
+   "ja": "フィジン",
+   "ko": "피진",
+   "ar": "فيدجين",
+   "fa": "فیدجین",
+   "hi": "फ़िदजिन",
+   "uk": "Фидджин",
+   "ka": "ფიჯინი",
+   "hy": "Ֆըդջըն",
+   "az": "Fıdcın"
+  },
+  "gata": {
+   "zh": "亚美尼亚甜面包",
+   "ja": "ガタ",
+   "ko": "가타",
+   "ar": "غاتا",
+   "fa": "گاتا",
+   "hi": "गाता",
+   "uk": "Гата",
+   "ka": "გათა",
+   "hy": "Գաթա",
+   "az": "Qata"
+  },
+  "gedlibzhe": {
+   "zh": "酸奶油炖鸡",
+   "ja": "ゲドリブジェ",
+   "ko": "게들리브제",
+   "ar": "غيدليبجي",
+   "fa": "گدلیبژه",
+   "hi": "गेदलिबझे",
+   "uk": "Гедлібже",
+   "ka": "გედლიბჟე",
+   "hy": "Գեդլիբժե",
+   "az": "Qedlibje"
+  },
+  "ghapama": {
+   "zh": "南瓜酿饭",
+   "ja": "ガパマ",
+   "ko": "가파마",
+   "ar": "غاباما",
+   "fa": "قاپاما",
+   "hi": "घपामा",
+   "uk": "Гапама",
+   "ka": "ღაფამა",
+   "hy": "Ղափամա",
+   "az": "Qapama"
+  },
+  "gogal": {
+   "zh": "果加尔酥饼",
+   "ja": "ゴガル",
+   "ko": "고갈",
+   "ar": "قوغال",
+   "fa": "قوغال",
+   "hi": "गोगल",
+   "uk": "Гогал",
+   "ka": "ღოღალი",
+   "hy": "Ղողալ",
+   "az": "Qoğal"
+  },
+  "gomi": {
+   "zh": "格鲁吉亚玉米糊",
+   "ja": "ゴミ",
+   "ko": "고미",
+   "ar": "غومي",
+   "fa": "گومی",
+   "hi": "गोमी",
+   "uk": "Гомі",
+   "ka": "ღომი",
+   "hy": "Ղոմի",
+   "az": "Qomi"
+  },
+  "govurma": {
+   "zh": "炸羊肉",
+   "ja": "ゴヴルマ",
+   "ko": "고부르마",
+   "ar": "قورمة",
+   "fa": "قورمه",
+   "hi": "गोवुर्मा",
+   "uk": "Говурма",
+   "ka": "ყოვურმა",
+   "hy": "Ղովուրմա",
+   "az": "Qovurma"
+  },
+  "gozinaki": {
+   "zh": "蜂蜜核桃糖",
+   "ja": "ゴジナキ",
+   "ko": "고지나키",
+   "ar": "غوزيناكي",
+   "fa": "گوزیناکی",
+   "hi": "गोज़िनाकी",
+   "uk": "Гозинакі",
+   "ka": "გოზინაყი",
+   "hy": "Գոզինակի",
+   "az": "Qozinaki"
+  },
+  "guruli-gvezeli": {
+   "zh": "古里亚馅饼",
+   "ja": "グリア風ゲヴェゼリ",
+   "ko": "구리 그베젤리",
+   "ar": "غوروليغفيزيلي",
+   "fa": "گوروله گوزلی",
+   "hi": "गुरुली ग्वेज़ेली",
+   "uk": "Гурулі гвезелі",
+   "ka": "გურული ღვეზელი",
+   "hy": "Գուրիական ղվեզելի",
+   "az": "Quriya qvezeli"
+  },
+  "guymag": {
+   "zh": "黄油面粉甜糊",
+   "ja": "グイマグ",
+   "ko": "구이마그",
+   "ar": "قويماق",
+   "fa": "قویماق",
+   "hi": "क़ुयमाक़",
+   "uk": "Гуймаг",
+   "ka": "ქუიმაღი",
+   "hy": "Գույմաղ",
+   "az": "Quymaq"
+  },
+  "gyurza": {
+   "zh": "辫边饺子",
+   "ja": "ギュルザ",
+   "ko": "규르자",
+   "ar": "غورزة",
+   "fa": "گورزه",
+   "hi": "गुर्ज़ा",
+   "uk": "Гюрза",
+   "ka": "გიურზა",
+   "hy": "Գյուրզա",
+   "az": "Gürzə"
+  },
+  "hachapuri": {
+   "zh": "哈恰普里",
+   "ja": "ハチャプリ",
+   "ko": "하차푸리",
+   "ar": "خاتشابوري",
+   "fa": "خاچاپوری",
+   "hi": "खाचापुरी",
+   "uk": "Хачапурі",
+   "ka": "ხაჭაპური",
+   "hy": "Խաչապուրի",
+   "az": "Xaçapuri"
+  },
+  "hachapuri-imeretinskij": {
+   "zh": "伊梅列季哈恰普里",
+   "ja": "イメレティ風ハチャプリ",
+   "ko": "이메레티식 하차푸리",
+   "ar": "خاتشابوري إيميريتي",
+   "fa": "خاچاپوری ایمرتی",
+   "hi": "इमेरेती खाचापुरी",
+   "uk": "Імеретинський хачапурі",
+   "ka": "იმერული ხაჭაპური",
+   "hy": "Իմերեթական խաչապուրի",
+   "az": "İmeretiya xaçapurisi"
+  },
+  "hachapuri-penovani": {
+   "zh": "千层哈恰普里",
+   "ja": "ペノヴァニ・ハチャプリ",
+   "ko": "페노바니 하차푸리",
+   "ar": "خاتشابوري بينوفاني",
+   "fa": "خاچاپوری پنوانی",
+   "hi": "पेनोवानी खाचापुरी",
+   "uk": "Пеновані",
+   "ka": "ფენოვანი ხაჭაპური",
+   "hy": "Պենովանի խաչապուրի",
+   "az": "Penovani xaçapuri"
+  },
+  "hachapuri-po-adzharski": {
+   "zh": "阿扎尔哈恰普里",
+   "ja": "アジャリア風ハチャプリ",
+   "ko": "아자르식 하차푸리",
+   "ar": "خاتشابوري أدجاري",
+   "fa": "خاچاپوری آجاری",
+   "hi": "अजारी खाचापुरी",
+   "uk": "Хачапурі по-аджарськи",
+   "ka": "აჭარული ხაჭაპური",
+   "hy": "Աջարական խաչապուրի",
+   "az": "Acarıstan xaçapurisi"
+  },
+  "harissa": {
+   "zh": "亚美尼亚麦肉粥",
+   "ja": "ハリサ",
+   "ko": "하리사",
+   "ar": "هريسة",
+   "fa": "هریسه",
+   "hi": "हरीसा",
+   "uk": "Ариса",
+   "ka": "ჰარისა",
+   "hy": "Հարիսա",
+   "az": "Hərisə"
+  },
+  "hash": {
+   "zh": "哈什汤",
+   "ja": "ハシュ",
+   "ko": "하시",
+   "ar": "خاش",
+   "fa": "کله‌پاچه خاش",
+   "hi": "खाश",
+   "uk": "Хаш",
+   "ka": "ხაში",
+   "hy": "Խաշ",
+   "az": "Xaş"
+  },
+  "hingalsh": {
+   "zh": "车臣南瓜饼",
+   "ja": "ヒンガルシュ",
+   "ko": "힌갈시",
+   "ar": "هينغالش",
+   "fa": "هینگالش",
+   "hi": "हिंगाल्श",
+   "uk": "Хінгалш",
+   "ka": "ხინგალში",
+   "hy": "Խինգալշ",
+   "az": "Xinqalş"
+  },
+  "hinkali": {
+   "zh": "欣卡利",
+   "ja": "ヒンカリ",
+   "ko": "힌칼리",
+   "ar": "خينكالي",
+   "fa": "خینکالی",
+   "hi": "खिंकाली",
+   "uk": "Хінкалі",
+   "ka": "ხინკალი",
+   "hy": "Խինկալի",
+   "az": "Xinkali"
+  },
+  "horovacz-narsharab": {
+   "zh": "亚美尼亚烤肉",
+   "ja": "ホロヴァツ",
+   "ko": "호로바츠",
+   "ar": "خوروفاتس",
+   "fa": "خوروواتس",
+   "hi": "खोरोवात्स",
+   "uk": "Хоровац",
+   "ka": "ხოროვაცი",
+   "hy": "Խորոված",
+   "az": "Xorovats"
+  },
+  "iron-tsykht": {
+   "zh": "奥塞梯奶酪",
+   "ja": "オセチアチーズ",
+   "ko": "오세티야 치즈",
+   "ar": "الجبن الأوسيتي",
+   "fa": "پنیر اوستی",
+   "hi": "ओसेटियाई पनीर",
+   "uk": "Осетинський сир",
+   "ka": "ოსური ყველი",
+   "hy": "Օսական պանիր",
+   "az": "Osetin pendiri"
+  },
+  "ishkhan": {
+   "zh": "塞凡鳟鱼",
+   "ja": "イシュハン",
+   "ko": "이시한 송어",
+   "ar": "سمك إيشخان",
+   "fa": "ماهی ایشخان",
+   "hi": "इशखान मछली",
+   "uk": "Ішхан",
+   "ka": "იშხანი",
+   "hy": "Իշխան",
+   "az": "İşxan balığı"
+  },
+  "jonjoli": {
+   "zh": "腌省沽油花",
+   "ja": "ジョンジョリ",
+   "ko": "존졸리",
+   "ar": "جونجولي",
+   "fa": "جونجولی",
+   "hi": "जोंजोली",
+   "uk": "Джонджолі",
+   "ka": "ჯონჯოლი",
+   "hy": "Ջոնջոլի",
+   "az": "Concoli"
+  },
+  "kabuskadzhyn": {
+   "zh": "卷心菜奶酪饼",
+   "ja": "カブスカジン",
+   "ko": "카부스카진",
+   "ar": "كابوسكاجين",
+   "fa": "کابوسکاجین",
+   "hi": "काबुस्काजिन",
+   "uk": "Кабускаджин",
+   "ka": "კაბუსკაჯინი",
+   "hy": "Կաբուսկաջըն",
+   "az": "Kabuskacın"
+  },
+  "kada": {
+   "zh": "卡达甜饼",
+   "ja": "カダ",
+   "ko": "카다",
+   "ar": "كادا",
+   "fa": "کادا",
+   "hi": "कादा",
+   "uk": "Када",
+   "ka": "ქადა",
+   "hy": "Քադա",
+   "az": "Qada"
+  },
+  "kaghamb-tolma": {
+   "zh": "卷心菜多尔玛",
+   "ja": "キャベツのトルマ",
+   "ko": "양배추 톨마",
+   "ar": "طولمة الملفوف",
+   "fa": "دلمه کلم",
+   "hi": "पत्तागोभी टोल्मा",
+   "uk": "Капустяна толма",
+   "ka": "კომბოსტოს ტოლმა",
+   "hy": "Կաղամբի տոլմա",
+   "az": "Kələm dolması"
+  },
+  "kartofdzhyn": {
+   "zh": "土豆奶酪饼",
+   "ja": "カルトフジン",
+   "ko": "카르토프진",
+   "ar": "كارتوفجين",
+   "fa": "کارتوفجین",
+   "hi": "कार्तोफ़जिन",
+   "uk": "Картофджин",
+   "ka": "კარტოფჯინი",
+   "hy": "Կարտոֆջըն",
+   "az": "Kartofcın"
+  },
+  "kchuch": {
+   "zh": "陶罐炖菜",
+   "ja": "クチュチ",
+   "ko": "크추치",
+   "ar": "كتشوتش",
+   "fa": "کچوچ",
+   "hi": "क्चुच",
+   "uk": "Кчуч",
+   "ka": "კჭუჭი",
+   "hy": "Կճուճ",
+   "az": "Kçuç"
+  },
+  "khadurdzhyn": {
+   "zh": "豆馅饼",
+   "ja": "ハドゥルジン",
+   "ko": "하두르진",
+   "ar": "خادورجين",
+   "fa": "خادورجین",
+   "hi": "ख़ादुरजिन",
+   "uk": "Хадурджин",
+   "ka": "ხადურჯინი",
+   "hy": "Խադուրջըն",
+   "az": "Xadurcın"
+  },
+  "khalyuzh": {
+   "zh": "三角奶酪炸饼",
+   "ja": "ハリュジ",
+   "ko": "할류지",
+   "ar": "خاليوج",
+   "fa": "خالیوژ",
+   "hi": "ख़ाल्युज़",
+   "uk": "Халюж",
+   "ka": "ხალიუჟი",
+   "hy": "Խալյուժ",
+   "az": "Xalyuj"
+  },
+  "khamrashi": {
+   "zh": "面条豆子汤",
+   "ja": "ハムラシ",
+   "ko": "함라시",
+   "ar": "خمراشي",
+   "fa": "خمراشی",
+   "hi": "ख़ामराशी",
+   "uk": "Хамраші",
+   "ka": "ხამრაში",
+   "hy": "Խամրաշի",
+   "az": "Xamraşı"
+  },
+  "kharcho": {
+   "zh": "哈尔乔汤",
+   "ja": "ハルチョ",
+   "ko": "하르초",
+   "ar": "خارتشو",
+   "fa": "خارچو",
+   "hi": "खारचो",
+   "uk": "Харчо",
+   "ka": "ხარჩო",
+   "hy": "Խարչո",
+   "az": "Xarço"
+  },
+  "khashil": {
+   "zh": "面粉糊",
+   "ja": "ハシル",
+   "ko": "하실",
+   "ar": "خاشيل",
+   "fa": "خاشیل",
+   "hi": "ख़ाशिल",
+   "uk": "Хашил",
+   "ka": "ხაშილი",
+   "hy": "Խաշիլ",
+   "az": "Xəşil"
+  },
+  "khashlama": {
+   "zh": "炖肉蔬菜",
+   "ja": "ハシュラマ",
+   "ko": "하슐라마",
+   "ar": "خاشلاما",
+   "fa": "خاشلاما",
+   "hi": "खाशलामा",
+   "uk": "Хашлама",
+   "ka": "ხაშლამა",
+   "hy": "Խաշլամա",
+   "az": "Xaşlama"
+  },
+  "khingal": {
+   "zh": "宽面片配肉",
+   "ja": "ヒンガル",
+   "ko": "힌갈",
+   "ar": "خينغال",
+   "fa": "خینگال",
+   "hi": "खिंगाल",
+   "uk": "Хінгал",
+   "ka": "ხინგალი",
+   "hy": "Խինգալ",
+   "az": "Xəngəl"
+  },
+  "khorovats-ovoshchnoy": {
+   "zh": "烤蔬菜",
+   "ja": "野菜のホロヴァツ",
+   "ko": "채소 호로바츠",
+   "ar": "خضار مشوية",
+   "fa": "خوراک سبزیجات کبابی",
+   "hi": "सब्ज़ी खोरोवात्स",
+   "uk": "Овочевий хоровац",
+   "ka": "ბოსტნეულის ხოროვაცი",
+   "hy": "Բանջարեղենի խորոված",
+   "az": "Tərəvəz kababı"
+  },
+  "khychiny": {
+   "zh": "土豆奶酪薄饼",
+   "ja": "ヒチン",
+   "ko": "히친",
+   "ar": "خيتشين",
+   "fa": "خیچین",
+   "hi": "ख़िचिन",
+   "uk": "Хичини",
+   "ka": "ხიჩინი",
+   "hy": "Խըչըն",
+   "az": "Xıçın"
+  },
+  "khyovla": {
+   "zh": "车臣哈尔瓦",
+   "ja": "ホヴラ",
+   "ko": "호블라",
+   "ar": "حلوى خوفلا",
+   "fa": "حلوای خولا",
+   "hi": "ख़ोव्ला हलवा",
+   "uk": "Хьовла",
+   "ka": "ხოვლა",
+   "hy": "Խովլա",
+   "az": "Xovla"
+  },
+  "kololik": {
+   "zh": "大肉丸汤",
+   "ja": "コロラク",
+   "ko": "콜롤라크",
+   "ar": "كولولاك",
+   "fa": "کلولاک",
+   "hi": "कोलोलाक",
+   "uk": "Кололак",
+   "ka": "კოლოლაკი",
+   "hy": "Կոլոլակ",
+   "az": "Kololak"
+  },
+  "kubdari": {
+   "zh": "库布达里",
+   "ja": "クブダリ",
+   "ko": "쿠브다리",
+   "ar": "كوبداري",
+   "fa": "کوبداری",
+   "hi": "कुबदारी",
+   "uk": "Кубдарі",
+   "ka": "კუბდარი",
+   "hy": "Կուբդարի",
+   "az": "Kubdari"
+  },
+  "kuchmachi": {
+   "zh": "库奇马奇炒内脏",
+   "ja": "クチマチ",
+   "ko": "쿠치마치",
+   "ar": "كوتشماتشي",
+   "fa": "کوچماچی",
+   "hi": "कुचमाची",
+   "uk": "Кучмачі",
+   "ka": "კუჭმაჭი",
+   "hy": "Կուչմաչի",
+   "az": "Kuçmaçi"
+  },
+  "kufta-bozbash": {
+   "zh": "肉丸鹰嘴豆汤",
+   "ja": "キュフタ・ボズバシュ",
+   "ko": "큐프타 보즈바시",
+   "ar": "كفتة بوزباش",
+   "fa": "کوفته بزباش",
+   "hi": "कुफ़्ता बोज़बाश",
+   "uk": "Кюфта-бозбаш",
+   "ka": "ქუფთა-ბოზბაში",
+   "hy": "Քյուֆթա բոզբաշ",
+   "az": "Küftə bozbaş"
+  },
+  "kupaty": {
+   "zh": "格鲁吉亚香肠",
+   "ja": "クパティ",
+   "ko": "쿠파티",
+   "ar": "كوباتي",
+   "fa": "کوپاتی",
+   "hi": "कुपाती",
+   "uk": "Купати",
+   "ka": "კუპატი",
+   "hy": "Կուպատի",
+   "az": "Kupati"
+  },
+  "kurze": {
+   "zh": "达吉斯坦饺子",
+   "ja": "クルゼ",
+   "ko": "쿠르제",
+   "ar": "كورزي",
+   "fa": "کورزه",
+   "hi": "कुर्ज़े",
+   "uk": "Курзе",
+   "ka": "კურზე",
+   "hy": "Կուրզե",
+   "az": "Kurze"
+  },
+  "kutaby": {
+   "zh": "库塔布馅饼",
+   "ja": "クタブ",
+   "ko": "쿠타브",
+   "ar": "قطاب",
+   "fa": "قطاب",
+   "hi": "कुताब",
+   "uk": "Кутаби",
+   "ka": "ყუთაბი",
+   "hy": "Կուտաբ",
+   "az": "Qutab"
+  },
+  "kyata": {
+   "zh": "卡塔甜饼",
+   "ja": "キャタ",
+   "ko": "캬타",
+   "ar": "كاتا",
+   "fa": "کته",
+   "hi": "काता",
+   "uk": "Кята",
+   "ka": "ქეთა",
+   "hy": "Քյաթա",
+   "az": "Kətə"
+  },
+  "kyufta": {
+   "zh": "亚美尼亚肉丸",
+   "ja": "キュフタ",
+   "ko": "큐프타",
+   "ar": "كفتة أرمنية",
+   "fa": "کوفته ارمنی",
+   "hi": "क्युफ़्ता",
+   "uk": "Кюфта",
+   "ka": "ქიუფთა",
+   "hy": "Քյուֆթա",
+   "az": "Küftə"
+  },
+  "kyukyu": {
+   "zh": "香草煎蛋",
+   "ja": "キュキュ",
+   "ko": "쿠쿠",
+   "ar": "كوكو",
+   "fa": "کوکو",
+   "hi": "कुकू",
+   "uk": "Кюкю",
+   "ka": "კიუკიუ",
+   "hy": "Կյուկյու",
+   "az": "Kükü"
+  },
+  "lahmadzho": {
+   "zh": "亚美尼亚肉饼",
+   "ja": "ラフマジョ",
+   "ko": "라흐마조",
+   "ar": "لحم بعجين",
+   "fa": "لحم عجین",
+   "hi": "लहमाजो",
+   "uk": "Лахмаджо",
+   "ka": "ლახმაჯო",
+   "hy": "Լահմաջո",
+   "az": "Ləhməcun"
+  },
+  "lakume": {
+   "zh": "卡巴尔达炸面团",
+   "ja": "ラクメ",
+   "ko": "라쿠메",
+   "ar": "لاكومي",
+   "fa": "لاکومه",
+   "hi": "लाकुमे",
+   "uk": "Лакуме",
+   "ka": "ლაკუმე",
+   "hy": "Լակումե",
+   "az": "Lakume"
+  },
+  "lavash": {
+   "zh": "亚美尼亚薄饼",
+   "ja": "ラヴァシュ",
+   "ko": "라바시",
+   "ar": "خبز لافاش",
+   "fa": "نان لواش",
+   "hi": "लवाश",
+   "uk": "Лаваш",
+   "ka": "ლავაში",
+   "hy": "Լավաշ",
+   "az": "Lavaş"
+  },
+  "lobiani": {
+   "zh": "豆馅饼",
+   "ja": "ロビアニ",
+   "ko": "로비아니",
+   "ar": "لوبياني",
+   "fa": "لوبیانی",
+   "hi": "लोबियानी",
+   "uk": "Лобіані",
+   "ka": "ლობიანი",
+   "hy": "Լոբիանի",
+   "az": "Lobiani"
+  },
+  "lobio": {
+   "zh": "红豆炖菜",
+   "ja": "ロビオ",
+   "ko": "로비오",
+   "ar": "لوبيو",
+   "fa": "لوبیو",
+   "hi": "लोबियो",
+   "uk": "Лобіо",
+   "ka": "ლობიო",
+   "hy": "Լոբիո",
+   "az": "Lobio"
+  },
+  "lyavangi": {
+   "zh": "核桃酿鸡",
+   "ja": "レヴェンギ",
+   "ko": "레뱅기",
+   "ar": "لافانغي",
+   "fa": "لونگی",
+   "hi": "लवांगी",
+   "uk": "Лявянгі",
+   "ka": "ლავანგი",
+   "hy": "Լավանգի",
+   "az": "Ləvəngi"
+  },
+  "lyulya-kebab": {
+   "zh": "吕利亚烤肉",
+   "ja": "リュラケバブ",
+   "ko": "룰라 케밥",
+   "ar": "لولة كباب",
+   "fa": "لوله کباب",
+   "hi": "लूला कबाब",
+   "uk": "Люля-кебаб",
+   "ka": "ლულა-ქაბაბი",
+   "hy": "Լյուլյա քյաբաբ",
+   "az": "Lülə kabab"
+  },
+  "lyvzha": {
+   "zh": "奥塞梯炖汤",
+   "ja": "リヴジャ",
+   "ko": "리브자",
+   "ar": "ليفجا",
+   "fa": "لیوژا",
+   "hi": "लिवझा",
+   "uk": "Ливжа",
+   "ka": "ლივჟა",
+   "hy": "Լըվժա",
+   "az": "Lıvja"
+  },
+  "mantapur": {
+   "zh": "小饺子汤",
+   "ja": "マンタプル",
+   "ko": "만타푸르",
+   "ar": "مانتابور",
+   "fa": "مانتاپور",
+   "hi": "मंतापुर",
+   "uk": "Мантапур",
+   "ka": "მანთაპური",
+   "hy": "Մանթապուր",
+   "az": "Mantapur"
+  },
+  "matnakash": {
+   "zh": "亚美尼亚面包",
+   "ja": "マトナカシュ",
+   "ko": "마트나카시",
+   "ar": "خبز ماتناكاش",
+   "fa": "نان ماتناکاش",
+   "hi": "मटनाकाश",
+   "uk": "Матнакаш",
+   "ka": "მატნაქაში",
+   "hy": "Մատնաքաշ",
+   "az": "Matnakaş"
+  },
+  "matsun": {
+   "zh": "亚美尼亚酸奶",
+   "ja": "マツン",
+   "ko": "마춘",
+   "ar": "ماتسون",
+   "fa": "ماتسون",
+   "hi": "मात्सुन",
+   "uk": "Мацун",
+   "ka": "მაწონი",
+   "hy": "Մածուն",
+   "az": "Matsun"
+  },
+  "mchadi": {
+   "zh": "玉米饼",
+   "ja": "ムチャディ",
+   "ko": "므차디",
+   "ar": "متشادي",
+   "fa": "مچادی",
+   "hi": "मचादी",
+   "uk": "Мчаді",
+   "ka": "მჭადი",
+   "hy": "Մչադի",
+   "az": "Mçadi"
+  },
+  "megruli-hachapuri": {
+   "zh": "明格列尔哈恰普里",
+   "ja": "メグレリア風ハチャプリ",
+   "ko": "메그렐리식 하차푸리",
+   "ar": "خاتشابوري ميغريلي",
+   "fa": "خاچاپوری مگرلی",
+   "hi": "मेग्रेली खाचापुरी",
+   "uk": "Мегрельський хачапурі",
+   "ka": "მეგრული ხაჭაპური",
+   "hy": "Մեգրելական խաչապուրի",
+   "az": "Meqreliya xaçapurisi"
+  },
+  "motal": {
+   "zh": "羊皮奶酪",
+   "ja": "モタルチーズ",
+   "ko": "모탈 치즈",
+   "ar": "جبن موتال",
+   "fa": "پنیر موتال",
+   "hi": "मोटल पनीर",
+   "uk": "Мотал",
+   "ka": "მოტალი",
+   "hy": "Մոթալ",
+   "az": "Motal pendiri"
+  },
+  "mtsvadi": {
+   "zh": "格鲁吉亚烤肉串",
+   "ja": "ムツヴァディ",
+   "ko": "므츠바디",
+   "ar": "متسفادي",
+   "fa": "متسوادی",
+   "hi": "म्त्स्वादी",
+   "uk": "Мцваді",
+   "ka": "მწვადი",
+   "hy": "Մծվադի",
+   "az": "Mtsvadi"
+  },
+  "mutaki": {
+   "zh": "坚果卷",
+   "ja": "ムタキ",
+   "ko": "무타키",
+   "ar": "موتاكي",
+   "fa": "متکا",
+   "hi": "मुताकी",
+   "uk": "Мутакі",
+   "ka": "მუთაქი",
+   "hy": "Մութաքի",
+   "az": "Mütəkkə"
+  },
+  "narsharab": {
+   "zh": "石榴酱",
+   "ja": "ナルシャラブ",
+   "ko": "나르샤라브",
+   "ar": "دبس الرمان",
+   "fa": "رب انار",
+   "hi": "नारशाराब",
+   "uk": "Наршараб",
+   "ka": "ნარშარაბი",
+   "hy": "Նարշարաբ",
+   "az": "Narşərab"
+  },
+  "nasdzhyn": {
+   "zh": "南瓜饼",
+   "ja": "ナスジン",
+   "ko": "나스진",
+   "ar": "ناسجين",
+   "fa": "ناسجین",
+   "hi": "नासजिन",
+   "uk": "Насджин",
+   "ka": "ნასჯინი",
+   "hy": "Նասջըն",
+   "az": "Nascın"
+  },
+  "nazuk": {
+   "zh": "纳祖克甜卷",
+   "ja": "ナズク",
+   "ko": "나죽",
+   "ar": "نازوك",
+   "fa": "نازوک",
+   "hi": "नाज़ुक",
+   "uk": "Назук",
+   "ka": "ნაზუქი",
+   "hy": "Նազուկ",
+   "az": "Nazik"
+  },
+  "ostri": {
+   "zh": "奥斯特里辣炖牛肉",
+   "ja": "オストリ",
+   "ko": "오스트리",
+   "ar": "أوستري",
+   "fa": "استری",
+   "hi": "ओस्त्री",
+   "uk": "Острі",
+   "ka": "ოსტრი",
+   "hy": "Օստրի",
+   "az": "Ostri"
+  },
+  "pahlava": {
+   "zh": "巴克拉瓦",
+   "ja": "パフラヴァ",
+   "ko": "파흘라바",
+   "ar": "بقلاوة",
+   "fa": "باقلوا",
+   "hi": "पख़लावा",
+   "uk": "Пахлава",
+   "ka": "ფახლავა",
+   "hy": "Փախլավա",
+   "az": "Paxlava"
+  },
+  "pasta-adyg": {
+   "zh": "小米糕",
+   "ja": "パスタ（雑穀粥）",
+   "ko": "파스타 기장죽",
+   "ar": "عصيدة الدخن",
+   "fa": "حلیم ارزن",
+   "hi": "बाजरे का दलिया",
+   "uk": "Паста",
+   "ka": "პასტა",
+   "hy": "Պաստա",
+   "az": "Pasta"
+  },
+  "pasuc-tolma": {
+   "zh": "素多尔玛",
+   "ja": "パスツ・トルマ",
+   "ko": "파수츠 톨마",
+   "ar": "طولمة صيامية",
+   "fa": "دلمه روزه",
+   "hi": "पासुत्स टोल्मा",
+   "uk": "Пасуц толма",
+   "ka": "პასუც ტოლმა",
+   "hy": "Պասուց տոլմա",
+   "az": "Pasuts dolma"
+  },
+  "pelamushi": {
+   "zh": "葡萄冻",
+   "ja": "ペラムシ",
+   "ko": "펠라무시",
+   "ar": "بيلاموشي",
+   "fa": "پلاموشی",
+   "hi": "पेलामुशी",
+   "uk": "Пеламуші",
+   "ka": "ფელამუში",
+   "hy": "Փելամուշի",
+   "az": "Pelamuşi"
+  },
+  "piti": {
+   "zh": "皮提羊肉汤",
+   "ja": "ピティ",
+   "ko": "피티",
+   "ar": "بيتي",
+   "fa": "پیتی",
+   "hi": "पिटी",
+   "uk": "Піті",
+   "ka": "პიტი",
+   "hy": "Պիտի",
+   "az": "Piti"
+  },
+  "pkhali": {
+   "zh": "普哈利蔬菜球",
+   "ja": "プハリ",
+   "ko": "프할리",
+   "ar": "بخالي",
+   "fa": "پخالی",
+   "hi": "पखाली",
+   "uk": "Пхалі",
+   "ka": "ფხალი",
+   "hy": "Փխալի",
+   "az": "Pxali"
+  },
+  "plov": {
+   "zh": "阿塞拜疆抓饭",
+   "ja": "アゼルバイジャンのプロフ",
+   "ko": "아제르바이잔 플로프",
+   "ar": "بلوف أذربيجاني",
+   "fa": "پلو آذربایجانی",
+   "hi": "अज़रबैजानी पुलाव",
+   "uk": "Плов",
+   "ka": "ფლავი",
+   "hy": "Փլավ",
+   "az": "Plov"
+  },
+  "pokhindz": {
+   "zh": "炒面甜粉",
+   "ja": "ポヒンツ",
+   "ko": "포힌츠",
+   "ar": "بوخيندز",
+   "fa": "پوخیندز",
+   "hi": "पोखिंद्ज़",
+   "uk": "Похіндз",
+   "ka": "ფოხინძი",
+   "hy": "Փոխինձ",
+   "az": "Poxinz"
+  },
+  "sabzi-govurma": {
+   "zh": "香草炖羊肉",
+   "ja": "サブズィ・ゴヴルマ",
+   "ko": "삽지 고부르마",
+   "ar": "سبزي قورمة",
+   "fa": "سبزی قورمه",
+   "hi": "सब्ज़ी गोवुर्मा",
+   "uk": "Сабзі-говурма",
+   "ka": "საბზი-ყოვურმა",
+   "hy": "Սաբզի ղովուրմա",
+   "az": "Sabzı qovurma"
+  },
+  "saczivi": {
+   "zh": "核桃酱鸡",
+   "ja": "サツィヴィ",
+   "ko": "사치비",
+   "ar": "ساتسيفي",
+   "fa": "ساتسیوی",
+   "hi": "सात्सिवी",
+   "uk": "Сациві",
+   "ka": "საცივი",
+   "hy": "Սացիվի",
+   "az": "Satsivi"
+  },
+  "sadzh": {
+   "zh": "铁板烤肉",
+   "ja": "サジ",
+   "ko": "사즈",
+   "ar": "صاج",
+   "fa": "ساج",
+   "hi": "साज",
+   "uk": "Садж",
+   "ka": "საჯი",
+   "hy": "Սաջ",
+   "az": "Sac"
+  },
+  "satsebeli": {
+   "zh": "萨采贝利番茄酱",
+   "ja": "サツェベリ",
+   "ko": "사체벨리",
+   "ar": "ساتسيبيلي",
+   "fa": "ساتسبلی",
+   "hi": "सात्सेबेली",
+   "uk": "Сацебелі",
+   "ka": "საწებელი",
+   "hy": "Սածեբելի",
+   "az": "Satsebeli"
+  },
+  "shah-plov": {
+   "zh": "沙王抓饭",
+   "ja": "シャー・プロフ",
+   "ko": "샤 플로프",
+   "ar": "شاه بلوف",
+   "fa": "شاه پلو",
+   "hi": "शाह पुलाव",
+   "uk": "Шах-плов",
+   "ka": "შაჰ-ფლავი",
+   "hy": "Շահ փլավ",
+   "az": "Şah plov"
+  },
+  "shchips": {
+   "zh": "切尔克斯酱",
+   "ja": "シチプス",
+   "ko": "십스",
+   "ar": "شيبس",
+   "fa": "شیپس",
+   "hi": "शिप्स सॉस",
+   "uk": "Щипс",
+   "ka": "შჩიფსი",
+   "hy": "Շչիպս",
+   "az": "Şçips"
+  },
+  "shekerbura": {
+   "zh": "新月甜饼",
+   "ja": "シェケルブラ",
+   "ko": "셰케르부라",
+   "ar": "شكربورة",
+   "fa": "شکربوره",
+   "hi": "शेकरबूरा",
+   "uk": "Шекербура",
+   "ka": "შაქარბურა",
+   "hy": "Շաքարբուրա",
+   "az": "Şəkərbura"
+  },
+  "shekerchorek": {
+   "zh": "酥饼",
+   "ja": "シェケルチョレク",
+   "ko": "셰케르초레크",
+   "ar": "شكرجورك",
+   "fa": "شکرچورک",
+   "hi": "शेकरचोरेक",
+   "uk": "Шекерчорек",
+   "ka": "შაქარჩორეკი",
+   "hy": "Շաքարչորեկ",
+   "az": "Şəkərçörək"
+  },
+  "sherbet": {
+   "zh": "果子露",
+   "ja": "シャルバト",
+   "ko": "셔벗 음료",
+   "ar": "شربات",
+   "fa": "شربت",
+   "hi": "शरबत",
+   "uk": "Шербет",
+   "ka": "შერბეთი",
+   "hy": "Շերբեթ",
+   "az": "Şərbət"
+  },
+  "shilaplavi": {
+   "zh": "格鲁吉亚羊肉饭",
+   "ja": "シラプラヴィ",
+   "ko": "실라플라비",
+   "ar": "شيلابلافي",
+   "fa": "شیلاپلاوی",
+   "hi": "शिलाप्लावी",
+   "uk": "Шилаплаві",
+   "ka": "შილაფლავი",
+   "hy": "Շիլափլավի",
+   "az": "Şilaplavi"
+  },
+  "shirin-plov": {
+   "zh": "甜抓饭",
+   "ja": "甘いピラフ",
+   "ko": "달콤한 필라프",
+   "ar": "بلوف حلو",
+   "fa": "شیرین پلو",
+   "hi": "मीठा पुलाव",
+   "uk": "Солодкий плов",
+   "ka": "ტკბილი ფლავი",
+   "hy": "Քաղցր փլավ",
+   "az": "Şirin plov"
+  },
+  "shkmeruli": {
+   "zh": "奶油蒜香鸡",
+   "ja": "シュクメルリ",
+   "ko": "쉬크메룰리",
+   "ar": "شكميرولي",
+   "fa": "شکمرولی",
+   "hi": "श्क्मेरुली",
+   "uk": "Шкмерулі",
+   "ka": "შქმერული",
+   "hy": "Շքմերուլի",
+   "az": "Şkmeruli"
+  },
+  "shoti": {
+   "zh": "绍蒂面包",
+   "ja": "ショティ",
+   "ko": "쇼티",
+   "ar": "شوتي",
+   "fa": "شوتی",
+   "hi": "शोती",
+   "uk": "Шоті",
+   "ka": "შოთი",
+   "hy": "Շոթի",
+   "az": "Şoti"
+  },
+  "siskal": {
+   "zh": "车臣玉米饼",
+   "ja": "シスカル",
+   "ko": "시스칼",
+   "ar": "سيسكال",
+   "fa": "سیسکال",
+   "hi": "सिसकाल",
+   "uk": "Сіскал",
+   "ka": "სისკალი",
+   "hy": "Սիսկալ",
+   "az": "Siskal"
+  },
+  "spas": {
+   "zh": "亚美尼亚酸奶汤",
+   "ja": "スパス",
+   "ko": "스파스",
+   "ar": "شوربة سباس",
+   "fa": "سوپ اسپاس",
+   "hi": "स्पास सूप",
+   "uk": "Спас",
+   "ka": "სპასი",
+   "hy": "Սպաս",
+   "az": "Spas şorbası"
+  },
+  "sudzhuk": {
+   "zh": "风干香肠",
+   "ja": "スジュク",
+   "ko": "수죽",
+   "ar": "سجق",
+   "fa": "سوجوک",
+   "hi": "सुजुक",
+   "uk": "Суджук",
+   "ka": "სუჯუხი",
+   "hy": "Սուջուխ",
+   "az": "Sucuq"
+  },
+  "suluguni": {
+   "zh": "苏鲁古尼奶酪",
+   "ja": "スルグニ",
+   "ko": "술구니 치즈",
+   "ar": "جبن سولوغوني",
+   "fa": "پنیر سولوگونی",
+   "hi": "सुलुगुनी पनीर",
+   "uk": "Сулугуні",
+   "ka": "სულგუნი",
+   "hy": "Սուլուգունի",
+   "az": "Sulquni pendiri"
+  },
+  "surj": {
+   "zh": "亚美尼亚咖啡",
+   "ja": "アルメニアコーヒー",
+   "ko": "아르메니아 커피",
+   "ar": "قهوة أرمنية",
+   "fa": "قهوه ارمنی",
+   "hi": "आर्मेनियाई कॉफ़ी",
+   "uk": "Вірменська кава",
+   "ka": "სომხური ყავა",
+   "hy": "Սուրճ",
+   "az": "Erməni qəhvəsi"
+  },
+  "tan": {
+   "zh": "亚美尼亚酸奶饮",
+   "ja": "タン",
+   "ko": "탄",
+   "ar": "تان",
+   "fa": "دوغ تان",
+   "hi": "तान",
+   "uk": "Тан",
+   "ka": "თანი",
+   "hy": "Թան",
+   "az": "Tan"
+  },
+  "tava-kebab": {
+   "zh": "平锅烤肉饼",
+   "ja": "タヴァ・ケバブ",
+   "ko": "타바 케밥",
+   "ar": "طاوة كباب",
+   "fa": "تاوه کباب",
+   "hi": "तवा कबाब",
+   "uk": "Тава-кебаб",
+   "ka": "ტავა-ქაბაბი",
+   "hy": "Թավա քյաբաբ",
+   "az": "Tava kabab"
+  },
+  "tendir-chorek": {
+   "zh": "馕坑面包",
+   "ja": "タンディル・パン",
+   "ko": "탄디르 빵",
+   "ar": "خبز التنور",
+   "fa": "نان تنوری",
+   "hi": "तंदूरी रोटी",
+   "uk": "Тендир-чорек",
+   "ka": "თონის პური",
+   "hy": "Թոնրի հաց",
+   "az": "Təndir çörəyi"
+  },
+  "tika-kebab": {
+   "zh": "块肉烤串",
+   "ja": "ティケ・ケバブ",
+   "ko": "티케 케밥",
+   "ar": "تيكة كباب",
+   "fa": "تیکه کباب",
+   "hi": "टिक्का कबाब",
+   "uk": "Тікя-кебаб",
+   "ka": "თიქა-ქაბაბი",
+   "hy": "Թիքյա քյաբաբ",
+   "az": "Tikə kabab"
+  },
+  "tkemali": {
+   "zh": "特克马利李子酱",
+   "ja": "トケマリ",
+   "ko": "트케말리",
+   "ar": "تكيمالي",
+   "fa": "تکمالی",
+   "hi": "त्केमाली",
+   "uk": "Ткемалі",
+   "ka": "ტყემალი",
+   "hy": "Տկեմալի",
+   "az": "Tkemali"
+  },
+  "tsakharadzhyn": {
+   "zh": "甜菜叶奶酪饼",
+   "ja": "ツァハラジン",
+   "ko": "차하라진",
+   "ar": "تساخاراجين",
+   "fa": "تساخاراجین",
+   "hi": "त्साखाराजिन",
+   "uk": "Цахараджин",
+   "ka": "ცახარაჯინი",
+   "hy": "Ցախարաջըն",
+   "az": "Tsaxaracın"
+  },
+  "ttu-lavash": {
+   "zh": "水果皮",
+   "ja": "トゥトゥ・ラヴァシュ",
+   "ko": "투 라바시",
+   "ar": "تتو لافاش",
+   "fa": "تتو لواش",
+   "hi": "त्तू लवाश",
+   "uk": "Тту лаваш",
+   "ka": "თთუ ლავაში",
+   "hy": "Թթու լավաշ",
+   "az": "Turş lavaş"
+  },
+  "tzhvzhik": {
+   "zh": "炒肝杂",
+   "ja": "トジュヴジク",
+   "ko": "트즈브직",
+   "ar": "تجفجيك",
+   "fa": "تژوژیک",
+   "hi": "त्ज्व्ज्हिक",
+   "uk": "Тжвжик",
+   "ka": "ტჟვჟიკი",
+   "hy": "Տժվժիկ",
+   "az": "Tjvjik"
+  },
+  "ualibakh": {
+   "zh": "奥塞梯奶酪饼",
+   "ja": "ワリバフ",
+   "ko": "왈리바흐",
+   "ar": "واليباخ",
+   "fa": "والیباخ",
+   "hi": "वालिबाख़",
+   "uk": "Уалібах",
+   "ka": "უალიბახი",
+   "hy": "Ուալիբախ",
+   "az": "Ualibax"
+  },
+  "uch-badzhi": {
+   "zh": "三姐妹酿菜",
+   "ja": "ウチ・バジ",
+   "ko": "우치 바지",
+   "ar": "الأخوات الثلاث",
+   "fa": "سه خواهر",
+   "hi": "तीन बहनें डोल्मा",
+   "uk": "Уч баджі",
+   "ka": "უჩ ბაჯი",
+   "hy": "Ուչ բաջի",
+   "az": "Üç bacı dolması"
+  },
+  "urbech": {
+   "zh": "种子酱",
+   "ja": "ウルベチ",
+   "ko": "우르베치",
+   "ar": "أوربيتش",
+   "fa": "اوربچ",
+   "hi": "उर्बेच",
+   "uk": "Урбеч",
+   "ka": "ურბეჩი",
+   "hy": "Ուրբեչ",
+   "az": "Urbeç"
+  },
+  "zhingyalov-hats": {
+   "zh": "绿叶菜饼",
+   "ja": "ジンガロフ・ハツ",
+   "ko": "징갈로프 하츠",
+   "ar": "خبز جينغيالوف",
+   "fa": "ژینگیالوف هاتس",
+   "hi": "झिंग्यालोव हाट्स",
+   "uk": "Жінгялов хац",
+   "ka": "ჟინგიალოვ ჰაც",
+   "hy": "Ժենգյալով հաց",
+   "az": "Jingyalov xas"
+  },
+  "zhizhig-chorpa": {
+   "zh": "车臣肉汤",
+   "ja": "ジジグ・チョルパ",
+   "ko": "지직 초르파",
+   "ar": "جيجيغ تشوربا",
+   "fa": "ژیژیگ چورپا",
+   "hi": "झिझिग चोर्पा",
+   "uk": "Жижиг-чорпа",
+   "ka": "ჟიჟიგ-ჩორპა",
+   "hy": "Ժիժիգ չորպա",
+   "az": "Jijiq-çorpa"
+  },
+  "zhizhig-galnash": {
+   "zh": "车臣肉配面疙瘩",
+   "ja": "ジジグ・ガルナシュ",
+   "ko": "지직 갈나시",
+   "ar": "جيجيغ غالناش",
+   "fa": "ژیژیگ گالناش",
+   "hi": "झिझिग गालनाश",
+   "uk": "Жижиг-галнаш",
+   "ka": "ჟიჟიგ-გალნაში",
+   "hy": "Ժիժիգ գալնաշ",
+   "az": "Jijiq-qalnaş"
+  }
+ }
+}
