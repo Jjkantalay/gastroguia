@@ -76,6 +76,33 @@ static void initial(Buf *b, const char *s) {
     buf_html(b, tmp);
 }
 
+/* Ссылки из данных выводим, только если это http(s) — никаких javascript: */
+static int safe_url(const char *u) {
+    return u && (!strncmp(u, "https://", 8) || !strncmp(u, "http://", 7));
+}
+
+static void link_or_text(Buf *b, const char *url, const char *text) {
+    if (safe_url(url)) {
+        buf_puts(b, "<a href=\"");
+        buf_html(b, url);
+        buf_puts(b, "\" target=\"_blank\" rel=\"noopener noreferrer\">");
+        buf_html(b, text);
+        buf_puts(b, "</a>");
+    } else buf_html(b, text);
+}
+
+/* «Фото: автор · лицензия» — для снимков со свободной лицензией */
+static void photo_credit(Ctx *c, const Dish *d) {
+    if (!d->photo_license) return;
+    buf_puts(c->b, "<p class=\"credit\">");
+    buf_html(c->b, T(K_PHOTO));
+    buf_puts(c->b, ": ");
+    link_or_text(c->b, d->photo_source, d->photo_author && *d->photo_author ? d->photo_author : "Wikimedia Commons");
+    buf_puts(c->b, " · ");
+    link_or_text(c->b, d->photo_license_url, d->photo_license);
+    buf_puts(c->b, "</p>");
+}
+
 /* --- каркас страницы --- */
 
 static void page_begin(Ctx *c, const char *title, const char *description, const char *self, const char *image) {
@@ -161,7 +188,11 @@ static void page_end(Ctx *c) {
     buf_html(b, T(K_BRAND));
     buf_printf(b, ", %d. ", year);
     buf_html(b, T(K_RIGHTS));
-    buf_puts(b, "</p>\n</div>\n<div class=\"footer__cell small\">\n<p class=\"serif-title\">");
+    buf_puts(b, "<br><a href=\"");
+    href(c, "/photos");
+    buf_puts(b, "\">");
+    buf_html(b, T(K_PHOTO));
+    buf_puts(b, ": Wikimedia Commons</a></p>\n</div>\n<div class=\"footer__cell small\">\n<p class=\"serif-title\">");
     buf_html(b, T(K_CONTACTS));
     buf_puts(b, "</p>\n<p>" COMPANY "</p>\n<a href=\"mailto:" EMAIL "\">" EMAIL "</a>\n<a href=\"" PHONE_HREF "\" dir=\"ltr\">" PHONE "</a>\n</div>\n");
     buf_puts(b, "<div class=\"footer__social\">\n"
@@ -474,7 +505,7 @@ int page_dish(Buf *out, const Site *site, int lang, const char *slug) {
     }
     buf_printf(b, ",\"inLanguage\":\"%s\"}</script>\n", LANGS[desc_from].code);
 
-    buf_puts(b, "<article class=\"dish\">\n<div class=\"dish__top\">\n<div class=\"dish__photo");
+    buf_puts(b, "<article class=\"dish\">\n<div class=\"dish__top\">\n<div class=\"dish__media\"><div class=\"dish__photo");
     if (!d->image) buf_puts(b, " dish__photo--empty");
     buf_puts(b, "\">");
     if (d->image) {
@@ -488,6 +519,8 @@ int page_dish(Buf *out, const Site *site, int lang, const char *slug) {
         initial(b, name);
         buf_puts(b, "</span>");
     }
+    buf_puts(b, "</div>\n");
+    photo_credit(c, d);
     buf_puts(b, "</div>\n<div class=\"dish__info\">\n<p class=\"crumbs\"><a href=\"");
     href(c, "/dishes");
     buf_puts(b, "\">// ");
@@ -581,6 +614,34 @@ int page_dish(Buf *out, const Site *site, int lang, const char *slug) {
     return 1;
 }
 
+/* Список фото со свободной лицензией и их авторов */
+void page_photos(Buf *out, const Site *site, int lang) {
+    Ctx ctx = {out, site, lang}, *c = &ctx;
+    Buf title = {0};
+    buf_printf(&title, "%s — %s", T(K_PHOTO), T(K_BRAND));
+    page_begin(c, title.p, T(K_SITE_DESCRIPTION), "/photos", NULL);
+    buf_free(&title);
+    section_heading(c, T(K_PHOTO), "Wikimedia Commons", NULL);
+    buf_puts(out, "<ul class=\"credits t-body\">\n");
+    for (size_t i = 0; i < site->ndishes; i++) {
+        const Dish *d = &site->dishes[i];
+        if (!d->photo_license) continue;
+        char path[256];
+        snprintf(path, sizeof path, "/dishes/%s", d->slug);
+        buf_puts(out, "<li><a href=\"");
+        href(c, path);
+        buf_puts(out, "\">");
+        buf_html(out, dish_get(d, lang, F_NAME, NULL));
+        buf_puts(out, "</a> — ");
+        link_or_text(out, d->photo_source, d->photo_author && *d->photo_author ? d->photo_author : "Wikimedia Commons");
+        buf_puts(out, ", ");
+        link_or_text(out, d->photo_license_url, d->photo_license);
+        buf_puts(out, "</li>\n");
+    }
+    buf_puts(out, "</ul>\n");
+    page_end(c);
+}
+
 void page_not_found(Buf *out, const Site *site, int lang) {
     Ctx ctx = {out, site, lang}, *c = &ctx;
     page_begin(c, T(K_NOT_FOUND), T(K_NOT_FOUND), "/", NULL);
@@ -637,6 +698,17 @@ int api_dish(Buf *out, const Site *site, const char *slug) {
     buf_json(out, d->course);
     buf_puts(out, ",\"image\":");
     buf_json(out, d->image);
+    if (d->photo_license) {
+        buf_puts(out, ",\"photo\":{\"author\":");
+        buf_json(out, d->photo_author);
+        buf_puts(out, ",\"license\":");
+        buf_json(out, d->photo_license);
+        buf_puts(out, ",\"licenseUrl\":");
+        buf_json(out, safe_url(d->photo_license_url) ? d->photo_license_url : NULL);
+        buf_puts(out, ",\"source\":");
+        buf_json(out, safe_url(d->photo_source) ? d->photo_source : NULL);
+        buf_puts(out, "}");
+    }
     buf_puts(out, ",\"allergens\":[");
     int first = 1;
     for (int a = 0; a < ALLERGEN_COUNT; a++)

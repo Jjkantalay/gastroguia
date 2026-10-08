@@ -33,6 +33,7 @@ export type ContentFile = {
 // Формат content/dishes-extra.json — блюда, добавленные после переноса, и названия на других языках
 type ExtraTexts = { name: string; description: string; history: string; ingredientsText: string };
 export type ExtraFile = {
+  cuisines?: { slug: string; name: string }[];
   dishes: (ExtraTexts & {
     slug: string;
     cuisine: string;
@@ -47,10 +48,21 @@ export type ExtraFile = {
 
 type I18nFile = { languages: { code: string; allergens: Record<string, string> }[] };
 
+// Формат content/photos.json — фото со свободной лицензией и их авторы
+export type PhotoCredit = {
+  image: string;
+  author: string;
+  license: string;
+  licenseUrl: string | null;
+  source: string;
+  review?: boolean;
+};
+export type PhotosFile = Record<string, PhotoCredit>;
+
 const capitalize = (s: string) => s.charAt(0).toUpperCase() + s.slice(1);
 
 /* Объединяет перенесённые блюда с добавленными: русский и английский тексты, аллергены словами */
-export function mergeContent(main: ContentFile, extra: ExtraFile, i18n: I18nFile): ContentFile {
+export function mergeContent(main: ContentFile, extra: ExtraFile, i18n: I18nFile, photos: PhotosFile = {}): ContentFile {
   const words = (lang: "ru" | "en", codes: string[]) => {
     const dict = i18n.languages.find((l) => l.code === lang)?.allergens ?? {};
     return codes.map((c) => capitalize(dict[c] ?? c));
@@ -91,9 +103,11 @@ export function mergeContent(main: ContentFile, extra: ExtraFile, i18n: I18nFile
     },
   }));
 
+  const photo = (d: ContentDish) => d.image ?? (photos[d.slug]?.image.startsWith("/") ? photos[d.slug].image : null);
   return {
     ...main,
-    dishes: [...old, ...added],
+    cuisines: [...main.cuisines, ...(extra.cuisines ?? []).filter((c) => !main.cuisines.some((m) => m.slug === c.slug))],
+    dishes: [...old, ...added].map((d) => ({ ...d, image: photo(d) })),
     // Редиректы пустых карточек на каталог не нужны, если блюдо появилось
     redirects: main.redirects.filter((r) => !(r.destination === "/dishes" && known.has(r.source.replace("/bliuda/", "")))),
   };

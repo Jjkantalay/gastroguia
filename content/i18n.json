@@ -38,7 +38,8 @@
     "site_title": "Гастрогид — твой виртуальный гид в мире кавказской кухни",
     "site_description": "Мультилингвальная картотека блюд Кавказа: история, ингредиенты, аллергены и традиции подачи.",
     "brand": "Гастрогид",
-    "in_english": "Текст пока доступен на английском."
+    "in_english": "Текст пока доступен на английском.",
+    "photo": "Фото"
    },
    "cuisines": {
     "gruzinskaya": "Грузинская кухня",
@@ -50,7 +51,16 @@
     "lezginskaya": "Лезгинская кухня",
     "kabardinskaya": "Кабардинская кухня",
     "cherkesskaya": "Адыгейская кухня",
-    "abhazskaya": "Абхазская кухня"
+    "abhazskaya": "Абхазская кухня",
+    "karachaevo-balkarskaya": "Карачаево-балкарская кухня",
+    "turetskaya": "Турецкая кухня",
+    "iranskaya": "Иранская кухня",
+    "uzbekskaya": "Узбекская кухня",
+    "tadzhikskaya": "Таджикская кухня",
+    "kazahskaya": "Казахская кухня",
+    "kyrgyzskaya": "Киргизская кухня",
+    "turkmenskaya": "Туркменская кухня",
+    "krymskotatarskaya": "Крымскотатарская кухня"
    },
    "courses": {
     "закуска": "закуска",
@@ -111,7 +121,8 @@
     "site_title": "Gastroguia — your virtual guide to Caucasian cuisine",
     "site_description": "A multilingual catalogue of Caucasian dishes: history, ingredients, allergens and serving traditions.",
     "brand": "Gastroguia",
-    "in_english": "The text is available in English for now."
+    "in_english": "The text is available in English for now.",
+    "photo": "Photo"
    },
    "cuisines": {
     "gruzinskaya": "Georgian cuisine",
@@ -123,7 +134,16 @@
     "lezginskaya": "Lezgin cuisine",
     "kabardinskaya": "Kabardian cuisine",
     "cherkesskaya": "Adyghe cuisine",
-    "abhazskaya": "Abkhaz cuisine"
+    "abhazskaya": "Abkhaz cuisine",
+    "karachaevo-balkarskaya": "Karachay-Balkar cuisine",
+    "turetskaya": "Turkish cuisine",
+    "iranskaya": "Iranian cuisine",
+    "uzbekskaya": "Uzbek cuisine",
+    "tadzhikskaya": "Tajik cuisine",
+    "kazahskaya": "Kazakh cuisine",
+    "kyrgyzskaya": "Kyrgyz cuisine",
+    "turkmenskaya": "Turkmen cuisine",
+    "krymskotatarskaya": "Crimean Tatar cuisine"
    },
    "courses": {
     "закуска": "starter",
@@ -184,7 +204,8 @@
     "site_title": "Gastroguía — tu guía virtual de la cocina caucásica",
     "site_description": "Catálogo multilingüe de platos del Cáucaso: historia, ingredientes, alérgenos y tradiciones.",
     "brand": "Gastroguía",
-    "in_english": "Por ahora el texto está disponible en inglés."
+    "in_english": "Por ahora el texto está disponible en inglés.",
+    "photo": "Foto"
    },
    "cuisines": {
     "gruzinskaya": "Cocina georgiana",
@@ -196,7 +217,16 @@
     "lezginskaya": "Cocina lezguina",
     "kabardinskaya": "Cocina kabardina",
     "cherkesskaya": "Cocina adigué",
-    "abhazskaya": "Cocina abjasia"
+    "abhazskaya": "Cocina abjasia",
+    "karachaevo-balkarskaya": "Cocina karachái-bálkara",
+    "turetskaya": "Cocina turca",
+    "iranskaya": "Cocina iraní",
+    "uzbekskaya": "Cocina uzbeka",
+    "tadzhikskaya": "Cocina tayika",
+    "kazahskaya": "Cocina kazaja",
+    "kyrgyzskaya": "Cocina kirguís",
+    "turkmenskaya": "Cocina turcomana",
+    "krymskotatarskaya": "Cocina tártara de Crimea"
    },
    "courses": {
     "закуска": "entrante",
@@ -257,7 +287,8 @@
     "site_title": "Gastroguia — ton guide virtuel de la cuisine caucasienne",
     "site_description": "Catalogue multilingue des plats du Caucase : histoire, ingrédients, allergènes et traditions de service.",
     "brand": "Gastroguia",
-    "in_english": "Le texte est pour l'instant disponible en anglais."
+    "in_english": "Le texte est pour l'instant disponible en anglais.",
+    "photo": "Photo"
    },
    "cuisines": {
     "gruzinskaya": "Cuisine géorgienne",
@@ -269,7 +300,16 @@
     "lezginskaya": "Cuisine lezguienne",
     "kabardinskaya": "Cuisine kabarde",
     "cherkesskaya": "Cuisine adyguéenne",
-    "abhazskaya": "Cuisine abkhaze"
+    "abhazskaya": "Cuisine abkhaze",
+    "karachaevo-balkarskaya": "Cuisine karatchaï-balkare",
+    "turetskaya": "Cuisine turque",
+    "iranskaya": "Cuisine iranienne",
+    "uzbekskaya": "Cuisine ouzbèke",
+    "tadzhikskaya": "Cuisine tadjike",
+    "kazahskaya": "Cuisine kazakhe",
+    "kyrgyzskaya": "Cuisine kirghize",
+    "turkmenskaya": "Cuisine turkmène",
+    "krymskotatarskaya": "Cuisine tatare de Crimée"
    },
    "courses": {
     "закуска": "entrée",
@@ -330,7 +370,8 @@
     "site_title": "Gastroguia – dein virtueller Führer durch die kaukasische Küche",
     "site_description": "Mehrsprachiger Katalog kaukasischer Gerichte: Geschichte, Zutaten, Allergene und Serviertraditionen.",
     "brand": "Gastroguia",
-    "in_english": "Der Text ist vorerst auf Englisch verfügbar."
+    "in_english": "Der Text ist vorerst auf Englisch verfügbar.",
+    "photo": "Foto"
    },
    "cuisines": {
     "gruzinskaya": "Georgische Küche",
@@ -342,7 +383,16 @@
     "lezginskaya": "Lesgische Küche",
     "kabardinskaya": "Kabardinische Küche",
     "cherkesskaya": "Adygeische Küche",
-    "abhazskaya": "Abchasische Küche"
+    "abhazskaya": "Abchasische Küche",
+    "karachaevo-balkarskaya": "Karatschai-balkarische Küche",
+    "turetskaya": "Türkische Küche",
+    "iranskaya": "Iranische Küche",
+    "uzbekskaya": "Usbekische Küche",
+    "tadzhikskaya": "Tadschikische Küche",
+    "kazahskaya": "Kasachische Küche",
+    "kyrgyzskaya": "Kirgisische Küche",
+    "turkmenskaya": "Turkmenische Küche",
+    "krymskotatarskaya": "Krimtatarische Küche"
    },
    "courses": {
     "закуска": "Vorspeise",
@@ -403,7 +453,8 @@
     "site_title": "Gastroguia — la tua guida virtuale alla cucina caucasica",
     "site_description": "Catalogo multilingue dei piatti del Caucaso: storia, ingredienti, allergeni e tradizioni.",
     "brand": "Gastroguia",
-    "in_english": "Per ora il testo è disponibile in inglese."
+    "in_english": "Per ora il testo è disponibile in inglese.",
+    "photo": "Foto"
    },
    "cuisines": {
     "gruzinskaya": "Cucina georgiana",
@@ -415,7 +466,16 @@
     "lezginskaya": "Cucina lesga",
     "kabardinskaya": "Cucina cabardina",
     "cherkesskaya": "Cucina adighè",
-    "abhazskaya": "Cucina abcasa"
+    "abhazskaya": "Cucina abcasa",
+    "karachaevo-balkarskaya": "Cucina karachay-balkara",
+    "turetskaya": "Cucina turca",
+    "iranskaya": "Cucina iraniana",
+    "uzbekskaya": "Cucina uzbeka",
+    "tadzhikskaya": "Cucina tagika",
+    "kazahskaya": "Cucina kazaka",
+    "kyrgyzskaya": "Cucina kirghisa",
+    "turkmenskaya": "Cucina turkmena",
+    "krymskotatarskaya": "Cucina tatara di Crimea"
    },
    "courses": {
     "закуска": "antipasto",
@@ -476,7 +536,8 @@
     "site_title": "Gastroguia — o teu guia virtual da cozinha caucasiana",
     "site_description": "Catálogo multilíngue de pratos do Cáucaso: história, ingredientes, alergénios e tradições.",
     "brand": "Gastroguia",
-    "in_english": "Por enquanto o texto está disponível em inglês."
+    "in_english": "Por enquanto o texto está disponível em inglês.",
+    "photo": "Foto"
    },
    "cuisines": {
     "gruzinskaya": "Cozinha georgiana",
@@ -488,7 +549,16 @@
     "lezginskaya": "Cozinha lezguiana",
     "kabardinskaya": "Cozinha cabardina",
     "cherkesskaya": "Cozinha adigue",
-    "abhazskaya": "Cozinha abcásia"
+    "abhazskaya": "Cozinha abcásia",
+    "karachaevo-balkarskaya": "Cozinha carachai-balcar",
+    "turetskaya": "Cozinha turca",
+    "iranskaya": "Cozinha iraniana",
+    "uzbekskaya": "Cozinha uzbeque",
+    "tadzhikskaya": "Cozinha tajique",
+    "kazahskaya": "Cozinha cazaque",
+    "kyrgyzskaya": "Cozinha quirguiz",
+    "turkmenskaya": "Cozinha turcomena",
+    "krymskotatarskaya": "Cozinha tártara da Crimeia"
    },
    "courses": {
     "закуска": "entrada",
@@ -549,7 +619,8 @@
     "site_title": "Gastroguia — Kafkas mutfağındaki sanal rehberin",
     "site_description": "Kafkas yemeklerinin çok dilli kataloğu: tarih, malzemeler, alerjenler ve sunum gelenekleri.",
     "brand": "Gastroguia",
-    "in_english": "Metin şimdilik İngilizce olarak mevcut."
+    "in_english": "Metin şimdilik İngilizce olarak mevcut.",
+    "photo": "Fotoğraf"
    },
    "cuisines": {
     "gruzinskaya": "Gürcü mutfağı",
@@ -561,7 +632,16 @@
     "lezginskaya": "Lezgi mutfağı",
     "kabardinskaya": "Kabardey mutfağı",
     "cherkesskaya": "Adige mutfağı",
-    "abhazskaya": "Abhaz mutfağı"
+    "abhazskaya": "Abhaz mutfağı",
+    "karachaevo-balkarskaya": "Karaçay-Malkar mutfağı",
+    "turetskaya": "Türk mutfağı",
+    "iranskaya": "İran mutfağı",
+    "uzbekskaya": "Özbek mutfağı",
+    "tadzhikskaya": "Tacik mutfağı",
+    "kazahskaya": "Kazak mutfağı",
+    "kyrgyzskaya": "Kırgız mutfağı",
+    "turkmenskaya": "Türkmen mutfağı",
+    "krymskotatarskaya": "Kırım Tatar mutfağı"
    },
    "courses": {
     "закуска": "meze",
@@ -622,7 +702,8 @@
     "site_title": "Gastroguia — twój wirtualny przewodnik po kuchni kaukaskiej",
     "site_description": "Wielojęzyczny katalog dań Kaukazu: historia, składniki, alergeny i tradycje podawania.",
     "brand": "Gastroguia",
-    "in_english": "Tekst jest na razie dostępny po angielsku."
+    "in_english": "Tekst jest na razie dostępny po angielsku.",
+    "photo": "Zdjęcie"
    },
    "cuisines": {
     "gruzinskaya": "Kuchnia gruzińska",
@@ -634,7 +715,16 @@
     "lezginskaya": "Kuchnia lezgińska",
     "kabardinskaya": "Kuchnia kabardyjska",
     "cherkesskaya": "Kuchnia adygejska",
-    "abhazskaya": "Kuchnia abchaska"
+    "abhazskaya": "Kuchnia abchaska",
+    "karachaevo-balkarskaya": "Kuchnia karaczajsko-bałkarska",
+    "turetskaya": "Kuchnia turecka",
+    "iranskaya": "Kuchnia irańska",
+    "uzbekskaya": "Kuchnia uzbecka",
+    "tadzhikskaya": "Kuchnia tadżycka",
+    "kazahskaya": "Kuchnia kazachska",
+    "kyrgyzskaya": "Kuchnia kirgiska",
+    "turkmenskaya": "Kuchnia turkmeńska",
+    "krymskotatarskaya": "Kuchnia Tatarów krymskich"
    },
    "courses": {
     "закуска": "przystawka",
@@ -695,7 +785,8 @@
     "site_title": "Гастрогід — твій віртуальний гід у світі кавказької кухні",
     "site_description": "Мультилінгвальна картотека страв Кавказу: історія, інгредієнти, алергени й традиції подачі.",
     "brand": "Гастрогід",
-    "in_english": "Текст поки доступний англійською."
+    "in_english": "Текст поки доступний англійською.",
+    "photo": "Фото"
    },
    "cuisines": {
     "gruzinskaya": "Грузинська кухня",
@@ -707,7 +798,16 @@
     "lezginskaya": "Лезгинська кухня",
     "kabardinskaya": "Кабардинська кухня",
     "cherkesskaya": "Адигейська кухня",
-    "abhazskaya": "Абхазька кухня"
+    "abhazskaya": "Абхазька кухня",
+    "karachaevo-balkarskaya": "Карачаєво-балкарська кухня",
+    "turetskaya": "Турецька кухня",
+    "iranskaya": "Іранська кухня",
+    "uzbekskaya": "Узбецька кухня",
+    "tadzhikskaya": "Таджицька кухня",
+    "kazahskaya": "Казахська кухня",
+    "kyrgyzskaya": "Киргизька кухня",
+    "turkmenskaya": "Туркменська кухня",
+    "krymskotatarskaya": "Кримськотатарська кухня"
    },
    "courses": {
     "закуска": "закуска",
@@ -768,7 +868,8 @@
     "site_title": "غاستروغيا — دليلك الافتراضي إلى المطبخ القوقازي",
     "site_description": "فهرس متعدد اللغات لأطباق القوقاز: التاريخ والمكوّنات ومسببات الحساسية وتقاليد التقديم.",
     "brand": "غاستروغيا",
-    "in_english": "النص متاح حاليًا باللغة الإنجليزية."
+    "in_english": "النص متاح حاليًا باللغة الإنجليزية.",
+    "photo": "صورة"
    },
    "cuisines": {
     "gruzinskaya": "المطبخ الجورجي",
@@ -780,7 +881,16 @@
     "lezginskaya": "المطبخ الليزغيني",
     "kabardinskaya": "المطبخ القبردي",
     "cherkesskaya": "المطبخ الأديغي",
-    "abhazskaya": "المطبخ الأبخازي"
+    "abhazskaya": "المطبخ الأبخازي",
+    "karachaevo-balkarskaya": "المطبخ القره تشاي البلقاري",
+    "turetskaya": "المطبخ التركي",
+    "iranskaya": "المطبخ الإيراني",
+    "uzbekskaya": "المطبخ الأوزبكي",
+    "tadzhikskaya": "المطبخ الطاجيكي",
+    "kazahskaya": "المطبخ الكازاخي",
+    "kyrgyzskaya": "المطبخ القيرغيزي",
+    "turkmenskaya": "المطبخ التركماني",
+    "krymskotatarskaya": "مطبخ تتار القرم"
    },
    "courses": {
     "закуска": "مقبلات",
@@ -841,7 +951,8 @@
     "site_title": "گاستروگیا — راهنمای مجازی تو در آشپزی قفقاز",
     "site_description": "فهرست چندزبانه غذاهای قفقاز: تاریخچه، مواد، آلرژن‌ها و آداب سرو.",
     "brand": "گاستروگیا",
-    "in_english": "فعلاً متن به زبان انگلیسی در دسترس است."
+    "in_english": "فعلاً متن به زبان انگلیسی در دسترس است.",
+    "photo": "عکس"
    },
    "cuisines": {
     "gruzinskaya": "آشپزی گرجی",
@@ -853,7 +964,16 @@
     "lezginskaya": "آشپزی لزگی",
     "kabardinskaya": "آشپزی کاباردی",
     "cherkesskaya": "آشپزی آدیغه",
-    "abhazskaya": "آشپزی آبخازی"
+    "abhazskaya": "آشپزی آبخازی",
+    "karachaevo-balkarskaya": "آشپزی قره‌چای-بالکار",
+    "turetskaya": "آشپزی ترکی",
+    "iranskaya": "آشپزی ایرانی",
+    "uzbekskaya": "آشپزی ازبکی",
+    "tadzhikskaya": "آشپزی تاجیکی",
+    "kazahskaya": "آشپزی قزاقی",
+    "kyrgyzskaya": "آشپزی قرقیزی",
+    "turkmenskaya": "آشپزی ترکمنی",
+    "krymskotatarskaya": "آشپزی تاتارهای کریمه"
    },
    "courses": {
     "закуска": "پیش‌غذا",
@@ -914,7 +1034,8 @@
     "site_title": "गैस्ट्रोगिया — कॉकेशियाई व्यंजनों की दुनिया में तुम्हारा आभासी गाइड",
     "site_description": "कॉकेशस के व्यंजनों की बहुभाषी सूची: इतिहास, सामग्री, एलर्जेन और परोसने की परंपराएँ।",
     "brand": "गैस्ट्रोगिया",
-    "in_english": "यह पाठ फ़िलहाल अंग्रेज़ी में उपलब्ध है।"
+    "in_english": "यह पाठ फ़िलहाल अंग्रेज़ी में उपलब्ध है।",
+    "photo": "फ़ोटो"
    },
    "cuisines": {
     "gruzinskaya": "जॉर्जियाई व्यंजन",
@@ -926,7 +1047,16 @@
     "lezginskaya": "लेज़गिन व्यंजन",
     "kabardinskaya": "काबार्डियन व्यंजन",
     "cherkesskaya": "अदिगे व्यंजन",
-    "abhazskaya": "अबख़ाज़ व्यंजन"
+    "abhazskaya": "अबख़ाज़ व्यंजन",
+    "karachaevo-balkarskaya": "कराचाय-बल्कार व्यंजन",
+    "turetskaya": "तुर्की व्यंजन",
+    "iranskaya": "ईरानी व्यंजन",
+    "uzbekskaya": "उज़्बेक व्यंजन",
+    "tadzhikskaya": "ताजिक व्यंजन",
+    "kazahskaya": "कज़ाख़ व्यंजन",
+    "kyrgyzskaya": "किर्गिज़ व्यंजन",
+    "turkmenskaya": "तुर्कमेन व्यंजन",
+    "krymskotatarskaya": "क्रीमियाई तातार व्यंजन"
    },
    "courses": {
     "закуска": "स्टार्टर",
@@ -987,7 +1117,8 @@
     "site_title": "Gastroguia——你的高加索美食虚拟向导",
     "site_description": "高加索菜品多语言图鉴：历史、食材、过敏原与上菜传统。",
     "brand": "Gastroguia",
-    "in_english": "本文暂时仅提供英文版。"
+    "in_english": "本文暂时仅提供英文版。",
+    "photo": "图片"
    },
    "cuisines": {
     "gruzinskaya": "格鲁吉亚菜",
@@ -999,7 +1130,16 @@
     "lezginskaya": "列兹金菜",
     "kabardinskaya": "卡巴尔达菜",
     "cherkesskaya": "阿迪格菜",
-    "abhazskaya": "阿布哈兹菜"
+    "abhazskaya": "阿布哈兹菜",
+    "karachaevo-balkarskaya": "卡拉恰伊-巴尔卡尔菜",
+    "turetskaya": "土耳其菜",
+    "iranskaya": "伊朗菜",
+    "uzbekskaya": "乌兹别克菜",
+    "tadzhikskaya": "塔吉克菜",
+    "kazahskaya": "哈萨克菜",
+    "kyrgyzskaya": "吉尔吉斯菜",
+    "turkmenskaya": "土库曼菜",
+    "krymskotatarskaya": "克里米亚鞑靼菜"
    },
    "courses": {
     "закуска": "开胃菜",
@@ -1060,7 +1200,8 @@
     "site_title": "Gastroguia — コーカサス料理のバーチャルガイド",
     "site_description": "コーカサス料理の多言語カタログ：歴史、材料、アレルゲン、食べ方の伝統。",
     "brand": "Gastroguia",
-    "in_english": "この文章は現在英語でのみご覧いただけます。"
+    "in_english": "この文章は現在英語でのみご覧いただけます。",
+    "photo": "写真"
    },
    "cuisines": {
     "gruzinskaya": "ジョージア料理",
@@ -1072,7 +1213,16 @@
     "lezginskaya": "レズギン料理",
     "kabardinskaya": "カバルダ料理",
     "cherkesskaya": "アディゲ料理",
-    "abhazskaya": "アブハズ料理"
+    "abhazskaya": "アブハズ料理",
+    "karachaevo-balkarskaya": "カラチャイ・バルカル料理",
+    "turetskaya": "トルコ料理",
+    "iranskaya": "イラン料理",
+    "uzbekskaya": "ウズベク料理",
+    "tadzhikskaya": "タジク料理",
+    "kazahskaya": "カザフ料理",
+    "kyrgyzskaya": "キルギス料理",
+    "turkmenskaya": "トルクメン料理",
+    "krymskotatarskaya": "クリミア・タタール料理"
    },
    "courses": {
     "закуска": "前菜",
@@ -1133,7 +1283,8 @@
     "site_title": "Gastroguia — 코카서스 요리의 가상 가이드",
     "site_description": "코카서스 요리 다국어 카탈로그: 역사, 재료, 알레르기 성분, 상차림 전통.",
     "brand": "Gastroguia",
-    "in_english": "이 글은 현재 영어로만 제공됩니다."
+    "in_english": "이 글은 현재 영어로만 제공됩니다.",
+    "photo": "사진"
    },
    "cuisines": {
     "gruzinskaya": "조지아 요리",
@@ -1145,7 +1296,16 @@
     "lezginskaya": "레즈긴 요리",
     "kabardinskaya": "카바르다 요리",
     "cherkesskaya": "아디게 요리",
-    "abhazskaya": "압하스 요리"
+    "abhazskaya": "압하스 요리",
+    "karachaevo-balkarskaya": "카라차이발카르 요리",
+    "turetskaya": "튀르키예 요리",
+    "iranskaya": "이란 요리",
+    "uzbekskaya": "우즈베크 요리",
+    "tadzhikskaya": "타지크 요리",
+    "kazahskaya": "카자흐 요리",
+    "kyrgyzskaya": "키르기스 요리",
+    "turkmenskaya": "투르크멘 요리",
+    "krymskotatarskaya": "크림 타타르 요리"
    },
    "courses": {
     "закуска": "전채",
@@ -1206,7 +1366,8 @@
     "site_title": "Gastroguia — pemandu virtualmu di dunia masakan Kaukasus",
     "site_description": "Katalog multibahasa hidangan Kaukasus: sejarah, bahan, alergen, dan tradisi penyajian.",
     "brand": "Gastroguia",
-    "in_english": "Untuk saat ini teks tersedia dalam bahasa Inggris."
+    "in_english": "Untuk saat ini teks tersedia dalam bahasa Inggris.",
+    "photo": "Foto"
    },
    "cuisines": {
     "gruzinskaya": "Masakan Georgia",
@@ -1218,7 +1379,16 @@
     "lezginskaya": "Masakan Lezgin",
     "kabardinskaya": "Masakan Kabarda",
     "cherkesskaya": "Masakan Adyghe",
-    "abhazskaya": "Masakan Abkhazia"
+    "abhazskaya": "Masakan Abkhazia",
+    "karachaevo-balkarskaya": "Masakan Karachay-Balkar",
+    "turetskaya": "Masakan Turki",
+    "iranskaya": "Masakan Iran",
+    "uzbekskaya": "Masakan Uzbek",
+    "tadzhikskaya": "Masakan Tajik",
+    "kazahskaya": "Masakan Kazakh",
+    "kyrgyzskaya": "Masakan Kirgiz",
+    "turkmenskaya": "Masakan Turkmen",
+    "krymskotatarskaya": "Masakan Tatar Krimea"
    },
    "courses": {
     "закуска": "hidangan pembuka",
@@ -1279,7 +1449,8 @@
     "site_title": "გასტროგიდი — შენი ვირტუალური გიდი კავკასიური სამზარეულოს სამყაროში",
     "site_description": "კავკასიური კერძების მრავალენოვანი კატალოგი: ისტორია, ინგრედიენტები, ალერგენები და მირთმევის ტრადიციები.",
     "brand": "გასტროგიდი",
-    "in_english": "ტექსტი ჯერჯერობით ინგლისურად არის ხელმისაწვდომი."
+    "in_english": "ტექსტი ჯერჯერობით ინგლისურად არის ხელმისაწვდომი.",
+    "photo": "ფოტო"
    },
    "cuisines": {
     "gruzinskaya": "ქართული სამზარეულო",
@@ -1291,7 +1462,16 @@
     "lezginskaya": "ლეკური სამზარეულო",
     "kabardinskaya": "ყაბარდოული სამზარეულო",
     "cherkesskaya": "ადიღეური სამზარეულო",
-    "abhazskaya": "აფხაზური სამზარეულო"
+    "abhazskaya": "აფხაზური სამზარეულო",
+    "karachaevo-balkarskaya": "ყარაჩაულ-ბალყარული სამზარეულო",
+    "turetskaya": "თურქული სამზარეულო",
+    "iranskaya": "ირანული სამზარეულო",
+    "uzbekskaya": "უზბეკური სამზარეულო",
+    "tadzhikskaya": "ტაჯიკური სამზარეულო",
+    "kazahskaya": "ყაზახური სამზარეულო",
+    "kyrgyzskaya": "ყირგიზული სამზარეულო",
+    "turkmenskaya": "თურქმენული სამზარეულო",
+    "krymskotatarskaya": "ყირიმელი თათრების სამზარეულო"
    },
    "courses": {
     "закуска": "წასახემსებელი",
@@ -1352,7 +1532,8 @@
     "site_title": "Գաստրոգիդ — քո վիրտուալ ուղեցույցը կովկասյան խոհանոցի աշխարհում",
     "site_description": "Կովկասյան ուտեստների բազմալեզու քարտարան՝ պատմություն, բաղադրիչներ, ալերգեններ և մատուցման ավանդույթներ։",
     "brand": "Գաստրոգիդ",
-    "in_english": "Տեքստը առայժմ հասանելի է անգլերենով։"
+    "in_english": "Տեքստը առայժմ հասանելի է անգլերենով։",
+    "photo": "Լուսանկար"
    },
    "cuisines": {
     "gruzinskaya": "Վրացական խոհանոց",
@@ -1364,7 +1545,16 @@
     "lezginskaya": "Լեզգինական խոհանոց",
     "kabardinskaya": "Կաբարդինական խոհանոց",
     "cherkesskaya": "Ադըղեական խոհանոց",
-    "abhazskaya": "Աբխազական խոհանոց"
+    "abhazskaya": "Աբխազական խոհանոց",
+    "karachaevo-balkarskaya": "Կարաչայա-բալկարական խոհանոց",
+    "turetskaya": "Թուրքական խոհանոց",
+    "iranskaya": "Իրանական խոհանոց",
+    "uzbekskaya": "Ուզբեկական խոհանոց",
+    "tadzhikskaya": "Տաջիկական խոհանոց",
+    "kazahskaya": "Ղազախական խոհանոց",
+    "kyrgyzskaya": "Ղրղզական խոհանոց",
+    "turkmenskaya": "Թուրքմենական խոհանոց",
+    "krymskotatarskaya": "Ղրիմյան թաթարական խոհանոց"
    },
    "courses": {
     "закуска": "նախուտեստ",
@@ -1425,7 +1615,8 @@
     "site_title": "Qastroqid — Qafqaz mətbəxi dünyasında virtual bələdçin",
     "site_description": "Qafqaz yeməklərinin çoxdilli kataloqu: tarix, inqrediyentlər, allergenlər və süfrə ənənələri.",
     "brand": "Qastroqid",
-    "in_english": "Mətn hələlik ingilis dilində mövcuddur."
+    "in_english": "Mətn hələlik ingilis dilində mövcuddur.",
+    "photo": "Foto"
    },
    "cuisines": {
     "gruzinskaya": "Gürcü mətbəxi",
@@ -1437,7 +1628,16 @@
     "lezginskaya": "Ləzgi mətbəxi",
     "kabardinskaya": "Kabarda mətbəxi",
     "cherkesskaya": "Adıgey mətbəxi",
-    "abhazskaya": "Abxaz mətbəxi"
+    "abhazskaya": "Abxaz mətbəxi",
+    "karachaevo-balkarskaya": "Qaraçay-Balkar mətbəxi",
+    "turetskaya": "Türk mətbəxi",
+    "iranskaya": "İran mətbəxi",
+    "uzbekskaya": "Özbək mətbəxi",
+    "tadzhikskaya": "Tacik mətbəxi",
+    "kazahskaya": "Qazax mətbəxi",
+    "kyrgyzskaya": "Qırğız mətbəxi",
+    "turkmenskaya": "Türkmən mətbəxi",
+    "krymskotatarskaya": "Krım-tatar mətbəxi"
    },
    "courses": {
     "закуска": "qəlyanaltı",

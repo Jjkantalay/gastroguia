@@ -5,6 +5,7 @@ import { cache } from "react";
 import { DishCard } from "@/components/DishCard";
 import { SITE_ASSETS } from "@/lib/assets";
 import { DIFFICULTY_LABELS, formatTime, getDish, searchDishes } from "@/lib/dishes";
+import { photoCredit, safeUrl } from "@/lib/photos";
 
 type Params = Promise<{ slug: string }>;
 
@@ -43,6 +44,7 @@ export default async function DishPage({ params }: { params: Params }) {
     for (const d of more) if (related.length < 3 && d.slug !== dish.slug && !related.some((r) => r.slug === d.slug)) related.push(d);
   }
 
+  const credit = photoCredit(dish.slug);
   const hasRecipe = dish.steps.length > 0;
   const jsonLd = {
     "@context": "https://schema.org",
@@ -74,12 +76,24 @@ export default async function DishPage({ params }: { params: Params }) {
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd).replace(/</g, "\\u003c") }} />
 
       <div className="flex flex-col gap-8 md:flex-row md:justify-between">
-        <div className="md:w-1/2">
+        <div className="flex flex-col gap-2 md:w-1/2">
           {dish.imageUrl ? (
             // eslint-disable-next-line @next/next/no-img-element
             <img src={dish.imageUrl} alt={dish.name} className="aspect-[4/3] w-full rounded-[25px] object-cover md:aspect-auto md:h-full md:max-h-[80vh]" />
           ) : (
             <div className="aspect-[4/3] w-full rounded-[25px] bg-ink-soft" />
+          )}
+          {credit && (
+            <p className="text-xs opacity-75">
+              Фото:{" "}
+              <a href={safeUrl(credit.source)} target="_blank" rel="noopener noreferrer" className="underline">
+                {credit.author}
+              </a>{" "}
+              ·{" "}
+              <a href={safeUrl(credit.licenseUrl)} target="_blank" rel="noopener noreferrer" className="underline">
+                {credit.license}
+              </a>
+            </p>
           )}
         </div>
 

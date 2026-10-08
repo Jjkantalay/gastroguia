@@ -12,7 +12,8 @@
     "db:migrate": "tsx src/db/migrate.ts",
     "db:seed": "tsx src/db/seed.ts",
     "import:wordpress": "tsx scripts/wordpress-to-json.ts",
-    "images:download": "tsx scripts/download-images.ts"
+    "images:download": "tsx scripts/download-images.ts",
+    "photos:fetch": "node scripts/fetch-photos.mjs"
   },
   "dependencies": {
     "@anthropic-ai/sdk": "^0.131.0",

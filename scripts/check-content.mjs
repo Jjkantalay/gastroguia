@@ -47,13 +47,17 @@ for (const lang of i18n) {
     if (!textOf(html, /<p class="t-body ingredients"[^>]*>([\s\S]*?)<\/p>/)) fail(path, "нет ингредиентов");
     if (!html.includes('class="t-body columns"')) fail(path, "нет исторической справки");
     if (!html.includes("dish-section")) fail(path, "нет разделов");
+    if (!html.includes('class="dish__photo')) fail(path, "нет блока фото");
   }
 }
 
 const api = JSON.parse((await get("/api/dishes")).html);
 if (api.items.length !== dishes.length) fail("/api/dishes", `блюд ${api.items.length} из ${dishes.length}`);
 
-for (const slug of ["kubdari", "shashlyk", "adzhapsandali", "lobio-2", "plov"]) {
+const photos = (await get("/photos"));
+if (photos.status !== 200) fail("/photos", `статус ${photos.status}`);
+
+for (const slug of ["kubdari", "lagman", "adzhapsandali", "lobio-2", "plov"]) {
   const r = await get(`/bliuda/${slug}/`, { redirect: "manual" });
   if (r.status !== 301 || !r.location?.startsWith("/dishes")) fail(`/bliuda/${slug}/`, `редирект ${r.status} ${r.location}`);
 }

@@ -10,6 +10,8 @@ typedef enum { F_NAME, F_DESCRIPTION, F_QUOTE, F_HISTORY, F_INGREDIENTS, F_COUNT
 typedef struct {
     const char *slug, *cuisine, *course, *image;
     unsigned allergens;                       /* биты по ALLERGEN_CODES */
+    /* Автор и лицензия фото из content/photos.json; NULL — своё фото сайта */
+    const char *photo_author, *photo_license, *photo_license_url, *photo_source;
     const char *text[MAX_LANGS][F_COUNT];     /* тексты по языкам; NULL — нет перевода */
     char *haystack;                           /* все тексты в нижнем регистре, для поиска */
 } Dish;
@@ -27,12 +29,13 @@ typedef struct {
     Dish *dishes;
     size_t ndishes, cap;
     Cuisine *cuisines;
-    size_t ncuisines;
+    size_t ncuisines, ccap;
     Redirect *redirects;
     size_t nredirects;
 } Site;
 
-/* Читает dishes.json (перенос с WordPress) и dishes-extra.json (новые блюда и названия на других языках) */
+/* Читает dishes.json (перенос с WordPress), dishes-extra.json (новые блюда, кухни и названия на других языках)
+   и photos.json (фото со свободной лицензией, если есть) */
 int site_load(Site *site, const char *content_dir);
 const Dish *site_dish(const Site *site, const char *slug);
 const Cuisine *site_cuisine(const Site *site, const char *slug);

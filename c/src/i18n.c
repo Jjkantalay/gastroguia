@@ -17,6 +17,7 @@ static const char *const LABEL_KEYS[K_COUNT] = {
     "find_title", "find_hint", "find_btn", "search_placeholder", "found", "any_cuisine", "any_course", "exclude",
     "show", "nothing", "ingredients", "allergens", "history", "also", "not_specified", "crumb_dishes", "tagline",
     "catalogue", "rights", "not_found", "not_found_hint", "site_title", "site_description", "brand", "in_english",
+    "photo",
 };
 
 static char *read_all(const char *path) {

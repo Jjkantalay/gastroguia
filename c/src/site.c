@@ -102,6 +102,36 @@ static void add_names(Site *site, const JVal *names) {
     }
 }
 
+static void add_cuisines(Site *site, const JVal *cs) {
+    if (!cs || cs->type != J_ARR) return;
+    for (size_t i = 0; i < cs->len; i++) {
+        const char *slug = json_str(&cs->items[i], "slug"), *name = json_str(&cs->items[i], "name");
+        if (!slug || !name || site_cuisine(site, slug)) continue;
+        if (site->ncuisines == site->ccap) {
+            site->ccap = site->ccap ? site->ccap * 2 : 32;
+            site->cuisines = realloc(site->cuisines, site->ccap * sizeof *site->cuisines);
+            if (!site->cuisines) { fputs("Не хватает памяти\n", stderr); exit(1); }
+        }
+        site->cuisines[site->ncuisines++] = (Cuisine){slug, name, 0};
+    }
+}
+
+/* Фото со свободной лицензией: путь к файлу, автор, лицензия, ссылка на источник */
+static void add_photos(Site *site, const JVal *photos) {
+    if (!photos || photos->type != J_OBJ) return;
+    for (size_t i = 0; i < photos->len; i++) {
+        Dish *d = (Dish *)site_dish(site, photos->keys[i]);
+        const JVal *p = &photos->items[i];
+        const char *image = json_str(p, "image");
+        if (!d || d->image || !image || image[0] != '/') continue;
+        d->image = image;
+        d->photo_author = json_str(p, "author");
+        d->photo_license = json_str(p, "license");
+        d->photo_license_url = json_str(p, "licenseUrl");
+        d->photo_source = json_str(p, "source");
+    }
+}
+
 static void append_folded(Buf *b, const char *s) {
     if (!s) return;
     char *f = utf8_fold(s);
@@ -117,15 +147,11 @@ int site_load(Site *site, const char *dir) {
     if (!main) return 0;
     snprintf(path, sizeof path, "%s/dishes-extra.json", dir);
     JVal *extra = load_json(path, 0);
+    snprintf(path, sizeof path, "%s/photos.json", dir);
+    JVal *photos = load_json(path, 0);
 
-    const JVal *cs = json_get(main, "cuisines");
-    if (cs && cs->type == J_ARR) {
-        site->cuisines = calloc(cs->len ? cs->len : 1, sizeof *site->cuisines);
-        for (size_t i = 0; i < cs->len; i++) {
-            const char *slug = json_str(&cs->items[i], "slug"), *name = json_str(&cs->items[i], "name");
-            if (slug && name) site->cuisines[site->ncuisines++] = (Cuisine){slug, name, 0};
-        }
-    }
+    add_cuisines(site, json_get(main, "cuisines"));
+    if (extra) add_cuisines(site, json_get(extra, "cuisines"));
     add_dishes(site, json_get(main, "dishes"));
     if (extra) {
         add_dishes(site, json_get(extra, "dishes"));
@@ -153,6 +179,8 @@ int site_load(Site *site, const char *dir) {
                 if (d && !d->allergens) d->allergens = allergens_from_codes(&al->items[i]);
             }
     }
+
+    add_photos(site, photos);
 
     for (size_t i = 0; i < site->ndishes; i++) {
         Dish *d = &site->dishes[i];

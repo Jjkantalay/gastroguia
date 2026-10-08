@@ -298,6 +298,9 @@ static void handle(sock_t s, const char *raw) {
     } else if (starts(r.path, "/dishes/", &rest) && valid_slug(rest)) {
         if (page_dish(&b, &SITE, lang, rest)) respond_buf(s, &r, 200, "text/html; charset=utf-8", &b);
         else not_found(s, &r, lang);
+    } else if (!strcmp(r.path, "/photos")) {
+        page_photos(&b, &SITE, lang);
+        respond_buf(s, &r, 200, "text/html; charset=utf-8", &b);
     } else if (!strcmp(r.path, "/api/dishes")) {
         Filter f = filter_from(&r);
         api_dishes(&b, &SITE, lang, &f);
