@@ -55,6 +55,7 @@ export type PhotoCredit = {
   license: string;
   licenseUrl: string | null;
   source: string;
+  original?: string; // адрес файла на Wikimedia Commons — по нему WordPress скачивает фото при импорте
   review?: boolean;
 };
 export type PhotosFile = Record<string, PhotoCredit>;

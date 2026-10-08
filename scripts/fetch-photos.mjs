@@ -110,7 +110,7 @@ for (const slug of todo) {
       const res = await fetch(info.url, { headers: { "User-Agent": UA } });
       if (!res.ok) { missed.push(`${slug}: скачивание ${res.status}`); continue; }
       writeFileSync(`public${image}`, Buffer.from(await res.arrayBuffer()));
-      photos[slug] = { image, author: info.author, license: info.license, licenseUrl: info.licenseUrl, source: info.source, found: pick.how, ...(pick.review ? { review: true } : {}) };
+      photos[slug] = { image, author: info.author, license: info.license, licenseUrl: info.licenseUrl, source: info.source, original: info.url, found: pick.how, ...(pick.review ? { review: true } : {}) };
       writeFileSync(photosPath, JSON.stringify(photos, null, 1) + "\n");
     }
     ok++;
