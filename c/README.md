@@ -7,9 +7,11 @@
 Из корня проекта (там, где лежат `content/` и `public/`):
 
 ```
-gastroguia.exe          # Windows
-./gastroguia            # Linux/macOS
+c\bin\gastroguia.exe    # Windows: готовая сборка лежит в репозитории
+./gastroguia            # Linux/macOS, после sh c/build.sh
 ```
+
+`c/bin/gastroguia.exe` пересобирается из `c/src` командой `sh c/build.sh` (нужен MinGW) или `c\build.bat` на Windows.
 
 Сайт откроется на http://localhost:8080. Перед первым запуском скачайте фото и фирменную графику: `npm run images:download`.
 
