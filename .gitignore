@@ -9,3 +9,7 @@ next-env.d.ts
 # Экспорт WordPress содержит личные данные и спам — в репозиторий не кладём
 *.xml
 .pglite
+
+# Сборки сервера на C
+/gastroguia
+/gastroguia.exe
