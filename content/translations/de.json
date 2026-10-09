@@ -1,0 +1,1818 @@
+{
+ "abgoosht": {
+  "name": "Abgusht (Dizi)",
+  "description": "Lammsuppe mit Kichererbsen und Kartoffeln im Steintopf: Die Brühe isst man mit Brot, den Rest zerstampft man.",
+  "history": "Dizi ist das traditionelle Essen der Teheraner Arbeiterviertel, mit eigenem Servierritual.",
+  "ingredientsText": "Lamm, Kichererbsen, weiße Bohnen, Kartoffeln, Tomaten, getrocknete Limette, Kurkuma"
+ },
+ "abkhazura": {
+  "name": "Abchasura",
+  "description": "Frikadellen aus Rind- und Schweinehack mit Berberitze und Gewürzen, in Schweinenetz gewickelt und gebraten.",
+  "history": "Der Name deutet auf abchasische Herkunft, doch das Gericht gehört fest zur georgischen Küche.",
+  "ingredientsText": "Rind, Schwein, Schweinenetz, Zwiebel, Berberitze, Knoblauch, Koriander"
+ },
+ "abysta": {
+  "name": "Abysta",
+  "description": "Dicker, ungesalzener Maisgrießbrei, der statt Brot zu Käse und Fleisch gereicht wird.",
+  "history": "Abysta wird im Kessel gekocht und mit einem Holzspatel serviert, oft mit hineingedrückten Käsestücken.",
+  "ingredientsText": "Maismehl, Wasser"
+ },
+ "achapa": {
+  "name": "Atschapa",
+  "description": "Gekochte Bohnen oder Blattgemüse mit Walnusspaste, Adschika und Kräutern.",
+  "history": "Atschapa ist die abchasische Verwandte des georgischen Pchali, oft aus grünen Bohnen und Roter Bete.",
+  "ingredientsText": "Grüne Bohnen oder Rübenblätter, Walnüsse, Adschika, Koriander"
+ },
+ "achash": {
+  "name": "Atschasch",
+  "description": "Fladen aus Mais- oder Weizenmehl, mit jungem Käse gefüllt und in Butter gebraten.",
+  "history": "In abchasischen Dörfern gibt es Atschasch zum Frühstück mit frischem Hauskäse.",
+  "ingredientsText": "Mais- oder Weizenmehl, junger Käse, Butter"
+ },
+ "achichuk": {
+  "name": "Atschitschuk",
+  "description": "Salat aus hauchdünnen Tomaten- und Zwiebelscheiben mit Chili und Kräutern, serviert zu Plov.",
+  "history": "Frischer Atschitschuk gleicht den fetten Plov aus; in Usbekistan gibt es Plov nie ohne ihn.",
+  "ingredientsText": "Tomaten, Zwiebel, Chili, Basilikum, Salz"
+ },
+ "achma": {
+  "name": "Atschma",
+  "description": "Geschichteter Käsekuchen: dünne gekochte Teigblätter werden mit Käse und Butter geschichtet und gebacken. Im Geschmack und Aufbau erinnert er an Lasagne.",
+  "history": "Ein Gericht aus Adscharien und Abchasien. Durch das Kochen der Teigblätter wird der Kuchen innen zart und oben knusprig.",
+  "ingredientsText": "Weizenmehl, Eier, Sulguni, imeretischer Käse, Butter"
+ },
+ "adana-kebab": {
+  "name": "Adana-Kebab",
+  "description": "Scharfer Kebab aus messergehacktem Lamm mit Chiliflocken, auf breitem Spieß über Holzkohle gegrillt.",
+  "history": "Benannt nach der Stadt Adana im Süden der Türkei; das Fleisch wird mit dem Messer gehackt und stets mit Schwanzfett vermischt.",
+  "ingredientsText": "Lamm, Schwanzfett, Chiliflocken, Salz"
+ },
+ "adygeyskaya-sol": {
+  "name": "Adygeisches Salz",
+  "description": "Salz, gemahlen mit Knoblauch und getrockneten Kräutern: Thymian, Dill, Koriander und Pfeffer.",
+  "history": "Die Adygeer bereiteten dieses Salz, um Fleisch und Käse das ganze Jahr zu würzen.",
+  "ingredientsText": "Salz, Knoblauch, Thymian, Dill, Koriander, roter Pfeffer"
+ },
+ "adygeyskiy-syr": {
+  "name": "Adygeischer Käse",
+  "description": "Milder, weicher Käse aus pasteurisierter Milch mit zarter Konsistenz; frisch, gebraten oder geräuchert gegessen.",
+  "history": "Adygeischer Käse wird mit saurer Molke statt Lab dickgelegt; seine Form stammt vom geflochtenen Abtropfkorb.",
+  "ingredientsText": "Kuhmilch, saure Molke, Salz"
+ },
+ "adzhapsandali": {
+  "name": "Adschapsandali",
+  "description": "Gemüseeintopf aus Aubergine, Paprika, Tomaten und Zwiebel mit reichlich Kräutern und Knoblauch. Warm oder kalt serviert.",
+  "history": "Ähnliche Gemüseeintöpfe gibt es im ganzen Kaukasus. In Georgien liebt man Adschapsandali besonders im Sommer, wenn das Gemüse reif ist.",
+  "ingredientsText": "Aubergine, Paprika, Tomaten, Zwiebel, Knoblauch, Koriander, Basilikum, Pflanzenöl"
+ },
+ "adzhika": {
+  "name": "Adschika",
+  "description": "Scharfe Paste aus rotem Pfeffer, Knoblauch, Koriander und Salz, auf Stein gerieben. Schon ein Löffel macht ein Gericht feurig.",
+  "history": "Adschika heißt auf Abchasisch „Salz“; früher rieb man die Schoten mit Salz, damit sie länger hielten.",
+  "ingredientsText": "Scharfer roter Pfeffer, Knoblauch, Koriander, Schabzigerklee, Salz"
+ },
+ "afarar": {
+  "name": "Afarar",
+  "description": "Dünne Fladen mit Wildkräutern – Brennnessel, Sauerampfer, Melde – und Zwiebeln.",
+  "history": "Afarar backt man im Frühling, wenn in den Bergen das erste Grün sprießt.",
+  "ingredientsText": "Weizenmehl, Wasser, Brennnessel, Sauerampfer, Frühlingszwiebel, Butter"
+ },
+ "akhar-khudar": {
+  "name": "Achar-Chudar",
+  "description": "Maisbrei, in Milch gekocht und mit Butter verfeinert. Ein einfaches Frühstück.",
+  "history": "Mais wurde zu einer der Hauptkulturen Tschetscheniens, Breie daraus isst man täglich.",
+  "ingredientsText": "Maismehl, Milch, Butter, Salz"
+ },
+ "akuarchal": {
+  "name": "Akuartschal",
+  "description": "Kleine Maisfladen, in heißer Pfanne oder in der Glut gebacken.",
+  "history": "Akuartschal ist das traditionelle Brot der Abchasen und wird zu Suppen und Soßen gereicht.",
+  "ingredientsText": "Maismehl, Wasser, Salz"
+ },
+ "alani": {
+  "name": "Alani",
+  "description": "Getrocknete Pfirsiche, gefüllt mit gehackten Walnüssen, Zucker und Zimt. Eine natürliche Süßigkeit ohne Backen.",
+  "history": "Die Pfirsiche werden entsteint und ganz in der Sonne getrocknet. Solche Süßigkeiten macht man im Araratal.",
+  "ingredientsText": "Getrocknete Pfirsiche, Walnüsse, Zucker, Zimt"
+ },
+ "arganak": {
+  "name": "Arganak",
+  "description": "Klare Hühnerbrühe mit kleinen Hühnerklößchen und Kräutern. Eine leichte Festtagssuppe.",
+  "history": "Arganak kochte man im Araratal zu Hochzeiten und Festen. Die Brühe zieht lange, damit sie klar wird.",
+  "ingredientsText": "Huhn, Reis, Ei, Zwiebel, Koriander, Salz"
+ },
+ "arishta": {
+  "name": "Arischta",
+  "description": "Hausgemachte Eiernudeln, in Butter gebraten und mit Knoblauchjoghurt serviert.",
+  "history": "Arischta machte man auf Vorrat: Die Nudeln wurden getrocknet und hielten den ganzen Winter. Man kocht sie in Armenien und Arzach.",
+  "ingredientsText": "Weizenmehl, Eier, Butter, Matsun-Joghurt, Knoblauch"
+ },
+ "ash-reshteh": {
+  "name": "Asch-e Reschteh",
+  "description": "Dicke Suppe mit Nudeln, Hülsenfrüchten und Kräutern, garniert mit Kaschk, Röstzwiebeln und Minze.",
+  "history": "Asch-e Reschteh kocht man zu Nouruz und zum Abschied vor einer Reise; die Nudeln stehen für den Weg.",
+  "ingredientsText": "Reschteh-Nudeln, Kichererbsen, Bohnen, Linsen, Spinat, Kräuter, Kaschk, Zwiebel, Minze"
+ },
+ "ashlyan-fu": {
+  "name": "Aschljan-Fu",
+  "description": "Kalte, scharfe Suppe mit dicken Nudeln, Stärkegelee, Omelettstreifen und Essigdressing.",
+  "history": "Aschljan-Fu ist ein dunganisches Gericht, das die Stadt Karakol am Issyk-Kul berühmt gemacht hat.",
+  "ingredientsText": "Weizennudeln, Stärkegelee, Eier, Essig, Chili, Knoblauch, Kräuter"
+ },
+ "asure": {
+  "name": "Aschure",
+  "description": "Pudding aus Weizen, Hülsenfrüchten, Trockenobst und Nüssen, in großen Töpfen gekocht und mit Nachbarn geteilt.",
+  "history": "Der Legende nach kochte Noah Aschure nach der Sintflut aus den letzten Vorräten; man bereitet sie im Monat Muharram.",
+  "ingredientsText": "Weizen, Kichererbsen, Bohnen, getrocknete Aprikosen, Rosinen, Feigen, Walnüsse, Zucker, Granatapfel"
+ },
+ "avarskiy-hinkal": {
+  "name": "Awarischer Chinkal",
+  "description": "Große Stücke gekochten Teigs mit Fleisch, Brühe und Knoblauchsoße – nicht zu verwechseln mit georgischen Chinkali.",
+  "history": "Chinkal ist das Hauptgericht Dagestans; die awarische Variante hat lockeren, rautenförmig geschnittenen Teig, der in Brühe gart.",
+  "ingredientsText": "Weizenmehl, Kefir, Natron, Lamm oder Rind, Knoblauch, Tomatensoße"
+ },
+ "ayran": {
+  "name": "Ayran",
+  "description": "Erfrischendes Getränk aus mit kaltem Wasser verdünntem Joghurt, mit Salz und manchmal Minze.",
+  "history": "Ayran trinkt man im ganzen Kaukasus und in der Türkei; er passt besonders gut zu fettem Fleisch und Kebab.",
+  "ingredientsText": "Joghurt, kaltes Wasser, Salz, Minze"
+ },
+ "badambura": {
+  "name": "Badambura",
+  "description": "Röllchen aus dünnem Blätterteig mit Mandel-Zucker-Füllung, mit Puderzucker bestäubt.",
+  "history": "Der Name kommt von badam, „Mandel“. In Baku backt man Badambura zu Festen.",
+  "ingredientsText": "Weizenmehl, Butter, Eier, Mandeln, Zucker, Kardamom"
+ },
+ "badrijani-nigvzit": {
+  "name": "Badridschani Nigwsit",
+  "description": "Dünne gebratene Auberginenscheiben, um eine Walnusspaste mit Knoblauch und Gewürzen gerollt und mit Granatapfelkernen bestreut.",
+  "history": "Der Name bedeutet „Auberginen mit Walnüssen“. Bei einem georgischen Festmahl, der Supra, fehlt diese Vorspeise selten.",
+  "ingredientsText": "Aubergine, Walnüsse, Knoblauch, Koriander, Chmeli-Suneli, Weinessig, Granatapfel"
+ },
+ "bagany": {
+  "name": "Ossetisches Bier",
+  "description": "Dunkles, selbst gebrautes Bier aus Gerste oder Mais mit Hopfen, für Feste und Rituale.",
+  "history": "Auf Ossetisch heißt das Bier bægæny; es wird in großen Töpfen gebraut und aus einer gemeinsamen Schale getrunken.",
+  "ingredientsText": "Gerste oder Mais, Hopfen, Wasser, Zucker"
+ },
+ "baghali-polo": {
+  "name": "Baghali Polo",
+  "description": "Reis mit dicken Bohnen und viel Dill, oft mit geschmorter Lammhaxe serviert.",
+  "history": "Ein Frühlingsgericht, wenn die jungen Saubohnen kommen.",
+  "ingredientsText": "Reis, dicke Bohnen, Dill, Butter, Safran, Lammhaxe"
+ },
+ "baklava": {
+  "name": "Baklava",
+  "description": "Dutzende hauchdünne Teigschichten mit Pistazien, in Sirup getränkt – die türkische Form der Pachlawa.",
+  "history": "Pistazien-Baklava aus Gaziantep ist in der EU als geschützte geografische Angabe eingetragen.",
+  "ingredientsText": "Dünner Teig, Butter, Pistazien, Zucker, Wasser, Zitronensaft"
+ },
+ "balyk-lyavangi": {
+  "name": "Fisch-Lawangi",
+  "description": "Fisch, gefüllt mit Walnüssen, Zwiebeln und saurer Pflaumenpaste, im Ofen oder Tandur gebacken.",
+  "history": "Die Fischvariante des Lawangi bereitet man am Kaspischen Meer zu, meist mit Kutum oder Karpfen.",
+  "ingredientsText": "Fisch, Walnüsse, Zwiebel, saure Pflaumenpaste, Salz"
+ },
+ "barbari": {
+  "name": "Barbari",
+  "description": "Dickes ovales Fladenbrot mit Rillen, Sesam und Schwarzkümmel – das klassische Frühstücksbrot.",
+  "history": "Barbari isst man morgens mit Käse, Kräutern und Tee; es ähnelt dem armenischen Matnakasch.",
+  "ingredientsText": "Weizenmehl, Hefe, Wasser, Salz, Sesam, Schwarzkümmel"
+ },
+ "bastani-sonnati": {
+  "name": "Bastani Sonnati",
+  "description": "Persisches Eis mit Safran, Rosenwasser und Stückchen gefrorener Sahne, mit Pistazien bestreut.",
+  "history": "Das Eis wird oft wie ein Sandwich zwischen zwei Waffeln serviert.",
+  "ingredientsText": "Milch, Sahne, Zucker, Eigelb, Safran, Rosenwasser, Salep, Pistazien"
+ },
+ "bastirma-kebab": {
+  "name": "Bastirma-Kebab",
+  "description": "Kebab aus Rind oder Lamm, vor dem Grillen einen Tag in Zwiebeln und Essig mariniert.",
+  "history": "Die lange Marinade macht das Fleisch sehr zart, daher wird Bastirma nur kurz gegrillt.",
+  "ingredientsText": "Rind oder Lamm, Zwiebel, Weinessig, Salz, Pfeffer"
+ },
+ "basturma": {
+  "name": "Basturma",
+  "description": "Luftgetrocknetes Rindfleisch, überzogen mit Tschaman, einer würzigen Paste aus Bockshornklee, Paprika und Knoblauch. Hauchdünn geschnitten als Vorspeise.",
+  "history": "Fleisch mit Gewürzen zu pökeln ist in der Region seit Langem bekannt. Windtrocknung machte es monatelang haltbar.",
+  "ingredientsText": "Rinderfilet, Salz, Bockshornklee, Paprika, Knoblauch, Chili"
+ },
+ "baursak": {
+  "name": "Baursak",
+  "description": "Fluffige Kugeln oder Rauten aus Hefeteig, frittiert und zum Tee gereicht.",
+  "history": "Baursak frittiert man zu Festen und teilt sie mit Gästen; die runde Form steht für die Sonne.",
+  "ingredientsText": "Weizenmehl, Hefe, Milch, Eier, Zucker, Pflanzenöl"
+ },
+ "bazhe": {
+  "name": "Bashe",
+  "description": "Dicke Walnusssoße mit Knoblauch, Gewürzen und Essig. Zu Geflügel, Fisch und gebratenem Gemüse.",
+  "history": "Bashe ist die Grundlage vieler georgischer Gerichte, auch des Saziwi. Besonders beliebt in Westgeorgien und zu Festen zubereitet.",
+  "ingredientsText": "Walnüsse, Knoblauch, Koriander, Schabzigerklee, Chili, Weinessig, Wasser"
+ },
+ "beshbarmak": {
+  "name": "Beschbarmak",
+  "description": "Gekochtes Pferde- oder Lammfleisch auf dünnen Teigquadraten mit Zwiebelsoße, dazu Brühe.",
+  "history": "Der Name bedeutet „fünf Finger“, weil man Beschbarmak traditionell mit der Hand isst.",
+  "ingredientsText": "Pferde- oder Lammfleisch, Weizenmehl, Zwiebel, Brühe"
+ },
+ "boreg": {
+  "name": "Böreg",
+  "description": "Geschichteter Kuchen aus dünnem Teig mit Käse-Kräuter-Füllung, in Quadrate geschnitten.",
+  "history": "Armenier in aller Welt backen Böreg, besonders in westarmenischen Familien.",
+  "ingredientsText": "Dünner Teig, weißer Käse, Eier, Petersilie, Butter"
+ },
+ "bozartma": {
+  "name": "Bozartma",
+  "description": "Lamm oder Huhn, mit Zwiebeln und Tomaten im eigenen Saft weich geschmort.",
+  "history": "Bozartma ist ein Alltagsgericht; das Fleisch wird gleich geschmort statt angebraten und bleibt so saftig.",
+  "ingredientsText": "Lamm oder Huhn, Zwiebel, Tomaten, Safran, Salz, Pfeffer"
+ },
+ "bozbash": {
+  "name": "Bosbasch",
+  "description": "Dicke Lammsuppe mit Kichererbsen, Kartoffeln und Quitte oder Äpfeln. Kräftig und leicht süß.",
+  "history": "Bosbasch kocht man im ganzen Südkaukasus, in jeder Region anders – in Jerewan mit Quitte, in Schirak mit Erbsen.",
+  "ingredientsText": "Lamm, Kichererbsen, Kartoffeln, Quitte, Zwiebel, Tomatenmark, Kräuter"
+ },
+ "cacik": {
+  "name": "Cacık",
+  "description": "Kaltes Gericht aus Joghurt mit Gurke, Knoblauch, Minze und Olivenöl.",
+  "history": "Cacık wird mit Wasser verdünnt als Suppe gegessen oder dick zum Fleisch serviert.",
+  "ingredientsText": "Joghurt, Gurke, Knoblauch, Minze, Olivenöl, Salz"
+ },
+ "chahohbili": {
+  "name": "Tschachochbili",
+  "description": "Tschachochbili ist ein duftender Hühnereintopf, der den Geist des georgischen Festmahls verkörpert. Mit Tomaten, Zwiebeln, Knoblauch und Gewürzen geschmortes Fleisch hat einen reichen, lebhaften Geschmack. Ursprünglich machte man es mit Fasan, heute mit Huhn. Dazu Brot oder Reis für die Soße.",
+  "quote": "Tschachochbili bringt die Familie an den Tisch; sein Duft erfüllt das Haus mit Wärme",
+  "history": "Der Name kommt von chochobi, „Fasan“: Ursprünglich bereitete man das Gericht mit Wild. Später ersetzte Huhn den Fasan, und Tomaten – heute unverzichtbar – kamen erst relativ spät ins Rezept.",
+  "ingredientsText": "Huhn 800 g\nZwiebeln 3\nTomaten 4\nPaprika ½\nKnoblauch 3 Zehen\nKoriander, Petersilie\nChili ½\nGewürze und Salz"
+ },
+ "chakapuli": {
+  "name": "Tschakapuli",
+  "description": "Junges Lamm oder Kalb, in Weißwein mit Estragon, grünen sauren Pflaumen und vielen Kräutern geschmort. Ein Frühlingsgericht.",
+  "history": "Tschakapuli gehört zu Ostern, wenn junge Kräuter, Estragon und unreife Pflaumen da sind – ohne sie macht man es nicht.",
+  "ingredientsText": "Lamm oder Kalb, Estragon, grüne saure Pflaumen, Weißwein, Koriander, Frühlingszwiebel, Knoblauch"
+ },
+ "chakka": {
+  "name": "Tschakka",
+  "description": "Dickes, abgetropftes Sauermilchprodukt, das man mit Kräutern und Brot isst.",
+  "history": "Tschakka entsteht, wenn man Sauermilch in Säcken abtropfen lässt – etwas zwischen Quark und Schmand.",
+  "ingredientsText": "Sauermilch, Salz, Kräuter"
+ },
+ "chalop": {
+  "name": "Tschalop",
+  "description": "Kalte Suppe aus Katyk-Joghurt und Wasser mit Gurke, Rettich und Kräutern.",
+  "history": "Tschalop rettet in der Sommerhitze, wenn es in Usbekistan über vierzig Grad werden kann.",
+  "ingredientsText": "Katyk-Joghurt, Wasser, Gurken, Rettich, Dill, Koriander, Salz"
+ },
+ "chanakhi": {
+  "name": "Tschanachi",
+  "description": "Lamm im Tontopf mit Auberginen, Kartoffeln, Tomaten und vielen Kräutern gebacken.",
+  "history": "Tschanachi gart in Portionstöpfen, in denen das Gemüse im Fleischsaft schmort; besonders in Tiflis beliebt.",
+  "ingredientsText": "Lamm, Auberginen, Kartoffeln, Tomaten, Zwiebel, Knoblauch, Koriander, Basilikum"
+ },
+ "chashushuli": {
+  "name": "Tschaschuschuli",
+  "description": "Rind, geschmort mit Tomaten, Zwiebeln, Knoblauch und Chili. Ein einfaches Hausgericht mit kräftiger, scharfer Soße.",
+  "history": "Tschaschuschuli heißt „geschmort“. Solche Eintöpfe kocht man in ganz Georgien, Fleisch und Gewürze wechseln mit der Saison.",
+  "ingredientsText": "Rind, Tomaten, Zwiebel, Knoblauch, Chili, Koriander, Chmeli-Suneli"
+ },
+ "chebureki": {
+  "name": "Tschebureki",
+  "description": "Dünne frittierte Halbmonde mit saftiger Füllung aus Lammhack und Zwiebeln.",
+  "history": "Tschebureki sind das bekannteste krimtatarische Gericht und weit über die Krim hinaus beliebt.",
+  "ingredientsText": "Weizenmehl, Wasser, Lamm, Zwiebel, Kräuter, Pflanzenöl"
+ },
+ "chechil": {
+  "name": "Tschetschil",
+  "description": "Fadenkäse, in Fäden gezogen und geflochten, frisch oder geräuchert verkauft.",
+  "history": "Tschetschil wird von Hand in heißem Wasser gezogen und zu Bier oder im Salat gegessen.",
+  "ingredientsText": "Kuhmilch, Lab, Salz"
+ },
+ "chepalgash": {
+  "name": "Tschepalgasch",
+  "description": "Dünne Fladen mit Quark und Kräutern; nach dem Backen in heißes Wasser getaucht, mit Butter bestrichen und gestapelt.",
+  "history": "Tschepalgasch backt man, wenn ein Kind geboren wird, und zu Festen. Der Stapel wird wie eine Torte angeschnitten.",
+  "ingredientsText": "Weizenmehl, Kefir, Quark, Frühlingszwiebel, Butter, Salz"
+ },
+ "chetlibzh": {
+  "name": "Tschetlibsch",
+  "description": "Huhn in Schmand-Knoblauch-Soße mit rotem Pfeffer – ein adygeisches Festgericht.",
+  "history": "Tschetlibsch kocht man für Hochzeiten und Gäste; die Soße wird mit Mehl gebunden und mit Pasta (Hirsebrei) serviert.",
+  "ingredientsText": "Huhn, Schmand, Zwiebel, Knoblauch, Weizenmehl, roter Pfeffer"
+ },
+ "chikhirtma": {
+  "name": "Tschichirtma",
+  "description": "Hühnersuppe, mit verquirlten Eiern und Mehl gebunden und mit Essig oder Zitrone gesäuert. Zart und leicht säuerlich.",
+  "history": "In Georgien gilt Tschichirtma als bestes Mittel nach einem Festmahl. Die Eier kommen ganz zum Schluss hinein, damit sie nicht gerinnen.",
+  "ingredientsText": "Huhn, Zwiebel, Eier, Weizenmehl, Weinessig, Koriander"
+ },
+ "chilov": {
+  "name": "Tschilow",
+  "description": "Lockerer Reis, mit Bohnen, Linsen oder Kräutern gekocht, als Beilage zu Fleisch und Fisch.",
+  "history": "Tschilow ist eine einfache Pilaw-Form, bei der der Reis zusammen mit den Zutaten gart statt getrennt.",
+  "ingredientsText": "Reis, Mungbohnen oder Linsen, Butter, Safran, Salz"
+ },
+ "chirbuli": {
+  "name": "Tschirbuli",
+  "description": "Adscharische Spiegeleier mit Tomaten, Zwiebeln, Walnüssen und Kräutern.",
+  "history": "Tschirbuli ist ein traditionelles Frühstück in Adscharien; die Walnüsse machen es sättigend.",
+  "ingredientsText": "Eier, Tomaten, Zwiebel, Walnüsse, Koriander, Butter"
+ },
+ "chuchvara": {
+  "name": "Tschutschwara",
+  "description": "Kleine Fleischteigtaschen in Brühe oder mit Sauermilch.",
+  "history": "Die ganze Familie macht Tschutschwara und friert sie portionsweise für den Winter ein.",
+  "ingredientsText": "Weizenmehl, Ei, Rind oder Lamm, Zwiebel, Sauermilch"
+ },
+ "chudu": {
+  "name": "Tschudu",
+  "description": "Dünner Fladen mit Fleisch, Quark, Kürbis oder Kräutern, mit Butter bestrichen.",
+  "history": "Tschudu backt man in ganz Dagestan; die Füllung wechselt mit der Saison, die Fladen werden gestapelt.",
+  "ingredientsText": "Weizenmehl, Wasser, Fleisch oder Quark, Kräuter, Butter"
+ },
+ "churchkhela": {
+  "name": "Tschurtschchela",
+  "description": "Nüsse auf einer Schnur, immer wieder in mit Mehl angedickten Traubensaft getaucht und getrocknet – eine süße „Wurst“.",
+  "history": "Tschurtschchela macht man im Herbst nach der Weinlese. Man nahm sie auf Reisen mit, weil sie sich hält und sehr nahrhaft ist.",
+  "ingredientsText": "Walnüsse oder Haselnüsse, Traubensaft, Weizenmehl"
+ },
+ "chvishtari": {
+  "name": "Tschwischtari",
+  "description": "Maisfladen mit Käse im Inneren, knusprig gebraten. Der schmelzende Käse macht sie innen weich.",
+  "history": "Ein Gericht aus Swanetien. Die Swanen mischen Sulguni in den Teig, daher sind Tschwischtari gehaltvoller als gewöhnliches Mtschadi.",
+  "ingredientsText": "Maismehl, Sulguni, Butter, Wasser"
+ },
+ "chygyrtma": {
+  "name": "Tschighirtma",
+  "description": "Huhn oder Gemüse mit Zwiebeln und Tomaten gebraten, zum Schluss mit aufgeschlagenen Eiern.",
+  "history": "Tschighirtma ist schnell und einfach, mit Huhn, Spinat oder Auberginen.",
+  "ingredientsText": "Huhn, Zwiebel, Tomaten, Eier, Butter, Kräuter"
+ },
+ "cig-kofte": {
+  "name": "Çiğ Köfte",
+  "description": "Scharfe Bällchen aus feinem Bulgur mit Tomaten- und Paprikamark, in Salatblätter gewickelt gegessen.",
+  "history": "Früher machte man Çiğ Köfte mit rohem Fleisch; heute verkauft man meist die fleischlose Variante.",
+  "ingredientsText": "Feiner Bulgur, Paprikamark, Tomatenmark, Zwiebel, Kräuter, Granatapfelsirup"
+ },
+ "dimlama": {
+  "name": "Dimlama",
+  "description": "Fleisch und Gemüse in Schichten im Kasan, zugedeckt im eigenen Saft geschmort.",
+  "history": "Dimlama kocht man im Sommer, wenn es viel Gemüse gibt; Kohlblätter obenauf halten die Feuchtigkeit.",
+  "ingredientsText": "Lamm, Kartoffeln, Karotten, Auberginen, Paprika, Tomaten, Kohl, Zwiebel"
+ },
+ "dograma": {
+  "name": "Dograma",
+  "description": "Brotstücke, in eine kräftige Brühe mit Fleisch, Zwiebeln und Tomaten gebröckelt.",
+  "history": "Dograma bereitet man zu Festen; die ganze Familie zupft Brot und Fleisch von Hand.",
+  "ingredientsText": "Weizenbrot, Lamm, Zwiebel, Tomaten, Brühe"
+ },
+ "dolma-armyanskaya": {
+  "name": "Dolma",
+  "description": "Dolma ist eines der feinsten Gerichte der armenischen Küche und ein Symbol armenischer Gastfreundschaft. Zarte, leicht säuerliche Weinblätter umhüllen eine Füllung aus Reis, Hackfleisch und duftenden Kräutern. Serviert wird Dolma mit Matsun oder Knoblauchsoße; sie gehört auf jeden Fest- und Familientisch.",
+  "quote": "Dolma ist die Kunst der Balance: zartes Fleisch, duftender Reis und saftige Weinblätter im Einklang vom ersten Bissen an",
+  "history": "Dolma in Weinblättern macht man im ganzen Kaukasus und im Nahen Osten. In Armenien heißt sie Tolma und wird mit Knoblauch-Matsun serviert; im Sommer nimmt man junge Blätter, für den Winter legt man sie ein.",
+  "ingredientsText": "Weinblätter 400 g\nRind 600 g\nSchwein 100 g\nLangkornreis 100 g\nZwiebel 100 g\nFrisches Basilikum 20 g\nPetersilie 20 g\nKoriander 20 g\nSchwarzer Pfeffer\nSalz"
+ },
+ "dolma-azerbajdzhanskaya": {
+  "name": "Dolma",
+  "description": "Dolma ist eines der beliebtesten Gerichte der aserbaidschanischen Küche und wird mit großer Sorgfalt zubereitet. Weinblätter oder Gemüse (Auberginen, Tomaten, Paprika) werden mit Reis, Hackfleisch und Kräutern gefüllt. Dolma wird mit Knoblauchjoghurt serviert und gehört auf jeden Festtisch.",
+  "quote": "Aserbaidschanische Dolma sind nicht nur Weinblätter: Man füllt auch Auberginen, Paprika, Tomaten und sogar Obst wie Quitten",
+  "history": "Der Name Dolma kommt vom türkischen Verb doldurmaq, „füllen“.\n\nIn Aserbaidschan gibt es viele Sorten Dolma: Neben Weinblättern füllt man Paprika, Tomaten, Quitten, Auberginen und anderes Gemüse und Obst.",
+  "ingredientsText": "Lamm- und Rinderhack 100 g\nWeinblätter 120 g\nMinze, Koriander und Dill, je etwas\nButter 20 g\nReis 1 EL\nZwiebel ¼\nSalz und Pfeffer"
+ },
+ "dondurma": {
+  "name": "Dondurma",
+  "description": "Dehnbares Eis aus Ziegenmilch mit Salep und Mastix, so fest, dass man es mit dem Messer schneidet.",
+  "history": "Maraş ist die Heimat des Dondurma, und die Verkäufer veranstalten damit ganze Shows.",
+  "ingredientsText": "Ziegenmilch, Zucker, Salep, Mastix"
+ },
+ "doshab": {
+  "name": "Doschab",
+  "description": "Dicker Sirup aus eingekochtem Trauben- oder Maulbeersaft, zu Brot gegessen und in Süßspeisen verwendet.",
+  "history": "Doschab wird im Herbst in großen Kupferkesseln ohne Zuckerzusatz eingekocht.",
+  "ingredientsText": "Trauben- oder Maulbeersaft"
+ },
+ "dovga": {
+  "name": "Dowga",
+  "description": "Suppe aus Sauermilch oder Joghurt mit Reis und vielen Kräutern, warm oder kalt serviert.",
+  "history": "Im Sommer trinkt man Dowga kalt zur Erfrischung, im Winter warm. Man rührt nur in eine Richtung, damit der Joghurt nicht gerinnt.",
+  "ingredientsText": "Joghurt, Reis, Ei, Spinat, Sauerampfer, Dill, Koriander, Minze"
+ },
+ "dulkh-khyaltam": {
+  "name": "Dulch-Chaltam",
+  "description": "Gekochtes Fleisch mit Kartoffeln, Zwiebeln und Knoblauchsoße, manchmal mit Teigklößen.",
+  "history": "Ein Gericht der Bergregionen Tschetscheniens, wo Fleisch und Kartoffeln die Winterkost bilden.",
+  "ingredientsText": "Rind oder Lamm, Kartoffeln, Zwiebel, Knoblauch, Weizenmehl"
+ },
+ "dyushbara": {
+  "name": "Duschbara",
+  "description": "Winzige Lammteigtaschen in klarer Brühe mit Minze und Knoblauchessig.",
+  "history": "Eine geübte Köchin macht Duschbara so klein, dass mehr als zehn auf einen Löffel passen.",
+  "ingredientsText": "Weizenmehl, Ei, Lamm, Zwiebel, Minze, Weinessig, Knoblauch"
+ },
+ "dzavar-plov": {
+  "name": "Dzawar-Pilaw",
+  "description": "Bulgur-Pilaw mit gerösteten Fadennudeln und Zwiebeln. Eine lockere Beilage zu Fleisch.",
+  "history": "Bulgur ist eines der ältesten Getreide der Region. In Dörfern stellte man ihn selbst her, indem man Weizen kochte und trocknete.",
+  "ingredientsText": "Bulgur, Fadennudeln, Butter, Zwiebel, Brühe"
+ },
+ "dzykka": {
+  "name": "Dsykka",
+  "description": "Dickes Gericht aus Frischkäse, Schmand und Mehl, gekocht, bis sich die Butter absetzt.",
+  "history": "Bergbauern machen Dsykka aus frischem Käse und essen es heiß, indem sie Brot hineintunken.",
+  "ingredientsText": "Frischer ossetischer Käse, Schmand, Weizen- oder Maismehl, Salz"
+ },
+ "eech": {
+  "name": "Itsch",
+  "description": "Kalter Bulgursalat mit Tomatenmark, Zwiebel, Kräutern und Zitronensaft. Ein Fastengericht.",
+  "history": "Itsch macht man in der Fastenzeit, wenn auf Fleisch und Milch verzichtet wird. Er hält sich gut und schmeckt am nächsten Tag besser.",
+  "ingredientsText": "Bulgur, Tomatenmark, Tomaten, Zwiebel, Petersilie, Zitronensaft, Pflanzenöl"
+ },
+ "elarji": {
+  "name": "Elardschi",
+  "description": "Dicker Maisbrei mit viel Sulguni, gerührt, bis er Fäden zieht. Heiß zu Fleisch und Soßen.",
+  "history": "Ein Klassiker der megrelischen Küche. Elardschi wird lange und kräftig mit dem Holzspatel gerührt – davon hängt seine Zähigkeit ab.",
+  "ingredientsText": "Maismehl, Sulguni, Wasser, Salz"
+ },
+ "ezogelin-corbasi": {
+  "name": "Ezogelin-Suppe",
+  "description": "Suppe aus roten Linsen mit Bulgur, Reis, Tomatenmark und getrockneter Minze.",
+  "history": "Die Suppe ist nach Ezo benannt, einer jungen Frau aus Gaziantep, deren Leben Lieder inspirierte.",
+  "ingredientsText": "Rote Linsen, Bulgur, Reis, Tomatenmark, Minze, roter Pfeffer"
+ },
+ "faloodeh": {
+  "name": "Faludeh",
+  "description": "Gefrorene dünne Reisnudeln in Rosenwassersirup, mit Zitronensaft serviert.",
+  "history": "Faludeh aus Schiras gehört zu den ältesten gefrorenen Desserts der Welt.",
+  "ingredientsText": "Reisnudeln, Zucker, Rosenwasser, Zitronensaft"
+ },
+ "fatir": {
+  "name": "Fatir",
+  "description": "Vielschichtiges Butterbrot aus dem Tandur – die Grundlage von Qurutob.",
+  "history": "Fatir wird sehr dünn ausgerollt und mehrfach mit Butter zwischen den Schichten gefaltet.",
+  "ingredientsText": "Weizenmehl, Butter, Milch, Salz"
+ },
+ "fisinjan": {
+  "name": "Fisindschan",
+  "description": "Fleischbällchen oder Huhn in dicker Soße aus Walnüssen und Granatapfelsirup.",
+  "history": "Das Gericht ist im Süden Aserbaidschans und im Iran verbreitet und balanciert säuerlichen Granatapfel mit Süße.",
+  "ingredientsText": "Huhn oder Rinderhack, Walnüsse, Granatapfelsirup, Zwiebel, Safran"
+ },
+ "fydzhyn": {
+  "name": "Fydschyn",
+  "description": "Ossetischer Fleischkuchen. Dünner Teig, viel Füllung und geschmolzene Butter obenauf.",
+  "history": "Zu Festen backt man ossetische Kuchen zu dritt, als Sinnbild für Sonne, Erde und Wasser. In der Mitte des Fydschyn bleibt ein kleines Loch, damit Dampf entweicht und der Saft nicht ausläuft.",
+  "ingredientsText": "Weizenmehl, Hefe, Kefir, Butter, Rind, Zwiebel, Knoblauch, Pfeffer"
+ },
+ "gata": {
+  "name": "Gata",
+  "description": "Gata ist das süße Symbol der armenischen Küche und steht für Geborgenheit und häusliche Wärme. Ein Blätterteiggebäck mit einer Füllung aus Butter, Mehl und Zucker, außen knusprig und innen weich. Gata kann rund wie die Sonne oder in Portionen geteilt sein; man backt sie zu Festen oder einfach zum Tee, und jede Region Armeniens hat ihr eigenes Rezept.",
+  "quote": "Jede Region Armeniens hat ihr Gata-Rezept, doch eines bleibt gleich: Sie bringt Menschen an einen Tisch",
+  "history": "Die erste schriftliche Erwähnung der Gata stammt aus dem 13. Jahrhundert, wann genau sie entstand, ist unbekannt. Sie hat den Nationalgeist aufgenommen: Trotz schwerer Zeiten bis ins 20. Jahrhundert bewahrten die Armenier ihre Identität und Kultur.\n\nGata wird in Armenien wie in der Diaspora geliebt, die auch fern der Heimat die Eigenheiten ihrer Küche bewahrt hat.",
+  "ingredientsText": "Weizenmehl 58 g\nButter 33 g\nMatsun-Joghurt 20 g\nNatron 1 TL\nEine Prise Salz\nFür die Füllung: geschmolzene Butter 13 g, Vanillezucker 1 TL, Weizenmehl 40 g, Puderzucker 41 g"
+ },
+ "gaz": {
+  "name": "Gaz",
+  "description": "Weicher Nugat mit Pistazien oder Mandeln, aus Tamariskenmanna und Rosenwasser.",
+  "history": "Gaz ist die Süßigkeit von Isfahan und wird mit Mehl bestäubt, damit die Stücke nicht kleben.",
+  "ingredientsText": "Zucker, Eiweiß, Manna, Rosenwasser, Pistazien oder Mandeln"
+ },
+ "gebzhalia": {
+  "name": "Gebschalia",
+  "description": "Röllchen aus jungem Käse in Matsoni-Minz-Soße, kalt serviert.",
+  "history": "Ein megrelisches Gericht aus frischem Käse, noch am Tag der Herstellung zubereitet.",
+  "ingredientsText": "Junger Käse, Matsoni, Minze, Chili, Salz"
+ },
+ "gedlibzhe": {
+  "name": "Gedlibsche",
+  "description": "Huhn in dicker Schmandsoße mit Zwiebeln, Knoblauch und rotem Pfeffer, serviert mit Pasta (Hirsebrei).",
+  "history": "Gedlibsche ist ein kabardinisches Festgericht; die Soße wird mit in Butter geröstetem Mehl gebunden.",
+  "ingredientsText": "Huhn, Schmand, Zwiebel, Knoblauch, Weizenmehl, roter Pfeffer"
+ },
+ "ghapama": {
+  "name": "Ghapama",
+  "description": "Ganzer Kürbis, gefüllt mit Reis, Trockenobst, Nüssen und Honig, gebacken und in Spalten serviert.",
+  "history": "Ghapama ist ein Winterfestgericht – es gibt sogar ein Volkslied darüber, „Hey Ghapama“.",
+  "ingredientsText": "Kürbis, Reis, getrocknete Aprikosen, Rosinen, Backpflaumen, Walnüsse, Honig, Butter, Zimt"
+ },
+ "ghormeh-sabzi": {
+  "name": "Ghormeh Sabzi",
+  "description": "Geschmortes Fleisch mit vielen gebratenen Kräutern, Kidneybohnen und getrockneter Limette.",
+  "history": "Ghormeh Sabzi gilt oft als Lieblingseintopf Irans; es schmort lange, bis die Kräuter dunkel werden.",
+  "ingredientsText": "Lamm oder Rind, Petersilie, Koriander, Bockshornklee, Frühlingszwiebel, Kidneybohnen, getrocknete Limette"
+ },
+ "gogal": {
+  "name": "Gogal",
+  "description": "Runde Blätterteigbrötchen mit würziger Füllung aus Mehl, Butter, Fenchel und Kurkuma, herzhaft oder süß.",
+  "history": "Gogal ist eine der wichtigsten Novruz-Leckereien, neben Schakarbura und Pachlawa.",
+  "ingredientsText": "Weizenmehl, Butter, Eier, Hefe, Fenchel, Kurkuma, Salz"
+ },
+ "gomi": {
+  "name": "Gomi",
+  "description": "Fester Maisbrei ohne Salz und Butter. Man isst ihn zu Sulguni, Soßen und Fleisch, ähnlich wie Brot.",
+  "history": "Gomi ist ein Grundnahrungsmittel Westgeorgiens. Früher aus Hirse, nach der Ankunft des Maises aus Maismehl.",
+  "ingredientsText": "Maismehl, Wasser"
+ },
+ "govurma": {
+  "name": "Gowurma",
+  "description": "Fleisch, im eigenen Fett goldbraun gebraten. So konservierte man früher Lamm für den Winter.",
+  "history": "Das gebratene Fleisch wurde mit Fett bedeckt und in Gläsern aufbewahrt. Heute kocht man Gowurma auch als eigenständiges Gericht.",
+  "ingredientsText": "Lamm, Schwanzfett, Zwiebel, Salz"
+ },
+ "gozinaki": {
+  "name": "Gosinaki",
+  "description": "Walnüsse, in Honig karamellisiert und in Rauten geschnitten. Eine einfache Süßigkeit aus zwei Zutaten.",
+  "history": "Gosinaki gehört in Georgien zu Neujahr auf den Tisch, damit das Jahr süß wird.",
+  "ingredientsText": "Walnüsse, Honig, Zucker"
+ },
+ "gozleme": {
+  "name": "Gözleme",
+  "description": "Dünnes Fladenbrot, um Käse, Spinat oder Kartoffeln gefaltet und auf dem Sadsch gebacken.",
+  "history": "Gözleme wird vor Ihren Augen ausgerollt und gebacken, traditionell von Dorffrauen.",
+  "ingredientsText": "Weizenmehl, Wasser, weißer Käse, Spinat, Butter"
+ },
+ "guruli-gvezeli": {
+  "name": "Guruli Gwezeli",
+  "description": "Halbmondförmiger Kuchen mit Käse und gekochten Eiern. Er wird zu Weihnachten gebacken und heißt in Georgien auch Weihnachts-Chatschapuri.",
+  "history": "Ein Gericht aus Gurien in Westgeorgien. Die Halbmondform wird unterschiedlich gedeutet, etwa als Horn oder Mond.",
+  "ingredientsText": "Weizenmehl, Hefe, Matsoni-Joghurt, Sulguni, imeretischer Käse, gekochte Eier"
+ },
+ "gutap": {
+  "name": "Gutap",
+  "description": "Dünne Halbmonde mit Fleisch, Kürbis oder Kräutern, in der trockenen Pfanne gebacken.",
+  "history": "Gutap ist der turkmenische Verwandte des aserbaidschanischen Qutab.",
+  "ingredientsText": "Weizenmehl, Lamm oder Kürbis, Zwiebel, Kräuter"
+ },
+ "guubat": {
+  "name": "Guubat",
+  "description": "Dreieckige Teigtaschen mit adygeischem Käse, im Ofen gebacken.",
+  "history": "Guubat backt man zum Tee und zu Festen; die Dreiecksform ist im adygeischen Gebäck traditionell.",
+  "ingredientsText": "Weizenmehl, Kefir, Ei, adygeischer Käse, Butter"
+ },
+ "guymag": {
+  "name": "Guymag",
+  "description": "Süßer Brei aus in Butter geröstetem Mehl mit Zucker oder Honig, Kurkuma und Zimt.",
+  "history": "Guymag kocht man für junge Mütter und an kalten Tagen, weil er als sehr nahrhaft gilt.",
+  "ingredientsText": "Weizenmehl, Butter, Zucker oder Honig, Kurkuma, Zimt"
+ },
+ "gyrdzhyn": {
+  "name": "Gyrdschyn",
+  "description": "Einfaches Fladenbrot mit Ayran, in Pfanne oder Ofen gebacken, zu Fleisch und Tee.",
+  "history": "Gyrdschyn ist das Alltagsbrot der Karatschaier und Balkaren, oft mit Käse oder Kartoffeln gefüllt.",
+  "ingredientsText": "Weizenmehl, Ayran, Natron, Salz"
+ },
+ "gyurza": {
+  "name": "Gjursa",
+  "description": "Fleischteigtaschen mit geflochtenem Rand, der an Schlangenschuppen erinnert, gekocht oder gebraten.",
+  "history": "Gjursa ist ein Bakuer Gericht, benannt nach einer Viper, weil das Nahtmuster ihren Schuppen gleicht.",
+  "ingredientsText": "Weizenmehl, Ei, Lamm, Zwiebel, Salz"
+ },
+ "hachapuri": {
+  "name": "Chatschapuri",
+  "description": "Chatschapuri ist das Markenzeichen der georgischen Küche, ein Käsebrot, das mit Einfachheit und vollem Geschmack begeistert. Dünner Teig mit geschmolzenem Sulguni oder imeretischem Käse vereint knusprige Kruste und zarte Füllung. Je nach Region ist es rund (Imeretien), bootförmig (Adscharien) oder mit Käse obendrauf (Megrelien). Heiß serviert, damit der Käse Fäden zieht.",
+  "quote": "Chatschapuri ist nicht nur ein Käsekuchen, sondern eine ganze Esskultur: Überall in Georgien hat es seinen Platz auf dem Tisch",
+  "history": "Chatschapuri wird in ganz Georgien gebacken, fast jede Region hat ihre Version: imeretisch, megrelisch, adscharisch, gurisch. Der Name wird meist als „Quarkbrot“ gedeutet, von chatscho (Quark) und puri (Brot).",
+  "ingredientsText": "Milch 250 ml\nWasser 250 ml\nFrische Hefe 10 g\nZucker 10 g\nSalz 5 g\nMehl 700 g\nEier 2\nSonnenblumenöl 120 g\nSulguni 300 g\nImeretischer Käse 300 g\nHartkäse 50 g\nButter 100 g"
+ },
+ "hachapuri-imeretinskij": {
+  "name": "Imeretisches Chatschapuri",
+  "description": "Rundes geschlossenes Fladenbrot voller salzigem imeretischem Käse. Die häufigste Chatschapuri-Art Georgiens, fast täglich zu Hause gebacken.",
+  "history": "Benannt nach der Region Imeretien in Westgeorgien. Der Teig wird oft mit Matsoni gemacht, was ihn weich und leicht säuerlich macht.",
+  "ingredientsText": "Weizenmehl, Matsoni-Joghurt, Natron, imeretischer Käse, Butter"
+ },
+ "hachapuri-penovani": {
+  "name": "Penowani-Chatschapuri",
+  "description": "Chatschapuri aus Blätterteig: Käse wird zu einem Quadrat oder Umschlag gefaltet und knusprig-golden gebacken. Ein beliebter Straßensnack in Tiflis.",
+  "history": "Penowani heißt „geschichtet“. Diese Variante entstand später als die klassischen und setzte sich in städtischen Bäckereien durch.",
+  "ingredientsText": "Blätterteig, Sulguni, imeretischer Käse, Butter"
+ },
+ "hachapuri-po-adzharski": {
+  "name": "Adscharisches Chatschapuri",
+  "description": "Offenes Boot aus Hefeteig mit geschmolzenem Käse, kurz vor dem Servieren mit rohem Eigelb und einem Stück Butter gekrönt. Man reißt den Rand ab und rührt ihn in die Füllung.",
+  "history": "Das Gericht stammt aus Adscharien an Georgiens Schwarzmeerküste. Die Bootsform wird mit der Seefahrt verbunden, das Eigelb mit der Sonne über dem Meer.",
+  "ingredientsText": "Weizenmehl, Hefe, Milch, Sulguni, imeretischer Käse, Eier, Butter"
+ },
+ "halim": {
+  "name": "Halim",
+  "description": "Dicker Brei aus Weizen und Fleisch, glatt geschlagen, mit Zimt, Zucker und Butter gegessen.",
+  "history": "Halim isst man im Winter und im Ramadan zum Frühstück, verkauft in eigenen Halim-Läden.",
+  "ingredientsText": "Weizen, Pute oder Lamm, Butter, Zimt, Zucker"
+ },
+ "hamsi-tava": {
+  "name": "Hamsi Tava",
+  "description": "Schwarzmeer-Sardellen in Maismehl gewendet und fächerförmig in der Pfanne gebraten.",
+  "history": "Hamsi ist das Symbol der türkischen Schwarzmeerküste, Gegenstand von Liedern und Witzen.",
+  "ingredientsText": "Sardellen, Maismehl, Weizenmehl, Pflanzenöl, Zitrone"
+ },
+ "harissa": {
+  "name": "Harissa",
+  "description": "Dicker Brei aus ganzem Weizen und Huhn oder Lamm, stundenlang gekocht und glatt geschlagen. Mit geschmolzener Butter serviert.",
+  "history": "Harissa kocht man zu Festen und im Gedenken an 1915, als die Verteidiger des Musa Dagh sie zubereiteten. Eines der symbolträchtigsten armenischen Gerichte.",
+  "ingredientsText": "Geschälter Weizen, Huhn oder Lamm, Butter, Salz"
+ },
+ "hash": {
+  "name": "Chasch",
+  "description": "Chasch ist nicht nur eine Suppe, sondern eine Legende der armenischen Küche, die Zeit, Geduld und Respekt vor der Tradition verlangt. Rinderfüße köcheln so lange, bis das Fleisch vom Knochen fällt. Chasch wird heiß mit Knoblauch, Kräutern und getrocknetem Lawasch serviert, der direkt in die Brühe kommt – traditionell frühmorgens, oft nach langen Festen.",
+  "quote": "Chasch verbindet. Man isst es traditionell frühmorgens, um Kraft für den ganzen Tag zu tanken",
+  "history": "Ursprünglich ein Gericht der Armen, wurde es später zum Symbol armenischer Kultur und Kochtradition.\n\nDer Legende nach übernachtete ein König in einem Dorf, kostete Chasch und mochte es so sehr, dass er es zum Hauptgericht seiner Tafel machte.",
+  "ingredientsText": "Rinderfüße 1,5 kg\nRinderpansen 500 g\nKnoblauch 3 Knollen\nRettich 1"
+ },
+ "hingalsh": {
+  "name": "Chingalasch",
+  "description": "Chingalasch ist ein typisches Gericht der tschetschenischen Küche: Fladen aus ungesäuertem Weizenteig mit süßem Kürbis. Die zarte Füllung passt perfekt zum weichen Teig, serviert mit geschmolzener Butter. Damit sie weich werden, taucht man die gebackenen Fladen seit jeher in heißes Wasser.",
+  "quote": "Das Gericht ist so sättigend, dass der Gastgeber zu einem Gast, der wenig isst, sagen kann: „Du isst, als hättest du gerade Chingalasch gegessen“",
+  "history": "In Tschetschenien baut man seit Langem Gerste, Weizen, Hirse, Mais, Hafer und Reis sowie Flachs und Baumwolle an; Gerste und Weizen sind die ältesten Getreide. Teig machte man mit und ohne Hefe.\n\nHopfenhefe, Choyachar genannt, kennen die Tschetschenen seit Langem. Der Teig wird oft mit Sauermilch gesäuert, gefüllt wird mit Quark, Frischkäse, Kartoffelpüree oder Kürbis.",
+  "ingredientsText": "Weizenteig\nSüßer Kürbis\nButterschmalz"
+ },
+ "hinkali": {
+  "name": "Chinkali",
+  "description": "Chinkali sind nicht einfach georgische Teigtaschen, sondern eine Kunst. Dünner, elastischer Teig umhüllt eine saftige Füllung aus Hackfleisch (meist Rind oder Schwein) mit Zwiebeln, Knoblauch und Kräutern. Das Geheimnis ist die Brühe im Inneren, die beim ersten Biss hervorbricht. Man isst sie mit der Hand und hält sie am Zipfel, der traditionell liegen bleibt.",
+  "quote": "Chinkali sind ein kulinarisches Abenteuer: Jeder Bissen bringt eine Explosion von Saft und Geschmack",
+  "history": "Chinkali stammen aus den Bergen Ostgeorgiens – Pschawi, Chewsuretien und Tuschetien. Die Bergvariante mit gehacktem Fleisch und Gewürzen heißt Mtiuluri, die städtische mit Kräutern Kalakuri. Man isst sie mit der Hand und lässt den Zipfel auf dem Teller.",
+  "ingredientsText": "Weizenmehl 500 g\nWasser 400 ml\nSalz 1½ TL\nKalb 250 g\nRind 250 g\nSchmalz 100 g\nZwiebel 100 g\nKnoblauch 2 Zehen\nKreuzkümmel\nChili\nKoriander"
+ },
+ "horovacz-narsharab": {
+  "name": "Chorowaz",
+  "description": "Chorowaz ist ein traditionelles armenisches Gericht aus gegrilltem Gemüse, ideal zum Grillen. Das Gemüse röstet draußen über Kohle, zu Hause im Ofen.",
+  "quote": "Chorowaz ist ein Gericht, das mit Seele zubereitet wird",
+  "history": "Das Wort Chorowaz bedeutet auf Armenisch „Grillen“. Das Salatgemüse röstet draußen über Kohle oder zu Hause im Ofen bzw. über der Gasflamme. Serviert wird es zu Schaschlik, Kartoffeln, gegrilltem Fisch oder einfach mit Lawasch und frischem Brot.",
+  "ingredientsText": "Auberginen 3\nTomaten 3\nPaprika 2\nZwiebel 1\nKnoblauch 1 Zehe\nPflanzenöl\nSalz\nSchwarzer Pfeffer\nKräuter"
+ },
+ "hunkar-begendi": {
+  "name": "Hünkâr Beğendi",
+  "description": "Geschmortes Lamm auf einem Püree aus geräucherter Aubergine mit Käse und cremiger Soße.",
+  "history": "Der Name bedeutet „der Sultan mochte es“; das Gericht wird mit der osmanischen Palastküche verbunden.",
+  "ingredientsText": "Lamm, Auberginen, Milch, Butter, Weizenmehl, Käse, Tomaten"
+ },
+ "imam-bayildi": {
+  "name": "İmam Bayıldı",
+  "description": "In Olivenöl geschmorte Auberginen, gefüllt mit Zwiebeln, Knoblauch und Tomaten, kalt serviert.",
+  "history": "Der Name bedeutet „der Imam fiel in Ohnmacht“ – der Legende nach vor Entzücken über den Geschmack.",
+  "ingredientsText": "Auberginen, Zwiebel, Knoblauch, Tomaten, Olivenöl, Petersilie"
+ },
+ "imeruli-kveli": {
+  "name": "Imeretischer Käse",
+  "description": "Weicher junger Käse mit mildem, salzigem Geschmack – Grundlage des Chatschapuri und eigenständige Vorspeise.",
+  "history": "Der Käse wird in Imeretien hergestellt und fast sofort gegessen; für lange Reifung ist er nicht gedacht.",
+  "ingredientsText": "Kuhmilch, Lab, Salz"
+ },
+ "iron-tsykht": {
+  "name": "Ossetischer Käse",
+  "description": "Weicher Salzlakenkäse aus Kuh- oder Schafmilch, frisch gegessen und in Kuchen verwendet.",
+  "history": "Kein ossetischer Kuchen ohne diesen Käse; auf Ossetisch heißt er iron tsycht.",
+  "ingredientsText": "Kuh- oder Schafmilch, Lab, Salz"
+ },
+ "ishkhan": {
+  "name": "Ischchan-Forelle",
+  "description": "Sewan-Forelle, im Ofen gebacken oder über Kohle gegrillt, mit Zitrone und Kräutern. Zartes weißes Fleisch mit sehr wenigen Gräten.",
+  "history": "Der Name bedeutet „Fürst“. Die endemische Forelle des Sewansees ist heute selten und wird daher gezüchtet.",
+  "ingredientsText": "Forelle, Zitrone, Estragon, Butter, Salz"
+ },
+ "ishlekli": {
+  "name": "Ischlekli",
+  "description": "Großer runder Fleisch-Zwiebel-Kuchen, in heißem Sand oder Glut gebacken.",
+  "history": "Nomaden und Hirten backen Ischlekli mitten in der Wüste, im heißen Sand vergraben.",
+  "ingredientsText": "Weizenmehl, Lamm, Zwiebel, Salz"
+ },
+ "ishli-kyufta": {
+  "name": "Ischli Kufta",
+  "description": "Bällchen aus Bulgur und Fleisch mit einer Füllung aus gebratenem Hack und Nüssen, gekocht oder frittiert.",
+  "history": "Ischli Kufta erfordert Geschick: Die Hülle muss dünn sein und darf beim Garen nicht platzen.",
+  "ingredientsText": "Bulgur, Rind, Zwiebel, Walnüsse, Butter, Gewürze"
+ },
+ "iskender-kebab": {
+  "name": "İskender-Kebab",
+  "description": "Dünne Scheiben Spießbraten auf Pide-Brot, mit Tomatensoße, brutzelnder Butter und Joghurt.",
+  "history": "Das Gericht entstand im 19. Jahrhundert in Bursa; die Familie des Erfinders führt den Namen bis heute.",
+  "ingredientsText": "Lamm oder Rind, Pide-Brot, Tomatensoße, Butter, Joghurt"
+ },
+ "ispanakhi-matsvnit": {
+  "name": "Spinat mit Matsoni",
+  "description": "Gekochter Spinat mit Matsoni, Knoblauch und Kräutern. Eine leichte Beilage zu Fleisch.",
+  "history": "In der georgischen Küche mildert Matsoni in Soßen und Vorspeisen scharfe Gerichte.",
+  "ingredientsText": "Spinat, Matsoni, Knoblauch, Koriander, Salz"
+ },
+ "izgara-kofte": {
+  "name": "Gegrillte Köfte",
+  "description": "Frikadellen aus Rinderhack mit Zwiebeln und Gewürzen, auf dem Grill gebraten.",
+  "history": "Jede türkische Stadt hat ihre Köfte, und in Istanbul gibt es Lokale, die nichts anderes servieren.",
+  "ingredientsText": "Rinderhack, Zwiebel, Semmelbrösel, Ei, Kreuzkümmel, Pfeffer"
+ },
+ "jarma": {
+  "name": "Dscharma",
+  "description": "Erfrischendes Getränk aus geröstetem Gerstenmehl und Ayran.",
+  "history": "Dscharma trank man bei der Heuernte: Sie löscht den Durst und gibt Kraft.",
+  "ingredientsText": "Geröstetes Gerstenmehl, Ayran, Salz"
+ },
+ "jiz-biz": {
+  "name": "Dschis-Bis",
+  "description": "Gebratene Lamminnereien mit Kartoffeln und Zwiebeln – der Name ahmt das Brutzeln in der Pfanne nach.",
+  "history": "Dschis-Bis ist ein Gericht der Bakuer Garküchen, schnell zubereitet und heiß serviert.",
+  "ingredientsText": "Lammleber, Nieren, Herz, Schwanzfett, Kartoffeln, Zwiebel"
+ },
+ "jonjoli": {
+  "name": "Dschondscholi",
+  "description": "Eingelegte Blütenknospen der Pimpernuss, eines Strauchs aus dem Kaukasus. Mit Zwiebel und Öl als Vorspeise zu Fleisch.",
+  "history": "Dschondscholi wird im Frühling gesammelt und fürs ganze Jahr eingelegt. Der säuerliche Geschmack erinnert ein wenig an Kapern.",
+  "ingredientsText": "Pimpernussknospen, Salz, Weinessig, Zwiebel, Pflanzenöl"
+ },
+ "joojeh-kebab": {
+  "name": "Dschudsche-Kabab",
+  "description": "Hühnerstücke in Joghurt, Zitrone und Safran mariniert, über Kohle gegrillt.",
+  "history": "Safran gibt dem Dschudsche-Kabab seine goldene Farbe; oft wird er zusammen mit Kubideh serviert.",
+  "ingredientsText": "Huhn, Joghurt, Zitronensaft, Safran, Zwiebel"
+ },
+ "kabuskadzhyn": {
+  "name": "Kabuskadschyn",
+  "description": "Ossetischer Kuchen mit Kohl und Käse. Dünner Teig, viel Füllung und geschmolzene Butter obenauf.",
+  "history": "Zu Festen backt man ossetische Kuchen zu dritt, als Sinnbild für Sonne, Erde und Wasser. Der Kohlkuchen ist besonders im Herbst und Winter beliebt.",
+  "ingredientsText": "Weizenmehl, Hefe, Kefir, Butter, Weißkohl, ossetischer Käse"
+ },
+ "kada": {
+  "name": "Kada",
+  "description": "Süßes Gebäck aus reichhaltigem Teig mit einer Füllung aus Mehl, Butter und Zucker, innen mürbe.",
+  "history": "Kada backt man in Georgien zu Festen. Armenier und Aserbaidschaner haben ähnliches Gebäck, die Rezepte wechseln von Familie zu Familie.",
+  "ingredientsText": "Weizenmehl, Butter, Zucker, Eier, Matsoni-Joghurt, Hefe, Vanille"
+ },
+ "kaghamb-tolma": {
+  "name": "Kohl-Tolma",
+  "description": "Armenische Kohlrouladen: Kohlblätter mit Fleisch und Reis, in Tomatensoße geschmort.",
+  "history": "Kohl-Tolma macht man im Herbst und Winter, wenn es keine Weinblätter gibt.",
+  "ingredientsText": "Weißkohl, Rinderhack, Reis, Zwiebel, Tomatenmark, Kräuter"
+ },
+ "kalla-pacha": {
+  "name": "Kalla-Patscha",
+  "description": "Kräftige Suppe aus Lammkopf und -füßen, stundenlang gekocht, mit Knoblauch und Essig serviert.",
+  "history": "Kalla-Patscha isst man frühmorgens, wie Chasch, vor allem im Winter.",
+  "ingredientsText": "Lammkopf, Lammfüße, Kichererbsen, Knoblauch, Weinessig"
+ },
+ "karniyarik": {
+  "name": "Karnıyarık",
+  "description": "Gebratene, aufgeschlitzte Auberginen, gefüllt mit Hackfleisch, Zwiebeln und Tomaten.",
+  "history": "Der Name bedeutet „aufgeschlitzter Bauch“; es ist das Fleisch-Geschwister des İmam Bayıldı.",
+  "ingredientsText": "Auberginen, Rinderhack, Zwiebel, Tomaten, grüne Paprika"
+ },
+ "kartofdzhyn": {
+  "name": "Kartofdschyn",
+  "description": "Ossetischer Kuchen mit Kartoffeln und Käse. Dünner Teig, viel Füllung und geschmolzene Butter obenauf.",
+  "history": "Zu Festen backt man ossetische Kuchen zu dritt, als Sinnbild für Sonne, Erde und Wasser. Die Kartoffelfüllung kam auf, als sich die Kartoffel im 19. Jahrhundert im Kaukasus verbreitete.",
+  "ingredientsText": "Weizenmehl, Hefe, Kefir, Butter, Kartoffeln, ossetischer Käse"
+ },
+ "kashk-e-bademjan": {
+  "name": "Kaschk-e Bademdschan",
+  "description": "Püree aus gebratenen Auberginen mit Kaschk, Röstzwiebeln, Knoblauch und Minze.",
+  "history": "Kaschk ist ein getrocknetes Sauermilchprodukt, das dem Gericht seine salzige Tiefe gibt.",
+  "ingredientsText": "Auberginen, Kaschk, Zwiebel, Knoblauch, getrocknete Minze, Walnüsse"
+ },
+ "kashyk-burek": {
+  "name": "Kaschyk Burek",
+  "description": "Winzige Teigtaschen in Fleischbrühe – der Name bedeutet „Löffel-Burek“.",
+  "history": "Die Teigtaschen sind so klein, dass mehrere auf einmal auf einen Löffel passen.",
+  "ingredientsText": "Weizenmehl, Ei, Lamm, Zwiebel, Brühe, Minze"
+ },
+ "kazan-kebab": {
+  "name": "Kasan-Kebab",
+  "description": "Lammrippen und Kartoffeln, im Kasan goldbraun gebraten.",
+  "history": "Kasan-Kebab wird auf einer großen Platte mit dünnen Zwiebelringen und Kräutern serviert.",
+  "ingredientsText": "Lamm, Lammrippen, Kartoffeln, Zwiebel, Kreuzkümmel, Baumwollsaatöl"
+ },
+ "kazy": {
+  "name": "Kasy",
+  "description": "Wurst aus Pferderippenfleisch und -fett im Naturdarm, gekocht oder luftgetrocknet.",
+  "history": "Kasy ist das Herzstück des kasachischen Dastarchan und wird in Scheiben serviert.",
+  "ingredientsText": "Pferderippenfleisch, Pferdefett, Salz, Pfeffer, Knoblauch"
+ },
+ "kchuch": {
+  "name": "Ktschutsch",
+  "description": "Fleisch und Gemüse im Tontopf gebacken, wo das Gemüse im Fleischsaft sehr weich wird.",
+  "history": "Ktschutsch heißt sowohl das Gericht als auch der Tontopf, in dem es gart.",
+  "ingredientsText": "Lamm, Aubergine, Kartoffeln, Tomaten, Paprika, Zwiebel, Kräuter"
+ },
+ "kesme": {
+  "name": "Kesme",
+  "description": "Suppe mit handgeschnittenen Nudeln, Fleisch und Gemüse.",
+  "history": "Kesme heißt „geschnitten“; eine Alltagssuppe in kirgisischen Haushalten.",
+  "ingredientsText": "Weizenmehl, Ei, Rind, Kartoffeln, Karotten, Zwiebel"
+ },
+ "khabizgina": {
+  "name": "Chabisgina",
+  "description": "Kuchen mit Kartoffelpüree und ossetischem Käse aus den Bergregionen Georgiens und Ossetiens.",
+  "history": "Chabisgina ist der georgische Name des ossetischen Kartoffelkuchens; man backt ihn in Kasbegi und Ratscha.",
+  "ingredientsText": "Weizenmehl, Kefir, Kartoffeln, ossetischer Käse, Butter"
+ },
+ "khadurdzhyn": {
+  "name": "Chadurdschyn",
+  "description": "Ossetischer Bohnenkuchen. Dünner Teig, viel Füllung und geschmolzene Butter obenauf.",
+  "history": "Zu Festen backt man ossetische Kuchen zu dritt, als Sinnbild für Sonne, Erde und Wasser. Den Bohnenkuchen backt man an Fastentagen ohne Fleisch.",
+  "ingredientsText": "Weizenmehl, Hefe, Kefir, Butter, rote Bohnen, Zwiebel"
+ },
+ "khalvaitar": {
+  "name": "Halwaitar",
+  "description": "Weiche Halwa aus in Butter geröstetem Mehl mit Zucker oder Honig und Milch.",
+  "history": "Halwaitar macht man zu Festen und für junge Mütter als nahrhafte Süßigkeit.",
+  "ingredientsText": "Weizenmehl, Butter, Zucker oder Honig, Milch"
+ },
+ "khalyuzh": {
+  "name": "Chalüsch",
+  "description": "Frittierte dreieckige Teigtaschen mit adygeischem Käse und Zwiebel oder Kartoffel.",
+  "history": "Chalüsch macht man zu Festen; die Dreiecksform sorgt für gleichmäßiges Frittieren.",
+  "ingredientsText": "Weizenmehl, Kefir, adygeischer Käse, Frühlingszwiebel, Pflanzenöl"
+ },
+ "khamrashi": {
+  "name": "Chamraschi",
+  "description": "Suppe mit hausgemachten Nudeln, Bohnen und kleinen Fleischbällchen.",
+  "history": "Chamraschi ist eine Wintersuppe aus dem Süden Aserbaidschans, mit hauchdünn von Hand geschnittenen Nudeln.",
+  "ingredientsText": "Weizenmehl, Bohnen, Lamm, Zwiebel, Kräuter"
+ },
+ "khanum": {
+  "name": "Chanum",
+  "description": "Rolle aus dünnem Teig mit Fleisch, Kartoffeln oder Kürbis, gedämpft.",
+  "history": "Chanum gart im Manty-Dämpfer, wird dann in Scheiben geschnitten und mit Soße übergossen.",
+  "ingredientsText": "Weizenmehl, Lamm, Kartoffeln, Zwiebel, Kreuzkümmel"
+ },
+ "kharcho": {
+  "name": "Chartscho",
+  "description": "Dicke Rindfleischsuppe mit Reis, saurem Tkemali oder Tklapi, Walnüssen und Gewürzen. Scharf, kräftig und aromatisch.",
+  "history": "Chartscho gehört zu den bekanntesten georgischen Suppen im Ausland. In Mingrelien kocht man sie ohne Reis, eher wie einen Eintopf.",
+  "ingredientsText": "Rind, Reis, Tkemali oder Tklapi, Walnüsse, Zwiebel, Knoblauch, Koriander, Chmeli-Suneli"
+ },
+ "khashil": {
+  "name": "Chaschil",
+  "description": "Dicker Brei aus Mehl und Wasser mit geschmolzener Butter und Honig oder Traubensirup.",
+  "history": "Chaschil kocht man bei Kälte und für junge Mütter; in eine Mulde in der Mitte kommt Butter.",
+  "ingredientsText": "Weizenmehl, Wasser, Butter, Honig oder Traubensirup"
+ },
+ "khashlama": {
+  "name": "Chaschlama",
+  "description": "Lamm oder Rind in großen Stücken mit Gemüse im eigenen Saft geschmort, manchmal mit Bier oder Wein.",
+  "history": "Der Name hängt mit dem Wort für „kochen“ zusammen. Chaschlama gart im großen Topf für die ganze Familie, das Gemüse in Schichten.",
+  "ingredientsText": "Lamm oder Rind, Kartoffeln, Tomaten, Paprika, Zwiebel, Kräuter, Salz"
+ },
+ "khasip": {
+  "name": "Chasip",
+  "description": "Wurst im Lammdarm, gefüllt mit gehacktem Fleisch, Leber und Reis, in Brühe gekocht.",
+  "history": "Chasip macht man zu Festen aus Lamminnereien – nichts wird verschwendet.",
+  "ingredientsText": "Lammdarm, Lamm, Leber, Reis, Zwiebel, Kreuzkümmel"
+ },
+ "khingal": {
+  "name": "Chingal",
+  "description": "Breite Quadrate aus gekochtem Teig mit gebratenem Fleisch und Zwiebeln, Knoblauchjoghurt und getrocknetem Quark namens Qurut.",
+  "history": "Chingal kocht man in Aserbaidschan und im Nordkaukasus. Je nach Gegend wird der Teig in Quadrate oder Rauten geschnitten.",
+  "ingredientsText": "Weizenmehl, Lamm, Zwiebel, Joghurt, Knoblauch, Qurut"
+ },
+ "khoresh-bademjan": {
+  "name": "Choresch Bademdschan",
+  "description": "Lammeintopf mit gebratenen Auberginen, Tomaten und sauren unreifen Trauben.",
+  "history": "Choresch ist der Oberbegriff für persische Eintöpfe, die stets mit Reis serviert werden.",
+  "ingredientsText": "Lamm, Auberginen, Tomaten, unreife Trauben, Zwiebel, Kurkuma"
+ },
+ "khoresh-gheymeh": {
+  "name": "Choresch Gheymeh",
+  "description": "Lammeintopf mit gelben Spalterbsen, Tomate und getrockneter Limette, mit knusprigen Kartoffelstroh garniert.",
+  "history": "Gheymeh wird traditionell bei religiösen Versammlungen im Monat Muharram verteilt.",
+  "ingredientsText": "Lamm, gelbe Spalterbsen, Tomatenmark, getrocknete Limette, Zwiebel, Kartoffeln"
+ },
+ "khorovats-ovoshchnoy": {
+  "name": "Gemüse-Chorowaz",
+  "description": "Auberginen, Tomaten und Paprika über Kohle geröstet, geschält und mit Knoblauch und Kräutern gehackt.",
+  "history": "Das Gemüse röstet über derselben Glut wie das Fleisch-Chorowaz und wird dazu serviert.",
+  "ingredientsText": "Auberginen, Tomaten, Paprika, Knoblauch, Koriander, Salz"
+ },
+ "khychiny": {
+  "name": "Chytschin",
+  "description": "Dünne Fladen mit Kartoffeln und Käse oder Fleisch, in der trockenen Pfanne gebacken und mit Butter bestrichen.",
+  "history": "Chytschin ist ein balkarisches und karatschaiisches Gericht, beliebt in ganz Kabardino-Balkarien.",
+  "ingredientsText": "Weizenmehl, Kefir, Kartoffel, Käse, Butter"
+ },
+ "khyovla": {
+  "name": "Chowla",
+  "description": "Tschetschenische Halwa aus geröstetem Mehl, Butter und Zucker oder Honig, in Rauten geschnitten.",
+  "history": "Chowla macht man zu Gedenkfeiern und Festen und teilt sie mit den Nachbarn.",
+  "ingredientsText": "Weizenmehl, Butter, Zucker oder Honig"
+ },
+ "kisir": {
+  "name": "Kısır",
+  "description": "Salat aus feinem Bulgur mit Tomaten- und Paprikamark, Kräutern, Zitrone und Granatapfelsirup.",
+  "history": "Kısır gibt es bei Treffen zu Hause zum Tee, in Salatblätter gewickelt.",
+  "ingredientsText": "Feiner Bulgur, Tomatenmark, Paprikamark, Frühlingszwiebel, Petersilie, Zitrone, Granatapfelsirup"
+ },
+ "kobete": {
+  "name": "Kobete",
+  "description": "Großer runder Kuchen mit Fleisch, Kartoffeln und Zwiebeln.",
+  "history": "Kobete backt man zu Festen und Familienfeiern, verziert mit Teigmustern.",
+  "ingredientsText": "Weizenmehl, Butter, Ei, Lamm, Kartoffeln, Zwiebel"
+ },
+ "kok-choy": {
+  "name": "Kok Tschoy (grüner Tee)",
+  "description": "Grüner Tee, den man den ganzen Tag aus Schalen trinkt und zu jeder Mahlzeit reicht.",
+  "history": "Der Gastgeber füllt die Schale des Gastes nur halb, um oft nachzuschenken – ein Zeichen der Fürsorge.",
+  "ingredientsText": "Grüner Tee, Wasser"
+ },
+ "kololik": {
+  "name": "Kololak",
+  "description": "Suppe mit großen Fleisch-Reis-Bällchen in Tomatenbrühe – jedes Bällchen fast eine Mahlzeit für sich.",
+  "history": "Ein Gericht der Region Schirak. Reis und Ei kommen ins Fleisch, damit die Bällchen beim Köcheln die Form halten.",
+  "ingredientsText": "Rinderhack, Reis, Ei, Zwiebel, Tomatenmark, Kräuter, Salz"
+ },
+ "koobideh": {
+  "name": "Kabab Kubideh",
+  "description": "Kebab aus Lammhack mit Zwiebeln auf breiten Spießen, mit Reis, gegrillten Tomaten und Sumach serviert.",
+  "history": "Kubideh mit Reis, Tschelo Kabab genannt, gilt als Nationalgericht Irans.",
+  "ingredientsText": "Lamm, Zwiebel, Salz, Pfeffer, Sumach, Reis, Tomaten"
+ },
+ "kubdari": {
+  "name": "Kubdari",
+  "description": "Geschlossener Kuchen mit reichlich messergeschnittenem Fleisch, Zwiebeln und swanischen Gewürzen. Das Fleisch wird geschnitten statt gehackt, so bleibt die Füllung saftig und stückig.",
+  "history": "Ein traditionelles Gericht Swanetiens, der Bergregion Georgiens. Gewürzt wird mit swanischem Salz, einer Mischung aus Salz, Kräutern und Gewürzen.",
+  "ingredientsText": "Weizenmehl, Hefe, Rind, Schwein, Zwiebel, swanisches Salz, Koriander, Knoblauch"
+ },
+ "kuchmachi": {
+  "name": "Kutschmatschi",
+  "description": "Gebratene Innereien – Leber, Herz und Lunge – mit Zwiebeln, Granatapfel und gehackten Walnüssen. Heiß serviert.",
+  "history": "Kutschmatschi stammt aus einer sparsamen Küche, in der nach dem Schlachten nichts verloren geht. Oft zu Festen gekocht.",
+  "ingredientsText": "Rinder- oder Schweineleber, Herz, Lunge, Zwiebel, Walnüsse, Granatapfel, Koriander"
+ },
+ "kufta-bozbash": {
+  "name": "Kufta-Bosbasch",
+  "description": "Suppe mit großen Lamm-Reis-Klößen, in denen je eine getrocknete saure Pflaume steckt, mit Kichererbsen und Kartoffeln gekocht.",
+  "history": "Die versteckte Pflaume ist eine Überraschung und gibt beim Kochen Säure ab.",
+  "ingredientsText": "Lamm, Reis, Kichererbsen, Kartoffeln, getrocknete saure Pflaumen, Zwiebel, Safran, Minze"
+ },
+ "kumpir": {
+  "name": "Kumpir",
+  "description": "Riesige Ofenkartoffel, mit Butter und Käse zerdrückt und mit einem Dutzend Beilagen beladen.",
+  "history": "Kumpir wurde im Istanbuler Viertel Ortaköy berühmt, wo er am Ufer verkauft wird.",
+  "ingredientsText": "Kartoffeln, Butter, Käse, Mais, Oliven, Essiggurken, Wurst"
+ },
+ "kumys": {
+  "name": "Kumys",
+  "description": "Vergorenes Getränk aus Stutenmilch, leicht prickelnd und erfrischend.",
+  "history": "Steppennomaden kennen Kumys seit der Antike; er wird in einem Ledersack geschlagen.",
+  "ingredientsText": "Stutenmilch, Starterkultur"
+ },
+ "kunefe": {
+  "name": "Künefe",
+  "description": "Warmes Dessert aus Kadayıf-Teigfäden mit schmelzendem ungesalzenem Käse, in Sirup getränkt.",
+  "history": "Künefe ist der Stolz von Hatay im Süden der Türkei und kommt direkt aus dem Ofen mit Pistazien.",
+  "ingredientsText": "Kadayıf-Teig, ungesalzener Käse, Butter, Zuckersirup, Pistazien"
+ },
+ "kupaty": {
+  "name": "Kupati",
+  "description": "Gebratene Würste aus Schwein oder Rind mit Gewürzen, Knoblauch und Berberitze im Naturdarm. Mit Granatapfel und Zwiebel serviert.",
+  "history": "In Georgien brät man Kupati in der Pfanne oder über Kohle. In der Sowjetzeit wurden sie weit über das Land hinaus beliebt.",
+  "ingredientsText": "Schwein oder Rind, Naturdarm, Knoblauch, Berberitze, Koriander, Pfeffer"
+ },
+ "kurt": {
+  "name": "Kurt",
+  "description": "Salzige getrocknete Kugeln aus gepresster Sauermilch, lange haltbar und sättigend.",
+  "history": "Kurt nahm man auf lange Reisen mit; man knabbert ihn oder löst ihn für Soßen in Wasser auf.",
+  "ingredientsText": "Sauermilch, Salz"
+ },
+ "kurze": {
+  "name": "Kurse",
+  "description": "Tropfenförmige dagestanische Teigtaschen mit geflochtenem Rand, gefüllt mit Fleisch, Kürbis, Brennnessel oder Quark.",
+  "history": "Der Zopf am Kurse zeigt das Können der Köchin: Je feiner das Muster, desto besser, heißt es.",
+  "ingredientsText": "Weizenmehl, Wasser, Lamm oder Rind, Zwiebel, Salz"
+ },
+ "kutaby": {
+  "name": "Qutab",
+  "description": "Qutab sind dünne Fladen, die mit Einfachheit und feinem Geschmack überzeugen. Die Füllung reicht von saftigen Kräutern (Koriander, Dill, Spinat) bis zu zartem Fleisch oder Kürbis. Sie werden in der trockenen Pfanne goldbraun gebacken und mit geschmolzener Butter bestrichen. Dazu gibt es Joghurt oder ein Sauermilchgetränk. Ein idealer Snack oder leichtes Abendessen.",
+  "quote": "Qutab sind dünne gefüllte Fladen mit Fleisch, Kräutern, Kürbis oder Käse, serviert mit Joghurtsoßen",
+  "history": "Die Geschichte der Qutab reicht weit zurück, als man Reste des Brotteigs für dieses schmackhafte Gericht nutzte.",
+  "ingredientsText": "Weizenmehl 96 g\nRaffiniertes Pflanzenöl 1 EL\nZwiebel 1\nButter 1 EL\nPetersilie 80 g\nSumach nach Geschmack\nEine Prise Salz"
+ },
+ "kuyrdak": {
+  "name": "Kuyrdak",
+  "description": "Pfannengericht aus Lamm und Innereien – Leber, Herz und Nieren – mit Zwiebeln.",
+  "history": "Kuyrdak kocht man gleich nach dem Schlachten, um Gäste mit frischem Fleisch zu bewirten.",
+  "ingredientsText": "Lamm, Leber, Herz, Nieren, Schwanzfett, Zwiebel"
+ },
+ "kyata": {
+  "name": "Kata",
+  "description": "Blättriges, reichhaltiges Fladengebäck mit einer Füllung aus Mehl, Butter und Zucker, zum Tee.",
+  "history": "Kata kennt man in Aserbaidschan und Armenien; mancherorts süß, anderswo herzhaft.",
+  "ingredientsText": "Weizenmehl, Butter, Eier, Milch, Hefe, Zucker"
+ },
+ "kyufta": {
+  "name": "Kjufta",
+  "description": "Große Kugeln aus fein geklopftem Rindfleisch, gekocht und in Scheiben geschnitten. Mit Butter und Zwiebeln serviert.",
+  "history": "Kjufta ist der Stolz von Gjumri. Das Fleisch wird nicht gehackt, sondern mit Holzhämmern zu einer Paste geklopft.",
+  "ingredientsText": "Rind, Zwiebel, Ei, Butter, Salz, Pfeffer"
+ },
+ "kyukyu": {
+  "name": "Kuku",
+  "description": "Gebackenes Omelett voller Kräuter, manchmal mit Nüssen und Berberitzen, warm oder kalt.",
+  "history": "Kuku macht man zu Novruz; die grüne Farbe steht für den Frühling.",
+  "ingredientsText": "Eier, Koriander, Dill, Spinat, Frühlingszwiebel, Walnüsse, Butter"
+ },
+ "lagman": {
+  "name": "Lagman",
+  "description": "Handgezogene Nudeln mit Soße aus Fleisch und Gemüse: Paprika, Rettich, Tomaten und Knoblauch.",
+  "history": "Lagman kam von den Uiguren und Dunganen zu den Usbeken; die Nudeln werden gezogen und auf den Tisch geschlagen, bis sie dünn sind.",
+  "ingredientsText": "Weizenmehl, Rind oder Lamm, Paprika, Rettich, Tomaten, Zwiebel, Knoblauch"
+ },
+ "lahmadzho": {
+  "name": "Lahmadscho",
+  "description": "Lahmadscho ist die armenische „Pizza“, einfach und voller Geschmack. Ein dünner Teigfladen wird mit Hackfleisch, Tomaten, Zwiebeln und Gewürzen bestrichen und knusprig gebacken. Oft rollt man ihn auf und isst ihn mit Kräutern, Zitronensaft oder Matsun. Ein beliebter Straßensnack und Familienliebling.",
+  "quote": "Armenier sagen, Lahmadscho sei „Essen für die Seele“: einfach und reich im Geschmack, bei Einheimischen wie Gästen beliebt",
+  "history": "In arabischen Ländern heißt das Gericht Lahmacun oder Lahm bi Adschin. Wartende Gäste beobachten, wie sich der Teig im Ofen verwandelt: Er läuft auseinander, wirft Blasen und geht auf – alles in Sekunden.\n\nArmenier sind nach den arabischen Christen die größte christliche Gemeinde Jordaniens, und Lahmadscho wird in armenischen Bäckereien in Amman verkauft.",
+  "ingredientsText": "Für den Teig: Kefir oder Matsoni 250 ml, Weizenmehl 400–450 g, Salz ½ TL"
+ },
+ "lakume": {
+  "name": "Lakume",
+  "description": "Fluffige frittierte Hefeteigkrapfen, zu Tee, Honig oder Fleisch.",
+  "history": "Lakume verteilt man bei Festen und Gedenkfeiern; die Rautenform ist die traditionellste.",
+  "ingredientsText": "Weizenmehl, Hefe, Milch, Eier, Zucker, Pflanzenöl"
+ },
+ "lavash": {
+  "name": "Lawasch",
+  "description": "Dünnes ungesäuertes Brot, ausgerollt und an den Wänden eines Tonir-Ofens gebacken. Getrockneter Lawasch hält Monate.",
+  "history": "Die Herstellung von Lawasch als Ausdruck armenischer Kultur steht auf der UNESCO-Liste des immateriellen Kulturerbes.",
+  "ingredientsText": "Weizenmehl, Wasser, Salz"
+ },
+ "lepeshka-non": {
+  "name": "Usbekisches Non",
+  "description": "Rundes Tandurbrot mit dünner, gestempelter Mitte und aufgeblähtem Rand.",
+  "history": "Das Muster wird mit dem Tschekitsch-Stempel eingedrückt; Brot legt man nie mit der Oberseite nach unten, das gilt als respektlos.",
+  "ingredientsText": "Weizenmehl, Hefe, Wasser, Salz, Sesam oder Schwarzkümmel"
+ },
+ "lobiani": {
+  "name": "Lobiani",
+  "description": "Fladenbrot mit zerdrückten gekochten Bohnen, Zwiebeln und Gewürzen. Ein einfaches, sättigendes Gericht, das Georgier oft an Fastentagen backen.",
+  "history": "Der Name kommt von lobio, „Bohnen“. Besonders beliebt in Ratscha, wo Lobiani oft mit Speck gemacht wird.",
+  "ingredientsText": "Weizenmehl, Hefe, rote Bohnen, Zwiebel, Butter oder Öl, Koriander"
+ },
+ "lobio": {
+  "name": "Lobio",
+  "description": "Lobio beweist, dass Bohnen eine echte Delikatesse sein können. Gekochte Bohnen mit Walnüssen, Knoblauch, Koriander und Gewürzen werden zu einer zarten, duftenden Masse. Lobio gibt es warm oder kalt, als dickes Püree oder mit ganzen Bohnen, serviert in Tontöpfen.",
+  "quote": "Lobio erzählt von georgischer Gastfreundschaft. Man serviert es mit Gomi (Maisbrei) oder einfach mit Lawasch",
+  "history": "Bohnen kamen in der Neuzeit aus Amerika in den Kaukasus, wurden aber schnell zu einer Stütze des georgischen Tisches. Lobio macht man warm im Tontopf oder kalt mit Walnüssen; man isst es mit Mtschadi und Eingelegtem, besonders an Fastentagen.",
+  "ingredientsText": "Bohnen 63 g (rot oder Pinto)\nWalnüsse 13 g\nZwiebel 0,4\nTomate 0,3\nKnoblauch 0,4 Zehe\nKoriander 1,5 g\nChmeli-Suneli 0,1 EL\nChili 0,1\nSalz\nPflanzenöl 0,3 EL\nSchwarzer Pfeffer"
+ },
+ "lokum": {
+  "name": "Lokum",
+  "description": "Weiche Würfel aus Zucker und Stärke mit Rosenwasser, Pistazie oder Zitrone, in Puderzucker gewälzt.",
+  "history": "Lokum wurde im 18. und 19. Jahrhundert in Istanbul berühmt und als Geschenk durch Europa getragen.",
+  "ingredientsText": "Zucker, Maisstärke, Wasser, Rosenwasser, Puderzucker"
+ },
+ "lori-cheese": {
+  "name": "Lori-Käse",
+  "description": "Halbfester Salzlakenkäse aus Kuhmilch mit offener Struktur.",
+  "history": "Der Käse ist nach der Region Lori im Norden Armeniens benannt, wo er hergestellt wird.",
+  "ingredientsText": "Kuhmilch, Lab, Salz"
+ },
+ "lyavangi": {
+  "name": "Lawangi",
+  "description": "Huhn, gefüllt mit Walnüssen, Zwiebeln und saurer Kirschpflaumenpaste, im Ofen gebacken.",
+  "history": "Lawangi ist ein Gericht aus Lankaran und Talysch im Süden Aserbaidschans, zu Festen im Tandur gegart.",
+  "ingredientsText": "Huhn, Walnüsse, Zwiebel, saure Pflaumenpaste, Salz, Pfeffer"
+ },
+ "lyguazha": {
+  "name": "Lyguascha",
+  "description": "Geschmortes Rind oder Lamm mit Zwiebeln, Tomate und rotem Pfeffer.",
+  "history": "Lyguascha wird oft mit Pasta (Hirsebrei) serviert, der auf dem kabardinischen Tisch das Brot ersetzt.",
+  "ingredientsText": "Rind oder Lamm, Zwiebel, Tomatenmark, roter Pfeffer, Knoblauch"
+ },
+ "lyulya-kebab": {
+  "name": "Ljulja-Kebab",
+  "description": "Lange Spießkebabs aus gehacktem Lamm mit Zwiebeln und Schwanzfett, über Holzkohle gegrillt.",
+  "history": "Das Fleisch für Ljulja wird mit Messern gehackt und lange geknetet, sonst hält es nicht am Spieß.",
+  "ingredientsText": "Lamm, Schwanzfett, Zwiebel, Salz, Pfeffer, Sumach"
+ },
+ "lyvzha": {
+  "name": "Lywscha",
+  "description": "Dicke, eintopfartige Suppe aus Fleisch oder Huhn mit Kartoffeln, Zwiebeln und Mehl, mit Pfeffer gewürzt.",
+  "history": "Lywscha kocht man zu Festen und serviert sie heiß in tiefen Schalen mit Kuchen.",
+  "ingredientsText": "Rind oder Huhn, Kartoffeln, Zwiebel, Weizenmehl, Pfeffer, Kräuter"
+ },
+ "maksym": {
+  "name": "Maksym",
+  "description": "Leicht prickelndes Getränk aus geröstetem Getreide – Gerste, Mais oder Weizen.",
+  "history": "Im Sommer wird Maksym in Bischkek auf der Straße aus großen Fässern verkauft.",
+  "ingredientsText": "Gerste oder Weizen, Wasser, Salz, Starter"
+ },
+ "mantapur": {
+  "name": "Mantapur",
+  "description": "Suppe mit kleinen gebackenen Manti in Brühe mit Knoblauchjoghurt.",
+  "history": "Mantapur ist ein Wintergericht: Die Manti werden erst goldbraun gebacken und dann mit heißer Brühe übergossen.",
+  "ingredientsText": "Weizenmehl, Rinderhack, Zwiebel, Brühe, Matsun-Joghurt, Knoblauch"
+ },
+ "manti-armyanskie": {
+  "name": "Armenische Manti",
+  "description": "Winzige offene Teigschiffchen mit Fleisch, knusprig gebacken und mit Brühe und Knoblauchjoghurt serviert.",
+  "history": "Anders als zentralasiatische Manty sind armenische Manti klein, offen und gebacken.",
+  "ingredientsText": "Weizenmehl, Rinderhack, Brühe, Matsun, Knoblauch, Sumach"
+ },
+ "manti-turetskie": {
+  "name": "Türkische Mantı",
+  "description": "Winzige Fleischteigtaschen mit Knoblauchjoghurt und Paprikabutter.",
+  "history": "Am bekanntesten sind die aus Kayseri – eine gute Köchin bekommt angeblich vierzig Mantı auf einen Löffel.",
+  "ingredientsText": "Weizenmehl, Ei, Rinderhack, Joghurt, Knoblauch, Butter, roter Pfeffer"
+ },
+ "manty": {
+  "name": "Manty",
+  "description": "Große Teigtaschen mit gehacktem Lamm und Zwiebeln, im Etagendämpfer gegart.",
+  "history": "Manty isst man mit der Hand, beißt hinein und trinkt den Saft, dazu Sauermilch oder Schmand.",
+  "ingredientsText": "Weizenmehl, Lamm, Schwanzfett, Zwiebel, Kreuzkümmel"
+ },
+ "mast-o-khiar": {
+  "name": "Mast-o-Chiar",
+  "description": "Kalter Joghurt mit Gurke, Minze, Walnüssen, Rosinen und Rosenblättern.",
+  "history": "Mast-o-Chiar begleitet Reisgerichte und wird bei Hitze als kühlende Suppe gegessen.",
+  "ingredientsText": "Joghurt, Gurke, Minze, Walnüsse, Rosinen, Rosenblätter"
+ },
+ "mastava": {
+  "name": "Mastawa",
+  "description": "Dicke Suppe mit Reis, Fleisch, Karotten und Tomaten, mit Sauermilch und Kräutern serviert.",
+  "history": "Mastawa ist eine alltägliche Haussuppe; der Reis macht sie so sättigend wie Brei.",
+  "ingredientsText": "Reis, Lamm, Karotten, Kartoffeln, Tomaten, Zwiebel, Sauermilch"
+ },
+ "matnakash": {
+  "name": "Matnakasch",
+  "description": "Weiches ovales Brot mit goldener Kruste und Längsrillen, aus Hefeteig und vor dem Backen mit Tee bestrichen.",
+  "history": "Der Name bedeutet „mit den Fingern gezogen“: Die Rillen werden von Hand gemacht.",
+  "ingredientsText": "Weizenmehl, Hefe, Wasser, Zucker, Salz"
+ },
+ "matsoni": {
+  "name": "Matsoni",
+  "description": "Georgisches Sauermilchprodukt wie dicker Joghurt, mit Honig gegessen oder zum Kochen verwendet.",
+  "history": "Matsoni wird traditionell in Tonkrügen angesetzt; früher trugen Händler es von Haus zu Haus.",
+  "ingredientsText": "Kuhmilch, Starterkultur"
+ },
+ "matsun": {
+  "name": "Matsun",
+  "description": "Sauermilchprodukt ähnlich dickem Joghurt, gelöffelt und in Suppen und Soßen verwendet.",
+  "history": "Die Matsun-Kultur wird über Generationen weitergegeben. Sie ist die Basis vieler armenischer Gerichte, von Tan bis Spas.",
+  "ingredientsText": "Kuhmilch, Starterkultur"
+ },
+ "mchadi": {
+  "name": "Mtschadi",
+  "description": "Kleine ungesäuerte Maisfladen aus der trockenen Pfanne. Man isst sie mit Käse, Lobio und Pchali.",
+  "history": "Mtschadi ist das traditionelle Brot Westgeorgiens. Da es kein Weizenmehl enthält, eignet es sich für Menschen, die Gluten meiden.",
+  "ingredientsText": "Maismehl, Wasser, Salz"
+ },
+ "megruli-hachapuri": {
+  "name": "Megrelisches Chatschapuri",
+  "description": "Rundes Chatschapuri mit Käse innen und obendrauf, vor dem Backen mit Sulguni bestreut. Ein reichhaltiges, sehr käsiges Brot.",
+  "history": "Es stammt aus Samegrelo (Mingrelien) in Westgeorgien, bekannt für scharfes Essen und die Liebe zu Sulguni.",
+  "ingredientsText": "Weizenmehl, Matsoni-Joghurt, Ei, Sulguni, imeretischer Käse, Butter"
+ },
+ "menemen": {
+  "name": "Menemen",
+  "description": "Eier in der Pfanne mit Tomaten, grüner Paprika und Zwiebeln – ein klassisches türkisches Frühstück.",
+  "history": "Ob Zwiebeln in Menemen gehören, wird in der Türkei bis heute lebhaft diskutiert.",
+  "ingredientsText": "Eier, Tomaten, grüne Paprika, Zwiebel, Olivenöl"
+ },
+ "mercimek-corbasi": {
+  "name": "Linsensuppe",
+  "description": "Pürierte Suppe aus roten Linsen mit Karotte und Zwiebel, mit Zitrone serviert.",
+  "history": "Linsensuppe steht in fast jedem türkischen Restaurant auf der Karte und wird zu jeder Tageszeit gegessen.",
+  "ingredientsText": "Rote Linsen, Karotte, Zwiebel, Butter, Zitrone"
+ },
+ "mezhadzhe": {
+  "name": "Meschadsche",
+  "description": "Maisbrot aus der Pfanne, zu Soßen und Käse serviert.",
+  "history": "Meschadsche ist das traditionelle Brot der Adygeer, das sich mit dem Mais verbreitete.",
+  "ingredientsText": "Maismehl, Wasser, Salz"
+ },
+ "midye-dolma": {
+  "name": "Midye Dolma",
+  "description": "Muscheln, gefüllt mit Gewürzreis, Pinienkernen und Korinthen, an Straßenständen mit Zitrone gegessen.",
+  "history": "Muschelverkäufer gehören zum Abendleben von Istanbul und Izmir.",
+  "ingredientsText": "Miesmuscheln, Reis, Zwiebel, Pinienkerne, Korinthen, Gewürze, Zitrone"
+ },
+ "mirza-ghasemi": {
+  "name": "Mirza Ghasemi",
+  "description": "Über Feuer geräucherte Auberginen, zerdrückt mit Knoblauch, Tomaten und Ei, mit Brot serviert.",
+  "history": "Ein Gericht aus der kaspischen Provinz Gilan, benannt nach einem örtlichen Statthalter.",
+  "ingredientsText": "Auberginen, Knoblauch, Tomaten, Eier, Kurkuma"
+ },
+ "morasa-polo": {
+  "name": "Morasa Polo",
+  "description": "„Juwelenreis“ mit kandierter Orangenschale, Berberitzen, Pistazien und Mandeln.",
+  "history": "Morasa Polo gibt es bei Hochzeiten; die bunten Zutaten stehen für ein süßes, reiches Leben.",
+  "ingredientsText": "Reis, Orangenschale, Karotten, Berberitzen, Pistazien, Mandeln, Safran, Zucker"
+ },
+ "motal": {
+  "name": "Motal-Käse",
+  "description": "Salziger Schafskäse, in einem Schaffell gereift, mit kräftigem Geschmack und eigenem Aroma.",
+  "history": "Motal machen Hirten in den Bergen; die Reifung im Schaffell gibt ihm seinen einzigartigen Geschmack.",
+  "ingredientsText": "Schafmilch, Lab, Salz"
+ },
+ "mtsvadi": {
+  "name": "Mzwadi",
+  "description": "Georgische Spieße aus Schwein oder Kalb, über Rebholzglut gegrillt. Mit dünnen Zwiebelringen und Tkemali-Soße serviert.",
+  "history": "Grillen über Rebenglut ist eine alte Tradition der Weinregionen, besonders Kachetiens. Die Reben geben dem Fleisch ein leichtes Raucharoma.",
+  "ingredientsText": "Schwein oder Kalb, Zwiebel, Salz, Pfeffer, Granatapfelsaft"
+ },
+ "muhlama": {
+  "name": "Muhlama",
+  "description": "Geschmolzener, fadenziehender Käse mit Maismehl und Butter, heiß mit Brot gegessen.",
+  "history": "Muhlama stammt aus Trabzon und Rize; ähnliche Gerichte gibt es in Georgien und Abchasien.",
+  "ingredientsText": "Gereifter Käse, Maismehl, Butter"
+ },
+ "mutaki": {
+  "name": "Mutaki",
+  "description": "Knusprige Röllchen aus dünnem Teig mit Nüssen und Zucker, mit Puderzucker bestäubt.",
+  "history": "Der Name bedeutet „kleines Kissen“. Mutaki backt man in Baku und Gandscha zu Festen.",
+  "ingredientsText": "Weizenmehl, Butter, Schmand, Eier, Walnüsse, Zucker"
+ },
+ "nabat": {
+  "name": "Nabat",
+  "description": "Große Zuckerkristalle an Fäden, die statt gewöhnlichem Zucker zum Tee gereicht werden.",
+  "history": "Nabat wächst über mehrere Tage aus Sirup und wird manchmal mit Safran aromatisiert.",
+  "ingredientsText": "Zucker, Wasser, Safran"
+ },
+ "nadugi": {
+  "name": "Nadughi",
+  "description": "Weicher, cremiger Quark mit Minze und Kräutern, in dünne Sulguni-Platten gerollt.",
+  "history": "Nadughi ist ein Nebenprodukt der Käserei; in Samegrelo serviert man es als Vorspeise.",
+  "ingredientsText": "Nadughi-Quark, Sulguni, Minze, Koriander, Salz"
+ },
+ "narsharab": {
+  "name": "Narscharab",
+  "description": "Dicke süß-saure Soße aus eingekochtem Granatapfelsaft, zu Kebab und Fisch.",
+  "history": "Narscharab macht man im Herbst in Göytschay und Schamachi, wo die besten Granatäpfel wachsen.",
+  "ingredientsText": "Granatapfelsaft, Salz, Gewürze"
+ },
+ "naryn": {
+  "name": "Naryn",
+  "description": "Fein geschnittene Nudeln mit gekochtem Pferde- oder Lammfleisch und Zwiebeln, dazu Brühe.",
+  "history": "Naryn ist ein Festgericht aus Taschkent und Fergana, Teig und Fleisch werden von Hand sehr fein geschnitten.",
+  "ingredientsText": "Weizenmehl, Pferde- oder Lammfleisch, Kasy-Wurst, Zwiebel, Brühe"
+ },
+ "nasdzhyn": {
+  "name": "Nasdschyn",
+  "description": "Ossetischer Kürbiskuchen. Dünner Teig, viel Füllung und geschmolzene Butter obenauf.",
+  "history": "Zu Festen backt man ossetische Kuchen zu dritt, als Sinnbild für Sonne, Erde und Wasser. Der Kürbiskuchen ist leicht süß und wird im Herbst nach der Ernte gebacken.",
+  "ingredientsText": "Weizenmehl, Hefe, Kefir, Butter, Kürbis, Zucker oder Honig"
+ },
+ "nazuk": {
+  "name": "Nasuk",
+  "description": "Rolle aus reichhaltigem Hefeteig mit mürber süßer Füllung aus Mehl, Butter und Zucker, schräg geschnitten.",
+  "history": "Nasuk gibt es zu Tee und Kaffee, oft zu Weihnachten und Ostern gebacken.",
+  "ingredientsText": "Weizenmehl, Butter, Schmand, Hefe, Ei, Zucker, Vanille"
+ },
+ "nazuki": {
+  "name": "Nasuki",
+  "description": "Süßes Brot mit Rosinen und Zimt aus dem Tone-Ofen, an der Straße bei Surami verkauft.",
+  "history": "Nasuki ist das Markenzeichen von Surami: Verkäufer bringen die heißen Laibe direkt an vorbeifahrende Autos.",
+  "ingredientsText": "Weizenmehl, Hefe, Milch, Eier, Zucker, Rosinen, Zimt, Butter"
+ },
+ "nishalda": {
+  "name": "Nischalda",
+  "description": "Schneeweiße, luftige Süßigkeit aus mit Zucker und Süßholzwurzel geschlagenem Eiweiß.",
+  "history": "Nischalda isst man im Ramadan nach Sonnenuntergang und tunkt Brot hinein.",
+  "ingredientsText": "Eiweiß, Zucker, Süßholzwurzel"
+ },
+ "nushi-muraba": {
+  "name": "Konfitüre aus grünen Walnüssen",
+  "description": "Ganze grüne Walnüsse, in Zuckersirup dunkel gekocht, zum Tee serviert.",
+  "history": "Die Nüsse werden im Frühsommer gepflückt, solange die Schale weich ist, und vor dem Kochen lange gewässert.",
+  "ingredientsText": "Grüne Walnüsse, Zucker, Wasser, Nelken, Zimt"
+ },
+ "ojakhuri": {
+  "name": "Odschachuri",
+  "description": "Gebratenes Schwein mit knusprigen Kartoffeln, Zwiebeln und Gewürzen, in einer Tonpfanne Ketsi serviert. Ein einfaches, deftiges „Familien“-Gericht.",
+  "history": "Der Name bedeutet „nach Familienart“: Man kochte es für die ganze Familie aus dem, was gerade da war.",
+  "ingredientsText": "Schwein, Kartoffeln, Zwiebel, Knoblauch, Chmeli-Suneli, Koriander"
+ },
+ "oromo": {
+  "name": "Oromo",
+  "description": "Gedämpfte Rolle aus dünnem Teig mit Fleisch und Kürbis oder Kartoffel.",
+  "history": "Oromo gart im Manty-Dämpfer und wird mit Soße oder Brühe serviert.",
+  "ingredientsText": "Weizenmehl, Rind oder Lamm, Kürbis, Zwiebel"
+ },
+ "osetr-kebab": {
+  "name": "Stör-Kebab",
+  "description": "Störstücke am Spieß, über Kohle gegrillt und mit Granatapfelsoße serviert.",
+  "history": "Kaspischer Stör ist der Stolz der Bakuer Küche; er wird kurz gegrillt, damit er saftig bleibt.",
+  "ingredientsText": "Stör, Butter, Zitrone, Granatapfelsoße, Salz"
+ },
+ "oshi-burida": {
+  "name": "Oschi Burida",
+  "description": "Suppe mit dünnen hausgemachten Nudeln, Fleisch, Hülsenfrüchten und Kräutern.",
+  "history": "Burida heißt „geschnitten“: Die Nudeln werden mit dem Messer in feine Streifen geschnitten.",
+  "ingredientsText": "Weizenmehl, Rind, Kichererbsen, Mungbohnen, Zwiebel, Tomaten, Kräuter"
+ },
+ "ostri": {
+  "name": "Ostri",
+  "description": "Scharfer Rindereintopf in dicker Tomatensoße mit Essiggurken, Knoblauch und Gewürzen. Mit Brot oder Kartoffeln serviert.",
+  "history": "Der Name kommt von einem Wort für „scharf“. Ostri ist ein beliebtes Gericht in Tifliser Tavernen.",
+  "ingredientsText": "Rind, Tomaten, Tomatenmark, Essiggurken, Zwiebel, Knoblauch, Chili, Chmeli-Suneli"
+ },
+ "pahlava": {
+  "name": "Pachlawa",
+  "description": "Pachlawa ist das süße Symbol der aserbaidschanischen Küche mit ihrer Schichtstruktur und ihrem vollen Geschmack. Dünne, in Honig oder Sirup getränkte Teigschichten wechseln sich mit gehackten Walnüssen oder Haselnüssen ab. Jedes Stück verbindet knusprige Kruste und zarte Füllung. Pachlawa gehört auf den Festtisch, besonders zu Novruz.",
+  "quote": "Pachlawa ist nicht nur ein Dessert, sondern Teil der Kultur: Man backt sie zu Novruz, Hochzeiten und Festen, um Freude und Dank zu teilen",
+  "history": "Aserbaidschanische Pachlawa ist ein vielschichtiges Dessert mit Nüssen und Sirup, das in Kultur und Festen des Landes eine wichtige Rolle spielt.\n\nZwar verweisen Historiker auf frühe Erwähnungen in osmanischen Kochbüchern (15. Jahrhundert), doch auch Aserbaidschan kann einen Anteil an der Geschichte dieses Desserts beanspruchen.",
+  "ingredientsText": "Für den Teig: Mehl 35 g, Milch 12 ml, Butter 6 g, 1 Ei, Zucker 4 g, Trockenhefe 1 g, Salz 1 g\nFür die Füllung: Walnüsse 30 g, Butter 8 g, Zucker 15 g, Kartoffelstärke 1 EL\nFür den Sirup: Honig 10 g, Zucker 10 g, Wasser 10 ml, Zitronensaft 1 EL"
+ },
+ "pasta-adyg": {
+  "name": "Pasta (Hirsebrei)",
+  "description": "Sehr dicker Hirsebrei, der wie Brot geschnitten und zu Fleisch und Schtschips serviert wird.",
+  "history": "Pasta ersetzte bei den Adygeern das Brot; man schneidet sie mit einem Faden, um sie nicht zu zerdrücken.",
+  "ingredientsText": "Hirse, Wasser, Salz"
+ },
+ "pasuc-tolma": {
+  "name": "Fasten-Tolma",
+  "description": "Fasten-Tolma: Kohlblätter, gefüllt mit Bohnen, Linsen, Kichererbsen, Bulgur und Reis mit Gewürzen.",
+  "history": "Pasuts-Tolma macht man in der Fastenzeit. Die vielen Hülsenfrüchte der Füllung stehen für Fülle.",
+  "ingredientsText": "Kohl, Bohnen, Linsen, Kichererbsen, Bulgur, Reis, Tomatenmark, Zwiebel, Gewürze"
+ },
+ "pelamushi": {
+  "name": "Pelamuschi",
+  "description": "Dicker Pudding aus Traubensaft und Mehl, der in Formen fest wird. Oft mit Nüssen bestreut.",
+  "history": "Wie Tschurtschchela ist Pelamuschi ein Nebenprodukt der Weinbereitung – beide entstehen aus demselben eingedickten Saft.",
+  "ingredientsText": "Traubensaft, Weizen- oder Maismehl"
+ },
+ "pide": {
+  "name": "Pide",
+  "description": "Bootförmiges Fladenbrot mit Hackfleisch, Käse, Ei oder Gemüse belegt.",
+  "history": "Pide wird in der ganzen Türkei im Steinofen gebacken; die Schwarzmeer-Varianten sind besonders berühmt.",
+  "ingredientsText": "Weizenmehl, Hefe, Hackfleisch oder Käse, Ei, Butter"
+ },
+ "piti": {
+  "name": "Piti",
+  "description": "Lammsuppe mit Kichererbsen, Kastanien, Quitte und Safran, langsam im Portionstontopf gegart. Erst trinkt man die Brühe mit Brot, dann isst man das Fleisch.",
+  "history": "Piti ist das Aushängeschild von Scheki. Die Töpfe stehen stundenlang im Ofen, Schwanzfett macht die Brühe kräftig.",
+  "ingredientsText": "Lamm, Schwanzfett, Kichererbsen, Kastanien, Quitte, Zwiebel, Safran"
+ },
+ "pkhali": {
+  "name": "Pchali",
+  "description": "Vorspeise aus gehacktem Gemüse oder Blattgrün wie Spinat, Roter Bete oder Kohl mit Walnusspaste, Knoblauch und Gewürzen, zu Kugeln geformt und mit Granatapfelkernen garniert.",
+  "history": "Pchali ist eines der wichtigsten Fastengerichte des georgischen Tisches. Es gibt so viele Varianten wie essbares Grün im Garten.",
+  "ingredientsText": "Spinat oder Rote Bete, Walnüsse, Knoblauch, Koriander, Chmeli-Suneli, Weinessig, Granatapfel"
+ },
+ "pkhlovani": {
+  "name": "Pchlowani",
+  "description": "Kuchen mit Spinat, Rübenblättern oder Brennnessel und Käse, beliebt in Ratscha und Ossetien.",
+  "history": "Pchlowani backt man im Frühling, wenn das junge Grün kommt.",
+  "ingredientsText": "Weizenmehl, Matsoni, Spinat oder Rübenblätter, Sulguni, Kräuter"
+ },
+ "plov": {
+  "name": "Pilaw",
+  "description": "Pilaw ist der König der aserbaidschanischen Küche, reich an Aromen und Traditionen. Gedämpfter Reis wird mit duftendem Fleisch (meist Lamm), Trockenobst, Kastanien und Gewürzen serviert. Jede Komponente gart separat und wird dann vereint. Pilaw ist ein Symbol der Gastfreundschaft bei großen Festen und Familienessen.",
+  "quote": "Safran ist das Geheimnis der goldenen Farbe und des Aromas aserbaidschanischen Pilaws: Jedes Korn glänzt wie ein Juwel",
+  "history": "Pilaw hat, wie viele Gerichte des Orients, seine Wurzeln im alten Persien und in Zentralasien, wo Reis mit Fleisch und Gewürzen gekocht wurde.\n\nÜber Handelswege und Feldzüge verbreitete er sich im ganzen Orient bis nach Aserbaidschan, dessen Küche viele Pilaw-Sorten kennt.",
+  "ingredientsText": "Zwiebeln 4 große\nRosinen ½ Tasse\nGetrocknete Aprikosen 1 Tasse\nBackpflaumen ½ Tasse\nKastanien 500 g\nEine Prise Zimt\nButter 400–600 g\nFür die Gasmach-Kruste: Mehl ½ Tasse, Ei, Kefir"
+ },
+ "pokhindz": {
+  "name": "Pochinds",
+  "description": "Geröstetes Weizenmehl mit Honig oder Zucker und Butter, gelöffelt oder zu Kugeln gerollt.",
+  "history": "Pochinds ist eine traditionelle Neujahrsleckerei, die jede Familie macht und den Kindern schenkt.",
+  "ingredientsText": "Weizenmehl, Honig oder Zucker, Butter"
+ },
+ "putuk": {
+  "name": "Putuk",
+  "description": "Lammsuppe mit Kichererbsen und getrockneten sauren Pflaumen im Portionstontopf.",
+  "history": "Putuk ist die armenische Variante der Topfsuppe, verwandt mit dem aserbaidschanischen Piti.",
+  "ingredientsText": "Lamm, Kichererbsen, Kartoffeln, getrocknete saure Pflaumen, Zwiebel"
+ },
+ "qurutob": {
+  "name": "Qurutob",
+  "description": "Stücke blättrigen Fatir-Brots, in Qurut-Soße getränkt und mit Zwiebeln, Tomaten und Kräutern belegt.",
+  "history": "Qurutob gilt als Nationalgericht Tadschikistans und wird mit der Hand von einer gemeinsamen Holzplatte gegessen.",
+  "ingredientsText": "Fatir-Brot, Qurut, Zwiebel, Tomaten, Gurken, Kräuter, Pflanzenöl"
+ },
+ "sabzi-govurma": {
+  "name": "Sabzi Gowurma",
+  "description": "Lamm, geschmort mit viel Grün – Spinat, Koriander, Dill, Frühlingszwiebel – und getrockneten sauren Pflaumen.",
+  "history": "Sabzi heißt „Grün“. Das Gericht ist besonders im Frühling beliebt, wenn junge Kräuter kommen.",
+  "ingredientsText": "Lamm, Spinat, Koriander, Dill, Frühlingszwiebel, getrocknete saure Pflaumen, Zwiebel"
+ },
+ "sabzi-polo-mahi": {
+  "name": "Sabzi Polo ba Mahi",
+  "description": "Kräuterreis mit gebratenem Fisch – das traditionelle Nouruz-Gericht.",
+  "history": "Die Kräuter stehen für Erneuerung, der Fisch für das Leben; deshalb isst man es am ersten Frühlingstag.",
+  "ingredientsText": "Reis, Petersilie, Koriander, Dill, Frühlingszwiebel, Fisch, Butter"
+ },
+ "saczivi": {
+  "name": "Saziwi",
+  "description": "Saziwi ist ein feines Gericht, das kalt serviert wird, mit vielschichtiger Textur und Geschmack. Die Soße aus Walnüssen, gemahlen mit Knoblauch, Gewürzen und Essig, wird dick und samtig. Gekochtes Huhn oder Pute wird hineingegeben und darf durchziehen. Saziwi gehört auf den georgischen Festtisch.",
+  "quote": "Saziwi ist ein Weihnachtsgericht aus Walnüssen, Koriander und Gewürzen, Symbol für Fülle und Freude",
+  "history": "Der Name hängt mit tsiwa, „kalt“, zusammen: Saziwi wird gekühlt serviert. Es ist eines der wichtigsten Gerichte des georgischen Neujahrstisches, mit Huhn, Pute oder gebratenem Gemüse.",
+  "ingredientsText": "Huhn oder Pute bis 2 kg\nButter 20 g\nZwiebeln 1 kg\nKoriander 4 Zweige\nWalnüsse 600 g\nSchwarzer Pfeffer 1 EL\nGemahlener Koriander 1 EL\nImeretischer Safran 1 EL\nNelken 3–6\nEine Prise Zimt\nKnoblauch 4–8 Zehen\nWeißweinessig 1 EL\nSalz"
+ },
+ "sadzh": {
+  "name": "Sadsch",
+  "description": "Fleisch, Kartoffeln, Auberginen und Paprika auf einer gewölbten Eisenpfanne namens Sadsch gebraten und darauf serviert.",
+  "history": "Sadsch ist Pfanne und Gericht zugleich. Oft liegt Glut darunter, damit das Essen am Tisch heiß bleibt.",
+  "ingredientsText": "Lamm oder Huhn, Kartoffeln, Auberginen, Tomaten, Paprika, Zwiebel"
+ },
+ "samsa": {
+  "name": "Samsa",
+  "description": "Dreieckige Blätterteigtaschen mit Lamm und Zwiebeln, an den Wänden eines Tandurs gebacken.",
+  "history": "Tandur-Samsa ist ein beliebtes usbekisches Straßenessen, mit Sesam oder Schwarzkümmel bestreut.",
+  "ingredientsText": "Weizenmehl, Lamm, Schwanzfett, Zwiebel, Kreuzkümmel, Sesam"
+ },
+ "sangak": {
+  "name": "Sangak",
+  "description": "Langes Vollkornfladenbrot, auf einem Bett heißer Kiesel gebacken.",
+  "history": "Die Kiesel hinterlassen Mulden im Brot; Sangak war einst das Brot der persischen Armee.",
+  "ingredientsText": "Vollkornmehl, Sauerteig, Wasser, Salz, Sesam"
+ },
+ "sarburma": {
+  "name": "Sarburma",
+  "description": "Geschichteter, schneckenförmiger Fleischkuchen, aus einem langen Teigstrang gerollt.",
+  "history": "Sarburma heißt „gerollt“; man macht sie zu Festen auf großen Blechen.",
+  "ingredientsText": "Weizenmehl, Butter, Ei, Lamm, Zwiebel"
+ },
+ "satsebeli": {
+  "name": "Sazebeli",
+  "description": "Tomatensoße mit Knoblauch, Chili und Kräutern. Zu Fleisch, Geflügel und Chatschapuri.",
+  "history": "Das Wort Sazebeli bedeutet einfach „Soße“. Früher machte man sie aus Beeren und Obst; die Tomatenvariante kam später.",
+  "ingredientsText": "Tomaten, Knoblauch, Chili, Koriander, Basilikum, Salz"
+ },
+ "shah-plov": {
+  "name": "Schah-Pilaw",
+  "description": "Schah-Pilaw ist ein Juwel der aserbaidschanischen Küche, schön und köstlich zugleich. Reis wird zu einer „Krone“ in einer knusprigen Lawasch-Hülle geformt, darin zartes Fleisch, Trockenobst und Nüsse. Ein Gericht für besondere Anlässe und Symbol der Großzügigkeit des aserbaidschanischen Tisches.",
+  "quote": "Schah-Pilaw ist eine Show: Er wird im Ganzen aufgetragen und vor den Gästen angeschnitten",
+  "history": "Schah-Pilaw (auch Chan-Pilaw oder „königlicher Pilaw“) ist ein aserbaidschanisches Festgericht mit ungewöhnlicher Zubereitung und Präsentation.\n\nSeine Geschichte ist mit der aserbaidschanischen Kochtradition verbunden, in der Pilaw einen besonderen Platz hat.",
+  "ingredientsText": "Rind 600 g\nReis 600 g\nButterschmalz 350 g\nZwiebeln 250 g\nGetrocknete Aprikosen 150 g\nHelle Rosinen 150 g\nGetrocknete Kirschpflaumen 100 g\nGekochte Kastanien 150 g\nKurkuma\nSafran 3–5 Fäden\nSalz\nBerberitzen 50 g (optional)\nDünner Lawasch 400 g"
+ },
+ "shakarob": {
+  "name": "Schakarob",
+  "description": "Salat aus Tomaten, Gurken und Zwiebeln mit Chili und Kräutern, zu Pilaw und Kebab.",
+  "history": "Schakarob ist der tadschikische Verwandte des usbekischen Atschitschuk und wird kurz vor dem Servieren gemacht.",
+  "ingredientsText": "Tomaten, Gurken, Zwiebel, Chili, Koriander, Basilikum"
+ },
+ "sharots": {
+  "name": "Scharots",
+  "description": "Nüsse an einer Schnur in eingedicktem Traubensaft – die armenische Verwandte der Tschurtschchela.",
+  "history": "Scharots macht man im Herbst nach der Weinlese und hängt es zum Trocknen auf.",
+  "ingredientsText": "Walnüsse, Traubensaft, Mehl"
+ },
+ "shchips": {
+  "name": "Schtschips",
+  "description": "Dicke Soße aus Brühe oder Sahne, mit geröstetem Mehl gebunden, mit Knoblauch und rotem Pfeffer.",
+  "history": "Schtschips gibt es zu Fleisch, Huhn und Pasta; ein adygeischer Tisch ohne sie ist kaum denkbar.",
+  "ingredientsText": "Brühe oder Sahne, Weizenmehl, Butter, Knoblauch, roter Pfeffer"
+ },
+ "shekerbura": {
+  "name": "Schakarbura",
+  "description": "Halbmondförmiges Gebäck mit gemahlenen Mandeln oder Walnüssen und Zucker, oben mit einer Pinzette verziert.",
+  "history": "Schakarbura backt man zu Novruz. Das Muster heißt Nachysch, und jede Köchin hat ihr eigenes.",
+  "ingredientsText": "Weizenmehl, Butter, Eier, Milch, Hefe, Mandeln oder Haselnüsse, Zucker, Kardamom"
+ },
+ "shekerchorek": {
+  "name": "Schakartschorek",
+  "description": "Mürbes Gebäck aus Mehl, Butter und Zucker, das auf der Zunge zergeht.",
+  "history": "Schakartschorek backt man zu Novruz mit den anderen Süßigkeiten des Festtisches.",
+  "ingredientsText": "Weizenmehl, Butter, Puderzucker, Eigelb, Kardamom"
+ },
+ "sheki-halva": {
+  "name": "Scheki-Halwa",
+  "description": "Süßigkeit aus Reismehlspitze mit Haselnüssen, in dickem Zuckersirup getränkt.",
+  "history": "Die feine Reisspitze, Reschta genannt, wird aus einem Trichter gegossen – ein Geheimnis der Familien von Scheki.",
+  "ingredientsText": "Reismehl, Haselnüsse, Zucker, Kardamom, Koriander, Safran"
+ },
+ "sherbet": {
+  "name": "Scherbet",
+  "description": "Süßes gekühltes Getränk aus Fruchtsaft, Rosenblättern, Basilikum oder Safran, zu Pilaw.",
+  "history": "Scherbet trinkt man bei Hochzeiten und Festen; Farbe und Duft wechseln mit der Jahreszeit.",
+  "ingredientsText": "Wasser, Zucker, Zitronensaft, Rosenblätter oder Basilikumsamen, Safran"
+ },
+ "shilaplavi": {
+  "name": "Schilaplawi",
+  "description": "Reis mit Lamm und Zwiebeln, cremig und leicht klebrig gekocht – näher an Risotto als an lockerem Pilaw.",
+  "history": "Schilaplawi kocht man in Swanetien und Ratscha zu Festen, in großen Töpfen für alle Gäste.",
+  "ingredientsText": "Reis, Lamm, Zwiebel, swanisches Salz, Pflanzenöl"
+ },
+ "shirazi-salad": {
+  "name": "Schirasi-Salat",
+  "description": "Fein gewürfelte Gurke, Tomate und rote Zwiebel mit Minze und Verjus oder Zitronensaft.",
+  "history": "Benannt nach Schiras, der Stadt der Dichter und Gärten im Süden Irans.",
+  "ingredientsText": "Gurken, Tomaten, rote Zwiebel, getrocknete Minze, Zitronensaft, Olivenöl"
+ },
+ "shirchoy": {
+  "name": "Schirtschoy",
+  "description": "Tee mit Milch, Butter und Salz, manchmal mit Brotstücken – ein sättigendes Frühstück.",
+  "history": "Schirtschoy trinkt man frühmorgens in den Bergen, wo er wärmt und Kraft gibt.",
+  "ingredientsText": "Tee, Milch, Butter, Salz"
+ },
+ "shirin-plov": {
+  "name": "Süßer Pilaw",
+  "description": "Süßer Pilaw mit Trockenobst, Kastanien und Safran für den Festtisch.",
+  "history": "Schirin heißt „süß“; es ist eine von vielen aserbaidschanischen Pilaw-Arten.",
+  "ingredientsText": "Reis, Rosinen, getrocknete Aprikosen, Kastanien, Butter, Safran, Zucker"
+ },
+ "shivit-oshi": {
+  "name": "Schiwit Oschi",
+  "description": "Leuchtend grüne Dillnudeln mit Fleischragout und Sauermilch – ein Gericht aus Choresm.",
+  "history": "Der Dill kommt direkt in den Teig, daher werden die Nudeln grün und duftend.",
+  "ingredientsText": "Weizenmehl, Dill, Rind, Kartoffeln, Karotten, Sauermilch"
+ },
+ "shkmeruli": {
+  "name": "Schkmeruli",
+  "description": "Gebratenes Huhn, in cremiger Knoblauchsoße in einer Tonpfanne namens Ketsi gebacken. Knoblauch wird großzügig verwendet.",
+  "history": "Das Gericht stammt aus dem Dorf Schkmeri in Ratscha. Tonpfannen halten lange warm, daher serviert man es darin.",
+  "ingredientsText": "Huhn, Sahne oder Milch, Knoblauch, Butter, Salz"
+ },
+ "sholeh-zard": {
+  "name": "Scholeh Zard",
+  "description": "Süßer Reispudding mit Safran und Rosenwasser, mit Zimt und Mandeln verziert.",
+  "history": "Scholeh Zard kocht man als Gelübde und teilt ihn mit Nachbarn, mit Mustern und Worten aus Zimt.",
+  "ingredientsText": "Reis, Zucker, Safran, Rosenwasser, Butter, Mandeln, Zimt"
+ },
+ "shor-gogal": {
+  "name": "Schor Gogal",
+  "description": "Blättrige herzhafte Brötchen mit Füllung aus Mehl, Butter, Fenchel und Kurkuma.",
+  "history": "Schor heißt „salzig“. Schor Gogal ist die Bakuer Version des Novruz-Gogal.",
+  "ingredientsText": "Weizenmehl, Butter, Eier, Hefe, Fenchel, Kurkuma, Salz"
+ },
+ "shoti": {
+  "name": "Schoti",
+  "description": "Kanuförmiges Brot, an den Wänden eines runden Tonofens namens Tone gebacken. Außen knusprig, innen weich.",
+  "history": "Tone-Bäckereien gibt es in jedem Viertel von Tiflis. Morgens kauft man heißes Schoti und isst es unterwegs.",
+  "ingredientsText": "Weizenmehl, Hefe, Wasser, Salz"
+ },
+ "shubat": {
+  "name": "Schubat",
+  "description": "Vergorenes Getränk aus Kamelmilch, dick und leicht süß.",
+  "history": "Schubat trinkt man im Süden Kasachstans, wo Kamele gehalten werden.",
+  "ingredientsText": "Kamelmilch, Starterkultur"
+ },
+ "shurpa": {
+  "name": "Schurpa",
+  "description": "Kräftige Lammsuppe mit großen Stücken Kartoffeln, Karotten, Tomaten und Kräutern.",
+  "history": "Schurpa kocht man im Kasan über dem Feuer; das Fleisch wird oft vor dem Köcheln angebraten.",
+  "ingredientsText": "Lamm, Kartoffeln, Karotten, Tomaten, Zwiebel, Kichererbsen, Kräuter"
+ },
+ "simit": {
+  "name": "Simit",
+  "description": "Knuspriger Sesamring, von Straßenkarren verkauft und mit Käse und Tee gegessen.",
+  "history": "Vor dem Backen wird Simit in Traubensirup getaucht, was der Kruste ihre goldene Farbe gibt.",
+  "ingredientsText": "Weizenmehl, Hefe, Traubensirup, Sesam"
+ },
+ "siskal": {
+  "name": "Siskal",
+  "description": "Einfaches Maisbrot aus der Pfanne oder der Glut, zu Fleisch und Brühe.",
+  "history": "Siskal ist das Alltagsbrot der Tschetschenen; in den Bergen backte man es direkt in der Asche des Herdes.",
+  "ingredientsText": "Maismehl, Wasser, Salz"
+ },
+ "sohan": {
+  "name": "Sohan",
+  "description": "Knusprige Scheiben aus Zucker, Butter und gekeimtem Weizen mit Safran und Pistazien.",
+  "history": "Sohan ist die typische Süßigkeit aus Ghom und wird in Blechdosen als Mitbringsel gekauft.",
+  "ingredientsText": "Zucker, Butter, Weizenmehl, gekeimter Weizen, Safran, Pistazien, Mandeln"
+ },
+ "sokhta": {
+  "name": "Sochta",
+  "description": "Gekochte Wurst aus Lammmagen, gefüllt mit Leber, Reis und Zwiebeln.",
+  "history": "Sochta ist ein Festgericht, das gleich nach dem Schlachten eines Schafes gemacht wird.",
+  "ingredientsText": "Lammmagen, Leber, Reis, Schwanzfett, Zwiebel, Pfeffer"
+ },
+ "soko-ketsze": {
+  "name": "Pilze aus der Ketsi",
+  "description": "Pilze, mit Sulguni in einer Tonpfanne Ketsi überbacken und darin serviert.",
+  "history": "Die Ketsi hält die Wärme, sodass der Käse bis zum letzten Pilz Fäden zieht.",
+  "ingredientsText": "Pilze, Sulguni, Butter, Salz"
+ },
+ "sokos-khinkali": {
+  "name": "Pilz-Chinkali",
+  "description": "Chinkali mit Pilzen, Zwiebeln und Kräutern – eine fleischlose Variante der berühmten Teigtaschen.",
+  "history": "Pilz-Chinkali isst man an Fastentagen; auch sie hält man am Zipfel, sie enthalten aber weniger Saft.",
+  "ingredientsText": "Weizenmehl, Pilze, Zwiebel, Koriander, Salz"
+ },
+ "spas": {
+  "name": "Spas",
+  "description": "Heiße Joghurtsuppe mit Matsun, Weizenkörnern, Ei und Kräutern. Mild, säuerlich und wärmend.",
+  "history": "Spas ist eine häusliche Wintersuppe. Damit der Joghurt nicht gerinnt, rührt man ständig in eine Richtung.",
+  "ingredientsText": "Matsun-Joghurt, Weizenkörner, Ei, Butter, Zwiebel, Minze, Koriander"
+ },
+ "su-boregi": {
+  "name": "Su Böreği",
+  "description": "Geschichteter Kuchen aus gekochten Teigblättern mit weißem Käse und Petersilie, in Butter gebacken.",
+  "history": "Der „Wasser-Börek“ heißt so, weil die Teigblätter vor dem Schichten in kochendes Wasser getaucht werden.",
+  "ingredientsText": "Weizenmehl, Eier, weißer Käse, Petersilie, Butter"
+ },
+ "sudzhuk": {
+  "name": "Sudschuk",
+  "description": "Flache luftgetrocknete Rinderwurst mit Knoblauch und Gewürzen, in dünne Scheiben geschnitten.",
+  "history": "Sudschuk kennt man in der ganzen Region von Armenien bis zur Türkei. Armenische Familien machten sie im Herbst, wenn es kühl wurde.",
+  "ingredientsText": "Rind, Rinderfett, Knoblauch, Kreuzkümmel, Paprika, Pfeffer, Salz"
+ },
+ "suluguni": {
+  "name": "Sulguni",
+  "description": "Salzlakenkäse mit elastischer, geschichteter Struktur und salzigem Geschmack. Frisch, gebraten und geräuchert gegessen.",
+  "history": "Sulguni stammt aus Samegrelo. Der Käse wird in heißem Wasser geknetet, das macht ihn dehnbar und geschichtet.",
+  "ingredientsText": "Kuhmilch, Lab, Salz"
+ },
+ "sumalak": {
+  "name": "Sumalak",
+  "description": "Süße Paste aus gekeimten Weizenkörnern, einen ganzen Tag lang für Nawruz gekocht.",
+  "history": "Sumalak kocht die ganze Nachbarschaft über Nacht mit Liedern und abwechselndem Rühren; Zucker kommt nicht hinein.",
+  "ingredientsText": "Gekeimter Weizen, Weizenmehl, Baumwollsaatöl, Wasser"
+ },
+ "surj": {
+  "name": "Armenischer Kaffee",
+  "description": "Starker, fein gemahlener Kaffee, im Dschesve gebrüht und in kleinen Tassen mit Satz serviert.",
+  "history": "Kaffee gehört zur armenischen Gastfreundschaft, und oft liest man nach dem Trinken aus dem Satz.",
+  "ingredientsText": "Fein gemahlener Kaffee, Wasser, Zucker nach Geschmack"
+ },
+ "sutlac": {
+  "name": "Sütlaç",
+  "description": "Milchreis, oben goldbraun überbacken und mit Zimt bestäubt.",
+  "history": "Sütlaç gibt es in Muhallebici-Läden, die nur Milchdesserts herstellen.",
+  "ingredientsText": "Milch, Reis, Zucker, Reismehl, Vanille, Zimt"
+ },
+ "tahchin": {
+  "name": "Tahtschin",
+  "description": "Gebackener Reis-„Kuchen“ mit Joghurt, Ei, Safran und Huhn im Inneren und knuspriger Kruste.",
+  "history": "Tahtschin wird vor dem Servieren auf eine Platte gestürzt, um die goldene Kruste zu zeigen.",
+  "ingredientsText": "Reis, Joghurt, Eigelb, Safran, Huhn, Butter, Berberitzen"
+ },
+ "tahdig": {
+  "name": "Tahdig",
+  "description": "Die knusprige goldene Reiskruste vom Topfboden, als eigenes Gericht serviert.",
+  "history": "Bei Tisch wetteifert man um Tahdig – es ist der begehrteste Teil des persischen Reises.",
+  "ingredientsText": "Reis, Butter, Joghurt, Safran"
+ },
+ "tan": {
+  "name": "Tan",
+  "description": "Erfrischendes Getränk aus Matsun, mit kaltem Wasser verdünnt und leicht gesalzen. Bei Hitze und zu Fleisch getrunken.",
+  "history": "Tan ist die einfachste Art, Matsun zu genießen, und wird in fast jeder armenischen Gaststätte serviert.",
+  "ingredientsText": "Matsun-Joghurt, kaltes Wasser, Salz"
+ },
+ "tantuni": {
+  "name": "Tantuni",
+  "description": "Fein gehacktes Rindfleisch, in Baumwollsaatöl gebraten und mit Kräutern in dünnen Lawasch gewickelt.",
+  "history": "Tantuni ist das Straßenessen von Mersin, auf einer breiten gewölbten Pfanne zubereitet.",
+  "ingredientsText": "Rind, Lawasch, Tomaten, Zwiebel, Petersilie, Sumach, Baumwollsaatöl"
+ },
+ "tarkhuna": {
+  "name": "Tarchuna",
+  "description": "Leuchtend grüne Estragonlimonade mit Kohlensäure, gekühlt serviert.",
+  "history": "Limonaden auf Natursirup machte Mitrofan Lagidse in Tiflis Anfang des 20. Jahrhunderts berühmt.",
+  "ingredientsText": "Estragon, Zucker, Sprudelwasser, Zitronensäure"
+ },
+ "tava-kebab": {
+  "name": "Tava-Kebab",
+  "description": "Frikadellen aus Lammhack, in einer Tava-Pfanne mit Ei und Tomaten gebacken.",
+  "history": "Tava ist die Pfanne, in der das Gericht serviert wird; das Ei hält den Kebab saftig.",
+  "ingredientsText": "Lamm, Zwiebel, Eier, Tomaten, Salz, Pfeffer"
+ },
+ "tavuk-gogsu": {
+  "name": "Tavuk Göğsü",
+  "description": "Milchpudding mit hauchfein zerfaserter Hühnerbrust – das Huhn bemerkt man kaum.",
+  "history": "Dieses ungewöhnliche Dessert hat sich aus den osmanischen Palastküchen erhalten.",
+  "ingredientsText": "Hühnerbrust, Milch, Zucker, Reismehl, Zimt"
+ },
+ "tendir-chorek": {
+  "name": "Tandir-Brot",
+  "description": "Rundes Brot, an den Wänden eines Tandir-Tonofens gebacken, mit knuspriger Kruste und weicher Krume.",
+  "history": "Fast jeder Dorfhof hat einen Tandir, und sein Brot soll in den ersten Stunden nach dem Backen am besten schmecken.",
+  "ingredientsText": "Weizenmehl, Hefe, Wasser, Salz"
+ },
+ "testi-kebab": {
+  "name": "Testi-Kebab",
+  "description": "Fleisch und Gemüse in einem versiegelten Tonkrug gegart, der bei Tisch zerschlagen wird.",
+  "history": "Ein Gericht aus Kappadokien – das Aufbrechen des Krugs ist zum Spektakel für Gäste geworden.",
+  "ingredientsText": "Rind oder Lamm, Tomaten, Paprika, Zwiebel, Knoblauch"
+ },
+ "tika-kebab": {
+  "name": "Tika-Kebab",
+  "description": "Stücke marinierten Lamms mit Schwanzfettstückchen auf Spießen, über Kohle gegrillt.",
+  "history": "Tika heißt „Stück“. Es ist die häufigste Kebab-Art und fehlt bei keinem Festmahl.",
+  "ingredientsText": "Lamm, Schwanzfett, Zwiebel, Salz, Pfeffer, Sumach"
+ },
+ "tkemali": {
+  "name": "Tkemali",
+  "description": "Saure, scharfe Soße aus Kirschpflaumen mit Knoblauch, Dill, Koriander und Polei-Minze. Die Standardbegleitung zu Schaschlik und Bratkartoffeln.",
+  "history": "Tkemali heißt sowohl die Soße als auch die Kirschpflaume, aus der sie gemacht wird. Es gibt grünes Tkemali aus unreifen und rotes aus reifen Früchten.",
+  "ingredientsText": "Kirschpflaumen, Knoblauch, Dill, Koriander, Polei-Minze, Chili, Salz"
+ },
+ "tklapi": {
+  "name": "Tklapi",
+  "description": "Dünne Platten saurer Fruchtleder aus Kirschpflaumen oder Pflaumen, in Chartscho gegeben oder als Snack gegessen.",
+  "history": "Tklapi ist die georgische Art, Obst für den Winter zu konservieren, auf Holzbrettern sonnengetrocknet.",
+  "ingredientsText": "Kirschpflaumen oder Pflaumen"
+ },
+ "tolma-gruzinskaya": {
+  "name": "Georgische Tolma",
+  "description": "Weinblätter mit Fleisch, Reis und Kräutern, in Brühe geschmort und mit Knoblauch-Matsoni serviert.",
+  "history": "In Georgien macht man Tolma im Frühling mit jungen Blättern; für den Winter werden die Blätter eingelegt.",
+  "ingredientsText": "Weinblätter, Rinder- und Schweinehack, Reis, Zwiebel, Koriander, Minze, Matsoni, Knoblauch"
+ },
+ "tsakharadzhyn": {
+  "name": "Zacharadschyn",
+  "description": "Ossetischer Kuchen mit Rübenblättern und Käse. Dünner Teig, viel Füllung und geschmolzene Butter obenauf.",
+  "history": "Zu Festen backt man ossetische Kuchen zu dritt, als Sinnbild für Sonne, Erde und Wasser. Zacharadschyn backt man im Frühling und Sommer, solange die Rübenblätter jung und zart sind.",
+  "ingredientsText": "Weizenmehl, Hefe, Kefir, Butter, Rübenblätter, ossetischer Käse, Frühlingszwiebel"
+ },
+ "tsitsila-tabaka": {
+  "name": "Hähnchen Tabaka",
+  "description": "Plattgedrücktes Hähnchen, unter einem Gewicht knusprig gebraten, mit Knoblauchsoße serviert.",
+  "history": "Der Name kommt von der Tapa-Pfanne, in der das Hähnchen unter einem schweren Deckel brät.",
+  "ingredientsText": "Stubenküken, Butter, Knoblauch, Salz, Pfeffer"
+ },
+ "ttu-lavash": {
+  "name": "Ttu-Lawasch",
+  "description": "Dünnes süß-saures Fruchtleder aus Pflaumen-, Aprikosen- oder Kornelkirschpüree, in der Sonne getrocknet.",
+  "history": "Der Name bedeutet „saurer Lawasch“. Man machte ihn im Sommer, um im Winter Vitamine zu haben.",
+  "ingredientsText": "Pflaumen, Aprikosen oder Kornelkirschen"
+ },
+ "ttu-solenya": {
+  "name": "Armenisches Eingelegtes",
+  "description": "Gemischtes eingelegtes Gemüse: Kohl, Paprika, Karotten, Knoblauch, grüne Tomaten.",
+  "history": "Eingelegtes gibt es zu Chasch und Chorowaz; es wird im Herbst in großen Gläsern angesetzt.",
+  "ingredientsText": "Kohl, Paprika, Karotten, Knoblauch, grüne Tomaten, Salz"
+ },
+ "tukhum-barak": {
+  "name": "Tuchum Barak",
+  "description": "Teigtaschen aus Choresm, gefüllt mit Eiern, die mit Milch und Butter verquirlt sind.",
+  "history": "Die flüssige Füllung wird in den Teig gegossen und schnell verschlossen – das erfordert echtes Geschick.",
+  "ingredientsText": "Weizenmehl, Eier, Milch, Butter, Salz"
+ },
+ "tuppa": {
+  "name": "Tuppa",
+  "description": "Suppe mit kurzen hausgemachten Nudeln, Fleisch und Gemüse, mit Tomaten abgerundet.",
+  "history": "Tuppa kocht man in tadschikischen Bergdörfern in der kalten Jahreszeit.",
+  "ingredientsText": "Weizenmehl, Lamm, Kartoffeln, Karotten, Tomaten, Zwiebel"
+ },
+ "turshu-govurma": {
+  "name": "Turschu Gowurma",
+  "description": "Gebratenes Lamm mit Zwiebeln, getrockneten sauren Pflaumen und Kastanien in süß-saurer Soße.",
+  "history": "Turschu heißt „sauer“; das Gericht wird mit Pilaw serviert.",
+  "ingredientsText": "Lamm, Zwiebel, getrocknete saure Pflaumen, Kastanien, Safran"
+ },
+ "tzhvzhik": {
+  "name": "Tschwschik",
+  "description": "Gebratene Leber und andere Innereien mit Zwiebeln, Tomaten und Gewürzen. Schnell und deftig.",
+  "history": "Tschwschik kochte man gleich nach dem Schlachten aus den frischesten Innereien. Bekannt ist das Gericht durch einen gleichnamigen armenischen Film.",
+  "ingredientsText": "Rinder- oder Lammleber, Nieren, Herz, Zwiebel, Tomaten, Pfeffer, Koriander"
+ },
+ "ualibakh": {
+  "name": "Walibach",
+  "description": "Ossetischer Käsekuchen. Dünner Teig, viel Füllung und geschmolzene Butter obenauf.",
+  "history": "Zu Festen backt man ossetische Kuchen zu dritt, als Sinnbild für Sonne, Erde und Wasser. Walibach ist der häufigste ossetische Kuchen und wird fast täglich gebacken.",
+  "ingredientsText": "Weizenmehl, Hefe, Kefir, Butter, ossetischer Käse"
+ },
+ "uch-badzhi": {
+  "name": "Dolma „Drei Schwestern“",
+  "description": "„Drei Schwestern“: Auberginen, Tomaten und Paprika, mit Fleisch und Reis gefüllt und zusammen geschmort.",
+  "history": "Der Name kommt daher, dass die drei Gemüse in einem Topf garen. Eine Sommervariante der Dolma.",
+  "ingredientsText": "Auberginen, Tomaten, Paprika, Lamm, Reis, Zwiebel, Kräuter"
+ },
+ "urbech": {
+  "name": "Urbetsch",
+  "description": "Dicke Paste aus Leinsamen, Aprikosenkernen oder Nüssen, auf Mühlsteinen gemahlen, mit Honig und Butter gegessen.",
+  "history": "In den Bergen nahm man Urbetsch als schnelle Energiequelle auf Reisen mit.",
+  "ingredientsText": "Leinsamen, Aprikosenkerne oder Nüsse"
+ },
+ "uzbekskiy-plov": {
+  "name": "Usbekischer Plov",
+  "description": "Reis im Kasan mit Lamm, gelben Karotten, Kichererbsen, Kreuzkümmel und ganzen Knoblauchknollen.",
+  "history": "Plov-Kultur und -Tradition stehen für Usbekistan auf der UNESCO-Liste des immateriellen Kulturerbes.",
+  "ingredientsText": "Dewsira-Reis, Lamm, gelbe Karotten, Zwiebel, Kichererbsen, Kreuzkümmel, Knoblauch, Baumwollsaatöl"
+ },
+ "white-cherry-jam": {
+  "name": "Konfitüre aus weißen Kirschen",
+  "description": "Klare Konfitüre aus weißen Kirschen mit Zitrone – ein Klassiker des aserbaidschanischen Teetischs.",
+  "history": "Die Konfitüre wird in kleinen Schälchen zum Tee in birnenförmigen Armudu-Gläsern gereicht.",
+  "ingredientsText": "Weiße Kirschen, Zucker, Zitrone"
+ },
+ "yantyk": {
+  "name": "Jantyk",
+  "description": "Dünne Teigtaschen mit Fleisch oder Käse, in der trockenen Pfanne gebacken und mit Butter bestrichen.",
+  "history": "Jantyk ist mit Tschebureki verwandt, wird aber in der trockenen Pfanne gebacken statt frittiert.",
+  "ingredientsText": "Weizenmehl, Lamm oder weißer Käse, Zwiebel, Butter"
+ },
+ "yukha": {
+  "name": "Jucha",
+  "description": "Sehr dünnes ungesäuertes Brot, auf dem Sadsch gebacken und trocken gelagert.",
+  "history": "Vor dem Essen wird Jucha mit Wasser besprengt und wird wieder weich.",
+  "ingredientsText": "Weizenmehl, Wasser, Salz"
+ },
+ "zereshk-polo": {
+  "name": "Zereschk Polo",
+  "description": "Safranreis mit säuerlichen Berberitzen, mit Huhn serviert und mit Pistazien und Mandeln bestreut.",
+  "history": "Säuerliche Berberitzen und süßer Safran machen es zu einem leuchtenden Festgericht.",
+  "ingredientsText": "Reis, Berberitzen, Huhn, Safran, Butter, Zucker, Pistazien, Mandeln"
+ },
+ "zhent": {
+  "name": "Schent",
+  "description": "Süßigkeit aus zerstoßener gerösteter Hirse mit Butter, Zucker, Rosinen und Nüssen.",
+  "history": "Schent gibt es zu Festen zum Tee, gepresst und in Stücke geschnitten.",
+  "ingredientsText": "Hirse, Butter, Zucker, Rosinen, Walnüsse, Quark"
+ },
+ "zhingyalov-hats": {
+  "name": "Schingjalow Hats",
+  "description": "Dünnes Fladenbrot mit Dutzenden fein gehackter Kräuter, in der trockenen Pfanne gebacken und heiß gegessen.",
+  "history": "Das Aushängeschild von Arzach. Bis zu 20 Sorten Wild- und Gartenkräuter kommen in einen einzigen Fladen.",
+  "ingredientsText": "Weizenmehl, Wasser, Spinat, Sauerampfer, Brennnessel, Koriander, Dill, Frühlingszwiebel, Pflanzenöl"
+ },
+ "zhizhig-chorpa": {
+  "name": "Schischig Tschorpa",
+  "description": "Kräftige Fleischbrühe mit Kartoffeln und Kräutern, zum Schischig Galnasch gereicht.",
+  "history": "Tschorpa heißt „Brühe“; man trinkt sie aus der Schale zu Fleisch und Klößen.",
+  "ingredientsText": "Rind oder Lamm, Kartoffeln, Zwiebel, Kräuter, Salz"
+ },
+ "zhizhig-galnash": {
+  "name": "Schischig Galnasch",
+  "description": "Gekochtes Fleisch mit Klößen aus Weizen- oder Maismehl, Brühe und Knoblauchsoße. Das Hauptgericht des tschetschenischen Tisches.",
+  "history": "Der Name bedeutet „Fleisch mit Klößen“. Man kocht es, wenn Gäste kommen, und zu Festen.",
+  "ingredientsText": "Rind oder Lamm, Weizen- oder Maismehl, Knoblauch, Brühe, Salz"
+ }
+}

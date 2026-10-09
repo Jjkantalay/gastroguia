@@ -1,0 +1,114 @@
+{
+ "chahohbili": {
+  "name": "Chakhokhbili",
+  "description": "Chakhokhbili is a fragrant chicken stew that embodies the spirit of a Georgian feast. Tender meat stewed with tomatoes, onion, garlic and plenty of spices has a rich, bright taste. The dish was originally made with pheasant, but today chicken is used. It is served with bread or rice to soak up the sauce.",
+  "quote": "Chakhokhbili brings the family together at the table; its aroma fills the house with warmth",
+  "history": "The name comes from khokhobi, meaning pheasant: the dish was originally made with game. Later chicken replaced the pheasant, and tomatoes — now essential to chakhokhbili — entered the recipe relatively recently.",
+  "ingredientsText": "Chicken 800 g\nOnion 3\nTomatoes 4\nSweet pepper ½\nGarlic 3 cloves\nCoriander, parsley to taste\nChilli ½\nSpices and salt to taste"
+ },
+ "dolma-armyanskaya": {
+  "name": "Dolma",
+  "description": "Dolma is one of the most refined dishes of Armenian cuisine and a symbol of the hospitality of an Armenian home. Tender, slightly sour grape leaves wrap a filling of rice, minced meat and fragrant herbs. Dolma is served with matsun or garlic sauce and is a must at festive tables and family dinners.",
+  "quote": "Dolma is the art of balance: tender meat, fragrant rice and juicy grape leaves in harmony from the first bite",
+  "history": "Dolma in grape leaves is made across the Caucasus and the Middle East. In Armenia it is called tolma and served with garlic matsun; in summer young leaves are used, and for winter they are pickled.",
+  "ingredientsText": "Grape leaves 400 g\nBeef 600 g\nPork 100 g\nLong-grain rice 100 g\nOnion 100 g\nFresh basil 20 g\nParsley 20 g\nCoriander 20 g\nGround black pepper\nSalt"
+ },
+ "dolma-azerbajdzhanskaya": {
+  "name": "Dolma",
+  "description": "Dolma is one of the best-loved dishes of Azerbaijani cuisine, made with great attention to detail. Grape leaves or vegetables (aubergines, tomatoes, peppers) are filled with rice, minced meat and fragrant herbs. Dolma is served with garlic yogurt and is a must on the festive table.",
+  "quote": "Azerbaijani dolma is not only grape leaves: it is also made from aubergines, peppers, tomatoes and even fruit such as quince",
+  "history": "The name dolma comes from the Turkic verb doldurmaq, \"to fill\".\n\nIn Azerbaijan dolma comes in many varieties: besides grape leaves, peppers, tomatoes, quince, aubergines and other vegetables and fruit are stuffed.",
+  "ingredientsText": "Minced lamb and beef 100 g\nGrape leaves 120 g\nMint, coriander and dill, a little of each\nButter 20 g\nRice 1 tbsp\nOnion ¼\nSalt and black pepper to taste"
+ },
+ "gata": {
+  "name": "Gata",
+  "description": "Gata is a sweet symbol of Armenian cuisine, associated with comfort and the warmth of home. It is a flaky pastry with a filling of butter, flour and sugar, crisp outside and soft inside. Gata can be round like the sun or cut into portions. It is often baked for holidays or simply as a treat with tea, and every region of Armenia has its own recipe.",
+  "quote": "Every region of Armenia has its own gata recipe, but one thing never changes: it brings people together at the same table",
+  "history": "The first written mention of gata dates from the 13th century, though no one knows exactly when the pastry appeared. It has absorbed the national spirit: despite hardships well into the 20th century, Armenians preserved their identity and culture.\n\nGata is loved both in Armenia and across the diaspora, which has kept the national features of its cuisine far from home.",
+  "ingredientsText": "Wheat flour 58 g\nButter 33 g\nMatsun yogurt 20 g\nBaking soda 1 tsp\nA pinch of salt\nFor the filling: melted butter 13 g, vanilla sugar 1 tsp, wheat flour 40 g, icing sugar 41 g"
+ },
+ "hachapuri": {
+  "name": "Khachapuri",
+  "description": "Khachapuri is the hallmark of Georgian cuisine, a cheese bread that wins hearts with its simplicity and rich taste. Thin dough filled with melted sulguni or Imeretian cheese gives the perfect balance of crisp crust and tender filling. Depending on the region, khachapuri is round (Imeretian), boat-shaped (Adjarian) or with cheese on top (Megrelian). It is served hot so the cheese stretches.",
+  "quote": "Khachapuri is not just a cheese pie but a whole culinary culture: wherever you are in Georgia, it will always find a place on the table",
+  "history": "Khachapuri is baked all over Georgia, and almost every region has its own version: Imeretian, Megrelian, Adjarian, Gurian. The name is usually explained as \"curd bread\", from khacho (curd) and puri (bread).",
+  "ingredientsText": "Milk 250 ml\nWater 250 ml\nFresh yeast 10 g\nSugar 10 g\nSalt 5 g\nFlour 700 g\nEggs 2\nSunflower oil 120 g\nSulguni 300 g\nImeretian cheese 300 g\nHard cheese 50 g\nButter 100 g"
+ },
+ "hash": {
+  "name": "Khash",
+  "description": "Khash is not just a soup: it is a legend of Armenian cuisine, a dish that demands time, patience and respect for tradition. It is made from beef feet simmered for a long time until the meat literally falls off the bone. Khash is served hot with garlic, herbs and dried lavash crumbled straight into the broth. It is traditionally eaten early in the morning, often after long feasts, to restore strength.",
+  "quote": "Khash is a dish that brings people together. It is traditionally eaten early in the morning to get energy for the whole day",
+  "history": "It began as a dish of the poor and later became a symbol of Armenian culture and culinary tradition.\n\nLegend has it that a king who spent the night in a village tried khash and liked it so much that he made it the main dish of his table.",
+  "ingredientsText": "Beef feet 1.5 kg\nBeef tripe 500 g\nGarlic 3 heads\nRadish 1"
+ },
+ "hingalsh": {
+  "name": "Khingalash",
+  "description": "Khingalash is a distinctive dish of Chechen cuisine: flatbreads of unleavened wheat dough filled with sweet pumpkin. The tender filling goes perfectly with the soft crust, and they are served with melted butter. For softness, the cooked flatbreads have long been dipped in hot water.",
+  "quote": "The dish is so filling that if a guest eats little, the host may say: \"You eat as if you had just had khingalash\"",
+  "history": "Chechnya has long grown barley, wheat, millet, maize, oats and rice, as well as flax and cotton; barley and wheat are the oldest grains. Dough was made both unleavened and with yeast.\n\nChechens have long known hop yeast, called khoyakhar. Dough is often soured with sour milk, and fillings are curd cheese, fresh cheese, mashed potato or pumpkin — Chechnya is known for its melon and gourd growing and its livestock.",
+  "ingredientsText": "Wheat dough\nSweet pumpkin\nGhee"
+ },
+ "hinkali": {
+  "name": "Khinkali",
+  "description": "Khinkali are not just Georgian dumplings but a real art. Thin, elastic dough hides a juicy filling of minced meat (usually beef or pork) seasoned with onion, garlic and herbs. The secret is the broth that stays inside, bursting with flavour at the first bite. They are eaten by hand, held by the topknot, which is traditionally left uneaten.",
+  "quote": "Khinkali are a real culinary adventure: every bite comes with a burst of juice and flavour",
+  "history": "Khinkali came from the mountains of eastern Georgia — Pshavi, Khevsureti and Tusheti. The mountain version with chopped meat and spices is called mtiuluri, the town version with herbs kalakuri. They are eaten by hand, holding the topknot, which is then left on the plate.",
+  "ingredientsText": "Wheat flour 500 g\nWater 400 ml\nSalt 1½ tsp\nVeal 250 g\nBeef 250 g\nLard 100 g\nOnion 100 g\nGarlic 2 cloves\nGround cumin to taste\nChilli to taste\nCoriander"
+ },
+ "horovacz-narsharab": {
+  "name": "Khorovats",
+  "description": "Khorovats is a traditional Armenian dish of grilled vegetables, perfect for a barbecue. Vegetables are roasted over coals outdoors, and at home they can be baked in the oven.",
+  "quote": "Khorovats is a dish made with soul",
+  "history": "The word khorovats means \"barbecue\" in Armenian. Vegetables for the salad are roasted over coals outdoors, or at home in the oven or over a gas flame. Khorovats is served with kebabs, potatoes, grilled fish or simply with lavash and fresh bread.",
+  "ingredientsText": "Aubergines 3\nTomatoes 3\nSweet peppers 2\nOnion 1\nGarlic 1 clove\nVegetable oil to taste\nSalt\nBlack pepper\nHerbs"
+ },
+ "kutaby": {
+  "name": "Qutab",
+  "description": "Qutab are thin flatbreads that win you over with their simplicity and refined taste. The filling can be anything from juicy herbs (coriander, dill, spinach) to tender meat or pumpkin. Qutab are cooked on a dry pan until golden and then brushed with melted butter to make them soft. They are served with yogurt or a fermented milk drink. An ideal snack or light supper.",
+  "quote": "Qutab are thin filled flatbreads, made with meat, herbs, pumpkin or cheese and served with yogurt sauces",
+  "history": "The history of qutab goes back to ancient times, when people used leftover bread dough to make this tasty dish.",
+  "ingredientsText": "Wheat flour 96 g\nRefined vegetable oil 1 tbsp\nOnion 1\nButter 1 tbsp\nParsley 80 g\nSumac to taste\nA pinch of salt"
+ },
+ "lahmadzho": {
+  "name": "Lahmajo",
+  "description": "Lahmajo is the Armenian \"pizza\", winning people over with its simplicity and rich taste. A thin round of dough is spread with minced meat, tomatoes, onion and spices and baked until crisp. It is often rolled up and eaten with herbs, lemon juice or matsun. A popular street snack and a family favourite.",
+  "quote": "Armenians say lahmajo is \"food for the soul\": simple and rich in taste, it is loved by locals and visitors alike",
+  "history": "In Arab countries the dish is called lahmacun or lahm bi ajin. While waiting for their order, customers watch the dough change in the oven: first it spreads, then it bubbles and rises, all in a few seconds.\n\nArmenians are the largest Christian community in Jordan after Arab Christians, and lahmajo is sold in Armenian bakeries in Amman.",
+  "ingredientsText": "For the dough: kefir or matsoni 250 ml, wheat flour 400–450 g, salt ½ tsp"
+ },
+ "lobio": {
+  "name": "Lobio",
+  "description": "Lobio proves that beans can be a true delicacy. Cooked beans dressed with walnuts, garlic, coriander and spices turn into a tender, fragrant mass. Lobio can be served hot or cold, and its texture ranges from a thick purée to whole beans. It is served in clay pots, which adds authenticity and warmth.",
+  "quote": "Lobio speaks of Georgian hospitality. It is served with gomi (cornmeal porridge) or simply with lavash",
+  "history": "Beans reached the Caucasus from the Americas in the early modern period but quickly became a mainstay of the Georgian table. Lobio is made hot, in a clay pot, and cold with walnuts; it is eaten with mchadi and pickles, especially on fasting days.",
+  "ingredientsText": "Beans – 63 g (red or pinto)\nWalnuts – 13 g\nOnion – 0.4\nTomato – 0.3\nGarlic – 0.4 clove\nCoriander – 1.5 g\nKhmeli suneli – 0.1 tbsp\nHot red pepper – 0.1\nSalt to taste\nVegetable oil – 0.3 tbsp\nBlack pepper to taste"
+ },
+ "pahlava": {
+  "name": "Pakhlava",
+  "description": "Pakhlava is the sweet symbol of Azerbaijani cuisine, winning hearts with its layered texture and rich taste. Thin layers of pastry soaked in honey or syrup alternate with a filling of chopped nuts (usually walnuts or hazelnuts). Every piece combines a crisp crust and a tender filling that melts in the mouth. Pakhlava is a must on the festive table, especially at Novruz and other celebrations.",
+  "quote": "Pakhlava is not just a dessert, it is part of the culture. It is made for Novruz, weddings and other celebrations to share joy and gratitude",
+  "history": "Azerbaijani pakhlava is a many-layered dessert with nuts and syrup that plays an important role in Azerbaijani culture and festivities.\n\nAlthough historians point to early mentions of pakhlava in Ottoman cookbooks (15th century), Azerbaijan can also claim its share in the history of this dessert.",
+  "ingredientsText": "For the dough: wheat flour 35 g, milk 12 ml, butter 6 g, 1 egg, sugar 4 g, dry yeast 1 g, salt 1 g\nFor the filling: walnuts 30 g, butter 8 g, sugar 15 g, potato starch 1 tbsp\nFor the syrup: honey 10 g, sugar 10 g, water 10 ml, lemon juice 1 tbsp"
+ },
+ "plov": {
+  "name": "Pilaf",
+  "description": "Pilaf is the king of Azerbaijani cuisine, combining a wealth of flavours and traditions. Steamed rice is served with fragrant meat (most often lamb), dried fruit, chestnuts and spices. Each part is cooked separately and then brought together. Pilaf is a symbol of hospitality, served at big celebrations and family dinners.",
+  "quote": "Saffron is the secret of the golden colour and unique aroma of Azerbaijani pilaf: it is added to the rice so that every grain shines like a jewel",
+  "history": "Pilaf, like many Eastern dishes, has its roots in ancient Persia and Central Asia, where rice was cooked with meat and spices.\n\nPilaf spread across the East along trade routes and with military campaigns, reaching Azerbaijan, whose cuisine has many kinds of pilaf that differ in method and ingredients.",
+  "ingredientsText": "Onion 4 large\nRaisins ½ cup\nDried apricots 1 cup\nPrunes ½ cup\nChestnuts 500 g\nA pinch of cinnamon\nButter 400–600 g\nFor the gazmakh crust: flour ½ cup, egg, kefir"
+ },
+ "saczivi": {
+  "name": "Satsivi",
+  "description": "Satsivi is a refined dish served cold, with a complex texture and taste. The sauce is made of walnuts ground with garlic, spices and vinegar into a thick, velvety mass. Boiled chicken or turkey is added and left to infuse so that all the flavours blend. Satsivi is a must on the Georgian festive table.",
+  "quote": "Satsivi is a Christmas dish of walnuts, coriander and spices that symbolises abundance and joy",
+  "history": "The name relates to tsiva, meaning cold: satsivi is served chilled. It is one of the main dishes of the Georgian New Year table, made with chicken, turkey or fried vegetables.",
+  "ingredientsText": "Chicken or turkey, up to 2 kg\nButter 20 g\nOnion 1 kg\nCoriander 4 sprigs\nShelled walnuts 600 g\nBlack pepper 1 tbsp\nGround coriander 1 tbsp\nImeretian saffron 1 tbsp\nCloves 3–6\nA pinch of cinnamon\nGarlic 4–8 cloves\nWhite wine vinegar 1 tbsp\nSalt to taste"
+ },
+ "shah-plov": {
+  "name": "Shah pilaf",
+  "description": "Shah pilaf is a gem of Azerbaijani cuisine that amazes with its beauty and taste. Rice is laid in a \"crown\" wrapped in a crisp crust of lavash. Inside are tender meat, dried fruit and nuts. Shah pilaf is a dish for special occasions and a symbol of the wealth and generosity of the Azerbaijani table.",
+  "quote": "Shah pilaf is not just food but a show: it is brought out whole and cut in front of the guests",
+  "history": "Shah pilaf (also called khan pilaf or \"royal pilaf\") is a festive Azerbaijani dish known for its unusual method and presentation.\n\nIts history is tied to the Azerbaijani culinary tradition, in which pilaf holds a special place.",
+  "ingredientsText": "Beef 600 g\nRice 600 g\nGhee 350 g\nOnion 250 g\nDried apricots 150 g\nGolden raisins 150 g\nDried cherry plums 100 g\nBoiled chestnuts 150 g\nTurmeric\nSaffron 3–5 threads\nSalt\nBarberries 50 g (optional)\nThin lavash 400 g"
+ }
+}

@@ -1,0 +1,1818 @@
+{
+ "abgoosht": {
+  "name": "Abgusht (dizi)",
+  "description": "Sup domba dengan buncis dan kentang dalam periuk batu: kuahnya diminum dengan roti, sisanya dihaluskan.",
+  "history": "Dizi adalah makanan tradisional kawasan pekerja di Teheran, dengan ritual penyajiannya sendiri.",
+  "ingredientsText": "Daging domba, buncis, kacang putih, kentang, tomat, limau kering, kunyit"
+ },
+ "abkhazura": {
+  "name": "Abkhazura",
+  "description": "Perkedel daging sapi dan babi cincang dengan barberi dan rempah, dibungkus lemak jala lalu digoreng.",
+  "history": "Namanya menunjuk asal Abkhazia, tetapi hidangan ini bagian tetap masakan Georgia.",
+  "ingredientsText": "Daging sapi, daging babi, lemak jala, bawang bombay, barberi, bawang putih, ketumbar"
+ },
+ "abysta": {
+  "name": "Abysta",
+  "description": "Bubur tepung jagung kental tanpa garam yang disajikan pengganti roti bersama keju dan daging.",
+  "history": "Abysta dimasak dalam kuali dan disajikan dengan sendok kayu, sering dengan potongan keju yang ditekan ke dalamnya.",
+  "ingredientsText": "Tepung jagung, air"
+ },
+ "achapa": {
+  "name": "Achapa",
+  "description": "Buncis atau sayuran daun rebus dengan pasta kenari, adjika, dan rempah daun.",
+  "history": "Achapa adalah saudara Abkhazia dari pkhali Georgia, sering dibuat dari buncis dan bit.",
+  "ingredientsText": "Buncis atau daun bit, kenari, adjika, daun ketumbar"
+ },
+ "achash": {
+  "name": "Achash",
+  "description": "Roti pipih tepung jagung atau terigu berisi keju muda, digoreng dengan mentega.",
+  "history": "Di desa-desa Abkhazia achash dibuat untuk sarapan dengan keju rumahan segar.",
+  "ingredientsText": "Tepung jagung atau terigu, keju muda, mentega"
+ },
+ "achichuk": {
+  "name": "Achichuk",
+  "description": "Salad tomat dan bawang iris tipis dengan cabai dan daun rempah, disajikan dengan plov.",
+  "history": "Achichuk segar menyeimbangkan plov yang berlemak; di Uzbekistan plov tak pernah disajikan tanpanya.",
+  "ingredientsText": "Tomat, bawang bombay, cabai, kemangi, garam"
+ },
+ "achma": {
+  "name": "Achma",
+  "description": "Pai keju berlapis: lembaran adonan tipis yang direbus disusun dengan keju dan mentega lalu dipanggang. Rasa dan strukturnya mirip lasagna.",
+  "history": "Hidangan dari Adjara dan Abkhazia. Merebus lembaran adonan membuat pai lembut di dalam dan renyah di atas.",
+  "ingredientsText": "Tepung terigu, telur, sulguni, keju Imereti, mentega"
+ },
+ "adana-kebab": {
+  "name": "Kebab Adana",
+  "description": "Kebab pedas dari daging domba cincang pisau dengan serpihan cabai, dipanggang di tusuk lebar di atas arang.",
+  "history": "Dinamai menurut kota Adana di Turki selatan; dagingnya dicincang pisau dan selalu dicampur lemak ekor.",
+  "ingredientsText": "Daging domba, lemak ekor, serpihan cabai, garam"
+ },
+ "adygeyskaya-sol": {
+  "name": "Garam Adyghe",
+  "description": "Garam yang ditumbuk dengan bawang putih dan rempah kering: timi, adas sowa, ketumbar, dan lada.",
+  "history": "Orang Adyghe membuat garam ini untuk membumbui daging dan keju sepanjang tahun.",
+  "ingredientsText": "Garam, bawang putih, timi, adas sowa, ketumbar, cabai merah"
+ },
+ "adygeyskiy-syr": {
+  "name": "Keju Adyghe",
+  "description": "Keju lunak dan lembut dari susu pasteurisasi, dimakan segar, digoreng, atau diasap.",
+  "history": "Keju Adyghe digumpalkan dengan whey asam, bukan rennet; bentuknya berasal dari keranjang anyaman tempat ditiriskan.",
+  "ingredientsText": "Susu sapi, whey asam, garam"
+ },
+ "adzhapsandali": {
+  "name": "Ajapsandali",
+  "description": "Semur sayur terung, paprika, tomat, dan bawang dengan banyak daun rempah dan bawang putih. Disajikan panas atau dingin.",
+  "history": "Semur sayur serupa ada di seluruh Kaukasus. Di Georgia ajapsandali sangat digemari di musim panas saat sayuran matang.",
+  "ingredientsText": "Terung, paprika, tomat, bawang bombay, bawang putih, daun ketumbar, kemangi, minyak sayur"
+ },
+ "adzhika": {
+  "name": "Adjika",
+  "description": "Pasta pedas dari cabai merah, bawang putih, ketumbar, dan garam yang diulek di atas batu. Sesendok saja sudah membuat masakan pedas.",
+  "history": "Adjika berarti \"garam\" dalam bahasa Abkhaz; dulu cabai diulek dengan garam agar lebih awet.",
+  "ingredientsText": "Cabai merah pedas, bawang putih, ketumbar, fenugreek biru, garam"
+ },
+ "afarar": {
+  "name": "Afarar",
+  "description": "Roti pipih tipis berisi sayuran liar — jelatang, sorel, bayam liar — dan bawang.",
+  "history": "Afarar dibuat di musim semi, saat sayuran pertama tumbuh di pegunungan.",
+  "ingredientsText": "Tepung terigu, air, jelatang, sorel, daun bawang, mentega"
+ },
+ "akhar-khudar": {
+  "name": "Akhar khudar",
+  "description": "Bubur tepung jagung dimasak dengan susu dan diberi mentega. Sarapan sederhana.",
+  "history": "Jagung menjadi salah satu tanaman utama Chechnya, dan buburnya dimakan setiap hari.",
+  "ingredientsText": "Tepung jagung, susu, mentega, garam"
+ },
+ "akuarchal": {
+  "name": "Akuarchal",
+  "description": "Kue tepung jagung kecil yang dipanggang di wajan panas atau di bara.",
+  "history": "Akuarchal adalah roti tradisional orang Abkhaz, disajikan dengan sup dan saus.",
+  "ingredientsText": "Tepung jagung, air, garam"
+ },
+ "alani": {
+  "name": "Alani",
+  "description": "Persik kering berisi kenari tumbuk dengan gula dan kayu manis. Camilan alami tanpa dipanggang.",
+  "history": "Persik dijemur utuh di bawah matahari setelah bijinya dibuang. Manisan ini dibuat di Lembah Ararat.",
+  "ingredientsText": "Persik kering, kenari, gula, kayu manis"
+ },
+ "arganak": {
+  "name": "Arganak",
+  "description": "Kaldu ayam bening dengan bakso ayam kecil dan daun rempah. Sup pesta yang ringan.",
+  "history": "Arganak dimasak untuk pernikahan dan hari raya di Lembah Ararat. Kaldunya direbus lama agar bening.",
+  "ingredientsText": "Ayam, beras, telur, bawang bombay, daun ketumbar, garam"
+ },
+ "arishta": {
+  "name": "Arishta",
+  "description": "Mi telur buatan sendiri yang digoreng dengan mentega dan disajikan dengan yoghurt bawang putih.",
+  "history": "Arishta dibuat lebih dulu: mi dikeringkan dan disimpan sepanjang musim dingin. Dimasak di Armenia dan Artsakh.",
+  "ingredientsText": "Tepung terigu, telur, mentega, yoghurt matsun, bawang putih"
+ },
+ "ash-reshteh": {
+  "name": "Ash reshteh",
+  "description": "Sup kental berisi mi, kacang-kacangan, dan daun rempah, dengan kashk, bawang goreng, dan mint di atasnya.",
+  "history": "Ash reshteh dimasak saat Nowruz dan untuk melepas orang yang bepergian; mi melambangkan jalan.",
+  "ingredientsText": "Mi reshteh, buncis, kacang, lentil, bayam, daun rempah, kashk, bawang bombay, mint"
+ },
+ "ashlyan-fu": {
+  "name": "Ashlyan-fu",
+  "description": "Sup dingin pedas dengan mi tebal, jeli pati, irisan telur dadar, dan saus cuka.",
+  "history": "Ashlyan-fu adalah hidangan Dungan yang membuat kota Karakol di tepi Issyk-Kul terkenal.",
+  "ingredientsText": "Mi gandum, jeli pati, telur, cuka, cabai, bawang putih, daun rempah"
+ },
+ "asure": {
+  "name": "Ashure",
+  "description": "Puding gandum, kacang-kacangan, buah kering, dan kacang yang dimasak di panci besar dan dibagikan ke tetangga.",
+  "history": "Menurut legenda, Nuh membuat ashure dari bekal terakhir setelah Banjir Besar; dimasak di bulan Muharram.",
+  "ingredientsText": "Gandum, buncis, kacang, aprikot kering, kismis, ara, kenari, gula, delima"
+ },
+ "avarskiy-hinkal": {
+  "name": "Khinkal Avar",
+  "description": "Potongan besar adonan rebus yang disajikan dengan daging, kaldu, dan saus bawang putih — berbeda dari khinkali Georgia.",
+  "history": "Khinkal adalah hidangan utama Dagestan; versi Avar memakai adonan empuk yang dipotong belah ketupat dan dimasak dalam kaldu.",
+  "ingredientsText": "Tepung terigu, kefir, soda kue, daging domba atau sapi, bawang putih, saus tomat"
+ },
+ "ayran": {
+  "name": "Ayran",
+  "description": "Minuman segar dari yoghurt yang diencerkan air dingin, dengan garam dan kadang mint.",
+  "history": "Ayran diminum di seluruh Kaukasus dan Turki, sangat cocok dengan daging berlemak dan kebab.",
+  "ingredientsText": "Yoghurt, air dingin, garam, mint"
+ },
+ "badambura": {
+  "name": "Badambura",
+  "description": "Gulungan pastri tipis berisi almon dan gula, ditaburi gula halus.",
+  "history": "Namanya berasal dari badam, \"almon\". Di Baku badambura dibuat untuk hari raya.",
+  "ingredientsText": "Tepung terigu, mentega, telur, almon, gula, kapulaga"
+ },
+ "badrijani-nigvzit": {
+  "name": "Badrijani nigvzit",
+  "description": "Irisan tipis terung goreng digulung dengan pasta kenari berbumbu bawang putih dan rempah, ditaburi biji delima.",
+  "history": "Namanya berarti \"terung dengan kenari\". Pesta Georgia, supra, jarang tanpa hidangan pembuka ini.",
+  "ingredientsText": "Terung, kenari, bawang putih, daun ketumbar, khmeli suneli, cuka anggur, delima"
+ },
+ "bagany": {
+  "name": "Bir Ossetia",
+  "description": "Bir rumahan gelap dari jelai atau jagung dengan hop, dibuat untuk perayaan dan upacara.",
+  "history": "Dalam bahasa Ossetia bir ini disebut baegaeny; dibuat di panci besar dan disajikan dari mangkuk bersama.",
+  "ingredientsText": "Jelai atau jagung, hop, air, gula"
+ },
+ "baghali-polo": {
+  "name": "Baghali polo",
+  "description": "Nasi dengan kacang fava dan banyak adas sowa, sering disajikan dengan betis domba rebus.",
+  "history": "Hidangan musim semi, saat kacang fava muda muncul.",
+  "ingredientsText": "Beras, kacang fava, adas sowa, mentega, kunyit safron, betis domba"
+ },
+ "baklava": {
+  "name": "Baklava",
+  "description": "Puluhan lapisan pastri sangat tipis berisi pistachio yang direndam sirup — versi Turki dari pakhlava.",
+  "history": "Baklava pistachio Gaziantep terdaftar sebagai indikasi geografis terlindungi di Uni Eropa.",
+  "ingredientsText": "Pastri tipis, mentega, pistachio, gula, air, air jeruk lemon"
+ },
+ "balyk-lyavangi": {
+  "name": "Lavangi ikan",
+  "description": "Ikan berisi kenari, bawang, dan pasta plum asam, dipanggang di oven atau tandur.",
+  "history": "Versi ikan dari lavangi dibuat di Laut Kaspia, biasanya dengan ikan kutum atau ikan mas.",
+  "ingredientsText": "Ikan, kenari, bawang bombay, pasta plum asam, garam"
+ },
+ "barbari": {
+  "name": "Barbari",
+  "description": "Roti pipih lonjong tebal beralur dengan wijen dan jintan hitam — roti sarapan klasik.",
+  "history": "Barbari dimakan pagi hari dengan keju, daun rempah, dan teh; mirip matnakash Armenia.",
+  "ingredientsText": "Tepung terigu, ragi, air, garam, wijen, jintan hitam"
+ },
+ "bastani-sonnati": {
+  "name": "Bastani sonnati",
+  "description": "Es krim Persia dengan safron, air mawar, dan serpihan krim beku, ditaburi pistachio.",
+  "history": "Es krim ini sering disajikan di antara dua wafer seperti sandwich.",
+  "ingredientsText": "Susu, krim, gula, kuning telur, safron, air mawar, salep, pistachio"
+ },
+ "bastirma-kebab": {
+  "name": "Kebab bastirma",
+  "description": "Kebab sapi atau domba yang dimarinasi sehari dalam bawang dan cuka sebelum dipanggang.",
+  "history": "Marinasi panjang membuat daging sangat empuk, sehingga bastirma dipanggang sebentar saja.",
+  "ingredientsText": "Daging sapi atau domba, bawang bombay, cuka anggur, garam, lada"
+ },
+ "basturma": {
+  "name": "Basturma",
+  "description": "Daging sapi yang dikeringkan di udara dan dilapisi chaman, pasta pedas dari fenugreek, paprika, dan bawang putih. Diiris sangat tipis sebagai pembuka.",
+  "history": "Mengawetkan daging dengan rempah sudah lama dikenal di kawasan ini. Pengeringan dengan angin membuat daging tahan berbulan-bulan.",
+  "ingredientsText": "Has dalam sapi, garam, fenugreek, paprika, bawang putih, cabai"
+ },
+ "baursak": {
+  "name": "Baursak",
+  "description": "Bola atau belah ketupat adonan beragi yang digoreng dan disajikan dengan teh.",
+  "history": "Baursak digoreng untuk perayaan dan dibagikan kepada tamu; bentuk bulatnya melambangkan matahari.",
+  "ingredientsText": "Tepung terigu, ragi, susu, telur, gula, minyak sayur"
+ },
+ "bazhe": {
+  "name": "Bazhe",
+  "description": "Saus kenari kental dengan bawang putih, rempah, dan cuka. Disajikan dengan unggas, ikan, dan sayur goreng.",
+  "history": "Bazhe adalah dasar banyak hidangan Georgia, termasuk satsivi. Sangat digemari di Georgia barat dan dibuat untuk hari raya.",
+  "ingredientsText": "Kenari, bawang putih, ketumbar, fenugreek biru, cabai, cuka anggur, air"
+ },
+ "beshbarmak": {
+  "name": "Beshbarmak",
+  "description": "Daging kuda atau domba rebus di atas lembaran adonan tipis dengan saus bawang, disajikan dengan kaldu.",
+  "history": "Namanya berarti \"lima jari\", karena secara tradisional dimakan dengan tangan.",
+  "ingredientsText": "Daging kuda atau domba, tepung terigu, bawang bombay, kaldu"
+ },
+ "boreg": {
+  "name": "Boereg",
+  "description": "Pai berlapis dari pastri tipis berisi keju dan daun rempah, dipotong persegi.",
+  "history": "Boereg dibuat oleh orang Armenia di seluruh dunia, terutama keluarga Armenia Barat.",
+  "ingredientsText": "Pastri tipis, keju putih, telur, peterseli, mentega"
+ },
+ "bozartma": {
+  "name": "Bozartma",
+  "description": "Domba atau ayam yang direbus dengan bawang dan tomat dalam kuahnya sendiri hingga empuk.",
+  "history": "Bozartma adalah hidangan sehari-hari; daging langsung direbus tanpa ditumis, sehingga tetap juicy.",
+  "ingredientsText": "Daging domba atau ayam, bawang bombay, tomat, safron, garam, lada"
+ },
+ "bozbash": {
+  "name": "Bozbash",
+  "description": "Sup domba kental dengan buncis, kentang, dan kuini atau apel. Mengenyangkan dan agak manis.",
+  "history": "Bozbash dibuat di seluruh Kaukasus Selatan, berbeda di tiap daerah — dengan kuini di Yerevan, dengan kacang polong di Shirak.",
+  "ingredientsText": "Daging domba, buncis, kentang, kuini, bawang bombay, pasta tomat, daun rempah"
+ },
+ "cacik": {
+  "name": "Cacık",
+  "description": "Hidangan dingin yoghurt dengan mentimun, bawang putih, mint, dan minyak zaitun.",
+  "history": "Cacık diencerkan dengan air dan dimakan seperti sup, atau disajikan kental bersama daging.",
+  "ingredientsText": "Yoghurt, mentimun, bawang putih, mint, minyak zaitun, garam"
+ },
+ "chahohbili": {
+  "name": "Chakhokhbili",
+  "description": "Chakhokhbili adalah semur ayam harum yang mewakili semangat pesta Georgia. Daging yang dimasak dengan tomat, bawang, bawang putih, dan rempah berasa kaya dan cerah. Awalnya dibuat dengan burung pegar, kini dengan ayam. Disajikan dengan roti atau nasi untuk menyerap sausnya.",
+  "quote": "Chakhokhbili mempersatukan keluarga di meja; aromanya memenuhi rumah dengan kehangatan",
+  "history": "Namanya berasal dari khokhobi, \"burung pegar\": hidangan ini mula-mula dibuat dengan unggas buruan. Kemudian ayam menggantikan pegar, dan tomat — kini tak terpisahkan — baru relatif belakangan masuk resep.",
+  "ingredientsText": "Ayam 800 g\nBawang bombay 3\nTomat 4\nPaprika ½\nBawang putih 3 siung\nDaun ketumbar, peterseli\nCabai ½\nRempah dan garam"
+ },
+ "chakapuli": {
+  "name": "Chakapuli",
+  "description": "Domba muda atau sapi muda dimasak dalam anggur putih dengan tarragon, plum hijau asam, dan banyak daun rempah. Hidangan musim semi.",
+  "history": "Chakapuli terkait dengan Paskah, saat daun rempah muda, tarragon, dan plum mentah muncul — tanpanya hidangan ini tak dibuat.",
+  "ingredientsText": "Daging domba atau sapi muda, tarragon, plum hijau asam, anggur putih, daun ketumbar, daun bawang, bawang putih"
+ },
+ "chakka": {
+  "name": "Chakka",
+  "description": "Produk susu fermentasi kental yang ditiriskan, dimakan dengan daun rempah dan roti.",
+  "history": "Chakka dibuat dengan meniriskan susu asam dalam kantong, hasilnya antara keju cottage dan krim asam.",
+  "ingredientsText": "Susu asam, garam, daun rempah"
+ },
+ "chalop": {
+  "name": "Chalop",
+  "description": "Sup dingin dari yoghurt katyk dan air dengan mentimun, lobak, dan daun rempah.",
+  "history": "Chalop penyelamat di panas musim panas, ketika suhu di Uzbekistan bisa lebih dari empat puluh derajat.",
+  "ingredientsText": "Yoghurt katyk, air, mentimun, lobak, adas sowa, daun ketumbar, garam"
+ },
+ "chanakhi": {
+  "name": "Chanakhi",
+  "description": "Domba dipanggang dalam periuk tanah liat dengan terung, kentang, tomat, dan banyak daun rempah.",
+  "history": "Chanakhi dimasak di periuk porsi tunggal tempat sayuran direbus dalam sari daging; sangat digemari di Tbilisi.",
+  "ingredientsText": "Daging domba, terung, kentang, tomat, bawang bombay, bawang putih, daun ketumbar, kemangi"
+ },
+ "chashushuli": {
+  "name": "Chashushuli",
+  "description": "Daging sapi dimasak dengan tomat, bawang, bawang putih, dan cabai. Masakan rumahan sederhana dengan saus kaya dan pedas.",
+  "history": "Chashushuli berarti \"direbus\". Semur seperti ini dibuat di seluruh Georgia, daging dan bumbunya berubah sesuai musim.",
+  "ingredientsText": "Daging sapi, tomat, bawang bombay, bawang putih, cabai, daun ketumbar, khmeli suneli"
+ },
+ "chebureki": {
+  "name": "Chebureki",
+  "description": "Pastel goreng tipis berbentuk setengah bulan berisi daging domba cincang dan bawang yang juicy.",
+  "history": "Chebureki adalah hidangan Tatar Krimea paling terkenal, digemari jauh di luar Krimea.",
+  "ingredientsText": "Tepung terigu, air, daging domba, bawang bombay, daun rempah, minyak sayur"
+ },
+ "chechil": {
+  "name": "Chechil",
+  "description": "Keju tarik yang ditarik menjadi untaian dan dikepang, dijual segar atau diasap.",
+  "history": "Chechil ditarik dengan tangan dalam air panas dan dimakan dengan bir atau dalam salad.",
+  "ingredientsText": "Susu sapi, rennet, garam"
+ },
+ "chepalgash": {
+  "name": "Chepalgash",
+  "description": "Roti pipih tipis berisi keju cottage dan daun rempah; setelah matang dicelup air panas, diolesi mentega, dan ditumpuk.",
+  "history": "Chepalgash dibuat ketika seorang anak lahir dalam keluarga dan saat hari raya. Tumpukannya dipotong seperti kue.",
+  "ingredientsText": "Tepung terigu, kefir, keju cottage, daun bawang, mentega, garam"
+ },
+ "chetlibzh": {
+  "name": "Chetlibzh",
+  "description": "Ayam dalam saus krim asam dan bawang putih dengan cabai merah — hidangan pesta Adyghe.",
+  "history": "Chetlibzh dibuat untuk pernikahan dan tamu; sausnya dikentalkan dengan tepung dan disajikan dengan pasta (bubur jewawut).",
+  "ingredientsText": "Ayam, krim asam, bawang bombay, bawang putih, tepung terigu, cabai merah"
+ },
+ "chikhirtma": {
+  "name": "Chikhirtma",
+  "description": "Sup ayam yang dikentalkan dengan telur kocok dan tepung serta diasamkan dengan cuka atau air lemon. Lembut dan sedikit asam.",
+  "history": "Di Georgia chikhirtma dianggap obat terbaik setelah pesta. Telur dimasukkan paling akhir agar tidak menggumpal.",
+  "ingredientsText": "Ayam, bawang bombay, telur, tepung terigu, cuka anggur, daun ketumbar"
+ },
+ "chilov": {
+  "name": "Chilov",
+  "description": "Nasi pera yang dimasak dengan kacang, lentil, atau daun rempah, disajikan sebagai pendamping daging dan ikan.",
+  "history": "Chilov adalah bentuk sederhana pilaf, nasinya dimasak bersama bahan lain, bukan terpisah.",
+  "ingredientsText": "Beras, kacang hijau atau lentil, mentega, safron, garam"
+ },
+ "chirbuli": {
+  "name": "Chirbuli",
+  "description": "Telur ceplok ala Adjara dengan tomat, bawang, kenari, dan daun rempah.",
+  "history": "Chirbuli adalah sarapan tradisional di Adjara; kenari membuatnya mengenyangkan.",
+  "ingredientsText": "Telur, tomat, bawang bombay, kenari, daun ketumbar, mentega"
+ },
+ "chuchvara": {
+  "name": "Chuchvara",
+  "description": "Pangsit daging kecil yang disajikan dalam kaldu atau dengan susu asam.",
+  "history": "Seluruh keluarga membuat chuchvara dan membekukannya bertahap untuk musim dingin.",
+  "ingredientsText": "Tepung terigu, telur, daging sapi atau domba, bawang bombay, susu asam"
+ },
+ "chudu": {
+  "name": "Chudu",
+  "description": "Roti pipih tipis berisi daging, keju cottage, labu, atau sayuran, diolesi mentega.",
+  "history": "Chudu dibuat di seluruh Dagestan; isinya berganti sesuai musim dan rotinya ditumpuk.",
+  "ingredientsText": "Tepung terigu, air, daging atau keju cottage, daun rempah, mentega"
+ },
+ "churchkhela": {
+  "name": "Churchkhela",
+  "description": "Kacang yang dironce pada tali, dicelup berkali-kali ke sari anggur yang dikentalkan tepung lalu dikeringkan — \"sosis\" manis.",
+  "history": "Churchkhela dibuat di musim gugur setelah panen anggur. Dibawa dalam perjalanan karena awet dan sangat bergizi.",
+  "ingredientsText": "Kenari atau hazelnut, sari anggur, tepung terigu"
+ },
+ "chvishtari": {
+  "name": "Chvishtari",
+  "description": "Kue jagung berisi keju, digoreng hingga renyah. Keju yang meleleh membuat bagian tengahnya lembut.",
+  "history": "Hidangan dari Svaneti. Orang Svan mencampur sulguni ke adonan, sehingga chvishtari lebih gurih daripada mchadi biasa.",
+  "ingredientsText": "Tepung jagung, sulguni, mentega, air"
+ },
+ "chygyrtma": {
+  "name": "Chighirtma",
+  "description": "Ayam atau sayur yang ditumis dengan bawang dan tomat, lalu diberi telur di akhir.",
+  "history": "Chighirtma cepat dan sederhana, dibuat dengan ayam, bayam, atau terung.",
+  "ingredientsText": "Ayam, bawang bombay, tomat, telur, mentega, daun rempah"
+ },
+ "cig-kofte": {
+  "name": "Çiğ köfte",
+  "description": "Bola-bola pedas dari bulgur halus dengan pasta tomat dan paprika, dimakan dibungkus selada.",
+  "history": "Dulu çiğ köfte dibuat dengan daging mentah; kini yang biasa dijual adalah versi tanpa daging.",
+  "ingredientsText": "Bulgur halus, pasta paprika, pasta tomat, bawang bombay, daun rempah, molase delima"
+ },
+ "dimlama": {
+  "name": "Dimlama",
+  "description": "Daging dan sayur disusun berlapis di kazan dan dimasak tertutup dalam sarinya sendiri.",
+  "history": "Dimlama dibuat di musim panas saat sayur berlimpah; daun kol di atas menjaga kelembapan.",
+  "ingredientsText": "Daging domba, kentang, wortel, terung, paprika, tomat, kol, bawang bombay"
+ },
+ "dograma": {
+  "name": "Dograma",
+  "description": "Potongan roti yang disobek ke dalam kaldu kaya dengan daging, bawang, dan tomat.",
+  "history": "Dograma dibuat untuk perayaan; seluruh keluarga menyobek roti dan daging dengan tangan.",
+  "ingredientsText": "Roti gandum, daging domba, bawang bombay, tomat, kaldu"
+ },
+ "dolma-armyanskaya": {
+  "name": "Dolma",
+  "description": "Dolma adalah salah satu hidangan paling halus masakan Armenia dan simbol keramahan rumah Armenia. Daun anggur yang lembut dan sedikit asam membungkus isian nasi, daging cincang, dan daun rempah harum. Dolma disajikan dengan matsun atau saus bawang putih dan wajib ada di meja pesta dan makan malam keluarga.",
+  "quote": "Dolma adalah seni keseimbangan: daging lembut, nasi harum, dan daun anggur yang juicy berpadu sejak gigitan pertama",
+  "history": "Dolma daun anggur dibuat di seluruh Kaukasus dan Timur Tengah. Di Armenia disebut tolma dan disajikan dengan matsun bawang putih; di musim panas dipakai daun muda, untuk musim dingin daunnya diasinkan.",
+  "ingredientsText": "Daun anggur 400 g\nDaging sapi 600 g\nDaging babi 100 g\nBeras berbulir panjang 100 g\nBawang bombay 100 g\nKemangi segar 20 g\nPeterseli 20 g\nDaun ketumbar 20 g\nLada hitam\nGaram"
+ },
+ "dolma-azerbajdzhanskaya": {
+  "name": "Dolma",
+  "description": "Dolma adalah salah satu hidangan paling dicintai masakan Azerbaijan, dibuat dengan sangat teliti. Daun anggur atau sayuran (terung, tomat, paprika) diisi nasi, daging cincang, dan daun rempah. Dolma disajikan dengan yoghurt bawang putih dan wajib ada di meja pesta.",
+  "quote": "Dolma Azerbaijan bukan hanya daun anggur: terung, paprika, tomat, bahkan buah seperti kuini juga diisi",
+  "history": "Nama dolma berasal dari kata kerja Turkik doldurmaq, \"mengisi\".\n\nDi Azerbaijan dolma punya banyak ragam: selain daun anggur, diisi juga paprika, tomat, kuini, terung, serta sayur dan buah lain.",
+  "ingredientsText": "Daging domba dan sapi giling 100 g\nDaun anggur 120 g\nMint, daun ketumbar, dan adas sowa, sedikit-sedikit\nMentega 20 g\nBeras 1 sdm\nBawang bombay ¼\nGaram dan lada"
+ },
+ "dondurma": {
+  "name": "Dondurma",
+  "description": "Es krim kenyal dari susu kambing dengan salep dan damar mastik, cukup padat untuk dipotong pisau.",
+  "history": "Maraş adalah kampung halaman dondurma, dan pedagangnya membuat pertunjukan untuk pembeli.",
+  "ingredientsText": "Susu kambing, gula, salep, mastik"
+ },
+ "doshab": {
+  "name": "Doshab",
+  "description": "Sirup kental dari sari anggur atau murbei yang direduksi, dimakan dengan roti dan dipakai dalam manisan.",
+  "history": "Doshab direbus di musim gugur dalam kuali tembaga besar tanpa tambahan gula.",
+  "ingredientsText": "Sari anggur atau murbei"
+ },
+ "dovga": {
+  "name": "Dovga",
+  "description": "Sup susu asam atau yoghurt dengan beras dan banyak daun rempah, disajikan panas atau dingin.",
+  "history": "Di musim panas dovga diminum dingin untuk menyegarkan, di musim dingin dimakan panas. Diaduk searah agar yoghurt tidak pecah.",
+  "ingredientsText": "Yoghurt, beras, telur, bayam, sorel, adas sowa, daun ketumbar, mint"
+ },
+ "dulkh-khyaltam": {
+  "name": "Dulkh-khaltam",
+  "description": "Daging rebus dengan kentang, bawang, dan saus bawang putih, kadang dengan pangsit.",
+  "history": "Hidangan daerah pegunungan Chechnya, tempat daging dan kentang menjadi dasar makanan musim dingin.",
+  "ingredientsText": "Daging sapi atau domba, kentang, bawang bombay, bawang putih, tepung terigu"
+ },
+ "dyushbara": {
+  "name": "Dushbara",
+  "description": "Pangsit domba mungil dalam kaldu bening dengan mint dan cuka bawang putih.",
+  "history": "Juru masak yang terampil membuat dushbara begitu kecil sehingga lebih dari sepuluh muat di satu sendok.",
+  "ingredientsText": "Tepung terigu, telur, daging domba, bawang bombay, mint, cuka anggur, bawang putih"
+ },
+ "dzavar-plov": {
+  "name": "Pilaf dzavar",
+  "description": "Pilaf bulgur dengan bihun sangrai dan bawang. Pendamping pera untuk daging.",
+  "history": "Bulgur adalah salah satu biji-bijian tertua di kawasan ini. Di desa orang membuatnya sendiri dengan merebus dan mengeringkan gandum.",
+  "ingredientsText": "Bulgur, bihun, mentega, bawang bombay, kaldu"
+ },
+ "dzykka": {
+  "name": "Dzykka",
+  "description": "Hidangan kental dari keju segar, krim asam, dan tepung yang dimasak hingga menteganya terpisah.",
+  "history": "Penggembala gunung membuat dzykka dari keju segar dan memakannya panas dengan mencelupkan roti.",
+  "ingredientsText": "Keju Ossetia segar, krim asam, tepung terigu atau jagung, garam"
+ },
+ "eech": {
+  "name": "Eetch",
+  "description": "Salad bulgur dingin dengan pasta tomat, bawang, daun rempah, dan air lemon. Hidangan puasa.",
+  "history": "Eetch dibuat saat Prapaskah, ketika daging dan susu dihindari. Tahan lama dan lebih enak keesokan harinya.",
+  "ingredientsText": "Bulgur, pasta tomat, tomat, bawang bombay, peterseli, air lemon, minyak sayur"
+ },
+ "elarji": {
+  "name": "Elarji",
+  "description": "Bubur jagung kental dengan banyak sulguni, diaduk hingga molor. Disajikan panas dengan daging dan saus.",
+  "history": "Klasik masakan Megrelia. Elarji diaduk lama dan kuat dengan sendok kayu — kekenyalannya bergantung pada itu.",
+  "ingredientsText": "Tepung jagung, sulguni, air, garam"
+ },
+ "ezogelin-corbasi": {
+  "name": "Sup ezogelin",
+  "description": "Sup lentil merah dengan bulgur, beras, pasta tomat, dan mint kering.",
+  "history": "Sup ini dinamai Ezo, seorang perempuan muda dari Gaziantep yang hidupnya mengilhami lagu-lagu.",
+  "ingredientsText": "Lentil merah, bulgur, beras, pasta tomat, mint, cabai merah"
+ },
+ "faloodeh": {
+  "name": "Faloodeh",
+  "description": "Mi beras tipis beku dalam sirup air mawar, disajikan dengan air lemon.",
+  "history": "Faloodeh Shiraz adalah salah satu hidangan penutup beku tertua di dunia.",
+  "ingredientsText": "Mi beras, gula, air mawar, air lemon"
+ },
+ "fatir": {
+  "name": "Fatir",
+  "description": "Roti mentega berlapis-lapis yang dipanggang di tandur — dasar qurutob.",
+  "history": "Fatir digiling sangat tipis dan dilipat berkali-kali dengan mentega di antara lapisannya.",
+  "ingredientsText": "Tepung terigu, mentega, susu, garam"
+ },
+ "fisinjan": {
+  "name": "Fisinjan",
+  "description": "Bakso atau ayam dalam saus kental kenari dan molase delima.",
+  "history": "Hidangan ini umum di Azerbaijan selatan dan Iran, menyeimbangkan asamnya delima dengan rasa manis.",
+  "ingredientsText": "Ayam atau daging sapi giling, kenari, molase delima, bawang bombay, safron"
+ },
+ "fydzhyn": {
+  "name": "Fydjyn",
+  "description": "Pai daging Ossetia. Adonan tipis, isi melimpah, dan mentega leleh di atasnya.",
+  "history": "Untuk perayaan, pai Ossetia dibuat bertiga, melambangkan matahari, bumi, dan air. Di tengah fydjyn dibiarkan lubang kecil agar uap keluar tanpa sari daging tumpah.",
+  "ingredientsText": "Tepung terigu, ragi, kefir, mentega, daging sapi, bawang bombay, bawang putih, lada"
+ },
+ "gata": {
+  "name": "Gata",
+  "description": "Gata adalah simbol manis masakan Armenia yang identik dengan kenyamanan dan kehangatan rumah. Ini kue berlapis dengan isian mentega, tepung, dan gula, renyah di luar dan lembut di dalam. Gata bisa bulat seperti matahari atau dibagi per porsi; dibuat untuk hari raya atau sekadar teman minum teh, dan setiap daerah Armenia punya resepnya sendiri.",
+  "quote": "Setiap daerah Armenia punya gata sendiri, tetapi satu hal tak berubah: gata mempertemukan orang di satu meja",
+  "history": "Catatan tertulis pertama tentang gata berasal dari abad ke-13, tetapi tak diketahui kapan kue ini muncul. Ia menyerap jiwa bangsa: meski melewati masa sulit hingga abad ke-20, orang Armenia menjaga identitas dan budayanya.\n\nGata dicintai di Armenia maupun di diaspora, yang tetap menjaga ciri masakannya jauh dari tanah air.",
+  "ingredientsText": "Tepung terigu 58 g\nMentega 33 g\nYoghurt matsun 20 g\nSoda kue 1 sdt\nSejumput garam\nIsian: mentega leleh 13 g, gula vanili 1 sdt, tepung 40 g, gula halus 41 g"
+ },
+ "gaz": {
+  "name": "Gaz",
+  "description": "Nugat lembut dengan pistachio atau almon, dibuat dengan manna tamariska dan air mawar.",
+  "history": "Gaz adalah manisan Isfahan, ditaburi tepung agar potongannya tidak lengket.",
+  "ingredientsText": "Gula, putih telur, manna, air mawar, pistachio atau almon"
+ },
+ "gebzhalia": {
+  "name": "Gebzhalia",
+  "description": "Gulungan keju muda dalam saus matsoni dan mint, disajikan dingin.",
+  "history": "Hidangan Megrelia yang dibuat dari keju segar pada hari keju itu dibuat.",
+  "ingredientsText": "Keju muda, matsoni, mint, cabai, garam"
+ },
+ "gedlibzhe": {
+  "name": "Gedlibzhe",
+  "description": "Ayam dimasak dalam saus krim asam kental dengan bawang, bawang putih, dan cabai merah, disajikan dengan pasta (bubur jewawut).",
+  "history": "Gedlibzhe adalah hidangan pesta Kabardia; sausnya dikentalkan dengan tepung yang disangrai dengan mentega.",
+  "ingredientsText": "Ayam, krim asam, bawang bombay, bawang putih, tepung terigu, cabai merah"
+ },
+ "ghapama": {
+  "name": "Ghapama",
+  "description": "Labu utuh berisi nasi, buah kering, kacang, dan madu, dipanggang dan disajikan per potong.",
+  "history": "Ghapama adalah hidangan hari raya musim dingin — bahkan ada lagu rakyat tentangnya, \"Hey Ghapama\".",
+  "ingredientsText": "Labu, beras, aprikot kering, kismis, plum kering, kenari, madu, mentega, kayu manis"
+ },
+ "ghormeh-sabzi": {
+  "name": "Ghormeh sabzi",
+  "description": "Semur daging dengan banyak daun rempah tumis, kacang merah, dan limau kering.",
+  "history": "Ghormeh sabzi sering disebut semur favorit Iran; dimasak lama hingga daun rempah menggelap.",
+  "ingredientsText": "Daging domba atau sapi, peterseli, daun ketumbar, fenugreek, daun bawang, kacang merah, limau kering"
+ },
+ "gogal": {
+  "name": "Gogal",
+  "description": "Roti bulat berlapis dengan isian berbumbu dari tepung, mentega, adas manis, dan kunyit, gurih atau manis.",
+  "history": "Gogal adalah salah satu suguhan utama Novruz, bersama shakarbura dan pakhlava.",
+  "ingredientsText": "Tepung terigu, mentega, telur, ragi, adas manis, kunyit, garam"
+ },
+ "gomi": {
+  "name": "Gomi",
+  "description": "Bubur jagung padat tanpa garam atau mentega. Dimakan dengan sulguni, saus, dan daging, seperti roti.",
+  "history": "Gomi adalah makanan pokok Georgia barat. Dulu dibuat dari jewawut, dan setelah jagung datang, dari tepung jagung.",
+  "ingredientsText": "Tepung jagung, air"
+ },
+ "govurma": {
+  "name": "Govurma",
+  "description": "Daging yang digoreng dalam lemaknya sendiri hingga kecokelatan. Dulu domba diawetkan untuk musim dingin dengan cara ini.",
+  "history": "Daging goreng ditutup lemak dan disimpan dalam toples. Kini govurma juga dimasak sebagai hidangan tersendiri.",
+  "ingredientsText": "Daging domba, lemak ekor, bawang bombay, garam"
+ },
+ "gozinaki": {
+  "name": "Gozinaki",
+  "description": "Kenari yang dikaramelkan dengan madu dan dipotong belah ketupat. Manisan sederhana dua bahan.",
+  "history": "Gozinaki wajib ada saat Tahun Baru di Georgia, diletakkan di meja agar tahun itu manis.",
+  "ingredientsText": "Kenari, madu, gula"
+ },
+ "gozleme": {
+  "name": "Gözleme",
+  "description": "Roti tipis yang dilipat di atas keju, bayam, atau kentang dan dimasak di atas saj.",
+  "history": "Gözleme digiling dan dimasak di depan Anda, secara tradisional oleh perempuan desa.",
+  "ingredientsText": "Tepung terigu, air, keju putih, bayam, mentega"
+ },
+ "guruli-gvezeli": {
+  "name": "Guruli gvezeli",
+  "description": "Pai berbentuk bulan sabit berisi keju dan telur rebus. Dibuat saat Natal, sehingga di Georgia juga disebut khachapuri Natal.",
+  "history": "Hidangan dari Guria di Georgia barat. Bentuk bulan sabitnya dijelaskan dengan berbagai cara, termasuk kemiripan dengan tanduk atau bulan.",
+  "ingredientsText": "Tepung terigu, ragi, yoghurt matsoni, sulguni, keju Imereti, telur rebus"
+ },
+ "gutap": {
+  "name": "Gutap",
+  "description": "Pastel tipis setengah bulan berisi daging, labu, atau sayuran, dimasak di wajan kering.",
+  "history": "Gutap adalah sepupu Turkmenistan dari qutab Azerbaijan.",
+  "ingredientsText": "Tepung terigu, daging domba atau labu, bawang bombay, daun rempah"
+ },
+ "guubat": {
+  "name": "Guubat",
+  "description": "Pastri segitiga berisi keju Adyghe, dipanggang di oven.",
+  "history": "Guubat dibuat untuk teh dan hari raya; bentuk segitiga tradisional dalam kue Adyghe.",
+  "ingredientsText": "Tepung terigu, kefir, telur, keju Adyghe, mentega"
+ },
+ "guymag": {
+  "name": "Quymaq",
+  "description": "Bubur manis dari tepung yang disangrai dengan mentega, gula atau madu, kunyit, dan kayu manis.",
+  "history": "Quymaq dibuat untuk ibu yang baru melahirkan dan di hari dingin, karena dianggap sangat bergizi.",
+  "ingredientsText": "Tepung terigu, mentega, gula atau madu, kunyit, kayu manis"
+ },
+ "gyrdzhyn": {
+  "name": "Gyrjyn",
+  "description": "Roti pipih sederhana dengan ayran yang dipanggang di wajan atau oven, disajikan dengan daging dan teh.",
+  "history": "Gyrjyn adalah roti sehari-hari orang Karachay dan Balkar, sering diisi keju atau kentang.",
+  "ingredientsText": "Tepung terigu, ayran, soda kue, garam"
+ },
+ "gyurza": {
+  "name": "Gurza",
+  "description": "Pangsit daging yang ditutup dengan tepi berkepang mirip sisik ular, direbus atau digoreng.",
+  "history": "Gurza adalah hidangan Baku yang dinamai ular beludak, karena pola jahitannya mirip sisiknya.",
+  "ingredientsText": "Tepung terigu, telur, daging domba, bawang bombay, garam"
+ },
+ "hachapuri": {
+  "name": "Khachapuri",
+  "description": "Khachapuri adalah ikon masakan Georgia, roti keju yang memikat dengan kesederhanaan dan rasa kaya. Adonan tipis berisi sulguni atau keju Imereti leleh memadukan kerak renyah dan isian lembut. Tergantung daerahnya, bisa bulat (Imereti), berbentuk perahu (Adjara), atau berkeju di atas (Megrelia). Disajikan panas agar kejunya molor.",
+  "quote": "Khachapuri bukan sekadar pai keju, melainkan seluruh budaya kuliner: di mana pun di Georgia, ia selalu punya tempat di meja",
+  "history": "Khachapuri dibuat di seluruh Georgia, dan hampir tiap daerah punya versinya: Imereti, Megrelia, Adjara, Guria. Namanya biasanya diartikan \"roti dadih\", dari khacho (dadih) dan puri (roti).",
+  "ingredientsText": "Susu 250 ml\nAir 250 ml\nRagi segar 10 g\nGula 10 g\nGaram 5 g\nTepung 700 g\nTelur 2\nMinyak bunga matahari 120 g\nSulguni 300 g\nKeju Imereti 300 g\nKeju keras 50 g\nMentega 100 g"
+ },
+ "hachapuri-imeretinskij": {
+  "name": "Khachapuri Imereti",
+  "description": "Roti bulat tertutup penuh keju Imereti yang asin. Jenis khachapuri paling umum di Georgia, dibuat di rumah hampir setiap hari.",
+  "history": "Dinamai menurut wilayah Imereti di Georgia barat. Adonannya sering memakai yoghurt matsoni, sehingga lembut dan sedikit asam.",
+  "ingredientsText": "Tepung terigu, yoghurt matsoni, soda kue, keju Imereti, mentega"
+ },
+ "hachapuri-penovani": {
+  "name": "Khachapuri penovani",
+  "description": "Khachapuri dari pastri berlapis: keju dilipat menjadi persegi atau amplop dan dipanggang hingga renyah keemasan. Camilan jalanan populer di Tbilisi.",
+  "history": "Penovani berarti \"berlapis\". Versi ini muncul belakangan dibanding yang klasik dan berakar di toko roti kota.",
+  "ingredientsText": "Pastri berlapis, sulguni, keju Imereti, mentega"
+ },
+ "hachapuri-po-adzharski": {
+  "name": "Khachapuri Adjara",
+  "description": "Perahu terbuka dari adonan beragi berisi keju leleh, diberi kuning telur mentah dan sepotong mentega sesaat sebelum disajikan. Dimakan dengan menyobek pinggirnya dan mengaduknya ke isian.",
+  "history": "Hidangan ini dari Adjara di pesisir Laut Hitam Georgia. Bentuk perahunya dikaitkan dengan kehidupan bahari kawasan itu, kuning telurnya dengan matahari di atas laut.",
+  "ingredientsText": "Tepung terigu, ragi, susu, sulguni, keju Imereti, telur, mentega"
+ },
+ "halim": {
+  "name": "Halim",
+  "description": "Bubur kental gandum dan daging yang dikocok hingga halus, dimakan dengan kayu manis, gula, dan mentega.",
+  "history": "Halim dimakan untuk sarapan di musim dingin dan selama Ramadan, dijual di kedai halim khusus.",
+  "ingredientsText": "Gandum, kalkun atau domba, mentega, kayu manis, gula"
+ },
+ "hamsi-tava": {
+  "name": "Hamsi tava",
+  "description": "Ikan teri Laut Hitam dibalur tepung jagung dan digoreng berbentuk kipas di wajan.",
+  "history": "Hamsi adalah simbol pesisir Laut Hitam Turki, bahan lagu dan lelucon.",
+  "ingredientsText": "Ikan teri, tepung jagung, tepung terigu, minyak sayur, lemon"
+ },
+ "harissa": {
+  "name": "Harissa",
+  "description": "Bubur kental gandum utuh dan ayam atau domba, dimasak berjam-jam dan dikocok hingga halus. Disajikan dengan mentega leleh.",
+  "history": "Harissa dibuat saat hari raya dan untuk mengenang 1915, ketika para pembela Musa Dagh memasaknya. Salah satu hidangan Armenia paling simbolis.",
+  "ingredientsText": "Gandum kupas, ayam atau domba, mentega, garam"
+ },
+ "hash": {
+  "name": "Khash",
+  "description": "Khash bukan sekadar sup, melainkan legenda masakan Armenia yang menuntut waktu, kesabaran, dan hormat pada tradisi. Dibuat dari kaki sapi yang direbus lama hingga dagingnya lepas dari tulang. Khash disajikan panas dengan bawang putih, daun rempah, dan lavash kering yang diremas ke kuah, secara tradisional pagi-pagi sekali, sering setelah pesta panjang.",
+  "quote": "Khash mempersatukan. Secara tradisional dimakan pagi-pagi sekali untuk mengisi tenaga sepanjang hari",
+  "history": "Awalnya hidangan rakyat miskin, kemudian menjadi simbol budaya dan tradisi kuliner Armenia.\n\nKonon seorang raja yang bermalam di sebuah desa mencicipi khash dan begitu menyukainya hingga menjadikannya hidangan utama di mejanya.",
+  "ingredientsText": "Kaki sapi 1,5 kg\nBabat sapi 500 g\nBawang putih 3 bonggol\nLobak 1"
+ },
+ "hingalsh": {
+  "name": "Khingalash",
+  "description": "Khingalash adalah hidangan khas masakan Chechnya: roti pipih dari adonan gandum tanpa ragi berisi labu manis. Isian lembutnya sangat cocok dengan adonan empuk, disajikan dengan mentega leleh. Agar lembut, roti yang sudah matang sejak dulu dicelup ke air panas.",
+  "quote": "Hidangan ini begitu mengenyangkan sehingga bila tamu makan sedikit, tuan rumah bisa berkata: \"Kamu makan seperti baru saja makan khingalash\"",
+  "history": "Chechnya sejak lama menanam jelai, gandum, jewawut, jagung, oat, dan padi, juga rami dan kapas; jelai dan gandum adalah biji-bijian tertua. Adonan dibuat dengan dan tanpa ragi.\n\nOrang Chechnya sejak lama mengenal ragi hop, disebut khoyakhar. Adonan sering diasamkan dengan susu asam, dan isiannya keju cottage, keju segar, kentang tumbuk, atau labu.",
+  "ingredientsText": "Adonan gandum\nLabu manis\nGhee"
+ },
+ "hinkali": {
+  "name": "Khinkali",
+  "description": "Khinkali bukan sekadar pangsit Georgia, melainkan seni sejati. Adonan tipis dan elastis menyimpan isian daging cincang (biasanya sapi atau babi) yang juicy dengan bawang, bawang putih, dan daun rempah. Rahasianya adalah kuah di dalam yang menyembur pada gigitan pertama. Dimakan dengan tangan sambil memegang simpulnya, yang secara tradisional tidak dimakan.",
+  "quote": "Khinkali adalah petualangan kuliner: setiap gigitan membawa ledakan kuah dan rasa",
+  "history": "Khinkali berasal dari pegunungan Georgia timur — Pshavi, Khevsureti, dan Tusheti. Versi gunung dengan daging cincang dan rempah disebut mtiuluri, versi kota dengan daun rempah kalakuri. Dimakan dengan tangan memegang simpul, yang lalu ditinggalkan di piring.",
+  "ingredientsText": "Tepung 500 g\nAir 400 ml\nGaram 1½ sdt\nDaging sapi muda 250 g\nDaging sapi 250 g\nLemak babi 100 g\nBawang bombay 100 g\nBawang putih 2 siung\nJintan\nCabai\nDaun ketumbar"
+ },
+ "horovacz-narsharab": {
+  "name": "Khorovats",
+  "description": "Khorovats adalah hidangan tradisional Armenia berupa sayur bakar, cocok untuk barbekyu. Sayuran dibakar di atas arang di alam terbuka, atau di rumah dalam oven.",
+  "quote": "Khorovats adalah hidangan yang dibuat dengan sepenuh hati",
+  "history": "Kata khorovats berarti \"barbekyu\" dalam bahasa Armenia. Sayuran salad dibakar di atas arang di luar, atau di rumah di oven atau api kompor. Disajikan dengan sate, kentang, ikan bakar, atau sekadar lavash dan roti segar.",
+  "ingredientsText": "Terung 3\nTomat 3\nPaprika 2\nBawang bombay 1\nBawang putih 1 siung\nMinyak sayur\nGaram\nLada hitam\nDaun rempah"
+ },
+ "hunkar-begendi": {
+  "name": "Hünkâr beğendi",
+  "description": "Semur domba di atas puree terung asap dengan keju dan saus krim.",
+  "history": "Namanya berarti \"sultan menyukainya\"; hidangan ini terkait dapur istana Utsmaniyah.",
+  "ingredientsText": "Daging domba, terung, susu, mentega, tepung terigu, keju, tomat"
+ },
+ "imam-bayildi": {
+  "name": "İmam bayıldı",
+  "description": "Terung yang dimasak dalam minyak zaitun dan diisi bawang, bawang putih, dan tomat, disajikan dingin.",
+  "history": "Namanya berarti \"sang imam pingsan\" — menurut legenda karena nikmatnya.",
+  "ingredientsText": "Terung, bawang bombay, bawang putih, tomat, minyak zaitun, peterseli"
+ },
+ "imeruli-kveli": {
+  "name": "Keju Imereti",
+  "description": "Keju muda lunak dengan rasa lembut dan asin — dasar khachapuri sekaligus hidangan pembuka.",
+  "history": "Keju ini dibuat di Imereti dan dimakan hampir seketika; tidak dimaksudkan untuk pemeraman lama.",
+  "ingredientsText": "Susu sapi, rennet, garam"
+ },
+ "iron-tsykht": {
+  "name": "Keju Ossetia",
+  "description": "Keju air garam lunak dari susu sapi atau domba, dimakan segar dan dipakai dalam pai.",
+  "history": "Tak ada pai Ossetia tanpa keju ini; dalam bahasa Ossetia disebut iron tsykht.",
+  "ingredientsText": "Susu sapi atau domba, rennet, garam"
+ },
+ "ishkhan": {
+  "name": "Trout ishkhan",
+  "description": "Trout Sevan dipanggang atau dibakar di atas arang dengan lemon dan daun rempah. Daging putih lembut dengan sangat sedikit duri.",
+  "history": "Namanya berarti \"pangeran\". Trout endemik Danau Sevan kini langka, sehingga dibudidayakan di peternakan ikan.",
+  "ingredientsText": "Ikan trout, lemon, tarragon, mentega, garam"
+ },
+ "ishlekli": {
+  "name": "Ishlekli",
+  "description": "Pai bulat besar berisi daging dan bawang yang dipanggang di pasir panas atau bara.",
+  "history": "Ishlekli dipanggang oleh pengembara dan penggembala di tengah gurun, dikubur dalam pasir panas.",
+  "ingredientsText": "Tepung terigu, daging domba, bawang bombay, garam"
+ },
+ "ishli-kyufta": {
+  "name": "Ishli kufta",
+  "description": "Bola bulgur dan daging berisi daging cincang tumis dan kacang, direbus atau digoreng.",
+  "history": "Ishli kufta butuh keterampilan: kulitnya dibuat tipis agar tidak pecah saat dimasak.",
+  "ingredientsText": "Bulgur, daging sapi, bawang bombay, kenari, mentega, rempah"
+ },
+ "iskender-kebab": {
+  "name": "Kebab İskender",
+  "description": "Irisan tipis daging panggang di atas roti pide, dengan saus tomat, mentega mendesis, dan yoghurt.",
+  "history": "Hidangan ini lahir di Bursa pada abad ke-19, dan keluarga penciptanya masih memakai nama itu.",
+  "ingredientsText": "Daging domba atau sapi, roti pide, saus tomat, mentega, yoghurt"
+ },
+ "ispanakhi-matsvnit": {
+  "name": "Bayam dengan matsoni",
+  "description": "Bayam rebus dengan matsoni, bawang putih, dan daun rempah. Pendamping ringan untuk daging.",
+  "history": "Dalam masakan Georgia matsoni dipakai dalam saus dan pembuka untuk meredam hidangan pedas.",
+  "ingredientsText": "Bayam, matsoni, bawang putih, daun ketumbar, garam"
+ },
+ "izgara-kofte": {
+  "name": "Köfte panggang",
+  "description": "Perkedel daging sapi giling dengan bawang dan rempah, dimasak di panggangan.",
+  "history": "Setiap kota di Turki punya köfte sendiri, dan di Istanbul ada rumah makan yang hanya menyajikan köfte.",
+  "ingredientsText": "Daging sapi giling, bawang bombay, tepung roti, telur, jintan, lada"
+ },
+ "jarma": {
+  "name": "Jarma",
+  "description": "Minuman segar dari tepung jelai sangrai yang dicampur ayran.",
+  "history": "Jarma diminum saat panas musim memotong rumput: menghilangkan haus dan memberi tenaga.",
+  "ingredientsText": "Tepung jelai sangrai, ayran, garam"
+ },
+ "jiz-biz": {
+  "name": "Jiz-biz",
+  "description": "Jeroan domba goreng dengan kentang dan bawang — namanya meniru bunyi desis di wajan.",
+  "history": "Jiz-biz adalah hidangan kedai Baku, dimasak cepat dan disajikan panas.",
+  "ingredientsText": "Hati, ginjal, dan jantung domba, lemak ekor, kentang, bawang bombay"
+ },
+ "jonjoli": {
+  "name": "Jonjoli",
+  "description": "Kuncup bunga bladdernut, semak yang tumbuh di Kaukasus, yang diasinkan. Disajikan dengan bawang dan minyak sebagai pembuka bersama daging.",
+  "history": "Jonjoli dipetik di musim semi dan diawetkan sepanjang tahun. Rasanya asam, sedikit mirip caper.",
+  "ingredientsText": "Kuncup bladdernut, garam, cuka anggur, bawang bombay, minyak sayur"
+ },
+ "joojeh-kebab": {
+  "name": "Joojeh kabab",
+  "description": "Potongan ayam yang dimarinasi yoghurt, lemon, dan safron, dibakar di atas arang.",
+  "history": "Safron memberi joojeh kabab warna keemasan; sering disajikan bersama koobideh.",
+  "ingredientsText": "Ayam, yoghurt, air lemon, safron, bawang bombay"
+ },
+ "kabuskadzhyn": {
+  "name": "Kabuskajyn",
+  "description": "Pai Ossetia berisi kol dan keju. Adonan tipis, isi melimpah, dan mentega leleh di atasnya.",
+  "history": "Untuk perayaan, pai Ossetia dibuat bertiga, melambangkan matahari, bumi, dan air. Pai kol sangat digemari di musim gugur dan dingin.",
+  "ingredientsText": "Tepung terigu, ragi, kefir, mentega, kol putih, keju Ossetia"
+ },
+ "kada": {
+  "name": "Kada",
+  "description": "Kue manis dari adonan kaya dengan isian tepung, mentega, dan gula yang rapuh di dalam.",
+  "history": "Di Georgia kada dibuat untuk hari raya. Orang Armenia dan Azerbaijan punya kue serupa, dan resepnya berbeda tiap keluarga.",
+  "ingredientsText": "Tepung terigu, mentega, gula, telur, yoghurt matsoni, ragi, vanili"
+ },
+ "kaghamb-tolma": {
+  "name": "Tolma kol",
+  "description": "Kol gulung Armenia: daun kol berisi daging dan nasi, dimasak dalam saus tomat.",
+  "history": "Tolma kol dibuat di musim gugur dan dingin, saat tidak ada daun anggur.",
+  "ingredientsText": "Kol putih, daging sapi giling, beras, bawang bombay, pasta tomat, daun rempah"
+ },
+ "kalla-pacha": {
+  "name": "Kalla-pacha",
+  "description": "Sup kaya dari kepala dan kaki domba yang direbus berjam-jam, disajikan dengan bawang putih dan cuka.",
+  "history": "Kalla-pacha dimakan pagi-pagi sekali, seperti khash, terutama di musim dingin.",
+  "ingredientsText": "Kepala domba, kaki domba, buncis, bawang putih, cuka anggur"
+ },
+ "karniyarik": {
+  "name": "Karnıyarık",
+  "description": "Terung goreng yang dibelah dan diisi daging cincang, bawang, dan tomat.",
+  "history": "Namanya berarti \"perut terbelah\"; saudara berdaging dari imam bayıldı.",
+  "ingredientsText": "Terung, daging sapi giling, bawang bombay, tomat, cabai hijau"
+ },
+ "kartofdzhyn": {
+  "name": "Kartofjyn",
+  "description": "Pai Ossetia berisi kentang dan keju. Adonan tipis, isi melimpah, dan mentega leleh di atasnya.",
+  "history": "Untuk perayaan, pai Ossetia dibuat bertiga, melambangkan matahari, bumi, dan air. Isian kentang muncul setelah kentang menyebar di Kaukasus pada abad ke-19.",
+  "ingredientsText": "Tepung terigu, ragi, kefir, mentega, kentang, keju Ossetia"
+ },
+ "kashk-e-bademjan": {
+  "name": "Kashk-e bademjan",
+  "description": "Puree terung goreng dengan kashk, bawang goreng, bawang putih, dan mint.",
+  "history": "Kashk adalah produk susu fermentasi kering yang memberi rasa asin mendalam pada hidangan.",
+  "ingredientsText": "Terung, kashk, bawang bombay, bawang putih, mint kering, kenari"
+ },
+ "kashyk-burek": {
+  "name": "Kashyk burek",
+  "description": "Pangsit mungil dalam kaldu daging — namanya berarti \"burek sendok\".",
+  "history": "Pangsitnya dibuat begitu kecil sehingga beberapa sekaligus muat di sendok.",
+  "ingredientsText": "Tepung terigu, telur, daging domba, bawang bombay, kaldu, mint"
+ },
+ "kazan-kebab": {
+  "name": "Kazan kebab",
+  "description": "Iga domba dan kentang digoreng di kazan hingga keemasan.",
+  "history": "Kazan kebab disajikan di piring besar dengan irisan tipis bawang dan daun rempah.",
+  "ingredientsText": "Daging domba, iga domba, kentang, bawang bombay, jintan, minyak biji kapas"
+ },
+ "kazy": {
+  "name": "Kazy",
+  "description": "Sosis dari daging dan lemak iga kuda dalam selongsong alami, direbus atau dikeringkan.",
+  "history": "Kazy adalah bintang dastarkhan Kazakh, disajikan dalam irisan bulat.",
+  "ingredientsText": "Daging iga kuda, lemak kuda, garam, lada, bawang putih"
+ },
+ "kchuch": {
+  "name": "Kchuch",
+  "description": "Daging dan sayur dipanggang dalam periuk tanah liat, sayurnya direbus dalam sari daging hingga sangat empuk.",
+  "history": "Kchuch adalah nama hidangan sekaligus periuk tanah liat tempat memasaknya.",
+  "ingredientsText": "Daging domba, terung, kentang, tomat, paprika, bawang bombay, daun rempah"
+ },
+ "kesme": {
+  "name": "Kesme",
+  "description": "Sup dengan mi buatan sendiri yang dipotong pisau, daging, dan sayur.",
+  "history": "Kesme berarti \"dipotong\"; sup sehari-hari di rumah orang Kirgiz.",
+  "ingredientsText": "Tepung terigu, telur, daging sapi, kentang, wortel, bawang bombay"
+ },
+ "khabizgina": {
+  "name": "Khabizgina",
+  "description": "Pai berisi kentang tumbuk dan keju Ossetia dari daerah pegunungan Georgia dan Ossetia.",
+  "history": "Khabizgina adalah nama Georgia untuk pai kentang Ossetia; dibuat di Kazbegi dan Racha.",
+  "ingredientsText": "Tepung terigu, kefir, kentang, keju Ossetia, mentega"
+ },
+ "khadurdzhyn": {
+  "name": "Khadurjyn",
+  "description": "Pai Ossetia berisi kacang. Adonan tipis, isi melimpah, dan mentega leleh di atasnya.",
+  "history": "Untuk perayaan, pai Ossetia dibuat bertiga, melambangkan matahari, bumi, dan air. Pai kacang dibuat pada hari puasa tanpa daging.",
+  "ingredientsText": "Tepung terigu, ragi, kefir, mentega, kacang merah, bawang bombay"
+ },
+ "khalvaitar": {
+  "name": "Halvaitar",
+  "description": "Halva lembut dari tepung yang disangrai dengan mentega, gula atau madu, dan susu.",
+  "history": "Halvaitar dibuat untuk perayaan dan untuk ibu yang baru melahirkan sebagai manisan bergizi.",
+  "ingredientsText": "Tepung terigu, mentega, gula atau madu, susu"
+ },
+ "khalyuzh": {
+  "name": "Khalyuzh",
+  "description": "Pastel segitiga goreng berisi keju Adyghe dan bawang atau kentang.",
+  "history": "Khalyuzh dibuat untuk perayaan; bentuk segitiga membantu matang merata saat digoreng.",
+  "ingredientsText": "Tepung terigu, kefir, keju Adyghe, daun bawang, minyak sayur"
+ },
+ "khamrashi": {
+  "name": "Khamrashi",
+  "description": "Sup dengan mi buatan sendiri, kacang, dan bakso kecil.",
+  "history": "Khamrashi adalah sup musim dingin Azerbaijan selatan, dengan mi yang dipotong tangan sangat tipis.",
+  "ingredientsText": "Tepung terigu, kacang, daging domba, bawang bombay, daun rempah"
+ },
+ "khanum": {
+  "name": "Khanum",
+  "description": "Gulungan adonan tipis berisi daging, kentang, atau labu, dikukus.",
+  "history": "Khanum dimasak dalam kukusan manty, lalu diiris dan disiram saus.",
+  "ingredientsText": "Tepung terigu, daging domba, kentang, bawang bombay, jintan"
+ },
+ "kharcho": {
+  "name": "Kharcho",
+  "description": "Sup sapi kental dengan nasi, tkemali atau tklapi asam, kenari, dan rempah. Pedas, kaya, dan harum.",
+  "history": "Kharcho adalah salah satu sup Georgia paling terkenal di luar negeri. Di Samegrelo dibuat tanpa nasi dan disajikan lebih seperti semur.",
+  "ingredientsText": "Daging sapi, beras, tkemali atau tklapi, kenari, bawang bombay, bawang putih, daun ketumbar, khmeli suneli"
+ },
+ "khashil": {
+  "name": "Khashil",
+  "description": "Bubur kental tepung dan air yang disajikan dengan mentega leleh dan madu atau molase anggur.",
+  "history": "Khashil dibuat saat cuaca dingin dan untuk ibu yang baru melahirkan; cekungan di tengah diisi mentega.",
+  "ingredientsText": "Tepung terigu, air, mentega, madu atau molase anggur"
+ },
+ "khashlama": {
+  "name": "Khashlama",
+  "description": "Domba atau sapi potongan besar yang dimasak dengan sayur dalam sarinya sendiri, kadang dengan bir atau anggur.",
+  "history": "Namanya terkait kata \"merebus\". Khashlama dibuat di panci besar untuk seluruh keluarga, dengan sayur disusun berlapis.",
+  "ingredientsText": "Daging domba atau sapi, kentang, tomat, paprika, bawang bombay, daun rempah, garam"
+ },
+ "khasip": {
+  "name": "Khasip",
+  "description": "Sosis dalam usus domba berisi daging cincang, hati, dan nasi, direbus dalam kaldu.",
+  "history": "Khasip dibuat dari jeroan domba untuk perayaan, tanpa ada yang terbuang.",
+  "ingredientsText": "Usus domba, daging domba, hati, beras, bawang bombay, jintan"
+ },
+ "khingal": {
+  "name": "Khingal",
+  "description": "Lembaran adonan rebus persegi lebar dengan daging tumis dan bawang, yoghurt bawang putih, dan dadih kering bernama qurut.",
+  "history": "Khingal dibuat di Azerbaijan dan Kaukasus Utara. Tiap daerah memotong adonan berbeda, persegi atau belah ketupat.",
+  "ingredientsText": "Tepung terigu, daging domba, bawang bombay, yoghurt, bawang putih, qurut"
+ },
+ "khoresh-bademjan": {
+  "name": "Khoresh bademjan",
+  "description": "Semur domba dengan terung goreng, tomat, dan anggur muda yang asam.",
+  "history": "Khoresh adalah nama umum semur Persia, yang selalu disajikan dengan nasi.",
+  "ingredientsText": "Daging domba, terung, tomat, anggur muda, bawang bombay, kunyit"
+ },
+ "khoresh-gheymeh": {
+  "name": "Khoresh gheymeh",
+  "description": "Semur domba dengan kacang polong kuning belah, tomat, dan limau kering, ditaburi kentang goreng renyah.",
+  "history": "Gheymeh secara tradisional dibagikan pada pertemuan keagamaan di bulan Muharram.",
+  "ingredientsText": "Daging domba, kacang polong kuning belah, pasta tomat, limau kering, bawang bombay, kentang"
+ },
+ "khorovats-ovoshchnoy": {
+  "name": "Khorovats sayur",
+  "description": "Terung, tomat, dan paprika dibakar di atas arang, dikupas, lalu dicincang dengan bawang putih dan daun rempah.",
+  "history": "Sayuran dibakar di atas bara yang sama dengan khorovats daging dan disajikan bersamanya.",
+  "ingredientsText": "Terung, tomat, paprika, bawang putih, daun ketumbar, garam"
+ },
+ "khychiny": {
+  "name": "Khychin",
+  "description": "Roti pipih tipis berisi kentang dan keju atau daging, dimasak di wajan kering dan diolesi mentega.",
+  "history": "Khychin adalah hidangan Balkar dan Karachay yang populer di seluruh Kabardino-Balkaria.",
+  "ingredientsText": "Tepung terigu, kefir, kentang, keju, mentega"
+ },
+ "khyovla": {
+  "name": "Khovla",
+  "description": "Halva Chechnya dari tepung sangrai, mentega, dan gula atau madu, dipotong belah ketupat.",
+  "history": "Khovla dibuat untuk peringatan dan perayaan dan dibagikan kepada tetangga.",
+  "ingredientsText": "Tepung terigu, mentega, gula atau madu"
+ },
+ "kisir": {
+  "name": "Kısır",
+  "description": "Salad bulgur halus dengan pasta tomat dan paprika, daun rempah, lemon, dan molase delima.",
+  "history": "Kısır disajikan dalam pertemuan di rumah sambil minum teh, dibungkus daun selada.",
+  "ingredientsText": "Bulgur halus, pasta tomat, pasta paprika, daun bawang, peterseli, lemon, molase delima"
+ },
+ "kobete": {
+  "name": "Kobete",
+  "description": "Pai bulat besar berisi daging, kentang, dan bawang.",
+  "history": "Kobete dibuat untuk hari raya dan perayaan keluarga, dihias motif adonan.",
+  "ingredientsText": "Tepung terigu, mentega, telur, daging domba, kentang, bawang bombay"
+ },
+ "kok-choy": {
+  "name": "Kok choy (teh hijau)",
+  "description": "Teh hijau yang diminum dari mangkuk sepanjang hari dan disajikan di setiap makan.",
+  "history": "Tuan rumah mengisi mangkuk tamu hanya setengah agar bisa sering menuangkan lagi, sebagai tanda perhatian.",
+  "ingredientsText": "Teh hijau, air"
+ },
+ "kololik": {
+  "name": "Kololak",
+  "description": "Sup dengan bola besar daging dan nasi dalam kaldu tomat — tiap bola hampir satu porsi makan.",
+  "history": "Hidangan wilayah Shirak. Nasi dan telur ditambahkan ke daging agar bola tetap utuh saat direbus.",
+  "ingredientsText": "Daging sapi giling, beras, telur, bawang bombay, pasta tomat, daun rempah, garam"
+ },
+ "koobideh": {
+  "name": "Kabab koobideh",
+  "description": "Kebab daging domba giling dengan bawang di tusuk lebar, disajikan dengan nasi, tomat bakar, dan sumac.",
+  "history": "Koobideh dengan nasi, disebut chelow kabab, dianggap hidangan nasional Iran.",
+  "ingredientsText": "Daging domba, bawang bombay, garam, lada, sumac, beras, tomat"
+ },
+ "kubdari": {
+  "name": "Kubdari",
+  "description": "Pai tertutup dengan isi melimpah daging yang dicincang pisau, bawang, dan rempah Svan. Daging dipotong, bukan digiling, sehingga isinya juicy dan berpotongan.",
+  "history": "Hidangan tradisional Svaneti, wilayah pegunungan Georgia. Dibumbui garam Svan, campuran garam dengan daun rempah dan rempah.",
+  "ingredientsText": "Tepung terigu, ragi, daging sapi, daging babi, bawang bombay, garam Svan, ketumbar, bawang putih"
+ },
+ "kuchmachi": {
+  "name": "Kuchmachi",
+  "description": "Jeroan goreng — hati, jantung, dan paru — dengan bawang, delima, dan kenari tumbuk. Disajikan panas.",
+  "history": "Kuchmachi berasal dari dapur hemat yang tak membuang apa pun setelah penyembelihan. Sering dimasak untuk hari raya.",
+  "ingredientsText": "Hati, jantung, dan paru sapi atau babi, bawang bombay, kenari, delima, daun ketumbar"
+ },
+ "kufta-bozbash": {
+  "name": "Kufta bozbash",
+  "description": "Sup bakso besar domba dan nasi, masing-masing berisi plum asam kering, dimasak dengan buncis dan kentang.",
+  "history": "Plum yang tersembunyi di tiap bakso adalah kejutan dan sumber rasa asam yang keluar saat dimasak.",
+  "ingredientsText": "Daging domba, beras, buncis, kentang, plum asam kering, bawang bombay, safron, mint"
+ },
+ "kumpir": {
+  "name": "Kumpir",
+  "description": "Kentang panggang raksasa yang dihancurkan dengan mentega dan keju lalu diberi selusin topping.",
+  "history": "Kumpir terkenal di distrik Ortaköy, Istanbul, dijual di sepanjang tepi Bosporus.",
+  "ingredientsText": "Kentang, mentega, keju, jagung manis, zaitun, acar, sosis"
+ },
+ "kumys": {
+  "name": "Kumis",
+  "description": "Minuman fermentasi susu kuda betina, sedikit bersoda dan menyegarkan.",
+  "history": "Kumis dikenal para pengembara stepa sejak zaman kuno dan dikocok dalam kantong kulit.",
+  "ingredientsText": "Susu kuda betina, ragi starter"
+ },
+ "kunefe": {
+  "name": "Künefe",
+  "description": "Hidangan penutup panas dari adonan kadayıf serut dengan keju tawar leleh, direndam sirup.",
+  "history": "Künefe adalah kebanggaan Hatay di Turki selatan, disajikan langsung dari oven dengan pistachio.",
+  "ingredientsText": "Adonan kadayıf, keju tawar, mentega, sirup gula, pistachio"
+ },
+ "kupaty": {
+  "name": "Kupati",
+  "description": "Sosis goreng dari daging babi atau sapi dengan rempah, bawang putih, dan barberi dalam selongsong alami. Disajikan dengan delima dan bawang.",
+  "history": "Di Georgia kupati digoreng di wajan atau dibakar di atas arang. Di era Soviet sosis ini populer jauh di luar negeri itu.",
+  "ingredientsText": "Daging babi atau sapi, selongsong alami, bawang putih, barberi, ketumbar, lada"
+ },
+ "kurt": {
+  "name": "Kurt",
+  "description": "Bola kering asin dari susu asam yang dipres, tahan lama dan mengusir lapar.",
+  "history": "Kurt dibawa dalam perjalanan jauh; dimakan sebagai camilan dan dilarutkan dalam air untuk saus.",
+  "ingredientsText": "Susu asam, garam"
+ },
+ "kurze": {
+  "name": "Kurze",
+  "description": "Pangsit Dagestan berbentuk tetesan dengan tepi berkepang, berisi daging, labu, jelatang, atau keju cottage.",
+  "history": "Kepang pada kurze menunjukkan keterampilan pembuatnya: makin halus polanya, makin baik, kata orang.",
+  "ingredientsText": "Tepung terigu, air, daging domba atau sapi, bawang bombay, garam"
+ },
+ "kutaby": {
+  "name": "Qutab",
+  "description": "Qutab adalah roti pipih tipis yang memikat lewat kesederhanaan dan rasa halusnya. Isiannya beragam, dari daun rempah segar (ketumbar, adas sowa, bayam) hingga daging lembut atau labu. Qutab dimasak di wajan kering hingga keemasan lalu diolesi mentega leleh. Disajikan dengan yoghurt atau minuman susu fermentasi. Camilan ideal atau makan malam ringan.",
+  "quote": "Qutab adalah roti pipih tipis berisi daging, daun rempah, labu, atau keju, disajikan dengan saus yoghurt",
+  "history": "Sejarah qutab berawal sejak zaman kuno, ketika sisa adonan roti dipakai untuk membuat hidangan lezat ini.",
+  "ingredientsText": "Tepung terigu 96 g\nMinyak sayur 1 sdm\nBawang bombay 1\nMentega 1 sdm\nPeterseli 80 g\nSumac secukupnya\nSejumput garam"
+ },
+ "kuyrdak": {
+  "name": "Kuyrdak",
+  "description": "Tumisan daging domba dan jeroan — hati, jantung, dan ginjal — dengan bawang.",
+  "history": "Kuyrdak dimasak tepat setelah penyembelihan untuk menjamu tamu dengan daging segar.",
+  "ingredientsText": "Daging domba, hati, jantung, ginjal, lemak ekor, bawang bombay"
+ },
+ "kyata": {
+  "name": "Kata",
+  "description": "Roti berlapis yang kaya dengan isian tepung, mentega, dan gula, disajikan dengan teh.",
+  "history": "Kata dikenal di Azerbaijan dan Armenia; di sebagian daerah manis, di daerah lain gurih.",
+  "ingredientsText": "Tepung terigu, mentega, telur, susu, ragi, gula"
+ },
+ "kyufta": {
+  "name": "Kyufta",
+  "description": "Bola besar daging sapi yang ditumbuk halus, direbus lalu diiris. Disajikan dengan mentega dan bawang.",
+  "history": "Kyufta adalah kebanggaan Gyumri. Dagingnya tidak digiling, melainkan ditumbuk dengan palu kayu menjadi pasta.",
+  "ingredientsText": "Daging sapi, bawang bombay, telur, mentega, garam, lada"
+ },
+ "kyukyu": {
+  "name": "Kuku",
+  "description": "Telur dadar panggang penuh daun rempah, kadang dengan kenari dan barberi, disajikan hangat atau dingin.",
+  "history": "Kuku dibuat untuk Novruz; warna hijaunya melambangkan musim semi.",
+  "ingredientsText": "Telur, daun ketumbar, adas sowa, bayam, daun bawang, kenari, mentega"
+ },
+ "lagman": {
+  "name": "Lagman",
+  "description": "Mi tarik tangan dengan saus daging dan sayur: paprika, lobak, tomat, dan bawang putih.",
+  "history": "Lagman datang ke orang Uzbek dari orang Uighur dan Dungan; mi ditarik dan dibanting ke meja hingga tipis.",
+  "ingredientsText": "Tepung terigu, daging sapi atau domba, paprika, lobak, tomat, bawang bombay, bawang putih"
+ },
+ "lahmadzho": {
+  "name": "Lahmajo",
+  "description": "Lahmajo adalah \"pizza\" Armenia yang sederhana dan kaya rasa. Lembaran adonan tipis dilapisi daging cincang, tomat, bawang, dan rempah lalu dipanggang hingga renyah. Sering digulung dan dimakan dengan daun rempah, air lemon, atau matsun. Jajanan jalanan populer dan favorit keluarga.",
+  "quote": "Orang Armenia bilang lahmajo adalah \"makanan jiwa\": sederhana dan kaya rasa, disukai semua orang",
+  "history": "Di negara-negara Arab hidangan ini disebut lahmacun atau lahm bi ajin. Sambil menunggu pesanan, pengunjung menyaksikan adonan berubah di oven: melebar, bergelembung, dan mengembang dalam hitungan detik.\n\nOrang Armenia adalah komunitas Kristen terbesar di Yordania setelah Kristen Arab, dan lahmajo dijual di toko roti Armenia di Amman.",
+  "ingredientsText": "Untuk adonan: kefir atau matsoni 250 ml, tepung terigu 400–450 g, garam ½ sdt"
+ },
+ "lakume": {
+  "name": "Lakume",
+  "description": "Donat goreng empuk dari adonan beragi, disajikan dengan teh, madu, atau daging.",
+  "history": "Lakume dibagikan saat perayaan dan peringatan; bentuk belah ketupat paling tradisional.",
+  "ingredientsText": "Tepung terigu, ragi, susu, telur, gula, minyak sayur"
+ },
+ "lavash": {
+  "name": "Lavash",
+  "description": "Roti tipis tanpa ragi yang digiling dan dipanggang di dinding oven tonir. Lavash kering tahan berbulan-bulan.",
+  "history": "Pembuatan lavash sebagai ekspresi budaya Armenia tercatat dalam daftar warisan budaya takbenda UNESCO.",
+  "ingredientsText": "Tepung terigu, air, garam"
+ },
+ "lepeshka-non": {
+  "name": "Non Uzbek",
+  "description": "Roti bundar tandur dengan bagian tengah tipis bercap dan pinggiran mengembang.",
+  "history": "Polanya dicap dengan stempel chekich; roti tak pernah diletakkan terbalik, karena dianggap tidak sopan.",
+  "ingredientsText": "Tepung terigu, ragi, air, garam, wijen atau jintan hitam"
+ },
+ "lobiani": {
+  "name": "Lobiani",
+  "description": "Roti berisi kacang rebus tumbuk, bawang, dan rempah. Hidangan sederhana dan mengenyangkan yang sering dibuat orang Georgia pada hari puasa.",
+  "history": "Namanya berasal dari lobio, \"kacang\". Sangat populer di Racha, tempat lobiani sering dibuat dengan bacon.",
+  "ingredientsText": "Tepung terigu, ragi, kacang merah, bawang bombay, mentega atau minyak, daun ketumbar"
+ },
+ "lobio": {
+  "name": "Lobio",
+  "description": "Lobio membuktikan bahwa kacang bisa menjadi hidangan istimewa. Kacang rebus dibumbui kenari, bawang putih, daun ketumbar, dan rempah hingga menjadi adonan lembut dan harum. Disajikan panas atau dingin, sebagai puree kental atau butiran utuh, dalam periuk tanah liat.",
+  "quote": "Lobio bercerita tentang keramahan Georgia. Disajikan dengan gomi (bubur jagung) atau sekadar dengan lavash",
+  "history": "Kacang tiba di Kaukasus dari Amerika pada zaman modern awal, tetapi cepat menjadi andalan meja Georgia. Lobio dibuat panas dalam periuk tanah liat atau dingin dengan kenari; dimakan dengan mchadi dan acar, terutama pada hari puasa.",
+  "ingredientsText": "Kacang 63 g (merah atau pinto)\nKenari 13 g\nBawang bombay 0,4\nTomat 0,3\nBawang putih 0,4 siung\nDaun ketumbar 1,5 g\nKhmeli suneli 0,1 sdm\nCabai 0,1\nGaram\nMinyak sayur 0,3 sdm\nLada hitam"
+ },
+ "lokum": {
+  "name": "Lokum (Turkish delight)",
+  "description": "Kubus lembut gula dan pati beraroma air mawar, pistachio, atau lemon, ditaburi gula halus.",
+  "history": "Lokum terkenal di Istanbul pada abad ke-18–19 dan dibawa sebagai oleh-oleh ke seluruh Eropa.",
+  "ingredientsText": "Gula, pati jagung, air, air mawar, gula halus"
+ },
+ "lori-cheese": {
+  "name": "Keju Lori",
+  "description": "Keju air garam semi-keras dari susu sapi dengan tekstur berongga.",
+  "history": "Keju ini dinamai menurut wilayah Lori di Armenia utara, tempat keju ini dibuat.",
+  "ingredientsText": "Susu sapi, rennet, garam"
+ },
+ "lyavangi": {
+  "name": "Lavangi",
+  "description": "Ayam berisi kenari, bawang, dan pasta plum ceri asam, dipanggang di oven.",
+  "history": "Lavangi adalah hidangan Lankaran dan Talysh di Azerbaijan selatan, dimasak di tandur untuk perayaan.",
+  "ingredientsText": "Ayam, kenari, bawang bombay, pasta plum asam, garam, lada"
+ },
+ "lyguazha": {
+  "name": "Lyguazha",
+  "description": "Semur sapi atau domba dengan bawang, tomat, dan cabai merah.",
+  "history": "Lyguazha sering disajikan dengan pasta (bubur jewawut), pengganti roti di meja Kabardia.",
+  "ingredientsText": "Daging sapi atau domba, bawang bombay, pasta tomat, cabai merah, bawang putih"
+ },
+ "lyulya-kebab": {
+  "name": "Lula kebab",
+  "description": "Kebab panjang dari daging domba cincang dengan bawang dan lemak ekor, dibakar di tusuk di atas arang.",
+  "history": "Daging untuk lula dicincang pisau dan diuleni lama; kalau tidak, tak akan menempel di tusuk.",
+  "ingredientsText": "Daging domba, lemak ekor, bawang bombay, garam, lada, sumac"
+ },
+ "lyvzha": {
+  "name": "Lyvzha",
+  "description": "Sup kental seperti semur dari daging atau ayam dengan kentang, bawang, dan tepung, dibumbui lada.",
+  "history": "Lyvzha dimasak untuk perayaan dan disajikan panas dalam mangkuk dalam bersama pai.",
+  "ingredientsText": "Daging sapi atau ayam, kentang, bawang bombay, tepung terigu, lada, daun rempah"
+ },
+ "maksym": {
+  "name": "Maksym",
+  "description": "Minuman sedikit bersoda dari biji-bijian sangrai — jelai, jagung, atau gandum.",
+  "history": "Di musim panas maksym dijual di jalanan Bishkek dari tong besar.",
+  "ingredientsText": "Jelai atau gandum, air, garam, ragi starter"
+ },
+ "mantapur": {
+  "name": "Mantapur",
+  "description": "Sup dengan manti panggang kecil dalam kaldu dengan yoghurt bawang putih.",
+  "history": "Mantapur adalah hidangan musim dingin: manti dipanggang dulu hingga keemasan lalu disiram kaldu panas.",
+  "ingredientsText": "Tepung terigu, daging sapi giling, bawang bombay, kaldu, yoghurt matsun, bawang putih"
+ },
+ "manti-armyanskie": {
+  "name": "Manti Armenia",
+  "description": "Perahu kecil adonan terbuka berisi daging, dipanggang hingga renyah dan disajikan dengan kaldu dan yoghurt bawang putih.",
+  "history": "Berbeda dari manty Asia Tengah, manti Armenia kecil, terbuka, dan dipanggang.",
+  "ingredientsText": "Tepung terigu, daging sapi giling, kaldu, matsun, bawang putih, sumac"
+ },
+ "manti-turetskie": {
+  "name": "Mantı Turki",
+  "description": "Pangsit daging mungil yang disajikan dengan yoghurt bawang putih dan mentega cabai merah.",
+  "history": "Yang paling terkenal dari Kayseri — konon juru masak yang baik bisa memuat empat puluh mantı di satu sendok.",
+  "ingredientsText": "Tepung terigu, telur, daging sapi giling, yoghurt, bawang putih, mentega, cabai merah"
+ },
+ "manty": {
+  "name": "Manty",
+  "description": "Pangsit besar berisi daging domba cincang dan bawang, dikukus dalam kukusan bertingkat.",
+  "history": "Manty dimakan dengan tangan, digigit sambil menyeruput kuah di dalamnya, dengan susu asam atau krim asam.",
+  "ingredientsText": "Tepung terigu, daging domba, lemak ekor, bawang bombay, jintan"
+ },
+ "mast-o-khiar": {
+  "name": "Mast-o-khiar",
+  "description": "Yoghurt dingin dengan mentimun, mint, kenari, kismis, dan kelopak mawar.",
+  "history": "Mast-o-khiar menemani hidangan nasi dan saat cuaca panas dimakan sebagai sup penyegar.",
+  "ingredientsText": "Yoghurt, mentimun, mint, kenari, kismis, kelopak mawar"
+ },
+ "mastava": {
+  "name": "Mastava",
+  "description": "Sup kental dengan beras, daging, wortel, dan tomat, disajikan dengan susu asam dan daun rempah.",
+  "history": "Mastava adalah sup rumahan sehari-hari; beras membuatnya mengenyangkan seperti bubur.",
+  "ingredientsText": "Beras, daging domba, wortel, kentang, tomat, bawang bombay, susu asam"
+ },
+ "matnakash": {
+  "name": "Matnakash",
+  "description": "Roti lonjong lembut dengan kulit keemasan dan alur memanjang. Beragi dan diolesi teh sebelum dipanggang.",
+  "history": "Namanya berarti \"ditarik dengan jari\": alur pada roti dibuat dengan tangan.",
+  "ingredientsText": "Tepung terigu, ragi, air, gula, garam"
+ },
+ "matsoni": {
+  "name": "Matsoni",
+  "description": "Produk susu fermentasi Georgia seperti yoghurt kental, dimakan dengan madu atau dipakai memasak.",
+  "history": "Matsoni secara tradisional difermentasi dalam guci tanah liat; dulu pedagang membawanya dari rumah ke rumah.",
+  "ingredientsText": "Susu sapi, ragi starter"
+ },
+ "matsun": {
+  "name": "Matsun",
+  "description": "Produk susu fermentasi seperti yoghurt kental, dimakan dengan sendok dan ditambahkan ke sup dan saus.",
+  "history": "Starter matsun diwariskan turun-temurun. Ini dasar banyak hidangan Armenia, dari tan hingga spas.",
+  "ingredientsText": "Susu sapi, ragi starter"
+ },
+ "mchadi": {
+  "name": "Mchadi",
+  "description": "Roti pipih jagung kecil tanpa ragi yang dimasak di wajan kering. Dimakan dengan keju, lobio, dan pkhali.",
+  "history": "Mchadi adalah roti tradisional Georgia barat. Karena tanpa tepung terigu, cocok bagi yang menghindari gluten.",
+  "ingredientsText": "Tepung jagung, air, garam"
+ },
+ "megruli-hachapuri": {
+  "name": "Khachapuri Megrelia",
+  "description": "Khachapuri bulat dengan keju di dalam dan di atas, ditaburi sulguni sebelum dipanggang. Hasilnya roti yang kaya dan sangat berkeju.",
+  "history": "Berasal dari Samegrelo (Megrelia) di Georgia barat, wilayah yang dikenal karena masakan pedas dan kecintaan pada sulguni.",
+  "ingredientsText": "Tepung terigu, yoghurt matsoni, telur, sulguni, keju Imereti, mentega"
+ },
+ "menemen": {
+  "name": "Menemen",
+  "description": "Telur yang dimasak di wajan dengan tomat, cabai hijau, dan bawang — sarapan klasik Turki.",
+  "history": "Apakah bawang pantas masuk menemen masih jadi perdebatan seru di Turki.",
+  "ingredientsText": "Telur, tomat, cabai hijau, bawang bombay, minyak zaitun"
+ },
+ "mercimek-corbasi": {
+  "name": "Sup lentil",
+  "description": "Sup lentil merah yang dihaluskan dengan wortel dan bawang, disajikan dengan lemon.",
+  "history": "Sup lentil ada di menu hampir setiap restoran Turki dan dimakan kapan saja.",
+  "ingredientsText": "Lentil merah, wortel, bawang bombay, mentega, lemon"
+ },
+ "mezhadzhe": {
+  "name": "Mezhadzhe",
+  "description": "Roti jagung yang dipanggang di wajan dan disajikan dengan saus dan keju.",
+  "history": "Mezhadzhe adalah roti tradisional orang Adyghe, yang menyebar bersama jagung.",
+  "ingredientsText": "Tepung jagung, air, garam"
+ },
+ "midye-dolma": {
+  "name": "Midye dolma",
+  "description": "Kerang hijau berisi nasi berbumbu, kacang pinus, dan kismis kecil, dimakan dengan lemon di kios jalanan.",
+  "history": "Penjual kerang adalah bagian kehidupan malam Istanbul dan Izmir.",
+  "ingredientsText": "Kerang hijau, beras, bawang bombay, kacang pinus, kismis kecil, rempah, lemon"
+ },
+ "mirza-ghasemi": {
+  "name": "Mirza ghasemi",
+  "description": "Terung yang diasap di api lalu dihaluskan dengan bawang putih, tomat, dan telur, disajikan dengan roti.",
+  "history": "Hidangan dari provinsi Kaspia Gilan, dinamai menurut seorang gubernur setempat.",
+  "ingredientsText": "Terung, bawang putih, tomat, telur, kunyit"
+ },
+ "morasa-polo": {
+  "name": "Morasa polo",
+  "description": "\"Nasi permata\" dengan kulit jeruk manisan, barberi, pistachio, dan almon.",
+  "history": "Morasa polo disajikan di pernikahan; hiasannya yang cerah melambangkan hidup yang manis dan makmur.",
+  "ingredientsText": "Beras, kulit jeruk, wortel, barberi, pistachio, almon, safron, gula"
+ },
+ "motal": {
+  "name": "Keju motal",
+  "description": "Keju domba asin yang diperam dalam kulit domba, dengan rasa tajam dan aroma khas.",
+  "history": "Motal dibuat para penggembala di pegunungan; pemeraman dalam kulit domba memberinya rasa unik.",
+  "ingredientsText": "Susu domba, rennet, garam"
+ },
+ "mtsvadi": {
+  "name": "Mtsvadi",
+  "description": "Sate babi atau sapi muda Georgia yang dibakar di atas bara ranting anggur. Disajikan dengan irisan tipis bawang dan saus tkemali.",
+  "history": "Membakar di atas bara ranting anggur adalah tradisi lama daerah anggur, terutama Kakheti. Rantingnya memberi aroma asap ringan.",
+  "ingredientsText": "Daging babi atau sapi muda, bawang bombay, garam, lada, sari delima"
+ },
+ "muhlama": {
+  "name": "Muhlama",
+  "description": "Keju molor yang dilelehkan dengan tepung jagung dan mentega, dimakan panas dengan roti.",
+  "history": "Muhlama berasal dari Trabzon dan Rize; hidangan serupa ada di Georgia dan Abkhazia.",
+  "ingredientsText": "Keju tua, tepung jagung, mentega"
+ },
+ "mutaki": {
+  "name": "Mutaki",
+  "description": "Gulungan renyah adonan tipis berisi kenari dan gula, ditaburi gula halus.",
+  "history": "Namanya berarti \"bantal kecil\". Mutaki dibuat di Baku dan Ganja untuk hari raya.",
+  "ingredientsText": "Tepung terigu, mentega, krim asam, telur, kenari, gula"
+ },
+ "nabat": {
+  "name": "Nabat",
+  "description": "Kristal gula besar pada tali, disajikan dengan teh sebagai pengganti gula biasa.",
+  "history": "Nabat ditumbuhkan dari sirup selama beberapa hari dan kadang diberi aroma safron.",
+  "ingredientsText": "Gula, air, safron"
+ },
+ "nadugi": {
+  "name": "Nadughi",
+  "description": "Dadih lembut seperti krim dengan mint dan daun rempah, digulung dalam lembaran tipis sulguni.",
+  "history": "Nadughi adalah hasil sampingan pembuatan keju; di Samegrelo disajikan sebagai pembuka.",
+  "ingredientsText": "Dadih nadughi, sulguni, mint, daun ketumbar, garam"
+ },
+ "narsharab": {
+  "name": "Narsharab",
+  "description": "Saus kental asam-manis dari sari delima yang direduksi, disajikan dengan kebab dan ikan.",
+  "history": "Narsharab dibuat di musim gugur di Goychay dan Shamakhi, tempat tumbuh delima terbaik.",
+  "ingredientsText": "Sari delima, garam, rempah"
+ },
+ "naryn": {
+  "name": "Naryn",
+  "description": "Mi yang dipotong halus dengan daging kuda atau domba rebus dan bawang, disajikan dengan kaldu.",
+  "history": "Naryn adalah hidangan pesta Tashkent dan Fergana, adonan dan dagingnya dipotong tangan sangat tipis.",
+  "ingredientsText": "Tepung terigu, daging kuda atau domba, sosis kazy, bawang bombay, kaldu"
+ },
+ "nasdzhyn": {
+  "name": "Nasjyn",
+  "description": "Pai Ossetia berisi labu. Adonan tipis, isi melimpah, dan mentega leleh di atasnya.",
+  "history": "Untuk perayaan, pai Ossetia dibuat bertiga, melambangkan matahari, bumi, dan air. Pai labu agak manis dan dibuat di musim gugur setelah panen.",
+  "ingredientsText": "Tepung terigu, ragi, kefir, mentega, labu, gula atau madu"
+ },
+ "nazuk": {
+  "name": "Nazook",
+  "description": "Gulungan adonan beragi yang kaya dengan isian manis rapuh dari tepung, mentega, dan gula, dipotong miring.",
+  "history": "Nazook disajikan dengan teh dan kopi dan sering dibuat untuk Natal dan Paskah.",
+  "ingredientsText": "Tepung terigu, mentega, krim asam, ragi, telur, gula, vanili"
+ },
+ "nazuki": {
+  "name": "Nazuki",
+  "description": "Roti manis dengan kismis dan kayu manis yang dipanggang di oven tone, dijual di pinggir jalan dekat Surami.",
+  "history": "Nazuki adalah ciri khas Surami: penjual membawa roti panas langsung ke mobil yang lewat.",
+  "ingredientsText": "Tepung terigu, ragi, susu, telur, gula, kismis, kayu manis, mentega"
+ },
+ "nishalda": {
+  "name": "Nishalda",
+  "description": "Manisan putih bersih dan ringan dari putih telur yang dikocok dengan gula dan akar manis.",
+  "history": "Nishalda dimakan saat Ramadan setelah matahari terbenam, dengan mencelupkan roti.",
+  "ingredientsText": "Putih telur, gula, akar manis"
+ },
+ "nushi-muraba": {
+  "name": "Selai kenari hijau",
+  "description": "Kenari hijau utuh yang dimasak dalam sirup gula hingga gelap, disajikan dengan teh.",
+  "history": "Kenari dipetik di awal musim panas saat kulitnya masih lunak dan direndam lama sebelum dimasak.",
+  "ingredientsText": "Kenari hijau, gula, air, cengkih, kayu manis"
+ },
+ "ojakhuri": {
+  "name": "Ojakhuri",
+  "description": "Daging babi goreng dengan kentang renyah, bawang, dan rempah, disajikan dalam wajan tanah liat ketsi. Hidangan \"keluarga\" yang sederhana dan mengenyangkan.",
+  "history": "Namanya berarti \"ala keluarga\": ojakhuri dimasak untuk seluruh keluarga dari bahan yang ada.",
+  "ingredientsText": "Daging babi, kentang, bawang bombay, bawang putih, khmeli suneli, daun ketumbar"
+ },
+ "oromo": {
+  "name": "Oromo",
+  "description": "Gulungan adonan tipis kukus berisi daging dan labu atau kentang.",
+  "history": "Oromo dimasak dalam kukusan manty dan disajikan dengan saus atau kaldu.",
+  "ingredientsText": "Tepung terigu, daging sapi atau domba, labu, bawang bombay"
+ },
+ "osetr-kebab": {
+  "name": "Kebab sturgeon",
+  "description": "Potongan ikan sturgeon di tusuk, dibakar di atas arang dan disajikan dengan saus delima.",
+  "history": "Sturgeon Kaspia adalah kebanggaan masakan Baku; dibakar sebentar agar tetap juicy.",
+  "ingredientsText": "Ikan sturgeon, mentega, lemon, saus delima, garam"
+ },
+ "oshi-burida": {
+  "name": "Oshi burida",
+  "description": "Sup dengan mi tipis buatan sendiri, daging, kacang-kacangan, dan daun rempah.",
+  "history": "Burida berarti \"dipotong\": mi dipotong pisau menjadi potongan tipis.",
+  "ingredientsText": "Tepung terigu, daging sapi, buncis, kacang hijau, bawang bombay, tomat, daun rempah"
+ },
+ "ostri": {
+  "name": "Ostri",
+  "description": "Semur sapi pedas dalam saus tomat kental dengan acar mentimun, bawang putih, dan rempah. Disajikan dengan roti atau kentang.",
+  "history": "Namanya berasal dari kata \"pedas\". Ostri adalah hidangan populer di kedai-kedai Tbilisi.",
+  "ingredientsText": "Daging sapi, tomat, pasta tomat, acar mentimun, bawang bombay, bawang putih, cabai, khmeli suneli"
+ },
+ "pahlava": {
+  "name": "Pakhlava",
+  "description": "Pakhlava adalah simbol manis masakan Azerbaijan dengan tekstur berlapis dan rasa kaya. Lapisan adonan tipis yang direndam madu atau sirup bergantian dengan kenari atau hazelnut cincang. Setiap potong memadukan kerak renyah dan isian lembut. Wajib ada di meja pesta, terutama saat Novruz.",
+  "quote": "Pakhlava bukan sekadar hidangan penutup, melainkan bagian budaya: dibuat untuk Novruz, pernikahan, dan perayaan untuk berbagi suka cita dan syukur",
+  "history": "Pakhlava Azerbaijan adalah hidangan penutup berlapis dengan kacang dan sirup yang berperan penting dalam budaya dan perayaan negeri itu.\n\nMeski sejarawan menunjuk catatan awal dalam buku masak Utsmaniyah (abad ke-15), Azerbaijan juga bisa mengklaim bagiannya dalam sejarah hidangan ini.",
+  "ingredientsText": "Adonan: tepung 35 g, susu 12 ml, mentega 6 g, 1 telur, gula 4 g, ragi kering 1 g, garam 1 g\nIsian: kenari 30 g, mentega 8 g, gula 15 g, pati kentang 1 sdm\nSirup: madu 10 g, gula 10 g, air 10 ml, air lemon 1 sdm"
+ },
+ "pasta-adyg": {
+  "name": "Pasta (bubur jewawut)",
+  "description": "Bubur jewawut sangat kental yang dipotong seperti roti dan disajikan dengan daging dan shchips.",
+  "history": "Pasta menggantikan roti bagi orang Adyghe; dipotong dengan benang agar tidak penyok.",
+  "ingredientsText": "Jewawut, air, garam"
+ },
+ "pasuc-tolma": {
+  "name": "Tolma puasa",
+  "description": "Tolma Prapaskah: daun kol berisi kacang, lentil, buncis, bulgur, dan nasi berbumbu.",
+  "history": "Pasuts tolma dibuat saat Prapaskah. Banyaknya kacang-kacangan dalam isinya melambangkan kelimpahan.",
+  "ingredientsText": "Kol, kacang, lentil, buncis, bulgur, beras, pasta tomat, bawang bombay, rempah"
+ },
+ "pelamushi": {
+  "name": "Pelamushi",
+  "description": "Puding kental dari sari anggur dan tepung yang mengeras dalam cetakan. Sering ditaburi kacang.",
+  "history": "Seperti churchkhela, pelamushi adalah hasil sampingan pembuatan anggur — keduanya dibuat dari sari yang sama.",
+  "ingredientsText": "Sari anggur, tepung terigu atau jagung"
+ },
+ "pide": {
+  "name": "Pide",
+  "description": "Roti berbentuk perahu dengan topping daging cincang, keju, telur, atau sayur.",
+  "history": "Pide dipanggang di oven batu di seluruh Turki; versi Laut Hitam sangat terkenal.",
+  "ingredientsText": "Tepung terigu, ragi, daging cincang atau keju, telur, mentega"
+ },
+ "piti": {
+  "name": "Piti",
+  "description": "Sup domba dengan buncis, kastanye, kuini, dan safron, dimasak perlahan dalam periuk tanah liat porsi tunggal. Kuahnya diminum dulu dengan roti, lalu dagingnya dimakan.",
+  "history": "Piti adalah hidangan khas Shaki. Periuk berada di oven berjam-jam, dan lemak ekor membuat kuahnya kaya.",
+  "ingredientsText": "Daging domba, lemak ekor, buncis, kastanye, kuini, bawang bombay, safron"
+ },
+ "pkhali": {
+  "name": "Pkhali",
+  "description": "Pembuka dari sayur atau daun cincang seperti bayam, bit, atau kol, dicampur pasta kenari, bawang putih, dan rempah. Dibentuk bola dan dihias biji delima.",
+  "history": "Pkhali adalah salah satu hidangan puasa utama di meja Georgia. Variasinya sebanyak sayuran daun yang bisa dimakan di kebun.",
+  "ingredientsText": "Bayam atau bit, kenari, bawang putih, daun ketumbar, khmeli suneli, cuka anggur, delima"
+ },
+ "pkhlovani": {
+  "name": "Pkhlovani",
+  "description": "Pai berisi bayam, daun bit, atau jelatang dan keju, populer di Racha dan Ossetia.",
+  "history": "Pkhlovani dibuat di musim semi saat daun-daun muda muncul.",
+  "ingredientsText": "Tepung terigu, matsoni, bayam atau daun bit, sulguni, daun rempah"
+ },
+ "plov": {
+  "name": "Pilaf",
+  "description": "Pilaf adalah raja masakan Azerbaijan, kaya rasa dan tradisi. Nasi kukus disajikan dengan daging harum (biasanya domba), buah kering, kastanye, dan rempah. Setiap komponen dimasak terpisah lalu disatukan. Pilaf adalah simbol keramahan dalam perayaan besar dan makan malam keluarga.",
+  "quote": "Safron adalah rahasia warna keemasan dan aroma pilaf Azerbaijan: setiap butir berkilau seperti permata",
+  "history": "Pilaf, seperti banyak hidangan Timur, berakar di Persia kuno dan Asia Tengah, tempat nasi dimasak dengan daging dan rempah.\n\nPilaf menyebar ke seluruh Timur lewat jalur dagang dan ekspedisi militer hingga Azerbaijan, yang masakannya mengenal banyak jenis pilaf.",
+  "ingredientsText": "Bawang bombay 4 besar\nKismis ½ cangkir\nAprikot kering 1 cangkir\nPlum kering ½ cangkir\nKastanye 500 g\nSejumput kayu manis\nMentega 400–600 g\nUntuk kerak gazmakh: tepung ½ cangkir, telur, kefir"
+ },
+ "pokhindz": {
+  "name": "Pokhindz",
+  "description": "Tepung terigu sangrai yang dicampur madu atau gula dan mentega, dimakan dengan sendok atau dibentuk bola.",
+  "history": "Pokhindz adalah suguhan Tahun Baru tradisional yang dibuat setiap keluarga dan diberikan kepada anak-anak.",
+  "ingredientsText": "Tepung terigu, madu atau gula, mentega"
+ },
+ "putuk": {
+  "name": "Putuk",
+  "description": "Sup domba dengan buncis dan plum asam kering yang dimasak dalam periuk tanah liat porsi tunggal.",
+  "history": "Putuk adalah versi Armenia dari sup periuk, kerabat piti Azerbaijan.",
+  "ingredientsText": "Daging domba, buncis, kentang, plum asam kering, bawang bombay"
+ },
+ "qurutob": {
+  "name": "Qurutob",
+  "description": "Potongan roti berlapis fatir yang direndam saus qurut dan ditaburi bawang, tomat, dan daun rempah.",
+  "history": "Qurutob dianggap hidangan nasional Tajikistan dan dimakan dengan tangan dari nampan kayu bersama.",
+  "ingredientsText": "Roti fatir, qurut, bawang bombay, tomat, mentimun, daun rempah, minyak sayur"
+ },
+ "sabzi-govurma": {
+  "name": "Sabzi govurma",
+  "description": "Domba yang dimasak dengan banyak sayuran hijau — bayam, daun ketumbar, adas sowa, daun bawang — dan plum asam kering.",
+  "history": "Sabzi berarti \"sayuran hijau\". Hidangan ini sangat digemari di musim semi saat daun rempah muda muncul.",
+  "ingredientsText": "Daging domba, bayam, daun ketumbar, adas sowa, daun bawang, plum asam kering, bawang bombay"
+ },
+ "sabzi-polo-mahi": {
+  "name": "Sabzi polo ba mahi",
+  "description": "Nasi daun rempah dengan ikan goreng — hidangan tradisional Nowruz.",
+  "history": "Daun rempah melambangkan pembaruan dan ikan melambangkan kehidupan; karena itu dimakan pada hari pertama musim semi.",
+  "ingredientsText": "Beras, peterseli, daun ketumbar, adas sowa, daun bawang, ikan, mentega"
+ },
+ "saczivi": {
+  "name": "Satsivi",
+  "description": "Satsivi adalah hidangan halus yang disajikan dingin, dengan tekstur dan rasa kompleks. Saus kenari yang ditumbuk dengan bawang putih, rempah, dan cuka menjadi kental dan lembut seperti beludru. Ayam atau kalkun rebus dimasukkan dan didiamkan agar bumbu meresap. Satsivi wajib ada di meja pesta Georgia.",
+  "quote": "Satsivi adalah hidangan Natal dari kenari, ketumbar, dan rempah yang melambangkan kelimpahan dan sukacita",
+  "history": "Namanya terkait tsiva, \"dingin\": satsivi disajikan dingin. Ini salah satu hidangan utama meja Tahun Baru Georgia, dengan ayam, kalkun, atau sayur goreng.",
+  "ingredientsText": "Ayam atau kalkun hingga 2 kg\nMentega 20 g\nBawang bombay 1 kg\nDaun ketumbar 4 tangkai\nKenari 600 g\nLada hitam 1 sdm\nKetumbar bubuk 1 sdm\nSafron Imereti 1 sdm\nCengkih 3–6\nSejumput kayu manis\nBawang putih 4–8 siung\nCuka anggur putih 1 sdm\nGaram"
+ },
+ "sadzh": {
+  "name": "Saj",
+  "description": "Daging, kentang, terung, dan paprika digoreng di wajan besi cembung bernama saj dan disajikan di atasnya.",
+  "history": "Saj adalah nama wajan sekaligus hidangan. Bara sering dibiarkan di bawahnya agar makanan tetap panas di meja.",
+  "ingredientsText": "Daging domba atau ayam, kentang, terung, tomat, paprika, bawang bombay"
+ },
+ "samsa": {
+  "name": "Samsa",
+  "description": "Pastri berlapis segitiga berisi daging domba dan bawang, dipanggang di dinding tandur.",
+  "history": "Samsa tandur adalah jajanan jalanan Uzbek yang populer, ditaburi wijen atau jintan hitam.",
+  "ingredientsText": "Tepung terigu, daging domba, lemak ekor, bawang bombay, jintan, wijen"
+ },
+ "sangak": {
+  "name": "Sangak",
+  "description": "Roti pipih panjang gandum utuh yang dipanggang di atas hamparan kerikil panas.",
+  "history": "Kerikil meninggalkan lekukan pada roti; sangak dulu adalah roti tentara Persia.",
+  "ingredientsText": "Tepung gandum utuh, ragi alami, air, garam, wijen"
+ },
+ "sarburma": {
+  "name": "Sarburma",
+  "description": "Pai berlapis berbentuk siput berisi daging, digulung dari seutas adonan panjang.",
+  "history": "Sarburma berarti \"digulung\"; dibuat untuk hari raya di loyang besar.",
+  "ingredientsText": "Tepung terigu, mentega, telur, daging domba, bawang bombay"
+ },
+ "satsebeli": {
+  "name": "Satsebeli",
+  "description": "Saus tomat dengan bawang putih, cabai, dan daun rempah. Disajikan dengan daging, unggas, dan khachapuri.",
+  "history": "Kata satsebeli berarti \"saus\". Dulu dibuat dari beri dan buah; versi tomat datang belakangan.",
+  "ingredientsText": "Tomat, bawang putih, cabai, daun ketumbar, kemangi, garam"
+ },
+ "shah-plov": {
+  "name": "Pilaf shah",
+  "description": "Pilaf shah adalah permata masakan Azerbaijan, indah sekaligus lezat. Nasi disusun membentuk \"mahkota\" berbalut kerak lavash renyah, berisi daging lembut, buah kering, dan kacang. Hidangan untuk acara istimewa dan simbol kemurahan hati meja Azerbaijan.",
+  "quote": "Pilaf shah adalah pertunjukan: dibawa utuh ke meja dan dipotong di depan tamu",
+  "history": "Pilaf shah (juga disebut pilaf khan atau \"pilaf kerajaan\") adalah hidangan pesta Azerbaijan yang dikenal karena cara memasak dan penyajiannya yang tak biasa.\n\nSejarahnya terkait tradisi kuliner Azerbaijan, tempat pilaf memiliki kedudukan istimewa.",
+  "ingredientsText": "Daging sapi 600 g\nBeras 600 g\nGhee 350 g\nBawang bombay 250 g\nAprikot kering 150 g\nKismis emas 150 g\nPlum ceri kering 100 g\nKastanye rebus 150 g\nKunyit\nSafron 3–5 helai\nGaram\nBarberi 50 g (opsional)\nLavash tipis 400 g"
+ },
+ "shakarob": {
+  "name": "Shakarob",
+  "description": "Salad tomat, mentimun, dan bawang dengan cabai dan daun rempah, disajikan dengan pilaf dan kebab.",
+  "history": "Shakarob adalah sepupu Tajik dari achichuk Uzbek dan dibuat tepat sebelum disajikan.",
+  "ingredientsText": "Tomat, mentimun, bawang bombay, cabai, daun ketumbar, kemangi"
+ },
+ "sharots": {
+  "name": "Sharots",
+  "description": "Kacang pada tali yang dilapisi sari anggur kental — sepupu Armenia dari churchkhela.",
+  "history": "Sharots dibuat di musim gugur setelah panen anggur dan digantung hingga kering.",
+  "ingredientsText": "Kenari, sari anggur, tepung"
+ },
+ "shchips": {
+  "name": "Shchips",
+  "description": "Saus kental dari kaldu atau krim yang dikentalkan dengan tepung sangrai, dengan bawang putih dan cabai merah.",
+  "history": "Shchips disajikan dengan daging, ayam, dan pasta; sulit membayangkan meja Adyghe tanpanya.",
+  "ingredientsText": "Kaldu atau krim, tepung terigu, mentega, bawang putih, cabai merah"
+ },
+ "shekerbura": {
+  "name": "Shakarbura",
+  "description": "Kue bulan sabit berisi almon atau kenari giling dan gula, dihias motif yang dibuat dengan penjepit.",
+  "history": "Shakarbura dibuat untuk Novruz. Motif di atasnya disebut nakhysh, dan setiap juru masak punya polanya sendiri.",
+  "ingredientsText": "Tepung terigu, mentega, telur, susu, ragi, almon atau hazelnut, gula, kapulaga"
+ },
+ "shekerchorek": {
+  "name": "Shakarchorek",
+  "description": "Kue mentega rapuh dari tepung, mentega, dan gula yang lumer di mulut.",
+  "history": "Shakarchorek dibuat untuk Novruz bersama manisan lain di meja pesta.",
+  "ingredientsText": "Tepung terigu, mentega, gula halus, kuning telur, kapulaga"
+ },
+ "sheki-halva": {
+  "name": "Halva Shaki",
+  "description": "Manisan renda tepung beras berisi hazelnut dan direndam sirup gula kental.",
+  "history": "Renda beras tipis yang disebut reshta dituang dari corong — rahasia yang diwariskan dalam keluarga Shaki.",
+  "ingredientsText": "Tepung beras, hazelnut, gula, kapulaga, ketumbar, safron"
+ },
+ "sherbet": {
+  "name": "Sherbet",
+  "description": "Minuman manis dingin dari sari buah, kelopak mawar, kemangi, atau safron, disajikan dengan pilaf.",
+  "history": "Sherbet diminum di pernikahan dan perayaan; warna dan aromanya berubah sesuai musim.",
+  "ingredientsText": "Air, gula, air lemon, kelopak mawar atau biji selasih, safron"
+ },
+ "shilaplavi": {
+  "name": "Shilaplavi",
+  "description": "Nasi yang dimasak dengan domba dan bawang hingga lembut dan agak lengket — lebih mirip risotto daripada pilaf pera.",
+  "history": "Shilaplavi dibuat di Svaneti dan Racha untuk perayaan, di panci besar agar cukup untuk setiap tamu.",
+  "ingredientsText": "Beras, daging domba, bawang bombay, garam Svan, minyak sayur"
+ },
+ "shirazi-salad": {
+  "name": "Salad Shirazi",
+  "description": "Mentimun, tomat, dan bawang merah dipotong dadu kecil dengan mint dan verjus atau air lemon.",
+  "history": "Dinamai menurut Shiraz, kota penyair dan taman di Iran selatan.",
+  "ingredientsText": "Mentimun, tomat, bawang merah, mint kering, air lemon, minyak zaitun"
+ },
+ "shirchoy": {
+  "name": "Shirchoy",
+  "description": "Teh dengan susu, mentega, dan garam, kadang dengan potongan roti — sarapan yang mengenyangkan.",
+  "history": "Shirchoy diminum pagi-pagi di pegunungan, tempat ia menghangatkan dan memberi tenaga.",
+  "ingredientsText": "Teh, susu, mentega, garam"
+ },
+ "shirin-plov": {
+  "name": "Pilaf manis",
+  "description": "Pilaf manis dengan buah kering, kastanye, dan safron, disajikan di meja pesta.",
+  "history": "Shirin berarti \"manis\"; salah satu dari banyak jenis pilaf Azerbaijan.",
+  "ingredientsText": "Beras, kismis, aprikot kering, kastanye, mentega, safron, gula"
+ },
+ "shivit-oshi": {
+  "name": "Shivit oshi",
+  "description": "Mi hijau cerah dari adas sowa yang disajikan dengan semur daging dan susu asam — hidangan Khorezm.",
+  "history": "Adas sowa langsung dimasukkan ke adonan, sehingga mi berwarna hijau dan harum.",
+  "ingredientsText": "Tepung terigu, adas sowa, daging sapi, kentang, wortel, susu asam"
+ },
+ "shkmeruli": {
+  "name": "Shkmeruli",
+  "description": "Ayam goreng yang dipanggang dalam saus bawang putih berkrim di wajan tanah liat bernama ketsi. Bawang putihnya berlimpah.",
+  "history": "Hidangan ini berasal dari desa Shkmeri di Racha. Wajan tanah liat menyimpan panas lama, sehingga shkmeruli disajikan di dalamnya.",
+  "ingredientsText": "Ayam, krim atau susu, bawang putih, mentega, garam"
+ },
+ "sholeh-zard": {
+  "name": "Sholeh zard",
+  "description": "Puding nasi manis dengan safron dan air mawar, dihias kayu manis dan almon.",
+  "history": "Sholeh zard dimasak sebagai nazar dan dibagikan kepada tetangga, dihias pola dan tulisan dari kayu manis.",
+  "ingredientsText": "Beras, gula, safron, air mawar, mentega, almon, kayu manis"
+ },
+ "shor-gogal": {
+  "name": "Shor gogal",
+  "description": "Roti berlapis gurih berisi tepung, mentega, adas manis, dan kunyit.",
+  "history": "Shor berarti \"asin\". Shor gogal adalah versi Baku dari gogal Novruz.",
+  "ingredientsText": "Tepung terigu, mentega, telur, ragi, adas manis, kunyit, garam"
+ },
+ "shoti": {
+  "name": "Shoti",
+  "description": "Roti berbentuk kano yang dipanggang di dinding oven tanah liat bundar bernama tone. Renyah di luar, lembut di dalam.",
+  "history": "Toko roti tone ada di setiap distrik Tbilisi. Orang membeli shoti panas di pagi hari dan memakannya di jalan.",
+  "ingredientsText": "Tepung terigu, ragi, air, garam"
+ },
+ "shubat": {
+  "name": "Shubat",
+  "description": "Minuman fermentasi susu unta, kental dan sedikit manis.",
+  "history": "Shubat diminum di Kazakhstan selatan, tempat unta dipelihara.",
+  "ingredientsText": "Susu unta, ragi starter"
+ },
+ "shurpa": {
+  "name": "Shurpa",
+  "description": "Sup domba kaya dengan potongan besar kentang, wortel, tomat, dan daun rempah.",
+  "history": "Shurpa dimasak dalam kazan di atas api; daging sering ditumis dulu sebelum direbus.",
+  "ingredientsText": "Daging domba, kentang, wortel, tomat, bawang bombay, buncis, daun rempah"
+ },
+ "simit": {
+  "name": "Simit",
+  "description": "Roti cincin renyah berlapis wijen yang dijual di gerobak jalanan, dimakan dengan keju dan teh.",
+  "history": "Sebelum dipanggang, simit dicelup ke molase anggur yang memberi kulitnya warna keemasan.",
+  "ingredientsText": "Tepung terigu, ragi, molase anggur, wijen"
+ },
+ "siskal": {
+  "name": "Siskal",
+  "description": "Roti jagung sederhana yang dipanggang di wajan atau di bara, disajikan dengan daging dan kaldu.",
+  "history": "Siskal adalah roti sehari-hari orang Chechnya; di pegunungan dipanggang langsung di abu tungku.",
+  "ingredientsText": "Tepung jagung, air, garam"
+ },
+ "sohan": {
+  "name": "Sohan",
+  "description": "Kepingan renyah dari gula, mentega, dan gandum bertunas dengan safron dan pistachio.",
+  "history": "Sohan adalah manisan khas Qom, dibeli sebagai oleh-oleh dalam kaleng.",
+  "ingredientsText": "Gula, mentega, tepung terigu, gandum bertunas, safron, pistachio, almon"
+ },
+ "sokhta": {
+  "name": "Sokhta",
+  "description": "Sosis rebus dari perut domba yang diisi hati, nasi, dan bawang.",
+  "history": "Sokhta adalah hidangan pesta yang dibuat tepat setelah seekor domba disembelih.",
+  "ingredientsText": "Perut domba, hati, beras, lemak ekor, bawang bombay, lada"
+ },
+ "soko-ketsze": {
+  "name": "Jamur dalam ketsi",
+  "description": "Jamur yang dipanggang dengan sulguni dalam wajan tanah liat ketsi dan disajikan di dalamnya.",
+  "history": "Ketsi tanah liat menyimpan panas, sehingga keju tetap molor hingga jamur terakhir.",
+  "ingredientsText": "Jamur, sulguni, mentega, garam"
+ },
+ "sokos-khinkali": {
+  "name": "Khinkali jamur",
+  "description": "Khinkali berisi jamur, bawang, dan daun rempah — versi tanpa daging dari pangsit terkenal itu.",
+  "history": "Khinkali jamur dimakan pada hari puasa; juga dipegang pada simpulnya, tetapi kuahnya lebih sedikit.",
+  "ingredientsText": "Tepung terigu, jamur, bawang bombay, daun ketumbar, garam"
+ },
+ "spas": {
+  "name": "Spas",
+  "description": "Sup yoghurt panas dengan matsun, biji gandum, telur, dan daun rempah. Lembut, asam, dan menghangatkan.",
+  "history": "Spas adalah sup rumahan musim dingin. Agar yoghurt tidak pecah, sup diaduk terus searah.",
+  "ingredientsText": "Yoghurt matsun, biji gandum, telur, mentega, bawang bombay, mint, daun ketumbar"
+ },
+ "su-boregi": {
+  "name": "Su böreği",
+  "description": "Pai berlapis dari lembaran adonan rebus dengan keju putih dan peterseli, dipanggang dengan mentega.",
+  "history": "\"Börek air\" dinamai demikian karena lembaran adonannya dicelup ke air mendidih sebelum disusun.",
+  "ingredientsText": "Tepung terigu, telur, keju putih, peterseli, mentega"
+ },
+ "sudzhuk": {
+  "name": "Sujuk",
+  "description": "Sosis sapi pipih yang dikeringkan di udara dengan bawang putih dan rempah, diiris tipis.",
+  "history": "Sujuk dikenal di seluruh kawasan, dari Armenia hingga Turki. Keluarga Armenia membuatnya di musim gugur saat udara mendingin.",
+  "ingredientsText": "Daging sapi, lemak sapi, bawang putih, jintan, paprika, lada, garam"
+ },
+ "suluguni": {
+  "name": "Sulguni",
+  "description": "Keju air garam dengan tekstur elastis berlapis dan rasa asin. Dimakan segar, digoreng, dan diasap.",
+  "history": "Sulguni berasal dari Samegrelo. Keju diuleni dalam air panas, sehingga molor dan berlapis.",
+  "ingredientsText": "Susu sapi, rennet, garam"
+ },
+ "sumalak": {
+  "name": "Sumalak",
+  "description": "Pasta manis dari biji gandum bertunas yang dimasak seharian penuh untuk Navruz.",
+  "history": "Sumalak dimasak semalaman oleh seluruh lingkungan sambil bernyanyi dan bergantian mengaduk; tanpa tambahan gula.",
+  "ingredientsText": "Gandum bertunas, tepung terigu, minyak biji kapas, air"
+ },
+ "surj": {
+  "name": "Kopi Armenia",
+  "description": "Kopi kental yang digiling halus, diseduh dalam jazzve dan disajikan dalam cangkir kecil beserta ampasnya.",
+  "history": "Kopi adalah bagian dari keramahan Armenia, dan ampasnya sering \"dibaca\" setelah cangkir habis.",
+  "ingredientsText": "Kopi giling halus, air, gula secukupnya"
+ },
+ "sutlac": {
+  "name": "Sütlaç",
+  "description": "Puding nasi susu yang dipanggang hingga atasnya keemasan dan ditaburi kayu manis.",
+  "history": "Sütlaç dijual di toko muhallebici yang hanya membuat puding susu.",
+  "ingredientsText": "Susu, beras, gula, tepung beras, vanili, kayu manis"
+ },
+ "tahchin": {
+  "name": "Tahchin",
+  "description": "\"Kue\" nasi panggang dengan yoghurt, telur, safron, dan ayam di dalamnya serta kerak renyah.",
+  "history": "Tahchin dibalik ke piring sebelum disajikan untuk memamerkan kerak keemasannya.",
+  "ingredientsText": "Beras, yoghurt, kuning telur, safron, ayam, mentega, barberi"
+ },
+ "tahdig": {
+  "name": "Tahdig",
+  "description": "Kerak nasi renyah keemasan dari dasar panci, disajikan sebagai hidangan tersendiri.",
+  "history": "Orang berebut tahdig di meja — ini bagian nasi Persia yang paling berharga.",
+  "ingredientsText": "Beras, mentega, yoghurt, safron"
+ },
+ "tan": {
+  "name": "Tan",
+  "description": "Minuman segar dari yoghurt matsun yang diencerkan air dingin dengan sejumput garam. Diminum saat panas dan bersama daging.",
+  "history": "Tan adalah cara paling sederhana menikmati matsun dan disajikan hampir di setiap kedai Armenia.",
+  "ingredientsText": "Yoghurt matsun, air dingin, garam"
+ },
+ "tantuni": {
+  "name": "Tantuni",
+  "description": "Daging sapi cincang halus yang digoreng dengan minyak biji kapas dan dibungkus lavash tipis dengan daun rempah.",
+  "history": "Tantuni adalah jajanan jalanan Mersin, dimasak di wajan cembung yang lebar.",
+  "ingredientsText": "Daging sapi, lavash, tomat, bawang bombay, peterseli, sumac, minyak biji kapas"
+ },
+ "tarkhuna": {
+  "name": "Tarkhuna",
+  "description": "Limun soda hijau cerah beraroma tarragon, disajikan dingin.",
+  "history": "Limun dengan sirup alami dipopulerkan Mitrofan Lagidze di Tbilisi pada awal abad ke-20.",
+  "ingredientsText": "Tarragon, gula, air soda, asam sitrat"
+ },
+ "tava-kebab": {
+  "name": "Tava kebab",
+  "description": "Perkedel domba giling yang dipanggang di wajan tava dengan telur dan tomat.",
+  "history": "Tava adalah wajan tempat hidangan disajikan; telur menjaga kebab tetap juicy.",
+  "ingredientsText": "Daging domba, bawang bombay, telur, tomat, garam, lada"
+ },
+ "tavuk-gogsu": {
+  "name": "Tavuk göğsü",
+  "description": "Puding susu dengan serat dada ayam yang sangat halus — ayamnya hampir tak terasa.",
+  "history": "Hidangan penutup unik ini bertahan sejak dapur istana Utsmaniyah.",
+  "ingredientsText": "Dada ayam, susu, gula, tepung beras, kayu manis"
+ },
+ "tendir-chorek": {
+  "name": "Roti tandir",
+  "description": "Roti bundar yang dipanggang di dinding oven tanah liat tandir, berkerak renyah dan berdaging lembut.",
+  "history": "Hampir setiap halaman desa punya tandir, dan rotinya dianggap paling enak di jam-jam pertama setelah dipanggang.",
+  "ingredientsText": "Tepung terigu, ragi, air, garam"
+ },
+ "testi-kebab": {
+  "name": "Testi kebab",
+  "description": "Daging dan sayur dimasak dalam kendi tanah liat tertutup yang dipecahkan di meja.",
+  "history": "Hidangan dari Kapadokia — memecahkan kendi menjadi pertunjukan bagi tamu.",
+  "ingredientsText": "Daging sapi atau domba, tomat, paprika, bawang bombay, bawang putih"
+ },
+ "tika-kebab": {
+  "name": "Tika kebab",
+  "description": "Potongan domba yang dimarinasi ditusuk bersama potongan lemak ekor dan dibakar di atas arang.",
+  "history": "Tika berarti \"potongan\". Ini jenis kebab paling umum dan ada di setiap pesta.",
+  "ingredientsText": "Daging domba, lemak ekor, bawang bombay, garam, lada, sumac"
+ },
+ "tkemali": {
+  "name": "Tkemali",
+  "description": "Saus asam pedas dari plum ceri dengan bawang putih, adas sowa, ketumbar, dan mint pennyroyal. Pendamping wajib sate dan kentang goreng.",
+  "history": "Tkemali adalah nama saus sekaligus plum ceri bahannya. Ada tkemali hijau dari buah mentah dan merah dari buah matang.",
+  "ingredientsText": "Plum ceri, bawang putih, adas sowa, daun ketumbar, mint pennyroyal, cabai, garam"
+ },
+ "tklapi": {
+  "name": "Tklapi",
+  "description": "Lembaran tipis manisan buah asam dari plum ceri atau plum, ditambahkan ke kharcho atau dimakan sebagai camilan.",
+  "history": "Tklapi adalah cara Georgia mengawetkan buah untuk musim dingin, dijemur di atas papan kayu.",
+  "ingredientsText": "Plum ceri atau plum"
+ },
+ "tolma-gruzinskaya": {
+  "name": "Tolma Georgia",
+  "description": "Daun anggur berisi daging, nasi, dan daun rempah, dimasak dalam kaldu dan disajikan dengan matsoni bawang putih.",
+  "history": "Di Georgia tolma dibuat di musim semi dengan daun muda; untuk musim dingin daunnya diasinkan.",
+  "ingredientsText": "Daun anggur, daging sapi dan babi giling, beras, bawang bombay, daun ketumbar, mint, matsoni, bawang putih"
+ },
+ "tsakharadzhyn": {
+  "name": "Tsakharajyn",
+  "description": "Pai Ossetia berisi daun bit dan keju. Adonan tipis, isi melimpah, dan mentega leleh di atasnya.",
+  "history": "Untuk perayaan, pai Ossetia dibuat bertiga, melambangkan matahari, bumi, dan air. Tsakharajyn dibuat di musim semi dan panas saat daun bit masih muda dan lembut.",
+  "ingredientsText": "Tepung terigu, ragi, kefir, mentega, daun bit, keju Ossetia, daun bawang"
+ },
+ "tsitsila-tabaka": {
+  "name": "Ayam tabaka",
+  "description": "Ayam yang dipipihkan dan digoreng di bawah pemberat hingga renyah, disajikan dengan saus bawang putih.",
+  "history": "Namanya berasal dari wajan tapa tempat ayam digoreng di bawah tutup yang berat.",
+  "ingredientsText": "Ayam muda, mentega, bawang putih, garam, lada"
+ },
+ "ttu-lavash": {
+  "name": "Ttu lavash",
+  "description": "Lembaran tipis manisan buah asam-manis dari puree plum, aprikot, atau dogwood, dijemur di matahari.",
+  "history": "Namanya berarti \"lavash asam\". Dibuat di musim panas agar ada vitamin di musim dingin.",
+  "ingredientsText": "Plum, aprikot, atau buah dogwood"
+ },
+ "ttu-solenya": {
+  "name": "Acar Armenia",
+  "description": "Aneka sayur acar: kol, paprika, wortel, bawang putih, tomat hijau.",
+  "history": "Acar disajikan dengan khash dan khorovats dan dibuat di musim gugur dalam toples besar.",
+  "ingredientsText": "Kol, paprika, wortel, bawang putih, tomat hijau, garam"
+ },
+ "tukhum-barak": {
+  "name": "Tukhum barak",
+  "description": "Pangsit Khorezm berisi telur yang dikocok dengan susu dan mentega.",
+  "history": "Isian cair dituang ke adonan dan cepat ditutup, yang butuh keterampilan sungguhan.",
+  "ingredientsText": "Tepung terigu, telur, susu, mentega, garam"
+ },
+ "tuppa": {
+  "name": "Tuppa",
+  "description": "Sup dengan mi pendek buatan sendiri, daging, dan sayur, diakhiri dengan tomat.",
+  "history": "Tuppa dimasak di desa-desa pegunungan Tajik pada musim dingin.",
+  "ingredientsText": "Tepung terigu, daging domba, kentang, wortel, tomat, bawang bombay"
+ },
+ "turshu-govurma": {
+  "name": "Turshu govurma",
+  "description": "Domba goreng dengan bawang, plum asam kering, dan kastanye dalam saus asam-manis.",
+  "history": "Turshu berarti \"asam\"; hidangan ini disajikan dengan pilaf.",
+  "ingredientsText": "Daging domba, bawang bombay, plum asam kering, kastanye, safron"
+ },
+ "tzhvzhik": {
+  "name": "Tjvjik",
+  "description": "Hati dan jeroan lain yang digoreng dengan bawang, tomat, dan rempah. Hidangan cepat dan mengenyangkan.",
+  "history": "Tjvjik dimasak tepat setelah penyembelihan dari jeroan paling segar. Hidangan ini dikenal lewat film Armenia berjudul sama.",
+  "ingredientsText": "Hati sapi atau domba, ginjal, jantung, bawang bombay, tomat, lada, daun ketumbar"
+ },
+ "ualibakh": {
+  "name": "Walibakh",
+  "description": "Pai keju Ossetia. Adonan tipis, isi melimpah, dan mentega leleh di atasnya.",
+  "history": "Untuk perayaan, pai Ossetia dibuat bertiga, melambangkan matahari, bumi, dan air. Walibakh adalah pai Ossetia paling umum dan dibuat hampir setiap hari.",
+  "ingredientsText": "Tepung terigu, ragi, kefir, mentega, keju Ossetia"
+ },
+ "uch-badzhi": {
+  "name": "Dolma \"tiga saudari\"",
+  "description": "\"Tiga saudari\": terung, tomat, dan paprika berisi daging dan nasi yang dimasak bersama.",
+  "history": "Namanya berasal dari memasak tiga sayuran dalam satu panci. Ini versi musim panas dari dolma.",
+  "ingredientsText": "Terung, tomat, paprika, daging domba, beras, bawang bombay, daun rempah"
+ },
+ "urbech": {
+  "name": "Urbech",
+  "description": "Pasta kental dari biji rami, biji aprikot, atau kacang yang digiling dengan batu giling, dimakan dengan madu dan mentega.",
+  "history": "Di pegunungan urbech dibawa dalam perjalanan sebagai sumber energi cepat.",
+  "ingredientsText": "Biji rami, biji aprikot, atau kacang"
+ },
+ "uzbekskiy-plov": {
+  "name": "Plov Uzbek",
+  "description": "Nasi yang dimasak di kazan dengan domba, wortel kuning, buncis, jintan, dan bawang putih utuh.",
+  "history": "Budaya dan tradisi plov tercatat dalam daftar warisan budaya takbenda UNESCO untuk Uzbekistan.",
+  "ingredientsText": "Beras devzira, daging domba, wortel kuning, bawang bombay, buncis, jintan, bawang putih, minyak biji kapas"
+ },
+ "white-cherry-jam": {
+  "name": "Selai ceri putih",
+  "description": "Selai bening dari ceri putih dengan lemon — klasik meja teh Azerbaijan.",
+  "history": "Selai disajikan dalam piring kecil bersama teh dalam gelas armudu berbentuk buah pir.",
+  "ingredientsText": "Ceri putih, gula, lemon"
+ },
+ "yantyk": {
+  "name": "Yantyk",
+  "description": "Pastel tipis berisi daging atau keju, dimasak di wajan kering dan diolesi mentega.",
+  "history": "Yantyk adalah kerabat chebureki, tetapi dimasak di wajan kering, bukan digoreng.",
+  "ingredientsText": "Tepung terigu, daging domba atau keju putih, bawang bombay, mentega"
+ },
+ "yukha": {
+  "name": "Yukha",
+  "description": "Roti tanpa ragi yang sangat tipis, dipanggang di saj dan disimpan kering.",
+  "history": "Sebelum dimakan, yukha dipercik air dan kembali lunak.",
+  "ingredientsText": "Tepung terigu, air, garam"
+ },
+ "zereshk-polo": {
+  "name": "Zereshk polo",
+  "description": "Nasi safron dengan barberi asam, disajikan dengan ayam dan ditaburi pistachio dan almon.",
+  "history": "Barberi yang asam dan safron yang manis menjadikannya hidangan pesta yang cerah.",
+  "ingredientsText": "Beras, barberi, ayam, safron, mentega, gula, pistachio, almon"
+ },
+ "zhent": {
+  "name": "Zhent",
+  "description": "Manisan dari jewawut sangrai yang ditumbuk dengan mentega, gula, kismis, dan kacang.",
+  "history": "Zhent disajikan dengan teh saat perayaan, dipres dan dipotong-potong.",
+  "ingredientsText": "Jewawut, mentega, gula, kismis, kenari, keju cottage"
+ },
+ "zhingyalov-hats": {
+  "name": "Zhingyalov hats",
+  "description": "Roti pipih tipis berisi puluhan jenis daun rempah cincang halus, dimasak di wajan kering dan dimakan panas.",
+  "history": "Hidangan khas Artsakh. Hingga 20 jenis daun liar dan kebun masuk ke satu roti.",
+  "ingredientsText": "Tepung terigu, air, bayam, sorel, jelatang, daun ketumbar, adas sowa, daun bawang, minyak sayur"
+ },
+ "zhizhig-chorpa": {
+  "name": "Zhizhig chorpa",
+  "description": "Kaldu daging yang kaya dengan kentang dan daun rempah, disajikan terpisah dengan zhizhig galnash.",
+  "history": "Chorpa berarti \"kaldu\"; diminum dari mangkuk bersama daging dan pangsit.",
+  "ingredientsText": "Daging sapi atau domba, kentang, bawang bombay, daun rempah, garam"
+ },
+ "zhizhig-galnash": {
+  "name": "Zhizhig galnash",
+  "description": "Daging rebus dengan pangsit tepung terigu atau jagung, kaldu, dan saus bawang putih. Hidangan utama meja Chechnya.",
+  "history": "Namanya berarti \"daging dengan pangsit\". Dimasak saat tamu datang dan untuk perayaan.",
+  "ingredientsText": "Daging sapi atau domba, tepung terigu atau jagung, bawang putih, kaldu, garam"
+ }
+}

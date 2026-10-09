@@ -1,0 +1,805 @@
+{
+  "source": "WordPress gastroguia.ru",
+  "cuisines": [
+    {
+      "slug": "abhazskaya",
+      "name": "Абхазская"
+    },
+    {
+      "slug": "avarskaya",
+      "name": "Аварская"
+    },
+    {
+      "slug": "azerbajdzhanskaya",
+      "name": "Азербайджанская"
+    },
+    {
+      "slug": "armyanskaya",
+      "name": "Армянская"
+    },
+    {
+      "slug": "vajnahskaya",
+      "name": "Вайнахская"
+    },
+    {
+      "slug": "gruzinskaya",
+      "name": "Грузинская"
+    },
+    {
+      "slug": "ingushskaya",
+      "name": "Ингушская"
+    },
+    {
+      "slug": "kabardinskaya",
+      "name": "Кабардинская"
+    },
+    {
+      "slug": "lezginskaya",
+      "name": "Лезгинская"
+    },
+    {
+      "slug": "osetinskaya",
+      "name": "Осетинская"
+    },
+    {
+      "slug": "cherkesskaya",
+      "name": "Черкесская"
+    },
+    {
+      "slug": "chechenskaya",
+      "name": "Чеченская"
+    }
+  ],
+  "dishes": [
+    {
+      "slug": "gata",
+      "legacySlugs": [],
+      "wpIds": [
+        5405,
+        5776,
+        5777
+      ],
+      "name": "Гата",
+      "cuisine": "armyanskaya",
+      "course": "выпечка",
+      "description": "Гата — сладкий символ армянской кухни, который ассоциируется с уютом и домашним теплом. Это слоеная выпечка с начинкой из масла, муки и сахара, которая создает неповторимую текстуру — хрустящую снаружи и мягкую внутри. Гата может быть круглой, как солнце, или разделенной на порционные кусочки. Ее часто готовят к праздникам или просто как угощение к чаю. Каждый регион Армении имеет свой уникальный рецепт этого десерта.",
+      "quote": "Каждый регион Армении имеет свой уникальный рецепт гаты, но неизменным остается одно — ее способность объединять людей за одним столом",
+      "history": "Первое письменное упоминание о гате встречается в XIII веке, но точно неизвестно, когда же точно появился этот десерт.  Несомненно, он cуществует столько же, сколько и сам армянский народ. Это блюдо впитало в себя национальный дух. Несмотря на то что армяне вплоть до начала XX века находились в крайне неблагоприятных условиях, но все же сумели сохранить самобытность и культурные ценности. Гату ценят и любят как на родине, так и среди рассеявшихся по земле диаспор.   Даже вдалеке от родной земли народ сохранил национальные черты своей кухни.",
+      "ingredientsText": "Мука пшеничная 58 г Масло сливочное 33 г Мацони из коровьего молока 20 г Сода пищевая 1 ч.л. Соль на кончике ножа\nДля начинки: Масло топлёное 13 г Сахар ванильный 1 ч.л. Мука пшеничная 40 г Сахарная пудра 41 г",
+      "allergens": [
+        "Глютен",
+        "Лактоза",
+        "Сахар"
+      ],
+      "ingredients": [],
+      "image": "/wp-content/uploads/2025/04/gata-.jpg",
+      "translations": {
+        "en": {
+          "name": "Gata",
+          "description": "Gata is a sweet symbol of Armenian cuisine, which is associated with comfort and home warmth. It is a puff pastry with a filling of butter, flour and sugar, which creates a unique texture — crispy on the outside and soft on the inside. The gata can be round, like the sun, or divided into portions. It is often prepared for holidays or just as a treat for tea. Each region of Armenia has its own unique recipe for this dessert.",
+          "quote": "Each region of Armenia has its own unique recipe for ghat, but one thing remains unchanged — its ability to bring people together at the same table",
+          "history": null,
+          "ingredientsText": "Wheat flour 58 g Butter 33 g cow's milk Matzoni 20 g Baking soda 1 tsp Salt on the tip of a knife\nFor filling: Melted butter 13 g Vanilla sugar 1 tsp Wheat flour 40 g Powdered sugar 41 g",
+          "allergens": [
+            "Lactose",
+            "Gluten",
+            "Sugar"
+          ]
+        },
+        "es": {
+          "name": "Gata",
+          "description": "Gata es un símbolo dulce de la cocina Armenia, que se asocia con la comodidad y el calor del hogar. Es un pastel de hojaldre relleno de mantequilla, harina y azúcar que crea una textura única: crujiente por fuera y suave por dentro. El gata puede ser redondo como el sol o dividido en porciones. A menudo se prepara para las vacaciones o simplemente como un regalo para el té. Cada región de Armenia tiene su propia receta única para este postre.",
+          "quote": "Cada región de Armenia tiene su propia receta única de Ghats, pero una cosa permanece sin cambios: su capacidad para unir a las personas en una mesa.",
+          "history": "La primera mención escrita de Gotha se encuentra en el siglo XIII, pero no se sabe exactamente cuándo apareció este postre.  Sin duda, existe tanto como el propio pueblo armenio. Este plato absorbió el espíritu nacional. A pesar de que los armenios se encontraban en condiciones extremadamente desfavorables hasta principios del siglo XX, lograron preservar su identidad y sus valores culturales. Los Ghats son apreciados y amados tanto en su tierra natal como entre las diásporas dispersas por la tierra.\n\nIncluso lejos de su tierra natal, la gente ha conservado las características nacionales de su cocina.",
+          "ingredientsText": "Harina de trigo 58 G Mantequilla 33 G Matzoni de leche de vaca 20 G Soda de grado alimenticio 1 cucharadita sal En la punta del cuchillo para el relleno: mantequilla derretida 13 G azúcar de vainilla 1 cucharadita Harina de trigo 40 G Azúcar en polvo 41 G",
+          "allergens": [
+            "Azúcar",
+            "Gluten",
+            "Lactosa"
+          ]
+        }
+      }
+    },
+    {
+      "slug": "dolma-armyanskaya",
+      "legacySlugs": [
+        "dolma"
+      ],
+      "wpIds": [
+        5399,
+        6100,
+        6101
+      ],
+      "name": "Долма",
+      "cuisine": "armyanskaya",
+      "course": "основное",
+      "description": "Долма — одно из самых изысканных блюд армянской кухни, которое символизирует гостеприимство и теплоту армянского дома. Виноградные листья, нежные и слегка кисловатые, оборачивают начинку из риса, рубленого мяса и ароматных трав. Каждый рулетик — это маленький шедевр, который тает во рту. Долму подают с мацуном (армянским йогуртом) или чесночным соусом, чтобы подчеркнуть ее насыщенный вкус. Это блюдо — обязательный атрибут праздничного стола и семейных обедов.",
+      "quote": "Долма — это искусство баланса: нежный фарш, ароматный рис и сочные виноградные листья создают гармонию вкуса, которая покоряет с первого укуса",
+      "history": null,
+      "ingredientsText": "Листья винограда 400 г Говядина 600 г Свинина 100 г Рис длиннозерный 100 г Лук репчатый 100 г Базилик свежий 20 г Петрушка 20 г Кинза 20 г Перец чёрный молотый Соль",
+      "allergens": [],
+      "ingredients": [],
+      "image": "/wp-content/uploads/2025/04/dolma-.jpg",
+      "translations": {
+        "en": {
+          "name": "Dolma",
+          "description": "Dolma is one of the most exquisite dishes of Armenian cuisine, which symbolizes the hospitality and warmth of the Armenian home. The grape leaves, tender and slightly sour, wrap a filling of rice, minced meat and aromatic herbs. Each roll is a little masterpiece that melts in your mouth. Dolma is served with matsun (Armenian yogurt) or garlic sauce to emphasize its rich flavor. This dish is an obligatory attribute of the festive table and family dinners.",
+          "quote": "Dolma is the art of balance: tender minced meat, fragrant rice and juicy grape leaves create a harmony of taste that conquers from the first bite",
+          "history": null,
+          "ingredientsText": "Grape leaves 400 g Beef 600 g Pork 100 g Long-grain rice 100 g Onion 100 g Fresh basil 20 g Parsley 20 g Coriander 20 g Ground black pepper Salt",
+          "allergens": []
+        },
+        "es": {
+          "name": "Dolma",
+          "description": "Dolma es uno de los platos más exquisitos de la cocina Armenia, que simboliza la hospitalidad y la calidez de la casa Armenia. Las hojas de uva, tiernas y ligeramente ácidas, envuelven el relleno de arroz, carne picada y hierbas aromáticas. Cada rollo es una pequeña obra maestra que se derrite en la boca. Dolmu se sirve con matsun (yogur armenio) o salsa de ajo para resaltar su rico sabor. Este plato es un atributo obligatorio de la mesa festiva y las cenas familiares.",
+          "quote": "Dolma es el arte del equilibrio: la tierna carne picada, el arroz fragante y las jugosas hojas de uva crean una armonía de sabor que conquista desde el primer bocado",
+          "history": null,
+          "ingredientsText": "Листья винограда 400 г Говядина 600 г Свинина 100 г Рис длиннозерный 100 г Лук репчатый 100 г Базилик свежий 20 г Петрушка 20 г Кинза 20 г Перец чёрный молотый Соль",
+          "allergens": []
+        }
+      }
+    },
+    {
+      "slug": "dolma-azerbajdzhanskaya",
+      "legacySlugs": [
+        "dolma-2"
+      ],
+      "wpIds": [
+        5413,
+        5590,
+        5591
+      ],
+      "name": "Долма",
+      "cuisine": "azerbajdzhanskaya",
+      "course": "основное",
+      "description": "Долма — одно из самых любимых блюд азербайджанской кухни, которое готовится с особым вниманием к деталям. Виноградные листья или овощи (баклажаны, помидоры, перец) наполняются начинкой из риса, рубленого мяса и ароматных трав. Каждый рулетик или овощ — это маленькое произведение искусства, которое тает во рту. Долма подается с чесночным соусом или мацони, чтобы подчеркнуть ее насыщенный вкус. Это блюдо — обязательный атрибут праздничного стола.",
+      "quote": "Азербайджанская долма — это не только виноградные листья. Ее готовят также из баклажанов, перцев, помидоров и даже фруктов, таких как айва",
+      "history": "Исторически название \"долма\" происходит от тюркского глагола \"долдурмак\", означающего \"наполнять\".\n\nВ Азербайджане долма имеет множество разновидностей, где кроме виноградных листьев используются различные овощи и фрукты (перец, помидоры, айва, баклажаны и др.).",
+      "ingredientsText": "фарш (баранина и говядина) 100 г виноградные листья 120 г мята ⅕ пучка кинза свежая ⅕ пучка укроп свежий ⅕ пучка сливочное масло 20 г рис ⅘ ст. л. лук репчатый ⅕ головки соль по вкусу перец черный молотый по вкусу",
+      "allergens": [
+        "Глютен"
+      ],
+      "ingredients": [],
+      "image": "/wp-content/uploads/2025/04/dolma-1.jpg",
+      "translations": {
+        "en": {
+          "name": "Dolma",
+          "description": "Dolma is one of the most beloved dishes of Azerbaijani cuisine, which is prepared with special attention to detail. Grape leaves or vegetables (eggplant, tomatoes, peppers) are filled with a filling of rice, minced meat and aromatic herbs. Each roll or vegetable is a small work of art that melts in your mouth. Dolma is served with garlic sauce or matsoni to emphasize its rich taste. This dish is a must-have attribute of the festive table.",
+          "quote": "Azerbaijani dolma is not only grape leaves. It is also prepared from eggplants, peppers, tomatoes and even fruits such as quince",
+          "history": null,
+          "ingredientsText": "Minced meat (lamb and beef) 100 g\nGrape leaves 120 g\nMint ⅕ bunch\nFresh cilantro ⅕ bunch\nfresh dill ⅕ bunch\nButter 20 g\nRice ⅘ tbsp\nOnion ⅕ head\nSalt to taste\nGround black pepper to taste",
+          "allergens": []
+        },
+        "es": {
+          "name": "Dolma",
+          "description": "La dolma es uno de los platos más queridos de la cocina azerbaiyana, que se prepara con especial atención al detalle. Las hojas de parra o de verduras (berenjenas, tomates, pimientos) se rellenan con un relleno de arroz, carne picada y hierbas aromáticas. Cada rollito o verdura es una pequeña obra de arte que se derrite en la boca. El dolma se sirve con salsa de ajo o matsoni para resaltar su rico sabor. Este plato es imprescindible en cualquier mesa festiva.",
+          "quote": "La dolma azerbaiyana no se prepara solo con hojas de parra. También se prepara con berenjenas, pimientos, tomates e incluso frutas como el membrillo.",
+          "history": null,
+          "ingredientsText": "carne picada (cordero y ternera) 100 g\nde hojas de parra 120 g\nde menta ⅕ de manojo\nde cilantro fresco ⅕ de manojo\nde eneldo fresco ⅕ de manojo\nde mantequilla 20 g\nde arroz ⅘ cucharada. yo.\ncebolla ⅕ cabeza\nsal al gusto\npimienta negra molida al gusto",
+          "allergens": []
+        }
+      }
+    },
+    {
+      "slug": "kutaby",
+      "legacySlugs": [],
+      "wpIds": [
+        5411,
+        5771
+      ],
+      "name": "Кутабы",
+      "cuisine": "azerbajdzhanskaya",
+      "course": "выпечка",
+      "description": "Кутабы — тонкие лепешки из теста, которые покоряют своей простотой и изысканным вкусом. Начинка может быть самой разнообразной: от сочной зелени (кинза, укроп, шпинат) до нежного мяса или тыквы. Кутабы жарятся на сухой сковороде до золотистой корочки, а затем смазываются топленым маслом для особой мягкости. Подаются с йогуртом или кисломолочным напитком, чтобы подчеркнуть их насыщенный вкус. Это блюдо — идеальный перекус или легкий ужин.",
+      "quote": "Кутабы — это тонкие лепешки с начинкой, которые можно назвать азербайджанской версией пирожков. Их готовят с мясом, зеленью, тыквой или сыром, а подают с кисломолочными соусами",
+      "history": "История кутабов уходит корнями в глубокую древность, когда люди использовали остатки теста от выпечки хлеба для создания этого вкусного блюда.",
+      "ingredientsText": "Мука пшеничная 96 г Масло растительное рафинированное 1 ст.л. Лук репчатый 1 шт. Масло сливочное 1 ст.л. Петрушка 80 г Сумах по вкусу Соль на кончике ножа",
+      "allergens": [
+        "Сахар",
+        "Глютен"
+      ],
+      "ingredients": [],
+      "image": "/wp-content/uploads/2025/04/kutaby-.jpg",
+      "translations": {
+        "es": {
+          "name": "Kutaba",
+          "description": "Los kutabs son tortillas finas hechas de masa que conquistan con su simplicidad y sabor exquisito. El relleno puede ser muy diverso: desde verduras jugosas (cilantro, eneldo, espinacas) hasta carne tierna o calabaza. Los kutabs se fríen en una sartén seca hasta que estén dorados y luego se untan con ghee para una suavidad especial. Se sirve con yogur o una bebida de leche fermentada para resaltar su rico sabor. Este plato es un bocadillo perfecto o una cena ligera.",
+          "quote": "Los kutabs son tortillas delgadas con relleno que se pueden llamar la versión Azerbaiyana de las empanadas. Se preparan con carne, verduras, calabaza o queso, y se sirven con salsas de leche fermentada.",
+          "history": null,
+          "ingredientsText": "Harina de trigo 96 G aceite vegetal refinado 1 Art. l Cebolla 1 PC Mantequilla 1 Art. l perejil 80 G zumaque al gusto sal en la punta Del cuchillo",
+          "allergens": [
+            "Azúcar",
+            "Lactosa",
+            "Gluten"
+          ]
+        }
+      }
+    },
+    {
+      "slug": "lahmadzho",
+      "legacySlugs": [],
+      "wpIds": [
+        5403,
+        5778,
+        5779
+      ],
+      "name": "Лахмаджо",
+      "cuisine": "armyanskaya",
+      "course": "выпечка",
+      "description": "Лахмаджо — армянская \"пицца\", которая покоряет своей простотой и насыщенным вкусом. Тонкая лепешка из теста покрывается слоем фарша, томатов, лука и ароматных специй, а затем запекается до хрустящей корочки. Лахмаджун — это идеальное сочетание нежности теста и сочности начинки. Его часто сворачивают в рулет и едят с зеленью, лимонным соком или мацуном. Это блюдо — популярный уличный перекус и любимое лакомство всей семьи.",
+      "quote": "Армяне говорят, что лахмаджо — это 'еда для души'. Его простота и насыщенность вкуса делают его любимым блюдом как у местных, так и у гостей страны",
+      "history": "В арабских странах блюдо называют лахмакун или лахме би аджин. В ожидании своего заказа многие посетители внимательно наблюдают за трансформацией теста в печи — сперва оно растекается, после пузырится и поднимается. Весь процесс занимает несколько секунд.\n\nАрмяне являются крупнейшей христианской общиной в Иордании, после арабов-христиан. Иорданские армяне в большинстве своем последователи Армянской апостольской церкви, находящейся под юрисдикцией Иерусалимского патриархата. Незначительное количество армян являются последователями Армянской католической церкви. Церковь Св. Фаддея в Аммане — служит Армянской Апостольской Церкви, в то время как армянские католики имеют свой собственный приход в армянском квартале в Джебель Аль-Ашрафие в восточной части Аммана.",
+      "ingredientsText": "Для теста: кефир (мацони) – 250 мл пшеничная мука – 400-450 г соль – 0,5 ч. л.",
+      "allergens": [
+        "Глютен",
+        "Лактоза",
+        "Сахар"
+      ],
+      "ingredients": [],
+      "image": "/wp-content/uploads/2025/04/lahmadzho.jpg",
+      "translations": {
+        "en": {
+          "name": "Lahmajo",
+          "description": "Lahmajo is an Armenian \"pizza\" that captivates with its simplicity and rich taste. A thin cake of dough is covered with a layer of minced meat, tomatoes, onions and aromatic spices, and then baked until crisp. Lahmajun is the perfect combination of the tenderness of the dough and the juiciness of the filling. It is often rolled into a roll and eaten with herbs, lemon juice or matsun. This dish is a popular street snack and a favorite treat of the whole family.",
+          "quote": "Armenians say that lahmajo is 'food for the soul.' Its simplicity and richness of taste make it a favorite dish among both locals and visitors of the country.",
+          "history": null,
+          "ingredientsText": "For the dough: kefir (matzoni) – 250 ml wheat flour – 400-450 g salt – 0.5 tsp.",
+          "allergens": [
+            "Sugar",
+            "Gluten",
+            "Lactose"
+          ]
+        },
+        "es": {
+          "name": "Lahmaggio",
+          "description": "Lahmajo es una \"pizza\" Armenia que conquista con su simplicidad y sabor rico. Una tortilla delgada de masa se cubre con una capa de carne picada, tomates, cebollas y especias aromáticas, y luego se hornea hasta que estén crujientes. Lahmajun es la combinación perfecta de la ternura de la masa y la jugosidad del relleno. A menudo se enrolla en un rollo y se come con verduras, jugo de limón o matsun. Este plato es un bocadillo callejero popular y un regalo favorito de toda la familia.",
+          "quote": "El aroma fragante de las especias, el sabor explosivo de la carne de cordero y el pan crujiente con un sabor brillante de tomate y cebollas fritas dulces... los Clientes toman sus pedidos, pero muchos devoran lamaggio antes de salir de la tienda",
+          "history": "En los países Árabes, el plato se llama lahmakun o lahme be ajin. En espera de su pedido, muchos visitantes observan cuidadosamente la transformación de la masa en el horno: primero se extiende, luego burbujea y se eleva. Todo el proceso lleva unos segundos.\n\nLos armenios son la comunidad cristiana más grande de Jordania, después de los Árabes cristianos. Los armenios jordanos son en su mayoría seguidores de la iglesia apostólica Armenia, bajo la jurisdicción del Patriarcado de Jerusalén. Un pequeño número de armenios son seguidores de la iglesia católica Armenia. Iglesia de San Tadeo en Amman-sirve a la Iglesia apostólica Armenia, mientras que los católicos armenios tienen su propia parroquia en el barrio armenio en Jebel al-Ashrafieh en el este de Amman.",
+          "ingredientsText": "Para la masa: kéfir (matsoni) – 250 ml harina de trigo – 400-450 G sal-0,5 TSP.",
+          "allergens": [
+            "Azúcar",
+            "Gluten",
+            "Lactosa"
+          ]
+        }
+      }
+    },
+    {
+      "slug": "lobio",
+      "legacySlugs": [
+        "lobio-2"
+      ],
+      "wpIds": [
+        5395
+      ],
+      "name": "Лобио",
+      "cuisine": "gruzinskaya",
+      "course": "основное",
+      "description": "Лобио — блюдо, которое доказывает, что фасоль может быть настоящим деликатесом. Вареная фасоль, заправленная грецкими орехами, чесноком, кинзой и специями, превращается в нежную и ароматную массу. Лобио может быть как горячим, так и холодным, а его текстура варьируется от густого пюре до цельных зерен. Подается в глиняных горшочках, что добавляет блюду аутентичности и тепла.",
+      "quote": "Лобио — это блюдо, которое рассказывает о грузинском гостеприимстве. Его подают с гоми (кукурузной кашей) или просто с лавашом",
+      "history": null,
+      "ingredientsText": "Фасоль – 63 г (красная или пестрая) Орехи грецкие – 13 г Лук репчатый – 0.4 шт. Помидор – 0.3 шт. Чеснок – 0.4 зуб. Кинза – 1.5 г Хмели-сунели – 0.1 ст.л. Перец красный жгучий – 0.1 шт. Соль – по вкусу Масло растительное – 0.3 ст.л. Перец черный – по вкусу",
+      "allergens": [],
+      "ingredients": [],
+      "image": "/wp-content/uploads/2025/04/lobio-.jpg",
+      "translations": {}
+    },
+    {
+      "slug": "pahlava",
+      "legacySlugs": [
+        "pahlava-2"
+      ],
+      "wpIds": [
+        5417
+      ],
+      "name": "Пахлава",
+      "cuisine": "azerbajdzhanskaya",
+      "course": "десерт",
+      "description": "Пахлава — сладкий символ азербайджанской кухни, который покоряет своей слоистой текстурой и насыщенным вкусом. Тонкие слои теста, пропитанные медом или сиропом, чередуются с начинкой из измельченных орехов (чаще всего грецких или фундука). Каждый кусочек пахлавы — это сочетание хрустящей корочки и нежной начинки, которое тает во рту. Пахлава — обязательный атрибут праздничного стола, особенно во время Новруза и других торжеств.",
+      "quote": "Пахлава — это не просто десерт, это часть культуры. Ее готовят на Новруз, свадьбы и другие торжества, чтобы поделиться радостью и благодарностью",
+      "history": "Азербайджанская пахлава – это многослойный десерт с орехами и сиропом, который играет важную роль в азербайджанской культуре и праздниках.\n\nХотя историки указывают на ранние упоминания о пахлаве в кулинарных книгах Османской империи (XV век), Азербайджан также может претендовать на свою долю в истории этого десерта.",
+      "ingredientsText": "Для теста: Мука пшеничная 1-го сорта 35 г Молоко 12 мл Масло сливочное 6 г Яйцо куриное 1 шт. Сахар-песок 4 г Дрожжи сухие 1 г Соль 1 г\nДля начинки: Грецкий орех 30 г Масло сливочное 8 г Сахар-песок 15 г Крахмал картофельный 1 ст.л.\nДля сиропа: Мед 10 г Сахар-песок 10 г Вода 10 мл Лимонный сок 1 ст.л.",
+      "allergens": [
+        "Сахар",
+        "Лактоза",
+        "Глютен"
+      ],
+      "ingredients": [],
+      "image": "/wp-content/uploads/2025/04/pahlava-.jpg",
+      "translations": {}
+    },
+    {
+      "slug": "plov",
+      "legacySlugs": [],
+      "wpIds": [
+        5409,
+        5772,
+        5773
+      ],
+      "name": "Плов",
+      "cuisine": "azerbajdzhanskaya",
+      "course": "основное",
+      "description": "Плов — король азербайджанской кухни, блюдо, которое объединяет в себе богатство вкусов и традиций. В Азербайджане плов готовят с особым трепетом: рис, приготовленный на пару, подается с ароматным мясом (чаще всего бараниной), сухофруктами, каштанами и специями. Каждый компонент плова готовится отдельно, а затем соединяется в гармоничное целое. Плов — это не просто еда, это символ гостеприимства и праздника, который подается на больших торжествах и семейных обедах.",
+      "quote": "Шафран — это секрет золотистого цвета и неповторимого аромата азербайджанского плова. Его добавляют в воду для риса, чтобы каждое зернышко блестело, как драгоценность",
+      "history": "Плов, как и другие восточные блюда, имеет корни в древней Персии и Средней Азии. Считается, что плов возник в древней Персии, где рис, как основной продукт, использовался с мясом и специями для создания этого блюда.\n\nПлов распространялся по всему Востоку благодаря торговым путям и военным походами, в том числе и в Азербайджан. В азербайджанской кухне существует множество вариаций плова, которые отличаются друг от друга по способу приготовления и используемым ингредиентам.",
+      "ingredientsText": "Четыре большие луковицы, полстакана изюма, стакан кураги, полстакана чернослива, полкилограмма каштанов, щепотка корицы, 2–3 пачки сливочного масла, для газмаха – полстакана муки, яйцо и кефир",
+      "allergens": [],
+      "ingredients": [],
+      "image": "/wp-content/uploads/2025/04/plov-.jpg",
+      "translations": {
+        "en": {
+          "name": "Pilaf",
+          "description": "Pilaf is the king of Azerbaijani cuisine, a dish that combines a wealth of flavors and traditions. In Azerbaijan, pilaf is prepared with special trepidation: steamed rice is served with fragrant meat (most often lamb), dried fruits, chestnuts and spices. Each component of the pilaf is prepared separately, and then combined into a harmonious whole. Pilaf is not just a meal, it is a symbol of hospitality and celebration, which is served at large celebrations and family dinners.",
+          "quote": "Saffron is the secret of the golden color and unique flavor of Azerbaijani pilaf. It is added to rice water so that each grain glitters like a jewel.",
+          "history": null,
+          "ingredientsText": "Four large onions, half a cup of raisins, a glass of dried apricots, half a cup of prunes, half a kilogram of chestnuts, a pinch of cinnamon, 2-3 packs of butter, for gazmakh – half a cup of flour, egg and kefir",
+          "allergens": [
+            "Gluten"
+          ]
+        },
+        "es": {
+          "name": "Plov",
+          "description": "El pilaf es el rey de la cocina Azerbaiyana, un plato que combina una gran cantidad de sabores y tradiciones. En Azerbaiyán, el pilaf se prepara con una emoción especial: el arroz al vapor se sirve con carne fragante (la mayoría de las veces cordero), frutas secas, castañas y especias. Cada componente del pilaf se prepara por separado y luego se combina en un todo armonioso. El pilaf no es solo comida, es un símbolo de hospitalidad y celebración que se sirve en grandes celebraciones y cenas familiares.",
+          "quote": "El azafrán es el secreto del color dorado y el aroma único del pilaf azerbaiyano. Se agrega al agua de arroz para que cada grano brille como una joya.",
+          "history": null,
+          "ingredientsText": "Cuatro cebollas grandes, media taza de pasas, un vaso de albaricoques secos, media taza de ciruelas pasas, medio kilo de castañas, una pizca de canela, 2-3 paquetes de mantequilla, para gazmakh-media taza de harina, huevo y kéfir",
+          "allergens": [
+            "Gluten",
+            "Azúcar"
+          ]
+        }
+      }
+    },
+    {
+      "slug": "saczivi",
+      "legacySlugs": [
+        "saczivi-2"
+      ],
+      "wpIds": [
+        5397,
+        6097,
+        6098
+      ],
+      "name": "Сациви",
+      "cuisine": "gruzinskaya",
+      "course": "основное",
+      "description": "Сациви — это изысканное блюдо, которое подается холодным и поражает своей сложной текстурой и вкусом. Основу соуса составляют грецкие орехи, перетертые с чесноком, специями и уксусом, что создает густую, бархатистую массу. В этот соус добавляют отварную курицу или индейку, а затем блюдо настаивается, чтобы все ароматы соединились в гармонии. Сациви — обязательный атрибут грузинского праздничного стола.",
+      "quote": "Сациви — это рождественское блюдо, которое готовят с грецкими орехами, кинзой и специями. Оно символизирует изобилие и радость",
+      "history": null,
+      "ingredientsText": "курица или индейка – 1 шт. (весом до 2 кг) сливочное масло – 20 г репчатый лук – 1 кг кинза – 4 веточки очищенные грецкие орехи – 600 г свежемолотый черный перец – 1 ст. л. молотый кориандр – 1 ст. л. молотый имеретинский шафран – 1 ст. л. бутоны гвоздики – 3-6 шт. молотая корица – на кончике ножа чеснок – 4–8 зубчиков белый винный уксус – 1 ст. л. соль – по вкусу",
+      "allergens": [],
+      "ingredients": [],
+      "image": "/wp-content/uploads/2025/04/saczivi-.jpg",
+      "translations": {
+        "en": {
+          "name": "Satsivi",
+          "description": "Satsivi is an exquisite dish that is served cold and impresses with its complex texture and taste. The sauce is based on walnuts ground with garlic, spices and vinegar, which creates a thick, velvety mass. Boiled chicken or turkey is added to this sauce, and then the dish is infused so that all the flavors combine in harmony. Satsivi is an obligatory attribute of the Georgian festive table.",
+          "quote": "Satsivi is a Christmas dish that is prepared with walnuts, cilantro and spices. It symbolizes abundance and joy.",
+          "history": null,
+          "ingredientsText": "курица или индейка – 1 шт. (весом до 2 кг) сливочное масло – 20 г репчатый лук – 1 кг кинза – 4 веточки очищенные грецкие орехи – 600 г свежемолотый черный перец – 1 ст. л. молотый кориандр – 1 ст. л. молотый имеретинский шафран – 1 ст. л. бутоны гвоздики – 3-6 шт. молотая корица – на кончике ножа чеснок – 4–8 зубчиков белый винный уксус – 1 ст. л. соль – по вкусу",
+          "allergens": [
+            "Lactose"
+          ]
+        },
+        "es": {
+          "name": "Satsivi",
+          "description": "Satsivi es un plato refinado que se sirve frío y sorprende por su compleja textura y sabor. La base de la salsa es nueces molidas con ajo, especias y vinagre, lo que crea una masa espesa y aterciopelada. Se agrega pollo o pavo hervido a esta salsa, y luego se infunde el plato para que todos los sabores se unan en armonía. Satsivi es un atributo obligatorio de la mesa festiva georgiana.",
+          "quote": "Satsivi es un plato navideño que se prepara con nueces, cilantro y especias. Simboliza la abundancia y la alegría.",
+          "history": null,
+          "ingredientsText": "pollo o pavo – 1 PC. (peso hasta 2 kg) mantequilla – 20 G cebolla – 1 kg cilantro – 4 ramitas nueces peladas – 600 G pimienta negra recién molida – 1 Art. l cilantro molido – 1 Art. l. azafrán Imereti molido – 1 Art. l. brotes de clavo de olor – 3-6 PCs. canela molida – en la punta del cuchillo ajo – 4-8 dientes vinagre de vino blanco – 1 Art. L. sal – al gusto",
+          "allergens": []
+        }
+      }
+    },
+    {
+      "slug": "hachapuri",
+      "legacySlugs": [],
+      "wpIds": [
+        5373,
+        6092,
+        6094
+      ],
+      "name": "Хачапури",
+      "cuisine": "gruzinskaya",
+      "course": "выпечка",
+      "description": "Хачапури — визитная карточка грузинской кухни, сырная лепешка, которая покоряет сердца своей простотой и насыщенным вкусом. Тонкое тесто, наполненное расплавленным сыром сулугуни или имеретинским, создает идеальный баланс хрустящей корочки и нежной начинки. В зависимости от региона, хачапури может быть круглым (имеретинский), лодочкой (аджарский) или слоеным (мегрельский). Подается горячим, чтобы сыр тянулся, как настоящая грузинская душа.",
+      "quote": "Хачапури — это не просто сырный пирог, это целая кулинарная культура Грузии. Независимо от того, в каком регионе вы находитесь, хачапури всегда найдет место на вашем столе",
+      "history": null,
+      "ingredientsText": "Молоко коровье – 250 мл; Вода – 250 мл; Свежие дрожжи – 10 г; Сахар – 10 г; Соль – 5 г; Мука высшего сорта – 700 г; Яйца куриные – 2 шт; Рафинированное подсолнечное масло – 120 г; Сыр Сулугуни – 300 г; Сыр Брынза – 300 г; Твердый сыр – 50 г; Сливочное масло – 100 г;",
+      "allergens": [],
+      "ingredients": [],
+      "image": "/wp-content/uploads/2025/04/hachapuri.jpg",
+      "translations": {
+        "en": {
+          "name": "Khachapuri",
+          "description": "Khachapuri is a hallmark of Georgian cuisine, a cheese flatbread that wins hearts with its simplicity and rich taste. A thin dough filled with melted suluguni or Imereti cheese creates the perfect balance of crispy crust and delicate filling. Depending on the region, khachapuri can be round (Imereti), boat (Adjara) or puff (Megrelian). It is served hot so that the cheese stretches like a real Georgian soul.",
+          "quote": "Khachapuri is not just a cheese pie, it is the whole culinary culture of Georgia. No matter what region you are in, khachapuri will always find a place on your table",
+          "history": null,
+          "ingredientsText": "Cow's milk – 250 ml; Water – 250 ml; Fresh yeast – 10 g; Sugar – 10 g; Salt – 5 g; Premium flour – 700 g; Chicken eggs – 2 pcs; Refined sunflower oil – 120 g; Suluguni cheese – 300 g; Cheese cheese – 300 g; Hard cheese – 50 g; Butter – 100 g;",
+          "allergens": [
+            "Sugar",
+            "Gluten",
+            "Lactose"
+          ]
+        },
+        "es": {
+          "name": "Khachapuri",
+          "description": "Khachapuri es la tarjeta de visita de la cocina georgiana, una tortilla de queso que conquista los corazones con su simplicidad y rico sabor. La masa delgada rellena con queso derretido suluguni o Imereti crea el equilibrio perfecto de crujiente y relleno tierno. Dependiendo de la región, khachapuri puede ser redondo (Imereti), barco (Adjara) o Puff (megrelian). Se sirve caliente para que el queso se extienda como un verdadero alma georgiana.",
+          "quote": "Khachapuri no es solo un pastel de queso, es toda la cultura culinaria de Georgia. No importa en qué región se encuentre, khachapuri siempre encontrará un lugar en su Escritorio.",
+          "history": null,
+          "ingredientsText": "Leche de vaca-250 ml; Agua - 250 ml; levadura Fresca - 10 G; Azúcar - 10 G; sal – 5 G; Harina de grado superior - 700 G; Huevos de pollo – 2 piezas; aceite de girasol Refinado – 120 G; queso Suluguni – 300 G; queso Brynza – 300 G; queso Duro-50 G; mantequilla – 100 G;",
+          "allergens": [
+            "Azúcar",
+            "Gluten",
+            "Lactosa"
+          ]
+        }
+      }
+    },
+    {
+      "slug": "hash",
+      "legacySlugs": [],
+      "wpIds": [
+        5401
+      ],
+      "name": "Хаш",
+      "cuisine": "armyanskaya",
+      "course": "суп",
+      "description": "Хаш — это не просто суп, это легенда армянской кухни, блюдо, которое требует времени, терпения и уважения к традициям. Готовится он из говяжьих ножек, которые долго варятся до состояния, когда мясо буквально отваливается от костей. Подается хаш горячим, с чесноком, зеленью и сухим лавашом, который добавляют прямо в бульон. Это блюдо традиционно едят ранним утром, часто после долгих застолий, чтобы восстановить силы.",
+      "quote": "Хаш — это блюдо, которое объединяет. Его традиционно едят ранним утром, чтобы зарядиться энергией на весь день",
+      "history": "Блюдо изначально было блюдом бедняков, а позже стало символом армянской культуры и кулинарной традиции.\n\nСуществует легенда о царе, который, заночевав в деревне, попробовал хаш и настолько ему понравился, что он сделал его главным угощением своего стола.",
+      "ingredientsText": "Говяжья нога 1½ кг Говяжий рубец 500 г Чеснок 3 головки Редька 1 штука",
+      "allergens": [],
+      "ingredients": [],
+      "image": "/wp-content/uploads/2025/04/hash.jpg",
+      "translations": {}
+    },
+    {
+      "slug": "hingalsh",
+      "legacySlugs": [],
+      "wpIds": [
+        3810,
+        5780,
+        5781
+      ],
+      "name": "Хингалш",
+      "cuisine": "chechenskaya",
+      "course": "выпечка",
+      "description": "Хингалаш — уникальное блюдо чеченской кухни — лепешки из крутого пшеничного теста со сладкой тыквой: нежная начинка идеально сочетается с тающей во рту корочкой; принято подавать с топленым маслом. Для достижения мягкой текстуры лепешку испокон веков окунали в горячую воду после приготовления",
+      "quote": "Блюдо столь питательное, что, если гость за столом плохо ест, хозяин может ему заявить: «Вы кушаете так, словно недавно хингалаш съели»",
+      "history": "Издавна в Чечне сеяли не только ячмень, пшеницу, просо, кукурузу, овес, рис, но и многие другие культуры, в том числе и технические (лен, хлопок). Наиболее древними злаковыми на территории республики можно считать ячмень и пшеницу. Для приготовления мучных изделий тесто — буод — готовили как обычное, так и на дрожжах (севсина буод — заквашенное тесто).\n\nС дрожжами, изготовленными из хмеля — хояхар, чеченцы, были знакомы издавна. Тесто для лепешек и пирожков часто закисляется простоквашей, сдобное же тесто готовится с примесью яиц и сахара. Начинкой для большинства лепешек является творог, свежий сыр, пюре, тыква. Неудивительно, что именно вышеперечисленное шло в пищу, ведь Чечня славится успешным разведением бахчевых культур и животноводством.",
+      "ingredientsText": "Пшеничное тесто\nСладкая тыква\nТопленое масло",
+      "allergens": [
+        "Сахар",
+        "Лактоза",
+        "Глютен"
+      ],
+      "ingredients": [],
+      "image": "/wp-content/uploads/2024/11/hingalsh-2.jpg",
+      "translations": {
+        "en": {
+          "name": "Hingalsh",
+          "description": "Khingalash is a unique dish of Chechen cuisine — tortillas made from hard-boiled wheat dough with sweet pumpkin: the delicate filling is perfectly combined with a crust melting in the mouth; it is customary to serve with melted butter. To achieve a soft texture, the tortilla has been dipped in hot water for centuries after cooking",
+          "quote": "The dish is so nutritious that if a guest at the table is not eating well, the host can tell him: \"You are eating as if you have recently eaten khingalash.\"",
+          "history": "For a long time in Chechnya, not only barley, wheat, millet, corn, oats, rice, but also many other crops, including industrial (flax, cotton). The most ancient cereals in the republic can be considered barley and wheat. For the preparation of flour products, buod dough was prepared both as usual and with yeast (sevsina buod — fermented dough).\n\nChechens have long been familiar with yeast made from hops — khoyakhar. The dough for tortillas and pies is often acidified with sour milk, while the pastry is prepared with an admixture of eggs and sugar. The filling for most tortillas is cottage cheese, fresh cheese, mashed potatoes, pumpkin. It is not surprising that it was the above that was used for food, because Chechnya is famous for the successful cultivation of melons and animal husbandry.",
+          "ingredientsText": "Wheat dough\nSweet pumpkin\nGhee",
+          "allergens": [
+            "Sugar",
+            "Lactose",
+            "Gluten"
+          ]
+        },
+        "es": {
+          "name": "Hingalsh",
+          "description": "Hingalash es un plato único de la cocina chechena: tortillas hechas de masa de trigo duro con calabaza dulce: el relleno delicado se combina perfectamente con la corteza que se derrite en la boca; es costumbre servirlo con mantequilla derretida. Para lograr una textura suave, la tortilla se sumergió durante siglos en agua caliente después de la cocción",
+          "quote": "El plato es tan nutritivo que si el invitado en la mesa no come bien, el anfitrión puede decirle: \"usted come como si hubiera comido hingalash recientemente\".",
+          "history": "Durante mucho tiempo en Chechenia, no solo se sembraron cebada, trigo, mijo, maíz, avena, arroz, sino también muchos otros cultivos, incluidos los técnicos (lino, algodón). Los cereales más antiguos en el territorio de la República pueden considerarse cebada y trigo. Para la preparación de productos de harina, la masa-buod-se preparó tanto ordinaria como en levadura (sevsina buod — masa fermentada).\n\nCon la levadura hecha de lúpulo — koyahar, los chechenos, han sido familiares durante mucho tiempo. La masa para tortillas y empanadas a menudo se acidifica con yogur, la masa de mantequilla se prepara con una mezcla de huevos y azúcar. El relleno para la mayoría de las tortillas es requesón, queso fresco, puré de papas, calabaza. No es sorprendente que lo anterior fuera alimento, porque Chechenia es famosa por la exitosa cría de melones y la cría de animales.",
+          "ingredientsText": "Masa de trigo\ncalabaza Dulce\n Ghee",
+          "allergens": [
+            "Azúcar",
+            "Lactosa",
+            "Gluten"
+          ]
+        }
+      }
+    },
+    {
+      "slug": "hinkali",
+      "legacySlugs": [],
+      "wpIds": [
+        5391,
+        6090,
+        6091
+      ],
+      "name": "Хинкали",
+      "cuisine": "gruzinskaya",
+      "course": "основное",
+      "description": "Хинкали — это не просто грузинские пельмени, это настоящее искусство. Тесто, тонкое и эластичное, скрывает внутри сочную начинку из фарша (обычно говядина или свинина), щедро приправленного луком, чесноком и зеленью. Главный секрет — бульон, который остается внутри хинкали, создавая взрыв вкуса при первом укусе. Едят их руками, держа за \"хвостик\", который традиционно не съедают. Хинкали — это не просто еда, это ритуал.",
+      "quote": "Хинкали — это не просто пельмени, это настоящее кулинарное приключение. Каждый укус сопровождается взрывом соков и ароматов",
+      "history": null,
+      "ingredientsText": "Пшеничная мука 500 г Вода 400 мл Соль 1½ чайные ложки Телятина 250 г Говядина 250 г Сало 100 г Репчатый лук 100 г Чеснок 2 зубчика Молотый кумин (зира) по вкусу Красный перец чили по вкусу Кинза",
+      "allergens": [],
+      "ingredients": [],
+      "image": "/wp-content/uploads/2025/04/hinkali-.jpg",
+      "translations": {
+        "en": {
+          "name": "Khinkali",
+          "description": "Khinkali is not just Georgian dumplings, it is a real art. The dough, thin and elastic, hides inside a juicy filling of minced meat (usually beef or pork), generously seasoned with onions, garlic and herbs. The main secret is the broth, which remains inside the khinkali, creating an explosion of flavor at the first bite. They eat them with their hands, holding them by the \"tail\", which is traditionally not eaten. Khinkali is not just a meal, it is a ritual.",
+          "quote": "Khinkali is not just dumplings, it is a real culinary adventure. Each bite is accompanied by an explosion of juices and flavors.",
+          "history": null,
+          "ingredientsText": "Wheat flour 500 g Water 400 ml Salt 1½ teaspoons Veal 250 g Beef 250 g Lard 100 g Onion 100 g Garlic 2 cloves Ground cumin (cumin) to taste Red chili pepper to taste Cilantro",
+          "allergens": [
+            "Sugar",
+            "Gluten",
+            "Lactose"
+          ]
+        },
+        "es": {
+          "name": "Khinkali",
+          "description": "Khinkali no son solo albóndigas georgianas, es un verdadero arte. La masa, delgada y elástica, esconde en su interior un jugoso relleno de carne picada (generalmente carne de res o cerdo), generosamente sazonado con cebolla, ajo y hierbas. El secreto principal es el caldo que permanece dentro del Khinkali, creando una explosión de sabor en el primer bocado. Se comen con las manos, sosteniendo una \"cola\", que tradicionalmente no se come. Khinkali no es solo comida, es un ritual.",
+          "quote": "Khinkali no es solo albóndigas, es una verdadera aventura culinaria. Cada bocado va acompañado de una explosión de jugos y sabores.",
+          "history": null,
+          "ingredientsText": "Harina de trigo 500 G Agua 400 ml Sal 1½ cucharaditas Ternera 250 G ternera 250 G Manteca de cerdo 100 G cebolla 100 G Ajo 2 dientes kumin Molido (Zira) al gusto Chile Rojo al gusto Cilantro",
+          "allergens": [
+            "Azúcar",
+            "Gluten",
+            "Lactosa"
+          ]
+        }
+      }
+    },
+    {
+      "slug": "horovacz-narsharab",
+      "legacySlugs": [],
+      "wpIds": [
+        5407,
+        5774,
+        5775
+      ],
+      "name": "Хоровац",
+      "cuisine": "armyanskaya",
+      "course": "основное",
+      "description": "Хоровац - это традиционное армянское блюдо, распространенное у разных народов. Идеально подходит к шашлыку. На природе овощи запекают на углях, в домашних условиях можно и в духовке.",
+      "quote": "Хоровац — это блюдо, которое готовят с душой",
+      "history": "Слово «хоровац» в переводе с армянского означает «шашлык». Овощи для салата так же запекаются на природе на углях, в домашних условиях можно в духовке или газовых конфорках. Подавать хоровац можно к шашлыку, картошке, рыбе на углях или просто с лавашем, свежим хлебом.",
+      "ingredientsText": "Баклажаны - 3 шт;\n  Помидоры - 3 шт;\n  Перец сладкий - 2 шт;\n Лук - 1 шт;\n  Чеснок\n - 1 зубчик;\n  Масло растительное - по вкусу;\n  Соль;\n  Черный перец;\n  Зелень.",
+      "allergens": [],
+      "ingredients": [],
+      "image": "/wp-content/uploads/2025/04/horovacz-narsharab.jpg",
+      "translations": {
+        "en": {
+          "name": "Khorovac",
+          "description": "Khorovats is a traditional Armenian dish, common among different nations. It is perfect for a barbecue. Vegetables are baked on coals in nature, and at home they can also be baked in the oven.",
+          "quote": "Khorovac is a dish that is prepared with the soul",
+          "history": "The word \"khorovats\" means \"barbecue\" in Armenian. Salad vegetables are also baked in nature on coals, at home it is possible in the oven or gas burners. You can serve khorovats with shish kebab, potatoes, fish on coals or just with lavash, fresh bread.",
+          "ingredientsText": "Eggplant - 3 pieces;\n  Tomatoes - 3 pieces;\n  Sweet pepper - 2 pieces;\n Onion - 1 piece;\n  Garlic\n - 1 clove;\n  Vegetable oil - to taste;\n Salt;\n Black pepper;\n Herbs.",
+          "allergens": []
+        },
+        "es": {
+          "name": "Horovac",
+          "description": "Horovac es un plato tradicional caucásico común entre diferentes pueblos. Perfecto para kebabs. En la naturaleza, las verduras se hornean en brasas, en casa también se puede en el horno.",
+          "quote": "Horovac es un plato que se prepara con alma.",
+          "history": "La palabra \"horovac \"en armenio significa\"kebab\". Las verduras para ensaladas también se hornean en la naturaleza sobre brasas, en casa puede estar en el horno o quemadores de gas. Puede servir khorovac a kebab, papas, pescado a la brasa o simplemente con pan de pita, pan fresco.",
+          "ingredientsText": "Berenjenas-3 piezas;\n Tomates-3 piezas;\n Pimienta dulce - 2 piezas;\n Cebolla - 1 piezas;\n Ajo - 1 diente;\n aceite vegetal - al gusto;\n sal;\n pimienta Negra;\n Verdes.",
+          "allergens": []
+        }
+      }
+    },
+    {
+      "slug": "chahohbili",
+      "legacySlugs": [],
+      "wpIds": [
+        5393,
+        6088,
+        6089
+      ],
+      "name": "Чахохбили",
+      "cuisine": "gruzinskaya",
+      "course": "основное",
+      "description": "Чахохбили — ароматное блюдо из тушеной курицы, которое воплощает в себе дух грузинского застолья. Нежное мясо, томленое с сочными томатами, луком, чесноком и щедрой порцией специй, создает насыщенный и яркий вкус. Изначально это блюдо готовили из фазана, но сегодня курица стала более доступной альтернативой. Подается с грузинским хлебом или рисом, чтобы впитать весь вкусный соус.",
+      "quote": "Чахохбили — это блюдо, которое объединяет семью за столом. Его аромат наполняет дом теплом и уютом",
+      "history": null,
+      "ingredientsText": "Свежая кинза (кориандр) по вкусу Репчатый лук 3 штуки Курица 800 г Помидоры 4 штуки Сладкий перец ½ штуки Чеснок 3 зубчика Петрушка по вкусу Соль по вкусу Специи по вкусу Перец чили ½ штуки",
+      "allergens": [],
+      "ingredients": [],
+      "image": "/wp-content/uploads/2025/04/chahohbili-.jpg",
+      "translations": {
+        "en": {
+          "name": "Chakhokhbili",
+          "description": "Chakhokhbili is a fragrant stewed chicken dish that embodies the spirit of a Georgian feast. Tender meat, stewed with juicy tomatoes, onions, garlic and a generous portion of spices, creates a rich and vibrant taste. Initially, this dish was made from pheasant, but today chicken has become a more affordable alternative. Served with Georgian bread or rice to soak up all the delicious sauce.",
+          "quote": "Chakhokhbili is a dish that unites the family at the table. Its fragrance fills the house with warmth and comfort",
+          "history": null,
+          "ingredientsText": "Fresh coriander (coriander) to taste Onion 3 pieces Chicken 800 g Tomatoes 4 pieces Sweet pepper ½ pieces Garlic 3 cloves Parsley to taste Salt to taste Spices to taste Chili pepper ½ pieces",
+          "allergens": []
+        },
+        "es": {
+          "name": "Chahokhbili",
+          "description": "Chakhokhbili es un plato fragante de pollo estofado que encarna el espíritu de la fiesta georgiana. La carne tierna, languidecida con jugosos tomates, cebollas, ajo y una generosa porción de especias, crea un sabor rico y brillante. Originalmente, este plato estaba hecho de faisán, pero hoy en día el pollo se ha convertido en una alternativa más asequible. Servido con pan georgiano o arroz para absorber toda la deliciosa salsa.",
+          "quote": "Chahokhbili es un plato que une a la familia en la mesa. Su aroma llena la casa de calidez y confort.",
+          "history": null,
+          "ingredientsText": "Cilantro fresco (cilantro) al gusto cebolla 3 piezas Pollo 800 G Tomates 4 piezas pimiento ½ piezas Ajo 3 dientes Perejil al gusto Sal al gusto Especias Al gusto Chile ½ piezas",
+          "allergens": []
+        }
+      }
+    },
+    {
+      "slug": "shah-plov",
+      "legacySlugs": [],
+      "wpIds": [
+        5415,
+        5550,
+        5551
+      ],
+      "name": "Шах-плов",
+      "cuisine": "azerbajdzhanskaya",
+      "course": "основное",
+      "description": "Шах-плов — настоящее украшение азербайджанской кухни, блюдо, которое поражает своей красотой и изысканным вкусом. Рис, приготовленный на пару, укладывается в виде \"короны\" и покрывается тонким слоем хрустящей корочки из теста или лаваша. Внутри — нежное мясо, сухофрукты и орехи, которые создают гармоничный вкусовой букет. Шах-плов — это блюдо для особых случаев, которое символизирует богатство и щедрость азербайджанского стола.",
+      "quote": "Шах-плов — это не просто еда, это настоящее шоу. Его подают целиком, а затем разрезают при гостях, чтобы подчеркнуть торжественность момента",
+      "history": "Шах-плов (также называемый хан-плов или \"королевский плов\") - это праздничное азербайджанское блюдо, отличающееся уникальным способом приготовления и оригинальной подачей.\n\nЕго история связана с азербайджанской кулинарной традицией, где плов занимает особое место.",
+      "ingredientsText": "Говядина – 600 г Рис – 600 г Сливочное топленое масло – 350 г Лук репчатый – 250 г Курага – 150 г Кишмиш янтарный – 150 г Алыча сушенная – 100 г Каштаны (вареные и очищенные) – 150 г Куркума – 30 г Шафран – 3-5 лепестков Соль – по вкусу Барбарис – 50 г (по желанию) Тонкий лаваш – 400 г",
+      "allergens": [
+        "Глютен"
+      ],
+      "ingredients": [],
+      "image": "/wp-content/uploads/2025/04/shah-plov.jpg",
+      "translations": {
+        "en": {
+          "name": "Shah-plov",
+          "description": "Shah-plov is a real gem of Azerbaijani cuisine, a dish that amazes with its beauty and exquisite taste. Steamed rice is laid in the form of a \"crown\" and covered with a thin layer of crispy dough or lavash crust. Inside is tender meat, dried fruits and nuts, which create a harmonious bouquet of flavors. Shah-plov is a dish for special occasions, which symbolizes the wealth and generosity of the Azerbaijani table.",
+          "quote": "Shah-plov is not just food, it is a real show. It is served whole and then cut in front of guests to emphasize the solemnity of the moment",
+          "history": null,
+          "ingredientsText": "Beef – 600 g\nRice – 600 g\nClarified butter – 350 g\nOnions – 250 g\nDried apricots – 150 g\nAmber sultanas – 150 g\nDried cherry plum – 100 g\nChestnuts (boiled and peeled) – 150 g\nTurmeric – 30 g\nSaffron – 3-5 petals\nSalt – to taste\nBarberry – 50 g (optional)\nThin lavash – 400 g",
+          "allergens": []
+        },
+        "es": {
+          "name": "Shah-plov",
+          "description": "El shah-plov es una auténtica decoración de la cocina azerbaiyana, un plato que sorprende por su belleza y su exquisito sabor. El arroz al vapor se coloca en forma de \"corona\" y se cubre con una fina capa de masa crujiente o corteza de lavash. En su interior hay carne tierna, frutos secos y nueces, que crean un armonioso bouquet de sabores. Shah-plov es un plato para ocasiones especiales que simboliza la riqueza y la generosidad de la mesa azerbaiyana.",
+          "quote": "El shah-plov no es solo comida, es un verdadero espectáculo. Se sirve entero y luego se corta delante de los invitados para realzar la solemnidad del momento.",
+          "history": null,
+          "ingredientsText": "Carne de res – 600 g\nArroz – 600 g\nMantequilla clarificada – 350 g\nCebollas – 250 g\nAlbaricoques secos – 150 g\nPasas sultanas – 150 g\nCiruelas secas – 100 g\nCastañas (hervidas y peladas) – 150 g\nCúrcuma – 30 g\nAzafrán – 3-5 pétalos\nSal – al gusto\nAgracejo – 50 g (opcional)\nLavash fino – 400 g",
+          "allergens": []
+        }
+      }
+    }
+  ],
+  "skipped": [
+    {
+      "wpId": 3837,
+      "slug": "guruli-gvezeli",
+      "title": "Гурули Гвезели",
+      "reason": "пустая карточка: нет описания"
+    },
+    {
+      "wpId": 3916,
+      "slug": "hachapuri-imeretinskij",
+      "title": "Хачапури имеретинский",
+      "reason": "пустая карточка: нет описания"
+    },
+    {
+      "wpId": 3917,
+      "slug": "yoka-zakuska-iz-lavasha",
+      "title": "Ёка (закуска из лаваша)",
+      "reason": "пустая карточка: нет описания"
+    },
+    {
+      "wpId": 3918,
+      "slug": "hachapuri-po-adzharski",
+      "title": "Хачапури по-аджарски",
+      "reason": "пустая карточка: нет описания"
+    },
+    {
+      "wpId": 3919,
+      "slug": "hachapuri-penovani",
+      "title": "Хачапури пеновани",
+      "reason": "пустая карточка: нет описания"
+    },
+    {
+      "wpId": 3920,
+      "slug": "pahlava",
+      "title": "Пахлава",
+      "reason": "пустая карточка: нет описания"
+    },
+    {
+      "wpId": 3921,
+      "slug": "shashlyk",
+      "title": "Шашлык",
+      "reason": "пустая карточка: нет описания"
+    },
+    {
+      "wpId": 3922,
+      "slug": "kubdari",
+      "title": "Кубдари",
+      "reason": "пустая карточка: нет описания"
+    },
+    {
+      "wpId": 3923,
+      "slug": "adzhapsandali",
+      "title": "Аджапсандали",
+      "reason": "пустая карточка: нет описания"
+    },
+    {
+      "wpId": 3924,
+      "slug": "saczivi",
+      "title": "Сациви",
+      "reason": "пустая карточка: нет описания"
+    },
+    {
+      "wpId": 3925,
+      "slug": "lobio",
+      "title": "Лобио",
+      "reason": "пустая карточка: нет описания"
+    },
+    {
+      "wpId": 3926,
+      "slug": "lagman",
+      "title": "Лагман",
+      "reason": "пустая карточка: нет описания"
+    }
+  ],
+  "redirects": [
+    {
+      "source": "/bliuda/dolma",
+      "destination": "/dishes/dolma-armyanskaya"
+    },
+    {
+      "source": "/bliuda/dolma-2",
+      "destination": "/dishes/dolma-azerbajdzhanskaya"
+    },
+    {
+      "source": "/bliuda/lobio-2",
+      "destination": "/dishes/lobio"
+    },
+    {
+      "source": "/bliuda/pahlava-2",
+      "destination": "/dishes/pahlava"
+    },
+    {
+      "source": "/bliuda/saczivi-2",
+      "destination": "/dishes/saczivi"
+    },
+    {
+      "source": "/bliuda/guruli-gvezeli",
+      "destination": "/dishes"
+    },
+    {
+      "source": "/bliuda/hachapuri-imeretinskij",
+      "destination": "/dishes"
+    },
+    {
+      "source": "/bliuda/yoka-zakuska-iz-lavasha",
+      "destination": "/dishes"
+    },
+    {
+      "source": "/bliuda/hachapuri-po-adzharski",
+      "destination": "/dishes"
+    },
+    {
+      "source": "/bliuda/hachapuri-penovani",
+      "destination": "/dishes"
+    },
+    {
+      "source": "/bliuda/shashlyk",
+      "destination": "/dishes"
+    },
+    {
+      "source": "/bliuda/kubdari",
+      "destination": "/dishes"
+    },
+    {
+      "source": "/bliuda/adzhapsandali",
+      "destination": "/dishes"
+    },
+    {
+      "source": "/bliuda/lagman",
+      "destination": "/dishes"
+    },
+    {
+      "source": "/hingalsh",
+      "destination": "/dishes/hingalsh"
+    },
+    {
+      "source": "/khingalash",
+      "destination": "/dishes/hingalsh"
+    }
+  ]
+}

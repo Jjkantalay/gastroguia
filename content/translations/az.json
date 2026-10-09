@@ -1,0 +1,1818 @@
+{
+ "abgoosht": {
+  "name": "Abquşt",
+  "description": "Daş qabda noxud və kartofla bişən quzu şorbası: suyu çörəklə içilir, qalanı əzilir.",
+  "history": "Dizi Tehranın fəhlə məhəllələrinin ənənəvi yeməyidir və öz süfrəyə vermə ritualı var.",
+  "ingredientsText": "Quzu əti, noxud, ağ lobya, kartof, pomidor, qurudulmuş limon, zerdəçal"
+ },
+ "abkhazura": {
+  "name": "Abxazura",
+  "description": "Zirinc və ədviyyatla mal və donuz qiyməsindən hazırlanan, piy pərdəsinə bükülüb qızardılan kotletlər.",
+  "history": "Adı abxaz mənşəyinə işarə edir, lakin yemək gürcü mətbəxinin ayrılmaz hissəsidir.",
+  "ingredientsText": "Mal əti, donuz əti, piy pərdəsi, soğan, zirinc, sarımsaq, keşniş"
+ },
+ "abysta": {
+  "name": "Abısta",
+  "description": "Duzsuz, qatı qarğıdalı unu sıyığı; çörək əvəzinə pendir və ətlə verilir.",
+  "history": "Abysta qazanda bişirilir və taxta kürəklə süfrəyə verilir, çox vaxt içinə pendir tikələri basdırılır.",
+  "ingredientsText": "Qarğıdalı unu, su"
+ },
+ "achapa": {
+  "name": "Açapa",
+  "description": "Qoz pastası, acika və göyərti ilə ədviyyatlanmış haşlanmış lobya və ya göyərti.",
+  "history": "Açapa gürcü pxalisinin abxaz qohumudur, adətən yaşıl lobya və çuğundurla hazırlanır.",
+  "ingredientsText": "Yaşıl lobya və ya çuğundur yarpağı, qoz, acika, keşniş"
+ },
+ "achash": {
+  "name": "Açaş",
+  "description": "Təzə pendirlə doldurulub kərə yağında qızardılan qarğıdalı və ya buğda unu lavaşları.",
+  "history": "Abxaz kəndlərində açaş səhər yeməyi üçün təzə ev pendiri ilə hazırlanır.",
+  "ingredientsText": "Qarğıdalı və ya buğda unu, təzə pendir, kərə yağı"
+ },
+ "achichuk": {
+  "name": "Açıçuk",
+  "description": "Nazik doğranmış pomidor və soğandan acı bibər və göyərti ilə salat, plovla verilir.",
+  "history": "Təzə açiçuk yağlı plovu tarazlayır, Özbəkistanda plov onsuz süfrəyə verilmir.",
+  "ingredientsText": "Pomidor, soğan, acı bibər, reyhan, duz"
+ },
+ "achma": {
+  "name": "Açma",
+  "description": "Laylı pendirli piroq: nazik haşlanmış xəmir layları pendir və yağla düzülüb bişirilir. Dadı və quruluşu ilə lazanyanı xatırladır.",
+  "history": "Acarıstan və Abxaziya yeməyi. Xəmir laylarının haşlanması piroqu içdən yumşaq, üstdən xırtıldayan edir.",
+  "ingredientsText": "Buğda unu, yumurta, sulquni, imereti pendiri, kərə yağı"
+ },
+ "adana-kebab": {
+  "name": "Adana kababı",
+  "description": "Bıçaqla doğranmış qoyun ətindən qırmızı bibər lopaları ilə acı kabab, geniş şişdə kömür üzərində bişir.",
+  "history": "Adını Türkiyənin cənubundakı Adana şəhərindən alır; ət bıçaqla doğranır və mütləq quyruq yağı ilə qarışdırılır.",
+  "ingredientsText": "Qoyun əti, quyruq yağı, qırmızı bibər lopası, duz"
+ },
+ "adygeyskaya-sol": {
+  "name": "Adıgey duzu",
+  "description": "Sarımsaq və quru otlarla — kəklikotu, şüyüd, keşniş və bibərlə əzilmiş duz.",
+  "history": "Adıgeylər bu duzu il boyu əti və pendiri ədviyyatlamaq üçün hazırlayırdılar.",
+  "ingredientsText": "Duz, sarımsaq, kəklikotu, şüyüd, keşniş, qırmızı bibər"
+ },
+ "adygeyskiy-syr": {
+  "name": "Adıgey pendiri",
+  "description": "Pasterizə olunmuş süddən yumşaq, zərif dadlı pendir; təzə, qızardılmış və ya hisə verilmiş yeyilir.",
+  "history": "Adıgey pendiri maya ilə deyil, turş zərdabla kəsilir; formasını süzüldüyü hörmə səbətdən alır.",
+  "ingredientsText": "İnək südü, turş zərdab, duz"
+ },
+ "adzhapsandali": {
+  "name": "Acapsandali",
+  "description": "Bol göyərti və sarımsaqla badımcan, bolqar bibəri, pomidor və soğandan tərəvəz yeməyi. İsti və ya soyuq verilir.",
+  "history": "Bənzər tərəvəz yeməkləri bütün Qafqazda var. Gürcüstanda acapsandali xüsusilə yayda, tərəvəz yetişəndə sevilir.",
+  "ingredientsText": "Badımcan, bolqar bibəri, pomidor, soğan, sarımsaq, keşniş, reyhan, bitki yağı"
+ },
+ "adzhika": {
+  "name": "Acika",
+  "description": "Daşda əzilmiş qırmızı bibər, sarımsaq, keşniş və duzdan acı pasta. Bir qaşığı belə yeməyi acılaşdırır.",
+  "history": "Acika abxazca \"duz\" deməkdir; əvvəllər bibər uzun saxlansın deyə duzla əzilirdi.",
+  "ingredientsText": "Acı qırmızı bibər, sarımsaq, keşniş, mavi şambalıd, duz"
+ },
+ "afarar": {
+  "name": "Afarar",
+  "description": "Yabanı göyərti — gicitkən, turşəng, alabəndə — və soğanla doldurulmuş nazik lavaşlar.",
+  "history": "Afarar yazda, dağlarda ilk göyərti çıxanda bişirilir.",
+  "ingredientsText": "Buğda unu, su, gicitkən, turşəng, yaşıl soğan, kərə yağı"
+ },
+ "akhar-khudar": {
+  "name": "Axar-xudar",
+  "description": "Süddə bişirilib kərə yağı ilə tamamlanan qarğıdalı unu sıyığı. Sadə səhər yeməyi.",
+  "history": "Qarğıdalı Çeçenistanın əsas bitkilərindən birinə çevrildi, ondan sıyıqlar hər gün yeyilir.",
+  "ingredientsText": "Qarğıdalı unu, süd, kərə yağı, duz"
+ },
+ "akuarchal": {
+  "name": "Akuarçal",
+  "description": "Qızmar tavada və ya közdə bişən kiçik qarğıdalı çörəkləri.",
+  "history": "Akuarçal abxazların ənənəvi çörəyidir, şorba və souslarla verilir.",
+  "ingredientsText": "Qarğıdalı unu, su, duz"
+ },
+ "alani": {
+  "name": "Alani",
+  "description": "Şəkər və darçınla qarışdırılmış əzilmiş qozla doldurulmuş quru şaftalı. Bişirmə tələb etməyən təbii şirniyyat.",
+  "history": "Şaftalılar çəyirdəyi çıxarılıb bütöv halda günəşdə qurudulur. Bu şirniyyat Ararat vadisində hazırlanır.",
+  "ingredientsText": "Quru şaftalı, qoz, şəkər, darçın"
+ },
+ "arganak": {
+  "name": "Arqanak",
+  "description": "Kiçik toyuq küftələri və göyərti ilə şəffaf toyuq bulyonu. Yüngül bayram şorbası.",
+  "history": "Arganak Ararat vadisində toy və bayramlarda bişirilirdi. Bulyon şəffaf olsun deyə uzun müddət qaynadılır.",
+  "ingredientsText": "Toyuq, düyü, yumurta, soğan, keşniş, duz"
+ },
+ "arishta": {
+  "name": "Əriştə",
+  "description": "Kərə yağında qızardılıb sarımsaqlı qatıqla verilən ev əriştəsi.",
+  "history": "Əriştə əvvəlcədən hazırlanırdı: kəsilib qurudulur və bütün qış saxlanırdı. Ermənistan və Qarabağda bişirilir.",
+  "ingredientsText": "Buğda unu, yumurta, kərə yağı, matsun qatığı, sarımsaq"
+ },
+ "ash-reshteh": {
+  "name": "Əriştə aşı",
+  "description": "Əriştə, paxlalılar və göyərti ilə qatı şorba, üstünə kəşk, qızardılmış soğan və nanə qoyulur.",
+  "history": "Aş-reştə Novruzda və yola salanda bişirilir; əriştə yolu simvolizə edir.",
+  "ingredientsText": "Reştə əriştəsi, noxud, lobya, mərci, ispanaq, göyərti, kəşk, soğan, nanə"
+ },
+ "ashlyan-fu": {
+  "name": "Aşlyanfu",
+  "description": "Qalın əriştə, nişasta jelesi, omlet zolaqları və sirkəli sousla soyuq, acı şorba.",
+  "history": "Aşlyan-fu İssık-Köl sahilindəki Karakol şəhərini məşhur edən dunqan yeməyidir.",
+  "ingredientsText": "Buğda əriştəsi, nişasta jelesi, yumurta, sirkə, acı bibər, sarımsaq, göyərti"
+ },
+ "asure": {
+  "name": "Aşurə",
+  "description": "Buğda, paxlalılar, quru meyvə və qozdan böyük qazanlarda bişirilib qonşulara paylanan şirniyyat.",
+  "history": "Rəvayətə görə Nuh Tufandan sonra son azuqədən aşure hazırlayıb; Məhərrəm ayında bişirilir.",
+  "ingredientsText": "Buğda, noxud, lobya, quru ərik, kişmiş, əncir, qoz, şəkər, nar"
+ },
+ "avarskiy-hinkal": {
+  "name": "Avar xəngəli",
+  "description": "Ət, bulyon və sarımsaqlı sousla verilən böyük haşlanmış xəmir tikələri — gürcü xinkalisi ilə qarışdırılmamalı.",
+  "history": "Xınqal Dağıstanın əsas yeməyidir; avar xınqalında qabarıq xəmir romb şəklində doğranıb bulyonda bişirilir.",
+  "ingredientsText": "Buğda unu, kefir, soda, qoyun və ya mal əti, sarımsaq, pomidor sousu"
+ },
+ "ayran": {
+  "name": "Ayran",
+  "description": "Soyuq su ilə durulaşdırılmış qatıqdan duzlu, bəzən nanəli sərinləşdirici içki.",
+  "history": "Ayran bütün Qafqazda və Türkiyədə içilir, yağlı ət və kababla xüsusilə yaxşı gedir.",
+  "ingredientsText": "Qatıq, soyuq su, duz, nanə"
+ },
+ "badambura": {
+  "name": "Badambura",
+  "description": "Badam və şəkərlə doldurulmuş nazik laylı xəmir rulonları, üstünə şəkər tozu səpilir.",
+  "history": "Adı \"badam\" sözündəndir. Bakıda badambura bayramlarda bişirilir.",
+  "ingredientsText": "Buğda unu, kərə yağı, yumurta, badam, şəkər, hil"
+ },
+ "badrijani-nigvzit": {
+  "name": "Qozlu badımcan",
+  "description": "Sarımsaq və ədviyyatlı qoz pastası ilə bükülmüş nazik qızardılmış badımcan dilimləri, üstünə nar dənələri.",
+  "history": "Adı \"qozlu badımcan\" deməkdir. Gürcü süfrəsi — supra — bu qəlyanaltısız nadir hallarda keçir.",
+  "ingredientsText": "Badımcan, qoz, sarımsaq, keşniş, xmeli-suneli, şərab sirkəsi, nar"
+ },
+ "bagany": {
+  "name": "Osetin pivəsi",
+  "description": "Arpa və ya qarğıdalıdan şerbetçiotu ilə hazırlanan tünd ev pivəsi, bayram və mərasimlər üçün.",
+  "history": "Osetin dilində pivə bægæny adlanır; böyük qazanlarda hazırlanır və ortaq kasada verilir.",
+  "ingredientsText": "Arpa və ya qarğıdalı, şerbetçiotu, su, şəkər"
+ },
+ "baghali-polo": {
+  "name": "Paxlalı plov",
+  "description": "Paxla və bol şüyüdlü plov, çox vaxt bişmiş quzu incik ilə verilir.",
+  "history": "Təzə paxla çıxanda bişirilən yaz yeməyidir.",
+  "ingredientsText": "Düyü, paxla, şüyüd, kərə yağı, zəfəran, quzu incik"
+ },
+ "baklava": {
+  "name": "Türk paxlavası",
+  "description": "Püstəli, şərbətə batırılmış onlarla nazik xəmir layı — paxlavanın türk variantı.",
+  "history": "Qaziantep püstəli paxlavası Aİ-də qorunan coğrafi göstərici kimi qeydiyyatdadır.",
+  "ingredientsText": "Nazik xəmir, kərə yağı, püstə, şəkər, su, limon suyu"
+ },
+ "balyk-lyavangi": {
+  "name": "Balıq ləvəngi",
+  "description": "Qoz, soğan və turş alça lavaşanası ilə doldurulub sobada və ya təndirdə bişirilən balıq.",
+  "history": "Levənginin balıqlı variantı Xəzər sahilində, adətən kütüm və ya çəki balığı ilə hazırlanır.",
+  "ingredientsText": "Balıq, qoz, soğan, alça lavaşanası, duz"
+ },
+ "barbari": {
+  "name": "Bərbəri",
+  "description": "Şırımlı, küncütlü və qaraçörəkotulu qalın oval çörək — klassik səhər çörəyi.",
+  "history": "Barbari səhər pendir, göyərti və çayla yeyilir; erməni matnakaşına bənzəyir.",
+  "ingredientsText": "Buğda unu, maya, su, duz, küncüt, qaraçörəkotu"
+ },
+ "bastani-sonnati": {
+  "name": "Bəstəni",
+  "description": "Zəfəranlı, gülablı, donmuş qaymaq tikələri olan İran dondurması, üstünə püstə səpilir.",
+  "history": "Dondurma çox vaxt iki vafli arasında sendviç kimi verilir.",
+  "ingredientsText": "Süd, qaymaq, şəkər, yumurta sarısı, zəfəran, gülab, salep, püstə"
+ },
+ "bastirma-kebab": {
+  "name": "Basdırma kababı",
+  "description": "Bişirilməzdən əvvəl bir gün soğan və sirkədə marinad edilən mal və ya qoyun ətindən kabab.",
+  "history": "Uzun marinad əti çox yumşaldır, ona görə bastırma tez bişirilir.",
+  "ingredientsText": "Mal və ya qoyun əti, soğan, şərab sirkəsi, duz, istiot"
+ },
+ "basturma": {
+  "name": "Basdırma",
+  "description": "Şambalıd, paprika və sarımsaqdan acı pasta — çəmənlə örtülmüş, havada qurudulmuş mal əti. Çox nazik doğranıb qəlyanaltı kimi verilir.",
+  "history": "Əti ədviyyatla qurutmaq bölgədə çoxdan məlumdur. Küləkdə qurutma əti aylarla saxlamağa imkan verirdi.",
+  "ingredientsText": "Mal filesi, duz, şambalıd, paprika, sarımsaq, acı bibər"
+ },
+ "baursak": {
+  "name": "Bavırsaq",
+  "description": "Qızardılmış mayalı xəmir kürəcikləri və ya rombları, çayla verilir.",
+  "history": "Baursaq bayramlarda qızardılıb qonaqlarla bölüşülür; dairəvi forması günəşi simvolizə edir.",
+  "ingredientsText": "Buğda unu, maya, süd, yumurta, şəkər, bitki yağı"
+ },
+ "bazhe": {
+  "name": "Baje",
+  "description": "Sarımsaq, ədviyyat və sirkə ilə qatı qoz sousu. Quş əti, balıq və qızardılmış tərəvəzlə verilir.",
+  "history": "Baje bir çox gürcü yeməyinin, o cümlədən satsivinin əsasıdır. Xüsusilə Qərbi Gürcüstanda sevilir və bayramlarda hazırlanır.",
+  "ingredientsText": "Qoz, sarımsaq, keşniş, mavi şambalıd, acı bibər, şərab sirkəsi, su"
+ },
+ "beshbarmak": {
+  "name": "Beşbarmaq",
+  "description": "Nazik xəmir kvadratları üzərində soğan sousu ilə haşlanmış at və ya qoyun əti, yanında bulyon.",
+  "history": "Adı \"beş barmaq\" deməkdir, çünki ənənəvi olaraq əllə yeyilir.",
+  "ingredientsText": "At və ya qoyun əti, buğda unu, soğan, bulyon"
+ },
+ "boreg": {
+  "name": "Börək",
+  "description": "Pendir və göyərti içlikli nazik xəmirdən laylı piroq, kvadrat doğranır.",
+  "history": "Börəyi dünyanın hər yerində ermənilər, xüsusən Qərbi Ermənistan ailələri bişirir.",
+  "ingredientsText": "Nazik xəmir, ağ pendir, yumurta, cəfəri, kərə yağı"
+ },
+ "bozartma": {
+  "name": "Bozartma",
+  "description": "Soğan və pomidorla öz şirəsində yumşalana qədər bişirilən quzu və ya toyuq.",
+  "history": "Bozartma gündəlik yeməkdir; ət qovrulmadan birbaşa bişirilir, ona görə şirəli qalır.",
+  "ingredientsText": "Quzu əti və ya toyuq, soğan, pomidor, zəfəran, duz, istiot"
+ },
+ "bozbash": {
+  "name": "Bozbaş",
+  "description": "Noxud, kartof və heyva və ya almalı qatı quzu şorbası. Doyumlu və bir az şirintəhər.",
+  "history": "Bozbaş bütün Cənubi Qafqazda, hər bölgədə fərqli bişirilir — İrəvanda heyva ilə, Şirakda noxudla.",
+  "ingredientsText": "Quzu əti, noxud, kartof, heyva, soğan, tomat pastası, göyərti"
+ },
+ "cacik": {
+  "name": "Cacık",
+  "description": "Xiyar, sarımsaq, nanə və zeytun yağı ilə soyuq qatıq.",
+  "history": "Cacık su ilə durulaşdırılıb şorba kimi yeyilir və ya qatı halda ətlə verilir.",
+  "ingredientsText": "Qatıq, xiyar, sarımsaq, nanə, zeytun yağı, duz"
+ },
+ "chahohbili": {
+  "name": "Çaxoxbili",
+  "description": "Çaxoxbili gürcü məclisinin ruhunu təcəssüm etdirən ətirli toyuq yeməyidir. Pomidor, soğan, sarımsaq və bol ədviyyatla bişirilən zərif ət zəngin, parlaq dada malikdir. Əvvəlcə qırqovuldan hazırlanırdı, bu gün toyuqdan bişirilir. Sousu toplamaq üçün çörək və ya düyü ilə verilir.",
+  "quote": "Çaxoxbili ailəni süfrə ətrafında toplayır; ətri evi isti və rahatlıqla doldurur",
+  "history": "Adı \"qırqovul\" mənasını verən xoxobi sözündəndir: yemək əvvəlcə ov ətindən hazırlanırdı. Sonra qırqovulu toyuq əvəz edib, bu gün vacib olan pomidor isə reseptə nisbətən yaxın vaxtlarda daxil olub.",
+  "ingredientsText": "Toyuq 800 q\nSoğan 3 ədəd\nPomidor 4 ədəd\nBolqar bibəri ½ ədəd\nSarımsaq 3 diş\nKeşniş, cəfəri\nAcı bibər ½ ədəd\nƏdviyyat və duz"
+ },
+ "chakapuli": {
+  "name": "Çaqapuli",
+  "description": "Ağ şərabda tərxun, yaşıl alça və bol göyərti ilə bişirilən quzu və ya dana. Yaz yeməyi.",
+  "history": "Çakapuli Pasxa ilə bağlıdır — təzə göyərti, tərxun və kal alça olmadan bişirilmir.",
+  "ingredientsText": "Quzu və ya dana əti, tərxun, yaşıl alça, ağ şərab, keşniş, yaşıl soğan, sarımsaq"
+ },
+ "chakka": {
+  "name": "Çəkkə",
+  "description": "Göyərti və çörəklə yeyilən qatı, süzülmüş turş süd məhsulu.",
+  "history": "Çakka turş südün torbalarda süzülməsi ilə hazırlanır — kəsmiklə xama arasında bir şeydir.",
+  "ingredientsText": "Turş süd, duz, göyərti"
+ },
+ "chalop": {
+  "name": "Çalop",
+  "description": "Katık qatığı və sudan xiyar, turp və göyərti ilə soyuq şorba.",
+  "history": "Çalop Özbəkistanda qırx dərəcəni keçən yay istisində xilaskardır.",
+  "ingredientsText": "Katık qatığı, su, xiyar, turp, şüyüd, keşniş, duz"
+ },
+ "chanakhi": {
+  "name": "Çanaxı",
+  "description": "Badımcan, kartof, pomidor və bol göyərti ilə saxsı qabda bişən quzu əti.",
+  "history": "Çanaxı porsiya qablarında bişirilir, tərəvəz ət şirəsində dəmlənir; xüsusən Tiflisdə sevilir.",
+  "ingredientsText": "Quzu əti, badımcan, kartof, pomidor, soğan, sarımsaq, keşniş, reyhan"
+ },
+ "chashushuli": {
+  "name": "Çaşuşuli",
+  "description": "Pomidor, soğan, sarımsaq və acı bibərlə bişirilmiş mal əti. Qalın, acı souslu sadə ev yeməyi.",
+  "history": "Çaşuşuli \"bişirilmiş\" deməkdir. Belə yeməklər bütün Gürcüstanda hazırlanır, ət və ədviyyat mövsümə görə dəyişir.",
+  "ingredientsText": "Mal əti, pomidor, soğan, sarımsaq, acı bibər, keşniş, xmeli-suneli"
+ },
+ "chebureki": {
+  "name": "Çiberek",
+  "description": "Şirəli qoyun qiyməsi və soğan içlikli nazik qızardılmış yarımay çəbərəklər.",
+  "history": "Çəbərək ən məşhur krım-tatar yeməyidir və Krımdan çox uzaqlarda sevilir.",
+  "ingredientsText": "Buğda unu, su, qoyun əti, soğan, göyərti, bitki yağı"
+ },
+ "chechil": {
+  "name": "Çeçil",
+  "description": "Tellərə çəkilib hörülən pendir, təzə və ya hisə verilmiş halda satılır.",
+  "history": "Çeçil isti suda əllə çəkilir və pivə ilə və ya salatlarda yeyilir.",
+  "ingredientsText": "İnək südü, maya, duz"
+ },
+ "chepalgash": {
+  "name": "Çepalqaş",
+  "description": "Kəsmik və göyərtili nazik lavaşlar; bişəndən sonra isti suya batırılır, yağlanır və üst-üstə yığılır.",
+  "history": "Çepalqaş ailədə uşaq doğulanda və bayramlarda bişirilir. Yığın tort kimi kəsilir.",
+  "ingredientsText": "Buğda unu, kefir, kəsmik, yaşıl soğan, kərə yağı, duz"
+ },
+ "chetlibzh": {
+  "name": "Çetlibj",
+  "description": "Qırmızı bibərli xama-sarımsaq sousunda toyuq — adıgey bayram yeməyi.",
+  "history": "Çetlibj toylar və qonaqlar üçün hazırlanır; sous unla qatılaşdırılır və pasta (darı sıyığı) ilə verilir.",
+  "ingredientsText": "Toyuq, xama, soğan, sarımsaq, buğda unu, qırmızı bibər"
+ },
+ "chikhirtma": {
+  "name": "Çixirtma",
+  "description": "Çalınmış yumurta və unla qatılaşdırılmış, sirkə və ya limonla turşulaşdırılmış toyuq şorbası. Zərif, yüngül turşməzə.",
+  "history": "Gürcüstanda çıxırtma qonaqlıqdan sonra ən yaxşı dərman sayılır. Yumurta kəsilməsin deyə ən sonda əlavə edilir.",
+  "ingredientsText": "Toyuq, soğan, yumurta, buğda unu, şərab sirkəsi, keşniş"
+ },
+ "chilov": {
+  "name": "Çilov",
+  "description": "Lobya, mərci və ya göyərti ilə bişirilən dənəvər düyü; ət və balığa qarnir.",
+  "history": "Çilov plovun sadə formasıdır, düyü əlavələrlə birgə bişirilir.",
+  "ingredientsText": "Düyü, maş və ya mərci, kərə yağı, zəfəran, duz"
+ },
+ "chirbuli": {
+  "name": "Çirbuli",
+  "description": "Pomidor, soğan, qoz və göyərti ilə acarsayağı yumurta.",
+  "history": "Çirbuli Acarıstanın ənənəvi səhər yeməyidir; qoz onu doyumlu edir.",
+  "ingredientsText": "Yumurta, pomidor, soğan, qoz, keşniş, kərə yağı"
+ },
+ "chuchvara": {
+  "name": "Düşbərə (özbək)",
+  "description": "Bulyonda və ya turş südlə verilən kiçik ətli düşbərələr.",
+  "history": "Çüçvaranı bütün ailə birlikdə büküb qış üçün partiya-partiya dondurur.",
+  "ingredientsText": "Buğda unu, yumurta, mal və ya qoyun əti, soğan, turş süd"
+ },
+ "chudu": {
+  "name": "Çudu",
+  "description": "Ət, kəsmik, balqabaq və ya göyərti ilə doldurulub yağlanan nazik lavaş.",
+  "history": "Çudu bütün Dağıstanda bişirilir; içlik mövsümə görə dəyişir, lavaşlar üst-üstə yığılır.",
+  "ingredientsText": "Buğda unu, su, ət və ya kəsmik, göyərti, kərə yağı"
+ },
+ "churchkhela": {
+  "name": "Çurçxela",
+  "description": "İpə düzülmüş qoz, unla qatılaşdırılmış üzüm şirəsinə dəfələrlə batırılıb qurudulur — şirin \"sucuq\".",
+  "history": "Çurçxela üzüm yığımından sonra payızda hazırlanır. Yaxşı saxlandığı və çox qidalı olduğu üçün yola aparılırdı.",
+  "ingredientsText": "Qoz və ya fındıq, üzüm şirəsi, buğda unu"
+ },
+ "chvishtari": {
+  "name": "Çviştari",
+  "description": "İçi pendirli, xırtıldayana qədər qızardılan qarğıdalı kökələri. Əriyən pendir içini yumşaq edir.",
+  "history": "Svanetiya yeməyi. Svanlar xəmirə sulquni qatır, ona görə çvişhtari adi mçadidən daha doyumludur.",
+  "ingredientsText": "Qarğıdalı unu, sulquni, kərə yağı, su"
+ },
+ "chygyrtma": {
+  "name": "Çığırtma",
+  "description": "Soğan və pomidorla qovrulmuş toyuq və ya tərəvəz, sonda üstünə yumurta çalınır.",
+  "history": "Çığırtma tez və sadədir, toyuq, ispanaq və ya badımcanla hazırlanır.",
+  "ingredientsText": "Toyuq, soğan, pomidor, yumurta, kərə yağı, göyərti"
+ },
+ "cig-kofte": {
+  "name": "Çiy küftə",
+  "description": "Pomidor və bibər pastalı xırda bulğurdan acı kürəciklər, kahı yarpağına bükülüb yeyilir.",
+  "history": "Çiy köftə əvvəllər çiy ətlə hazırlanırdı; indi adətən ətsiz variantı satılır.",
+  "ingredientsText": "Xırda bulğur, bibər pastası, tomat pastası, soğan, göyərti, nar şirəsi"
+ },
+ "dimlama": {
+  "name": "Dımlama",
+  "description": "Qazanda lay-lay düzülüb qapaq altında öz şirəsində bişən ət və tərəvəz.",
+  "history": "Dımlama tərəvəz bol olanda yayda hazırlanır; üstdəki kələm yarpaqları nəmi saxlayır.",
+  "ingredientsText": "Quzu əti, kartof, yerkökü, badımcan, bibər, pomidor, kələm, soğan"
+ },
+ "dograma": {
+  "name": "Doğrama",
+  "description": "Ət, soğan və pomidorlu qatı bulyona doğranmış çörək tikələri.",
+  "history": "Doğrama bayramlarda hazırlanır, bütün ailə çörəyi və əti əllə doğrayır.",
+  "ingredientsText": "Buğda çörəyi, quzu əti, soğan, pomidor, bulyon"
+ },
+ "dolma-armyanskaya": {
+  "name": "Erməni dolması",
+  "description": "Dolma erməni mətbəxinin ən incə yeməklərindən biri və erməni evinin qonaqpərvərliyinin simvoludur. Zərif, bir az turş üzüm yarpaqları düyü, qiymə və ətirli göyərti içliyini bürüyür. Matsun və ya sarımsaq sousu ilə verilir; bayram və ailə süfrəsinin vacib yeməyidir.",
+  "quote": "Dolma tarazlıq sənətidir: zərif ət, ətirli düyü və şirəli üzüm yarpağı ilk tikədən ahəng yaradır",
+  "history": "Üzüm yarpağı dolması bütün Qafqazda və Yaxın Şərqdə bişirilir. Ermənistanda tolma adlanır və sarımsaqlı matsunla verilir; yayda təzə yarpaq götürülür, qış üçün yarpaqlar duza qoyulur.",
+  "ingredientsText": "Üzüm yarpağı 400 q\nMal əti 600 q\nDonuz əti 100 q\nUzundənli düyü 100 q\nSoğan 100 q\nTəzə reyhan 20 q\nCəfəri 20 q\nKeşniş 20 q\nQara istiot\nDuz"
+ },
+ "dolma-azerbajdzhanskaya": {
+  "name": "Yarpaq dolması",
+  "description": "Dolma Azərbaycan mətbəxinin ən sevimli yeməklərindən biridir və böyük diqqətlə hazırlanır. Üzüm yarpaqları və ya tərəvəzlər (badımcan, pomidor, bibər) düyü, qiymə və göyərti ilə doldurulur. Sarımsaqlı qatıqla verilir və bayram süfrəsinin vacib bəzəyidir.",
+  "quote": "Azərbaycan dolması təkcə yarpaq deyil: badımcan, bibər, pomidor və hətta heyva kimi meyvələr də doldurulur",
+  "history": "Dolma adı türk dilindəki \"doldurmaq\" felindən gəlir.\n\nAzərbaycanda dolmanın çoxlu növü var: üzüm yarpağından başqa bibər, pomidor, heyva, badımcan və digər tərəvəz və meyvələr doldurulur.",
+  "ingredientsText": "Quzu və mal qiyməsi 100 q\nÜzüm yarpağı 120 q\nNanə, keşniş və şüyüd, bir az\nKərə yağı 20 q\nDüyü 1 xörək qaşığı\nSoğan ¼\nDuz və istiot"
+ },
+ "dondurma": {
+  "name": "Dondurma",
+  "description": "Keçi südü, salep və saqqızla hazırlanan, bıçaqla kəsiləcək qədər bərk uzanan dondurma.",
+  "history": "Maraş dondurmanın vətənidir, satıcılar müştərilər üçün onunla şou göstərir.",
+  "ingredientsText": "Keçi südü, şəkər, salep, saqqız"
+ },
+ "doshab": {
+  "name": "Doşab",
+  "description": "Qaynadılmış üzüm və ya tut şirəsindən qatı bəkməz, çörəklə yeyilir və şirniyyatda istifadə olunur.",
+  "history": "Doşab payızda böyük mis qazanlarda şəkər əlavə edilmədən qaynadılır.",
+  "ingredientsText": "Üzüm və ya tut şirəsi"
+ },
+ "dovga": {
+  "name": "Dovğa",
+  "description": "Düyü və bol göyərti ilə turş süd və ya qatıq şorbası, isti və ya soyuq verilir.",
+  "history": "Yayda dovğa sərinləmək üçün soyuq içilir, qışda isti yeyilir. Qatıq kəsilməsin deyə bir istiqamətdə qarışdırılır.",
+  "ingredientsText": "Qatıq, düyü, yumurta, ispanaq, turşəng, şüyüd, keşniş, nanə"
+ },
+ "dulkh-khyaltam": {
+  "name": "Dulx-xaltam",
+  "description": "Kartof, soğan və sarımsaqlı sousla haşlanmış ət, bəzən xəmir kürəcikləri ilə.",
+  "history": "Çeçenistanın dağlıq rayonlarının yeməyi; orada ət və kartof qış qidasının əsasıdır.",
+  "ingredientsText": "Mal və ya qoyun əti, kartof, soğan, sarımsaq, buğda unu"
+ },
+ "dyushbara": {
+  "name": "Düşbərə",
+  "description": "Nanə və sarımsaqlı sirkə ilə şəffaf bulyonda xırdaca quzu ətli düşbərə.",
+  "history": "Mahir aşpaz düşbərəni elə xırda bükür ki, bir qaşığa ondan çoxu sığır.",
+  "ingredientsText": "Buğda unu, yumurta, quzu əti, soğan, nanə, şərab sirkəsi, sarımsaq"
+ },
+ "dzavar-plov": {
+  "name": "Bulqur plovu",
+  "description": "Qovrulmuş əriştə və soğanla bulğur plovu. Ətə dənəvər qarnir.",
+  "history": "Bulğur bölgənin ən qədim yarmalarındandır. Kəndlərdə buğda qaynadılıb qurudularaq evdə hazırlanırdı.",
+  "ingredientsText": "Bulğur, əriştə, kərə yağı, soğan, bulyon"
+ },
+ "dzykka": {
+  "name": "Dzıkka",
+  "description": "Təzə pendir, xama və unun yağı ayrılana qədər bişirilməsi ilə hazırlanan qatı yemək.",
+  "history": "Dağ çobanları dzıkkanı təzə pendirdən hazırlayır və çörək batıraraq isti yeyir.",
+  "ingredientsText": "Təzə osetin pendiri, xama, buğda və ya qarğıdalı unu, duz"
+ },
+ "eech": {
+  "name": "İç",
+  "description": "Tomat pastası, soğan, göyərti və limon suyu ilə soyuq bulğur salatı. Oruc yeməyi.",
+  "history": "İç Böyük Orucda, ət və süd məhsullarından imtina edilən vaxt hazırlanır. Yaxşı saxlanır və ertəsi gün daha dadlı olur.",
+  "ingredientsText": "Bulğur, tomat pastası, pomidor, soğan, cəfəri, limon suyu, bitki yağı"
+ },
+ "elarji": {
+  "name": "Elarci",
+  "description": "Bol sulquni ilə uzanana qədər qarışdırılan qatı qarğıdalı sıyığı. Ət və souslarla isti verilir.",
+  "history": "Meqrel mətbəxinin klassikası. Elarci taxta kürəklə uzun və güclə qarışdırılır — uzanması bundan asılıdır.",
+  "ingredientsText": "Qarğıdalı unu, sulquni, su, duz"
+ },
+ "ezogelin-corbasi": {
+  "name": "Ezogelin şorbası",
+  "description": "Bulğur, düyü, tomat pastası və quru nanə ilə qırmızı mərci şorbası.",
+  "history": "Şorba həyatı mahnılara mövzu olmuş qaziantepli gənc qadın Ezonun adını daşıyır.",
+  "ingredientsText": "Qırmızı mərci, bulğur, düyü, tomat pastası, nanə, qırmızı bibər"
+ },
+ "faloodeh": {
+  "name": "Faludə",
+  "description": "Gülab şərbətində dondurulmuş nazik düyü əriştəsi, limon suyu ilə verilir.",
+  "history": "Şiraz faludəsi dünyanın ən qədim dondurulmuş desertlərindəndir.",
+  "ingredientsText": "Düyü əriştəsi, şəkər, gülab, limon suyu"
+ },
+ "fatir": {
+  "name": "Fətir",
+  "description": "Təndirdə bişən çoxlaylı yağlı çörək — qurutobun əsası.",
+  "history": "Fətir çox nazik yayılır və laylar arasına yağ sürtülərək dəfələrlə qatlanır.",
+  "ingredientsText": "Buğda unu, kərə yağı, süd, duz"
+ },
+ "fisinjan": {
+  "name": "Fisincan",
+  "description": "Qoz və nar şirəsindən qatı sousda küftə və ya toyuq.",
+  "history": "Yemək Cənubi Azərbaycan və İranda yayılıb, narın turşluğunu şirinliklə tarazlayır.",
+  "ingredientsText": "Toyuq və ya mal qiyməsi, qoz, nar şirəsi, soğan, zəfəran"
+ },
+ "fydzhyn": {
+  "name": "Fıdcın",
+  "description": "Ətli osetin piroqu. Nazik xəmir, bol içlik və üstünə ərinmiş yağ.",
+  "history": "Bayramlarda osetin piroqları günəş, torpaq və suyu təmsil edərək üç-üç bişirilir. Fıdcının ortasında buxar çıxsın, şirə axmasın deyə kiçik deşik qoyulur.",
+  "ingredientsText": "Buğda unu, maya, kefir, kərə yağı, mal əti, soğan, sarımsaq, istiot"
+ },
+ "gata": {
+  "name": "Qata",
+  "description": "Qata erməni mətbəxinin rahatlıq və ev istisi ilə əlaqələndirilən şirin simvoludur. Yağ, un və şəkər içlikli, çölü xırtıldayan, içi yumşaq laylı xəmir məmulatıdır. Günəş kimi dəyirmi və ya porsiyalara bölünmüş olur; bayramlarda və ya sadəcə çay üçün bişirilir, Ermənistanın hər bölgəsinin öz resepti var.",
+  "quote": "Ermənistanın hər bölgəsinin öz qatası var, amma bir şey dəyişmir: o, insanları bir süfrə arxasında toplayır",
+  "history": "Qata haqqında ilk yazılı qeyd XIII əsrə aiddir, lakin dəqiq nə vaxt yarandığı məlum deyil. O, milli ruhu özündə cəmləşdirib: XX əsrə qədər ağır dövrlərə baxmayaraq ermənilər öz kimliyini və mədəniyyətini qoruyub.\n\nQatanı həm vətəndə, həm də vətəndən uzaqda mətbəxinin xüsusiyyətlərini qoruyan diasporda sevirlər.",
+  "ingredientsText": "Buğda unu 58 q\nKərə yağı 33 q\nMatsun 20 q\nSoda 1 çay qaşığı\nBir çimdik duz\nİçlik üçün: ərinmiş yağ 13 q, vanilli şəkər 1 çay qaşığı, un 40 q, şəkər tozu 41 q"
+ },
+ "gaz": {
+  "name": "Qaz",
+  "description": "Yulğun mannası və gülabla hazırlanan püstəli və ya badamlı yumşaq nuqa.",
+  "history": "Gaz İsfahanın şirniyyatıdır; tikələr yapışmasın deyə una bulanır.",
+  "ingredientsText": "Şəkər, yumurta ağı, manna, gülab, püstə və ya badam"
+ },
+ "gebzhalia": {
+  "name": "Gebjaliya",
+  "description": "Matsoni və nanə sousunda gənc pendir rulonları, soyuq verilir.",
+  "history": "Pendirin hazırlandığı gün təzə pendirdən bişirilən meqrel yeməyi.",
+  "ingredientsText": "Gənc pendir, matsoni, nanə, acı bibər, duz"
+ },
+ "gedlibzhe": {
+  "name": "Qedlibje",
+  "description": "Soğan, sarımsaq və qırmızı bibərli qatı xama sousunda bişən toyuq, pasta (darı sıyığı) ilə.",
+  "history": "Gedlibje kabardin bayram yeməyidir; sous yağda qovrulmuş unla qatılaşdırılır.",
+  "ingredientsText": "Toyuq, xama, soğan, sarımsaq, buğda unu, qırmızı bibər"
+ },
+ "ghapama": {
+  "name": "Qapama",
+  "description": "Düyü, quru meyvə, qoz və balla doldurulub bişirilən bütöv balqabaq, dilim-dilim verilir.",
+  "history": "Qapama qış bayramlarının yeməyidir — hətta \"Hey, qapama\" adlı xalq mahnısı var.",
+  "ingredientsText": "Balqabaq, düyü, quru ərik, kişmiş, qara gavalı, qoz, bal, kərə yağı, darçın"
+ },
+ "ghormeh-sabzi": {
+  "name": "Qormə sabzi",
+  "description": "Bol qovrulmuş göyərti, qırmızı lobya və qurudulmuş limonla bişirilmiş ət.",
+  "history": "Qormə-səbzi çox vaxt İranın ən sevimli yeməyi adlanır; göyərti tündləşənə qədər uzun bişirilir.",
+  "ingredientsText": "Quzu və ya mal əti, cəfəri, keşniş, şambalıd, yaşıl soğan, qırmızı lobya, qurudulmuş limon"
+ },
+ "gogal": {
+  "name": "Qoğal",
+  "description": "Un, yağ, razyana və zerdəçaldan ədviyyatlı içlikli dəyirmi laylı kökələr, duzlu və ya şirin.",
+  "history": "Qoğal şəkərbura və paxlava ilə yanaşı Novruzun əsas şirniyyatlarındandır.",
+  "ingredientsText": "Buğda unu, kərə yağı, yumurta, maya, razyana, zerdəçal, duz"
+ },
+ "gomi": {
+  "name": "Qomi",
+  "description": "Duz və yağsız qatı qarğıdalı sıyığı. Sulquni, sous və ətlə çörək kimi yeyilir.",
+  "history": "Gomi Qərbi Gürcüstanın əsas qidasıdır. Əvvəllər darıdan, qarğıdalı gələndən sonra qarğıdalı yarmasından bişirilirdi.",
+  "ingredientsText": "Qarğıdalı yarması, su"
+ },
+ "govurma": {
+  "name": "Qovurma",
+  "description": "Öz yağında qızarana qədər qovrulan ət. Əvvəllər quzu əti qış üçün belə tədarük edilirdi.",
+  "history": "Qovrulmuş ətin üstünə yağ tökülüb küplərdə saxlanırdı. Bu gün qovurma ayrıca yemək kimi də hazırlanır.",
+  "ingredientsText": "Quzu əti, quyruq yağı, soğan, duz"
+ },
+ "gozinaki": {
+  "name": "Qozinaki",
+  "description": "Balda karamelləşdirilib romb şəklində doğranan qoz. İki inqrediyentli sadə şirniyyat.",
+  "history": "Qozinaki Gürcüstanda Yeni ilin vacib şirniyyatıdır — il şirin keçsin deyə süfrəyə qoyulur.",
+  "ingredientsText": "Qoz, bal, şəkər"
+ },
+ "gozleme": {
+  "name": "Gözləmə",
+  "description": "Pendir, ispanaq və ya kartofun üzərinə qatlanıb sacda bişən nazik xəmir.",
+  "history": "Gözləmə gözünüzün qabağında yayılıb bişirilir, ənənəvi olaraq kənd qadınları tərəfindən.",
+  "ingredientsText": "Buğda unu, su, ağ pendir, ispanaq, kərə yağı"
+ },
+ "guruli-gvezeli": {
+  "name": "Quriya qvezeli",
+  "description": "Pendir və haşlanmış yumurta ilə yarımay şəkilli piroq. Milad bayramında bişirildiyi üçün Gürcüstanda Milad xaçapurisi də adlanır.",
+  "history": "Qərbi Gürcüstandakı Quriya bölgəsinin yeməyi. Yarımay forması müxtəlif cür izah olunur, o cümlədən buynuza və ya aya bənzəməsi ilə.",
+  "ingredientsText": "Buğda unu, maya, matsoni, sulquni, imereti pendiri, haşlanmış yumurta"
+ },
+ "gutap": {
+  "name": "Qutab (türkmən)",
+  "description": "Ət, balqabaq və ya göyərti ilə doldurulub quru tavada bişən nazik yarımay kökələr.",
+  "history": "Gutap Azərbaycan qutabının türkmən qohumudur.",
+  "ingredientsText": "Buğda unu, quzu əti və ya balqabaq, soğan, göyərti"
+ },
+ "guubat": {
+  "name": "Quubat",
+  "description": "Adıgey pendiri ilə doldurulub sobada bişirilən üçbucaq piroqlar.",
+  "history": "Quubat çay və bayramlar üçün bişirilir; üçbucaq forma adıgey xəmir işlərində ənənəvidir.",
+  "ingredientsText": "Buğda unu, kefir, yumurta, adıgey pendiri, kərə yağı"
+ },
+ "guymag": {
+  "name": "Quymaq",
+  "description": "Yağda qovrulmuş undan şəkər və ya bal, zerdəçal və darçınla şirin sıyıq.",
+  "history": "Quymaq zahılar üçün və soyuq günlərdə hazırlanır, çox qidalı sayılır.",
+  "ingredientsText": "Buğda unu, kərə yağı, şəkər və ya bal, zerdəçal, darçın"
+ },
+ "gyrdzhyn": {
+  "name": "Gırcın",
+  "description": "Ayranla hazırlanıb tavada və ya sobada bişən sadə çörək, ət və çayla verilir.",
+  "history": "Gırcın qaraçay və balkarların gündəlik çörəyidir, çox vaxt pendir və ya kartofla doldurulur.",
+  "ingredientsText": "Buğda unu, ayran, soda, duz"
+ },
+ "gyurza": {
+  "name": "Gürzə",
+  "description": "İlan pulcuqlarını xatırladan hörük kənarlı ətli düşbərələr, haşlanır və ya qızardılır.",
+  "history": "Gürzə tikiş naxışı pulcuqlarına bənzədiyi üçün ilanın adını daşıyan Bakı yeməyidir.",
+  "ingredientsText": "Buğda unu, yumurta, quzu əti, soğan, duz"
+ },
+ "hachapuri": {
+  "name": "Xaçapuri",
+  "description": "Xaçapuri gürcü mətbəxinin vizit kartıdır — sadəliyi və zəngin dadı ilə ürəkləri fəth edən pendirli çörək. Ərimiş sulquni və ya imereti pendiri ilə nazik xəmir xırtıldayan qabıqla zərif içliyi birləşdirir. Bölgədən asılı olaraq dəyirmi (imereti), qayıq (acar) və ya üstü pendirli (meqrel) olur. Pendir uzansın deyə isti verilir.",
+  "quote": "Xaçapuri təkcə pendirli piroq deyil, bütöv bir mətbəx mədəniyyətidir: Gürcüstanın harasında olsanız da, süfrədə yeri var",
+  "history": "Xaçapuri bütün Gürcüstanda bişirilir və demək olar hər bölgənin öz variantı var: imereti, meqrel, acar, quriya. Adı adətən \"kəsmikli çörək\" kimi izah olunur — xaço (kəsmik) və puri (çörək).",
+  "ingredientsText": "Süd 250 ml\nSu 250 ml\nTəzə maya 10 q\nŞəkər 10 q\nDuz 5 q\nUn 700 q\nYumurta 2 ədəd\nGünəbaxan yağı 120 q\nSulquni 300 q\nİmereti pendiri 300 q\nBərk pendir 50 q\nKərə yağı 100 q"
+ },
+ "hachapuri-imeretinskij": {
+  "name": "İmeretiya xaçapurisi",
+  "description": "Duzlu imereti pendiri ilə dolu dəyirmi qapalı lavaş. Gürcüstanda ən geniş yayılmış xaçapuri növüdür, evlərdə demək olar hər gün bişirilir.",
+  "history": "Adını Qərbi Gürcüstandakı İmereti bölgəsindən alır. Xəmir çox vaxt matsoni ilə yoğrulur, bu da onu yumşaq və azca turş edir.",
+  "ingredientsText": "Buğda unu, matsoni, soda, imereti pendiri, kərə yağı"
+ },
+ "hachapuri-penovani": {
+  "name": "Penovani xaçapuri",
+  "description": "Laylı xəmirdən xaçapuri: pendir kvadrat və ya zərf şəklində bükülüb xırtıldayan qızılı rəngə qədər bişirilir. Tiflisdə sevilən küçə qəlyanaltısı.",
+  "history": "Penovani \"laylı\" deməkdir. Bu variant klassiklərdən sonra yaranıb şəhər çörəkxanalarında kök salıb.",
+  "ingredientsText": "Laylı xəmir, sulquni, imereti pendiri, kərə yağı"
+ },
+ "hachapuri-po-adzharski": {
+  "name": "Acarıstan xaçapurisi",
+  "description": "Ərimiş pendirlə dolu açıq mayalı xəmir qayığı; süfrəyə verməzdən qabaq üstünə çiy yumurta sarısı və bir tikə yağ qoyulur. Kənarı qoparılıb içliyə qarışdırılaraq yeyilir.",
+  "history": "Yemək Gürcüstanın Qara dəniz sahilindəki Acarıstandandır. Qayıq forması bölgənin dənizçilik həyatı, yumurta sarısı dəniz üzərindəki günəşlə əlaqələndirilir.",
+  "ingredientsText": "Buğda unu, maya, süd, sulquni, imereti pendiri, yumurta, kərə yağı"
+ },
+ "halim": {
+  "name": "Həlim",
+  "description": "Hamarlanana qədər döyülən buğda və ət sıyığı, darçın, şəkər və yağla yeyilir.",
+  "history": "Halim qışda və Ramazanda səhər yeməyində yeyilir, xüsusi halim dükanlarında satılır.",
+  "ingredientsText": "Buğda, hinduşka və ya quzu əti, kərə yağı, darçın, şəkər"
+ },
+ "hamsi-tava": {
+  "name": "Hamsi tava",
+  "description": "Qarğıdalı ununa bulanıb tavada yelpik kimi düzülərək qızardılan Qara dəniz hamsisi.",
+  "history": "Hamsi Türkiyənin Qara dəniz sahilinin simvoludur, mahnılara və lətifələrə mövzu olub.",
+  "ingredientsText": "Hamsi, qarğıdalı unu, buğda unu, bitki yağı, limon"
+ },
+ "harissa": {
+  "name": "Hərisə",
+  "description": "Saatlarla bişirilib hamarlanana qədər döyülən bütöv buğda və toyuq və ya quzu sıyığı. Ərinmiş yağla verilir.",
+  "history": "Herisə bayramlarda və 1915-ci ilin xatirəsinə, Musa dağının müdafiəçilərinin bişirdiyi yemək kimi hazırlanır. Ən simvolik erməni yeməklərindəndir.",
+  "ingredientsText": "Təmizlənmiş buğda, toyuq və ya quzu əti, kərə yağı, duz"
+ },
+ "hash": {
+  "name": "Xaş",
+  "description": "Xaş təkcə şorba deyil, erməni mətbəxinin əfsanəsidir — vaxt, səbir və ənənəyə hörmət tələb edən yemək. Mal ayaqlarından elə uzun bişirilir ki, ət sümükdən sözün əsl mənasında ayrılır. Xaş sarımsaq, göyərti və birbaşa bulyona doğranan quru lavaşla isti verilir; ənənəvi olaraq səhər tezdən, çox vaxt uzun məclislərdən sonra yeyilir.",
+  "quote": "Xaş birləşdirir. Bütün günə güc toplamaq üçün ənənəvi olaraq səhər tezdən yeyilir",
+  "history": "Əvvəlcə yoxsulların yeməyi olub, sonra erməni mədəniyyətinin və mətbəx ənənəsinin simvoluna çevrilib.\n\nRəvayətə görə, kənddə gecələyən bir padşah xaşı dadıb o qədər bəyənib ki, onu süfrəsinin əsas yeməyi edib.",
+  "ingredientsText": "Mal ayağı 1,5 kq\nMal işkənbəsi 500 q\nSarımsaq 3 baş\nTurp 1 ədəd"
+ },
+ "hingalsh": {
+  "name": "Xinqalş",
+  "description": "Xingalş çeçen mətbəxinin özünəməxsus yeməyidir: şirin balqabaqlı mayasız buğda xəmirindən kökələr. Zərif içlik yumşaq xəmirlə mükəmməl uyğunlaşır, ərinmiş yağla verilir. Yumşaq olsun deyə bişmiş kökələr qədimdən isti suya batırılır.",
+  "quote": "Yemək o qədər doyumludur ki, qonaq az yeyəndə ev sahibi deyə bilər: \"Elə yeyirsən ki, sanki indicə xingalş yemisən\"",
+  "history": "Çeçenistanda qədimdən arpa, buğda, darı, qarğıdalı, yulaf və düyü, həmçinin kətan və pambıq becərilir; arpa və buğda ən qədim taxıllardır. Xəmir həm mayasız, həm mayalı hazırlanırdı.\n\nÇeçenlər çoxdan şerbetçiotu mayası — xoyaxarı tanıyır. Xəmir çox vaxt turş südlə turşudulur, içlik isə kəsmik, təzə pendir, kartof püresi və ya balqabaqdır.",
+  "ingredientsText": "Buğda xəmiri\nŞirin balqabaq\nƏrinmiş yağ"
+ },
+ "hinkali": {
+  "name": "Xinkali",
+  "description": "Xinkali sadəcə gürcü düşbərəsi deyil, əsl sənətdir. Nazik, elastik xəmir soğan, sarımsaq və göyərti ilə ədviyyatlanmış şirəli qiymə (adətən mal və ya donuz) içliyini gizlədir. Əsas sirr içəridə qalan və ilk dişləmədə partlayan bulyondur. Əllə, ənənəvi olaraq yeyilməyən \"quyruğundan\" tutaraq yeyilir.",
+  "quote": "Xinkali əsl kulinariya macərasıdır: hər tikə şirə və dad partlayışı ilə müşayiət olunur",
+  "history": "Xinkali Şərqi Gürcüstanın dağlarından — Pşavi, Xevsureti və Tuşetidən gəlir. Doğranmış ət və ədviyyatlı dağ variantı mtiuluri, göyərtili şəhər variantı kalakuri adlanır. Əllə, boşqabda qalan quyruğundan tutaraq yeyilir.",
+  "ingredientsText": "Un 500 q\nSu 400 ml\nDuz 1½ çay qaşığı\nDana əti 250 q\nMal əti 250 q\nPiy 100 q\nSoğan 100 q\nSarımsaq 2 diş\nZirə\nAcı bibər\nKeşniş"
+ },
+ "horovacz-narsharab": {
+  "name": "Xorovats",
+  "description": "Xorovats piknik üçün ideal olan ənənəvi erməni közlənmiş tərəvəz yeməyidir. Tərəvəz təbiətdə kömür üzərində, evdə isə sobada bişirilir.",
+  "quote": "Xorovats ürəklə hazırlanan yeməkdir",
+  "history": "Xorovats sözü ermənicə \"manqal\" deməkdir. Salat üçün tərəvəz təbiətdə közdə, evdə isə sobada və ya qaz ocağında bişirilir. Kabab, kartof, közdə balıq və ya sadəcə lavaş və təzə çörəklə verilir.",
+  "ingredientsText": "Badımcan 3 ədəd\nPomidor 3 ədəd\nBolqar bibəri 2 ədəd\nSoğan 1 ədəd\nSarımsaq 1 diş\nBitki yağı\nDuz\nQara istiot\nGöyərti"
+ },
+ "hunkar-begendi": {
+  "name": "Hünkar bəyəndi",
+  "description": "Pendirli və qaymaqlı souslu hisli badımcan püresi üzərində bişmiş quzu əti.",
+  "history": "Adı \"hökmdar bəyəndi\" deməkdir; yemək Osmanlı saray mətbəxi ilə bağlıdır.",
+  "ingredientsText": "Quzu əti, badımcan, süd, kərə yağı, buğda unu, pendir, pomidor"
+ },
+ "imam-bayildi": {
+  "name": "İmam bayıldı",
+  "description": "Zeytun yağında bişirilib soğan, sarımsaq və pomidorla doldurulan badımcan, soyuq verilir.",
+  "history": "Adı \"imam bayıldı\" deməkdir — rəvayətə görə, dadından.",
+  "ingredientsText": "Badımcan, soğan, sarımsaq, pomidor, zeytun yağı, cəfəri"
+ },
+ "imeruli-kveli": {
+  "name": "İmeretiya pendiri",
+  "description": "Yumşaq, zərif duzlu gənc pendir — xaçapurinin əsası və ayrıca qəlyanaltı.",
+  "history": "Pendir İmeretidə hazırlanır və demək olar dərhal yeyilir; uzun yetişdirmə üçün nəzərdə tutulmayıb.",
+  "ingredientsText": "İnək südü, maya, duz"
+ },
+ "iron-tsykht": {
+  "name": "Osetin pendiri",
+  "description": "İnək və ya qoyun südündən yumşaq duzlu pendir, təzə yeyilir və piroqlara qoyulur.",
+  "history": "Bu pendirsiz heç bir osetin piroqu bişmir; osetincə iron tsıxt adlanır.",
+  "ingredientsText": "İnək və ya qoyun südü, maya, duz"
+ },
+ "ishkhan": {
+  "name": "İşxan balığı",
+  "description": "Limon və göyərti ilə sobada və ya kömür üzərində bişən Göyçə alabalığı. Az sümüklü, zərif ağ ət.",
+  "history": "Adı \"knyaz\" deməkdir. Göyçə gölünün endemik alabalığı bu gün nadirdir, ona görə fermalarda yetişdirilir.",
+  "ingredientsText": "Alabalıq, limon, tərxun, kərə yağı, duz"
+ },
+ "ishlekli": {
+  "name": "İşlekli",
+  "description": "İsti qumda və ya közdə bişən böyük dəyirmi ətli və soğanlı piroq.",
+  "history": "İşlekli köçərilər və çobanlar tərəfindən səhranın ortasında qızmar quma basdırılaraq bişirilir.",
+  "ingredientsText": "Buğda unu, quzu əti, soğan, duz"
+ },
+ "ishli-kyufta": {
+  "name": "İşli küftə",
+  "description": "İçinə qovrulmuş qiymə və qoz qoyulan bulğur və ət kürələri, haşlanır və ya qızardılır.",
+  "history": "İçli küftə ustalıq tələb edir: qabığı nazik olmalı, bişəndə partlamamalıdır.",
+  "ingredientsText": "Bulğur, mal əti, soğan, qoz, kərə yağı, ədviyyat"
+ },
+ "iskender-kebab": {
+  "name": "İsgəndər kabab",
+  "description": "Pide çörəyi üzərində şişdə qızardılmış nazik ət dilimləri, pomidor sousu, cızıldayan yağ və qatıqla.",
+  "history": "Yemək XIX əsrdə Bursada yaradılıb, yaradıcısının ailəsi adı bu gün də istifadə edir.",
+  "ingredientsText": "Quzu və ya mal əti, pide, pomidor sousu, kərə yağı, qatıq"
+ },
+ "ispanakhi-matsvnit": {
+  "name": "Matsonili ispanaq",
+  "description": "Matsoni, sarımsaq və göyərti ilə haşlanmış ispanaq. Ətə yüngül qarnir.",
+  "history": "Gürcü mətbəxində matsoni acı yeməkləri yumşaltmaq üçün sous və qəlyanaltılara qatılır.",
+  "ingredientsText": "İspanaq, matsoni, sarımsaq, keşniş, duz"
+ },
+ "izgara-kofte": {
+  "name": "Manqal küftəsi",
+  "description": "Soğan və ədviyyatla mal qiyməsindən ızqarada bişən kotletlər.",
+  "history": "Hər türk şəhərinin öz köftəsi var, İstanbulda yalnız köftə verən yeməkxanalar mövcuddur.",
+  "ingredientsText": "Mal qiyməsi, soğan, çörək qırıntısı, yumurta, zirə, istiot"
+ },
+ "jarma": {
+  "name": "Carma",
+  "description": "Ayranla qarışdırılmış qovrulmuş arpa unundan sərinləşdirici içki.",
+  "history": "Carma biçin istisində içilirdi: susuzluğu yatırır və güc verir.",
+  "ingredientsText": "Qovrulmuş arpa unu, ayran, duz"
+ },
+ "jiz-biz": {
+  "name": "Cız-bız",
+  "description": "Kartof və soğanla qızardılmış qoyun içalatı — adı tavadakı cızıltını təqlid edir.",
+  "history": "Cız-bız Bakı yeməkxanalarının yeməyidir, tez bişirilib isti verilir.",
+  "ingredientsText": "Qoyun ciyəri, böyrək, ürək, quyruq yağı, kartof, soğan"
+ },
+ "jonjoli": {
+  "name": "Concoli",
+  "description": "Qafqazda bitən kol — sarıqanadın turşuya qoyulmuş çiçək qönçələri. Soğan və yağla ətə qəlyanaltı kimi verilir.",
+  "history": "Conjoli yazda yığılıb il boyu üçün tədarük edilir. Dadı turşməzədir, bir az kapersi xatırladır.",
+  "ingredientsText": "Sarıqanad qönçəsi, duz, şərab sirkəsi, soğan, bitki yağı"
+ },
+ "joojeh-kebab": {
+  "name": "Cücə kababı",
+  "description": "Qatıq, limon və zəfəranda marinad edilib kömür üzərində bişən toyuq tikələri.",
+  "history": "Zəfəran cücə kababına qızılı rəng verir; çox vaxt lülə ilə birlikdə verilir.",
+  "ingredientsText": "Toyuq, qatıq, limon suyu, zəfəran, soğan"
+ },
+ "kabuskadzhyn": {
+  "name": "Kabuskacın",
+  "description": "Kələm və pendirli osetin piroqu. Nazik xəmir, bol içlik və üstünə ərinmiş yağ.",
+  "history": "Bayramlarda osetin piroqları günəş, torpaq və suyu təmsil edərək üç-üç bişirilir. Kələmli piroq xüsusən payız və qışda sevilir.",
+  "ingredientsText": "Buğda unu, maya, kefir, kərə yağı, ağbaş kələm, osetin pendiri"
+ },
+ "kada": {
+  "name": "Qada",
+  "description": "Yağ və şəkərlə ovulmuş un içlikli, içi xırda dağılan şirin xəmir məmulatı.",
+  "history": "Gürcüstanda kada bayramlarda bişirilir. Ermənilər və azərbaycanlılarda da bənzər şirniyyat var, resept ailədən ailəyə dəyişir.",
+  "ingredientsText": "Buğda unu, kərə yağı, şəkər, yumurta, matsoni, maya, vanil"
+ },
+ "kaghamb-tolma": {
+  "name": "Kələm dolması",
+  "description": "Erməni kələm dolması: ət və düyü ilə doldurulmuş kələm yarpaqları tomat sousunda bişirilir.",
+  "history": "Kələm dolması üzüm yarpağı olmayan payız və qışda hazırlanır.",
+  "ingredientsText": "Ağbaş kələm, mal qiyməsi, düyü, soğan, tomat pastası, göyərti"
+ },
+ "kalla-pacha": {
+  "name": "Kəllə-paça",
+  "description": "Saatlarla qaynadılan qoyun başı və ayaqlarından qatı şorba, sarımsaq və sirkə ilə verilir.",
+  "history": "Kəllə-paça xaş kimi səhər tezdən, xüsusən qışda yeyilir.",
+  "ingredientsText": "Qoyun başı, qoyun ayağı, noxud, sarımsaq, şərab sirkəsi"
+ },
+ "karniyarik": {
+  "name": "Qarnıyarıq",
+  "description": "Qiymə, soğan və pomidorla doldurulan yarılmış qızardılmış badımcan.",
+  "history": "Adı \"yarılmış qarın\" deməkdir; imam bayıldının ətli qardaşıdır.",
+  "ingredientsText": "Badımcan, mal qiyməsi, soğan, pomidor, yaşıl bibər"
+ },
+ "kartofdzhyn": {
+  "name": "Kartofcın",
+  "description": "Kartof və pendirli osetin piroqu. Nazik xəmir, bol içlik və üstünə ərinmiş yağ.",
+  "history": "Bayramlarda osetin piroqları günəş, torpaq və suyu təmsil edərək üç-üç bişirilir. Kartof içliyi kartof XIX əsrdə Qafqazda yayılandan sonra yaranıb.",
+  "ingredientsText": "Buğda unu, maya, kefir, kərə yağı, kartof, osetin pendiri"
+ },
+ "kashk-e-bademjan": {
+  "name": "Kəşk badımcan",
+  "description": "Kəşk, qızardılmış soğan, sarımsaq və nanə ilə qızardılmış badımcan püresi.",
+  "history": "Kəşk yeməyə duzlu dərinlik verən qurudulmuş turş süd məhsuludur.",
+  "ingredientsText": "Badımcan, kəşk, soğan, sarımsaq, quru nanə, qoz"
+ },
+ "kashyk-burek": {
+  "name": "Qaşıq börək",
+  "description": "Ət bulyonunda xırdaca düşbərələr — adı \"qaşıq börəyi\" deməkdir.",
+  "history": "Düşbərələr elə xırda bükülür ki, bir qaşığa bir neçəsi birdən sığır.",
+  "ingredientsText": "Buğda unu, yumurta, quzu əti, soğan, bulyon, nanə"
+ },
+ "kazan-kebab": {
+  "name": "Qazan kababı",
+  "description": "Qazanda qızılı rəngə qədər qızardılan quzu qabırğası və kartof.",
+  "history": "Qazan kababı nazik doğranmış soğan və göyərti ilə böyük boşqabda verilir.",
+  "ingredientsText": "Quzu əti, quzu qabırğası, kartof, soğan, zirə, pambıq yağı"
+ },
+ "kazy": {
+  "name": "Qazı",
+  "description": "Təbii bağırsaqda at qabırğa əti və yağından kolbasa, haşlanır və ya qurudulur.",
+  "history": "Qazı qazax süfrəsinin bəzəyidir, dilim-dilim doğranıb verilir.",
+  "ingredientsText": "At qabırğa əti, at yağı, duz, istiot, sarımsaq"
+ },
+ "kchuch": {
+  "name": "Kçuç",
+  "description": "Saxsı qabda bişən ət və tərəvəz; tərəvəz ət şirəsində çox yumşalana qədər dəmlənir.",
+  "history": "Kçuç həm yeməyin, həm də onun bişdiyi saxsı qabın adıdır.",
+  "ingredientsText": "Quzu əti, badımcan, kartof, pomidor, bibər, soğan, göyərti"
+ },
+ "kesme": {
+  "name": "Kəsmə",
+  "description": "Bıçaqla kəsilmiş ev əriştəsi, ət və tərəvəzlə şorba.",
+  "history": "Kesme \"kəsilmiş\" deməkdir; qırğız evlərində gündəlik şorbadır.",
+  "ingredientsText": "Buğda unu, yumurta, mal əti, kartof, yerkökü, soğan"
+ },
+ "khabizgina": {
+  "name": "Xabizgina",
+  "description": "Gürcüstan və Osetiyanın dağlıq rayonlarından kartof püresi və osetin pendirli piroq.",
+  "history": "Xabizgina osetin kartof piroqunun gürcücə adıdır; Qazbeqi və Raçada bişirilir.",
+  "ingredientsText": "Buğda unu, kefir, kartof, osetin pendiri, kərə yağı"
+ },
+ "khadurdzhyn": {
+  "name": "Xadurcın",
+  "description": "Lobyalı osetin piroqu. Nazik xəmir, bol içlik və üstünə ərinmiş yağ.",
+  "history": "Bayramlarda osetin piroqları günəş, torpaq və suyu təmsil edərək üç-üç bişirilir. Lobyalı piroq ət yeyilməyən oruc günlərində bişirilir.",
+  "ingredientsText": "Buğda unu, maya, kefir, kərə yağı, qırmızı lobya, soğan"
+ },
+ "khalvaitar": {
+  "name": "Halvaytar",
+  "description": "Yağda qovrulmuş undan şəkər və ya bal və südlə yumşaq halva.",
+  "history": "Halvaytar bayramlarda və zahılar üçün qidalı şirniyyat kimi hazırlanır.",
+  "ingredientsText": "Buğda unu, kərə yağı, şəkər və ya bal, süd"
+ },
+ "khalyuzh": {
+  "name": "Xalyuj",
+  "description": "Adıgey pendiri və soğan və ya kartofla doldurulmuş qızardılmış üçbucaq piroqlar.",
+  "history": "Xaluj bayramlar üçün hazırlanır; üçbucaq forma bərabər qızarmağa kömək edir.",
+  "ingredientsText": "Buğda unu, kefir, adıgey pendiri, yaşıl soğan, bitki yağı"
+ },
+ "khamrashi": {
+  "name": "Xamraşı",
+  "description": "Ev əriştəsi, lobya və kiçik küftələrlə şorba.",
+  "history": "Xəmrəşi Cənubi Azərbaycanın qış şorbasıdır, əriştə əllə çox nazik kəsilir.",
+  "ingredientsText": "Buğda unu, lobya, quzu əti, soğan, göyərti"
+ },
+ "khanum": {
+  "name": "Xanım",
+  "description": "Ət, kartof və ya balqabaqla doldurulub buxarda bişən nazik xəmir rulonu.",
+  "history": "Xanım mantı qabında bişirilir, sonra dilimlənib üstünə sous tökülür.",
+  "ingredientsText": "Buğda unu, quzu əti, kartof, soğan, zirə"
+ },
+ "kharcho": {
+  "name": "Xarço",
+  "description": "Düyü, turş tkemali və ya tklapi, qoz və ədviyyatla qatı mal əti şorbası. Acı, doyumlu və ətirli.",
+  "history": "Xarço xaricdə ən tanınmış gürcü şorbalarındandır. Meqreliyada düyüsüz bişirilir və daha çox yemək kimi verilir.",
+  "ingredientsText": "Mal əti, düyü, tkemali və ya tklapi, qoz, soğan, sarımsaq, keşniş, xmeli-suneli"
+ },
+ "khashil": {
+  "name": "Xəşil",
+  "description": "Ərinmiş yağ və bal və ya üzüm doşabı ilə verilən un və sudan qatı sıyıq.",
+  "history": "Xəşil soyuqda və zahılar üçün hazırlanır; ortasında çuxur açılıb yağla doldurulur.",
+  "ingredientsText": "Buğda unu, su, kərə yağı, bal və ya üzüm doşabı"
+ },
+ "khashlama": {
+  "name": "Xaşlama",
+  "description": "Böyük tikələrlə tərəvəzlə öz şirəsində bişən quzu və ya mal əti, bəzən pivə və ya şərabla.",
+  "history": "Adı \"qaynatmaq\" sözü ilə bağlıdır. Xaşlama bütün ailə üçün böyük qazanda, tərəvəz lay-lay düzülərək hazırlanır.",
+  "ingredientsText": "Quzu və ya mal əti, kartof, pomidor, bolqar bibəri, soğan, göyərti, duz"
+ },
+ "khasip": {
+  "name": "Xasıp",
+  "description": "Doğranmış ət, ciyər və düyü ilə doldurulmuş qoyun bağırsağından kolbasa, bulyonda haşlanır.",
+  "history": "Xasip bayramlarda qoyun içalatından heç nəyi israf etmədən hazırlanır.",
+  "ingredientsText": "Qoyun bağırsağı, quzu əti, ciyər, düyü, soğan, zirə"
+ },
+ "khingal": {
+  "name": "Xəngəl",
+  "description": "Qovrulmuş ət və soğan, sarımsaqlı qatıq və qurutla haşlanmış geniş xəmir kvadratları.",
+  "history": "Xəngəl Azərbaycanda və Şimali Qafqazda bişirilir. Müxtəlif bölgələrdə xəmir kvadrat və ya romb kəsilir.",
+  "ingredientsText": "Buğda unu, quzu əti, soğan, qatıq, sarımsaq, qurut"
+ },
+ "khoresh-bademjan": {
+  "name": "Badımcan xörəyi",
+  "description": "Qızardılmış badımcan, pomidor və turş kal üzümlə quzu yeməyi.",
+  "history": "Xoreş həmişə düyü ilə verilən İran yeməklərinin ümumi adıdır.",
+  "ingredientsText": "Quzu əti, badımcan, pomidor, kal üzüm, soğan, zerdəçal"
+ },
+ "khoresh-gheymeh": {
+  "name": "Qeymə xörəyi",
+  "description": "Sarı lərgə, tomat və qurudulmuş limonla quzu yeməyi, üstünə xırtıldayan kartof çöpləri.",
+  "history": "Qeymə ənənəvi olaraq Məhərrəm ayında dini məclislərdə paylanır.",
+  "ingredientsText": "Quzu əti, sarı lərgə, tomat pastası, qurudulmuş limon, soğan, kartof"
+ },
+ "khorovats-ovoshchnoy": {
+  "name": "Tərəvəz kababı",
+  "description": "Kömür üzərində bişirilib soyulan, sarımsaq və göyərti ilə doğranan badımcan, pomidor və bibər.",
+  "history": "Tərəvəz ətli xorovatsla eyni közdə bişirilir və onunla birlikdə verilir.",
+  "ingredientsText": "Badımcan, pomidor, bolqar bibəri, sarımsaq, keşniş, duz"
+ },
+ "khychiny": {
+  "name": "Xıçın",
+  "description": "Kartof və pendir və ya ətlə doldurulub quru tavada bişən, yağlanan nazik kökələr.",
+  "history": "Xıçın bütün Kabardin-Balkariyada sevilən balkar və qaraçay yeməyidir.",
+  "ingredientsText": "Buğda unu, kefir, kartof, pendir, kərə yağı"
+ },
+ "khyovla": {
+  "name": "Xovla",
+  "description": "Qovrulmuş un, yağ və şəkər və ya baldan romb şəklində doğranan çeçen halvası.",
+  "history": "Xovla ehsan və bayramlar üçün hazırlanıb qonşulara paylanır.",
+  "ingredientsText": "Buğda unu, kərə yağı, şəkər və ya bal"
+ },
+ "kisir": {
+  "name": "Qısır",
+  "description": "Tomat və bibər pastalı, göyərtili, limonlu və nar şirəli xırda bulğur salatı.",
+  "history": "Kısır ev məclislərində çayla, kahı yarpağına bükülərək verilir.",
+  "ingredientsText": "Xırda bulğur, tomat pastası, bibər pastası, yaşıl soğan, cəfəri, limon, nar şirəsi"
+ },
+ "kobete": {
+  "name": "Köbətə",
+  "description": "Ət, kartof və soğanla doldurulmuş böyük dəyirmi piroq.",
+  "history": "Köbətə bayramlar və ailə şənlikləri üçün xəmir naxışları ilə bəzədilərək bişirilir.",
+  "ingredientsText": "Buğda unu, kərə yağı, yumurta, quzu əti, kartof, soğan"
+ },
+ "kok-choy": {
+  "name": "Göy çay",
+  "description": "Gün boyu piyalələrdən içilən və hər yeməkdə verilən yaşıl çay.",
+  "history": "Ev sahibi qonağın piyaləsini tez-tez doldurmaq üçün yalnız yarıya qədər tökür — bu qayğı əlamətidir.",
+  "ingredientsText": "Yaşıl çay, su"
+ },
+ "kololik": {
+  "name": "Kololak",
+  "description": "Tomatlı bulyonda böyük ət və düyü kürələri ilə şorba — hər kürə az qala ayrıca yeməkdir.",
+  "history": "Şirak bölgəsinin yeməyi. Kürələr bişəndə formasını saxlasın deyə ətə düyü və yumurta qatılır.",
+  "ingredientsText": "Mal qiyməsi, düyü, yumurta, soğan, tomat pastası, göyərti, duz"
+ },
+ "koobideh": {
+  "name": "Kubidə kababı",
+  "description": "Geniş şişlərdə soğanlı quzu qiyməsindən kabab, düyü, közlənmiş pomidor və sumaxla verilir.",
+  "history": "Düyü ilə kubidə — çələv kabab — İranın milli yeməyi sayılır.",
+  "ingredientsText": "Quzu əti, soğan, duz, istiot, sumax, düyü, pomidor"
+ },
+ "kubdari": {
+  "name": "Kubdari",
+  "description": "Bıçaqla doğranmış ət, soğan və svan ədviyyatları ilə bol içlikli qapalı piroq. Ət qiymə deyil, doğranır, ona görə içlik şirəli və tikəli qalır.",
+  "history": "Gürcüstanın dağlıq bölgəsi Svanetiyanın ənənəvi yeməyi. Svan duzu — duz, göyərti və ədviyyat qarışığı ilə ədviyyatlanır.",
+  "ingredientsText": "Buğda unu, maya, mal əti, donuz əti, soğan, svan duzu, keşniş, sarımsaq"
+ },
+ "kuchmachi": {
+  "name": "Kuçmaçi",
+  "description": "Soğan, nar və əzilmiş qozla qızardılmış içalat — ciyər, ürək və ağciyər. İsti verilir.",
+  "history": "Kuçmaçi kəsimdən sonra heç nəyin itmədiyi qənaətcil mətbəxdən gəlir. Çox vaxt bayramlarda bişirilir.",
+  "ingredientsText": "Mal və ya donuz ciyəri, ürək, ağciyər, soğan, qoz, nar, keşniş"
+ },
+ "kufta-bozbash": {
+  "name": "Küftə bozbaş",
+  "description": "Hər birinin içində qurudulmuş alça olan iri quzu-düyü küftələri, noxud və kartofla bişirilir.",
+  "history": "Hər küftədə gizlədilmiş alça sürprizdir və bişdikcə açılan turşluğun mənbəyidir.",
+  "ingredientsText": "Quzu əti, düyü, noxud, kartof, qurudulmuş alça, soğan, zəfəran, nanə"
+ },
+ "kumpir": {
+  "name": "Kumpir",
+  "description": "Yağ və pendirlə əzilib onlarla əlavə ilə doldurulan nəhəng bişmiş kartof.",
+  "history": "Kumpir İstanbulun Ortaköy məhəlləsində, sahil boyunca satılaraq məşhurlaşıb.",
+  "ingredientsText": "Kartof, kərə yağı, pendir, qarğıdalı, zeytun, turşu, sosiska"
+ },
+ "kumys": {
+  "name": "Qımız",
+  "description": "Madyan südündən azca qazlı, sərinləşdirici turş süd içkisi.",
+  "history": "Qımız çöl köçərilərinə qədimdən məlumdur, dəri tuluqda çalxalanır.",
+  "ingredientsText": "Madyan südü, maya"
+ },
+ "kunefe": {
+  "name": "Künəfə",
+  "description": "Tel qadayıfdan ərimiş duzsuz pendirlə şərbətə batırılmış isti desert.",
+  "history": "Künəfə Türkiyənin cənubundakı Hatayın fəxridir, sobadan təzə çıxmış halda püstə ilə verilir.",
+  "ingredientsText": "Tel qadayıf, duzsuz pendir, kərə yağı, şəkər şərbəti, püstə"
+ },
+ "kupaty": {
+  "name": "Kupati",
+  "description": "Təbii bağırsaqda ədviyyat, sarımsaq və zirinclə donuz və ya mal ətindən qızardılmış kolbasalar. Nar və soğanla verilir.",
+  "history": "Gürcüstanda kupatı tavada və ya kömür üzərində qızardılır. Sovet dövründə ölkədən çox uzaqlarda populyarlaşıb.",
+  "ingredientsText": "Donuz və ya mal əti, təbii bağırsaq, sarımsaq, zirinc, keşniş, istiot"
+ },
+ "kurt": {
+  "name": "Qurut",
+  "description": "Uzun saxlanan və aclığı yatıran preslənmiş turş süddən duzlu quru kürəciklər.",
+  "history": "Qurut uzun yola aparılırdı; qəlyanaltı kimi yeyilir və sous üçün suda əridilir.",
+  "ingredientsText": "Turş süd, duz"
+ },
+ "kurze": {
+  "name": "Kurze",
+  "description": "Ət, balqabaq, gicitkən və ya kəsmiklə doldurulmuş hörük kənarlı damcı şəkilli Dağıstan düşbərələri.",
+  "history": "Kurzenin hörüyü aşpazın ustalığını göstərir: naxış nə qədər xırda olsa, bir o qədər yaxşıdır, deyirlər.",
+  "ingredientsText": "Buğda unu, su, quzu və ya mal əti, soğan, duz"
+ },
+ "kutaby": {
+  "name": "Qutab",
+  "description": "Qutab sadəliyi və incə dadı ilə ürəkləri fəth edən nazik xəmir məmulatıdır. İçlik müxtəlif ola bilər: şirəli göyərtidən (keşniş, şüyüd, ispanaq) zərif ətə və ya balqabağa qədər. Qutab quru sacda qızarana qədər bişirilir, sonra ərinmiş yağla yağlanır. Qatıq və ya ayranla verilir. İdeal qəlyanaltı və ya yüngül şam yeməyi.",
+  "quote": "Qutab ət, göyərti, balqabaq və ya pendirlə doldurulan, qatıqlı souslarla verilən nazik xəmir məmulatıdır",
+  "history": "Qutabın tarixi çörək bişirildikdən sonra qalan xəmirdən bu ləzzətli yeməyin hazırlandığı qədim dövrlərə gedib çıxır.",
+  "ingredientsText": "Buğda unu 96 q\nRafinə bitki yağı 1 xörək qaşığı\nSoğan 1 ədəd\nKərə yağı 1 xörək qaşığı\nCəfəri 80 q\nSumax istəyə görə\nBir çimdik duz"
+ },
+ "kuyrdak": {
+  "name": "Qovurdaq",
+  "description": "Soğanla qovrulmuş quzu əti və içalat — ciyər, ürək və böyrək.",
+  "history": "Quyrdaq qonaqlara təzə ət ikram etmək üçün kəsimdən dərhal sonra bişirilir.",
+  "ingredientsText": "Quzu əti, ciyər, ürək, böyrək, quyruq yağı, soğan"
+ },
+ "kyata": {
+  "name": "Kətə",
+  "description": "Un, yağ və şəkər içlikli laylı, zəngin kökə, çayla verilir.",
+  "history": "Kətə Azərbaycanda və Ermənistanda tanınır; bəzi yerlərdə şirin, bəzilərində duzlu olur.",
+  "ingredientsText": "Buğda unu, kərə yağı, yumurta, süd, maya, şəkər"
+ },
+ "kyufta": {
+  "name": "Küftə",
+  "description": "Xırda döyülmüş mal ətindən iri kürələr, haşlanıb dilimlənir. Yağ və soğanla verilir.",
+  "history": "Küftə Gümrünün fəxridir. Ət qiymə edilmir, taxta çəkiclərlə pasta halına qədər döyülür.",
+  "ingredientsText": "Mal əti, soğan, yumurta, kərə yağı, duz, istiot"
+ },
+ "kyukyu": {
+  "name": "Kükü",
+  "description": "Bol göyərtili, bəzən qoz və zirincli sobada bişən omlet, ilıq və ya soyuq verilir.",
+  "history": "Kükü Novruz üçün bişirilir; yaşıl rəngi baharı simvolizə edir.",
+  "ingredientsText": "Yumurta, keşniş, şüyüd, ispanaq, yaşıl soğan, qoz, kərə yağı"
+ },
+ "lagman": {
+  "name": "Laqman",
+  "description": "Ət və tərəvəz — bibər, turp, pomidor və sarımsaq sousu ilə əllə çəkilmiş əriştə.",
+  "history": "Laqman özbəklərə uyğur və dunqanlardan keçib; əriştə incələnənə qədər çəkilib masaya vurulur.",
+  "ingredientsText": "Buğda unu, mal və ya quzu əti, bolqar bibəri, turp, pomidor, soğan, sarımsaq"
+ },
+ "lahmadzho": {
+  "name": "Ləhməcun",
+  "description": "Lahmaco sadəliyi və dolğun dadı ilə erməni \"pitsası\"dır. Nazik xəmir qiymə, pomidor, soğan və ədviyyatla örtülüb xırtıldayana qədər bişirilir. Çox vaxt bükülüb göyərti, limon suyu və ya matsunla yeyilir. Sevilən küçə qəlyanaltısı və ailələrin sevimlisi.",
+  "quote": "Ermənilər deyir ki, lahmaco \"ruhun yeməyidir\": sadə və dadlı, hamı onu sevir",
+  "history": "Ərəb ölkələrində yemək lahmacun və ya lahm bi acin adlanır. Sifariş gözləyənlər xəmirin sobada dəyişməsini izləyir: yayılır, qabarcıqlanır və bir neçə saniyəyə qalxır.\n\nErmənilər İordaniyada ərəb xristianlarından sonra ən böyük xristian icmasıdır və lahmaco Ammandakı erməni çörəkxanalarında satılır.",
+  "ingredientsText": "Xəmir üçün: kefir və ya matsoni 250 ml, buğda unu 400–450 q, duz ½ çay qaşığı"
+ },
+ "lakume": {
+  "name": "Lakume",
+  "description": "Çay, bal və ya ətlə verilən mayalı xəmirdən qabarıq qızardılmış pişilər.",
+  "history": "Lakume bayram və ehsanlarda paylanır; romb forması ən ənənəvisidir.",
+  "ingredientsText": "Buğda unu, maya, süd, yumurta, şəkər, bitki yağı"
+ },
+ "lavash": {
+  "name": "Lavaş",
+  "description": "Yayılıb təndir divarlarında bişirilən nazik mayasız çörək. Qurudulmuş lavaş aylarla saxlanır.",
+  "history": "Erməni mədəniyyətinin ifadəsi kimi lavaş bişirmə UNESCO-nun qeyri-maddi irs siyahısına daxildir.",
+  "ingredientsText": "Buğda unu, su, duz"
+ },
+ "lepeshka-non": {
+  "name": "Özbək çörəyi",
+  "description": "Ortası nazik və möhürlü, kənarı qabarıq dəyirmi təndir çörəyi.",
+  "history": "Naxış çekiç möhürü ilə vurulur; çörək heç vaxt üzüqoylu qoyulmur — bu hörmətsizlikdir.",
+  "ingredientsText": "Buğda unu, maya, su, duz, küncüt və ya qaraçörəkotu"
+ },
+ "lobiani": {
+  "name": "Lobiani",
+  "description": "Əzilmiş haşlanmış lobya, soğan və ədviyyatla doldurulmuş lavaş. Gürcülərin oruc günlərində tez-tez hazırladığı sadə, doyumlu yemək.",
+  "history": "Adı \"lobya\" mənasını verən lobio sözündəndir. Xüsusən Raçada sevilir, orada lobiani çox vaxt donuz pastırması ilə bişirilir.",
+  "ingredientsText": "Buğda unu, maya, qırmızı lobya, soğan, kərə yağı və ya bitki yağı, keşniş"
+ },
+ "lobio": {
+  "name": "Lobio",
+  "description": "Lobio lobyanın əsl ləzzət ola biləcəyini sübut edir. Qoz, sarımsaq, keşniş və ədviyyatla hazırlanan haşlanmış lobya zərif, ətirli kütləyə çevrilir. İsti və ya soyuq, qatı püre və ya bütöv dənələrlə, saxsı qablarda verilir.",
+  "quote": "Lobio gürcü qonaqpərvərliyindən danışır. Gomi (qarğıdalı sıyığı) və ya sadəcə lavaşla verilir",
+  "history": "Lobya Qafqaza Yeni dövrdə Amerikadan gəlib, lakin tez bir zamanda gürcü süfrəsinin əsasına çevrilib. Lobio saxsı qabda isti və ya qozla soyuq hazırlanır; mçadi və turşu ilə, xüsusən oruc günlərində yeyilir.",
+  "ingredientsText": "Lobya 63 q (qırmızı və ya ala)\nQoz 13 q\nSoğan 0,4 ədəd\nPomidor 0,3 ədəd\nSarımsaq 0,4 diş\nKeşniş 1,5 q\nXmeli-suneli 0,1 xörək qaşığı\nAcı bibər 0,1 ədəd\nDuz\nBitki yağı 0,3 xörək qaşığı\nQara istiot"
+ },
+ "lokum": {
+  "name": "Lokum",
+  "description": "Gülab, püstə və ya limonla ətirlənmiş, şəkər tozuna bulanmış şəkər və nişastadan yumşaq kublar.",
+  "history": "Lokum XVIII–XIX əsrlərdə İstanbulda məşhurlaşıb və hədiyyə kimi bütün Avropaya aparılıb.",
+  "ingredientsText": "Şəkər, qarğıdalı nişastası, su, gülab, şəkər tozu"
+ },
+ "lori-cheese": {
+  "name": "Lori pendiri",
+  "description": "İnək südündən gözlü yarımbərk duzlu pendir.",
+  "history": "Pendir hazırlandığı Ermənistanın şimalındakı Lori bölgəsinin adını daşıyır.",
+  "ingredientsText": "İnək südü, maya, duz"
+ },
+ "lyavangi": {
+  "name": "Ləvəngi",
+  "description": "Qoz, soğan və turş alça lavaşanası ilə doldurulub sobada bişirilən toyuq.",
+  "history": "Ləvəngi Cənubi Azərbaycanda — Lənkəran və Talışda bayramlarda təndirdə bişirilən yeməkdir.",
+  "ingredientsText": "Toyuq, qoz, soğan, alça lavaşanası, duz, istiot"
+ },
+ "lyguazha": {
+  "name": "Lıquaja",
+  "description": "Soğan, tomat və qırmızı bibərlə bişirilmiş mal və ya qoyun əti.",
+  "history": "Lıquaja çox vaxt kabardin süfrəsində çörəyi əvəz edən pasta (darı sıyığı) ilə verilir.",
+  "ingredientsText": "Mal və ya qoyun əti, soğan, tomat pastası, qırmızı bibər, sarımsaq"
+ },
+ "lyulya-kebab": {
+  "name": "Lülə kabab",
+  "description": "Soğan və quyruq yağı ilə doğranmış quzu ətindən uzun şiş kababları, kömür üzərində.",
+  "history": "Lülə üçün ət bıçaqla doğranıb uzun müddət yoğrulur, yoxsa şişdə durmur.",
+  "ingredientsText": "Quzu əti, quyruq yağı, soğan, duz, istiot, sumax"
+ },
+ "lyvzha": {
+  "name": "Lıvja",
+  "description": "Kartof, soğan və unla, istiotla ədviyyatlanmış ət və ya toyuqdan qatı, yeməyəbənzər şorba.",
+  "history": "Lıvja bayramlar üçün bişirilir və piroqlarla dərin kasalarda isti verilir.",
+  "ingredientsText": "Mal əti və ya toyuq, kartof, soğan, buğda unu, istiot, göyərti"
+ },
+ "maksym": {
+  "name": "Maksım",
+  "description": "Qovrulmuş taxıldan — arpa, qarğıdalı və ya buğdadan azca qazlı içki.",
+  "history": "Yayda maksım Bişkek küçələrində böyük çəlləklərdən satılır.",
+  "ingredientsText": "Arpa və ya buğda, su, duz, maya"
+ },
+ "mantapur": {
+  "name": "Mantapur",
+  "description": "Sarımsaqlı matsunla bulyonda kiçik bişmiş mantı şorbası.",
+  "history": "Mantapur qış yeməyidir: mantılar əvvəl qızarana qədər bişirilib sonra isti bulyonla tökülür.",
+  "ingredientsText": "Buğda unu, mal qiyməsi, soğan, bulyon, matsun, sarımsaq"
+ },
+ "manti-armyanskie": {
+  "name": "Erməni mantısı",
+  "description": "Xırtıldayana qədər bişirilib bulyon və sarımsaqlı matsunla verilən xırdaca açıq ətli xəmir qayıqları.",
+  "history": "Orta Asiya mantısından fərqli olaraq erməni mantısı kiçik, açıq və bişmişdir.",
+  "ingredientsText": "Buğda unu, mal qiyməsi, bulyon, matsun, sarımsaq, sumax"
+ },
+ "manti-turetskie": {
+  "name": "Türk mantısı",
+  "description": "Sarımsaqlı qatıq və qırmızı bibərli yağla verilən xırdaca ətli düşbərələr.",
+  "history": "Ən məşhuru Qeysəri mantısıdır — deyirlər, yaxşı aşpaz bir qaşığa qırx mantı sığdırır.",
+  "ingredientsText": "Buğda unu, yumurta, mal qiyməsi, qatıq, sarımsaq, kərə yağı, qırmızı bibər"
+ },
+ "manty": {
+  "name": "Manta",
+  "description": "Doğranmış quzu əti və soğanla doldurulub mərtəbəli buxar qabında bişən iri mantılar.",
+  "history": "Mantı əllə, dişlənib içindəki şirə içilərək, turş süd və ya xama ilə yeyilir.",
+  "ingredientsText": "Buğda unu, quzu əti, quyruq yağı, soğan, zirə"
+ },
+ "mast-o-khiar": {
+  "name": "Mast-o-xiyar",
+  "description": "Xiyar, nanə, qoz, kişmiş və qızılgül ləçəkləri ilə soyuq qatıq.",
+  "history": "Mast-o-xiyar düyü yeməklərini müşayiət edir, istidə sərinləşdirici şorba kimi yeyilir.",
+  "ingredientsText": "Qatıq, xiyar, nanə, qoz, kişmiş, qızılgül ləçəyi"
+ },
+ "mastava": {
+  "name": "Mastava",
+  "description": "Turş süd və göyərti ilə verilən düyü, ət, yerkökü və pomidorlu qatı şorba.",
+  "history": "Mastava gündəlik ev şorbasıdır; düyü onu sıyıq kimi doyumlu edir.",
+  "ingredientsText": "Düyü, quzu əti, yerkökü, kartof, pomidor, soğan, turş süd"
+ },
+ "matnakash": {
+  "name": "Matnakaş",
+  "description": "Qızılı qabıqlı, uzununa şırımlı yumşaq oval çörək. Mayalı xəmirdən olub bişməzdən əvvəl çayla yağlanır.",
+  "history": "Adı \"barmaqla çəkilmiş\" deməkdir: çörəkdəki şırımlar əllə açılır.",
+  "ingredientsText": "Buğda unu, maya, su, şəkər, duz"
+ },
+ "matsoni": {
+  "name": "Matsoni",
+  "description": "Qatı qatığa bənzər gürcü turş süd məhsulu, balla yeyilir və ya yeməklərə qatılır.",
+  "history": "Matsoni ənənəvi olaraq saxsı küplərdə mayalanır; əvvəllər satıcılar onu ev-ev gəzdirirdi.",
+  "ingredientsText": "İnək südü, maya"
+ },
+ "matsun": {
+  "name": "Matsun",
+  "description": "Qatı qatığa bənzər turş süd məhsulu, qaşıqla yeyilir və şorba, souslara qatılır.",
+  "history": "Matsun mayası nəsildən-nəslə ötürülür. Tandan spasa qədər bir çox erməni yeməyinin əsasıdır.",
+  "ingredientsText": "İnək südü, maya"
+ },
+ "mchadi": {
+  "name": "Mçadi",
+  "description": "Quru tavada bişən kiçik mayasız qarğıdalı kökələri. Pendir, lobio və pxali ilə yeyilir.",
+  "history": "Mçadi Qərbi Gürcüstanın ənənəvi çörəyidir. Buğda unu olmadığı üçün qlütendən çəkinənlərə uyğundur.",
+  "ingredientsText": "Qarğıdalı unu, su, duz"
+ },
+ "megruli-hachapuri": {
+  "name": "Meqreliya xaçapurisi",
+  "description": "İçində də, üstündə də pendir olan, bişməzdən əvvəl sulquni səpilən dəyirmi xaçapuri. Zəngin, çox pendirli lavaş alınır.",
+  "history": "Acı yeməkləri və sulquni sevgisi ilə tanınan Qərbi Gürcüstandakı Sameqrelodan (Meqreliya) gəlir.",
+  "ingredientsText": "Buğda unu, matsoni, yumurta, sulquni, imereti pendiri, kərə yağı"
+ },
+ "menemen": {
+  "name": "Menemen",
+  "description": "Tavada pomidor, yaşıl bibər və soğanla bişən yumurta — klassik türk səhər yeməyi.",
+  "history": "Menemenə soğan qoyulub-qoyulmaması Türkiyədə hələ də qızğın mübahisə mövzusudur.",
+  "ingredientsText": "Yumurta, pomidor, yaşıl bibər, soğan, zeytun yağı"
+ },
+ "mercimek-corbasi": {
+  "name": "Mərci şorbası",
+  "description": "Yerkökü və soğanla qırmızı mərci püre-şorbası, limonla verilir.",
+  "history": "Mərci şorbası demək olar hər türk restoranının menyusundadır və günün istənilən vaxtı yeyilir.",
+  "ingredientsText": "Qırmızı mərci, yerkökü, soğan, kərə yağı, limon"
+ },
+ "mezhadzhe": {
+  "name": "Mejadje",
+  "description": "Tavada bişirilib sous və pendirlə verilən qarğıdalı çörəyi.",
+  "history": "Mejadje qarğıdalı ilə birlikdə yayılmış ənənəvi adıgey çörəyidir.",
+  "ingredientsText": "Qarğıdalı unu, su, duz"
+ },
+ "midye-dolma": {
+  "name": "Midyə dolması",
+  "description": "Ədviyyatlı düyü, şam qozu və xırda kişmişlə doldurulmuş midiya, küçə piştaxtalarında limonla yeyilir.",
+  "history": "Midiya satıcıları İstanbul və İzmirin axşam həyatının bir hissəsidir.",
+  "ingredientsText": "Midiya, düyü, soğan, şam qozu, xırda kişmiş, ədviyyat, limon"
+ },
+ "mirza-ghasemi": {
+  "name": "Mirzəqasımi",
+  "description": "Odda hisə verilib sarımsaq, pomidor və yumurta ilə əzilən badımcan, çörəklə verilir.",
+  "history": "Xəzəryanı Gilan əyalətinin yeməyi, adını yerli hakimdən alır.",
+  "ingredientsText": "Badımcan, sarımsaq, pomidor, yumurta, zerdəçal"
+ },
+ "morasa-polo": {
+  "name": "Mürəssə plov",
+  "description": "Portağal qabığı mürəbbəsi, zirinc, püstə və badamla \"cavahiratlı plov\".",
+  "history": "Mürəssə plov toylarda verilir; parlaq bəzəkləri şirin və bolluqlu həyatı simvolizə edir.",
+  "ingredientsText": "Düyü, portağal qabığı, yerkökü, zirinc, püstə, badam, zəfəran, şəkər"
+ },
+ "motal": {
+  "name": "Motal pendiri",
+  "description": "Qoyun dərisində yetişdirilən, kəskin dadlı və özünəməxsus ətirli duzlu qoyun pendiri.",
+  "history": "Motal dağlıq rayonlarda çobanlar tərəfindən hazırlanır; dəridə yetişmə ona bənzərsiz dad verir.",
+  "ingredientsText": "Qoyun südü, maya, duz"
+ },
+ "mtsvadi": {
+  "name": "Mtsvadi",
+  "description": "Üzüm tənəyi közündə bişən donuz və ya dana şişi. Nazik doğranmış soğan və tkemali sousu ilə verilir.",
+  "history": "Tənək közündə bişirmə şərabçılıq bölgələrinin, xüsusən Kaxetiyanın qədim ənənəsidir. Tənək ətə yüngül tüstü ətri verir.",
+  "ingredientsText": "Donuz və ya dana əti, soğan, duz, istiot, nar şirəsi"
+ },
+ "muhlama": {
+  "name": "Mühlama",
+  "description": "Qarğıdalı unu və yağla əridilən uzanan pendir, çörəklə isti yeyilir.",
+  "history": "Muhlama Trabzon və Rizədən gəlir; Gürcüstan və Abxaziyada bənzər yeməklər var.",
+  "ingredientsText": "Yetişmiş pendir, qarğıdalı unu, kərə yağı"
+ },
+ "mutaki": {
+  "name": "Mütəkkə",
+  "description": "Qoz və şəkərlə doldurulmuş, şəkər tozu səpilmiş xırtıldayan nazik xəmir boruları.",
+  "history": "Adı \"balaca yastıq\" deməkdir. Mütəkkə Bakı və Gəncədə bayramlarda bişirilir.",
+  "ingredientsText": "Buğda unu, kərə yağı, xama, yumurta, qoz, şəkər"
+ },
+ "nabat": {
+  "name": "Nabat",
+  "description": "Adi şəkər əvəzinə çayla verilən iplərdə iri şəkər kristalları.",
+  "history": "Nabat bir neçə gün ərzində şərbətdən böyüdülür, bəzən zəfəranla ətirlənir.",
+  "ingredientsText": "Şəkər, su, zəfəran"
+ },
+ "nadugi": {
+  "name": "Naduği",
+  "description": "Nazik sulquni laylarına bükülmüş nanəli və göyərtili zərif qaymaqlı kəsmik.",
+  "history": "Naduqi pendir hazırlamanın yan məhsuludur; Sameqreloda qəlyanaltı kimi verilir.",
+  "ingredientsText": "Naduqi kəsmiyi, sulquni, nanə, keşniş, duz"
+ },
+ "narsharab": {
+  "name": "Narşərab",
+  "description": "Qaynadılmış nar şirəsindən qatı turş-şirin sous, kabab və balıqla verilir.",
+  "history": "Narşərab payızda ən yaxşı narların yetişdiyi Göyçay və Şamaxıda hazırlanır.",
+  "ingredientsText": "Nar şirəsi, duz, ədviyyat"
+ },
+ "naryn": {
+  "name": "Narın",
+  "description": "Haşlanmış at və ya qoyun əti və soğanla xırda doğranmış əriştə, bulyonla verilir.",
+  "history": "Narın Daşkənd və Fərqanənin bayram yeməyidir; xəmir və ət əllə çox nazik doğranır.",
+  "ingredientsText": "Buğda unu, at və ya qoyun əti, qazı, soğan, bulyon"
+ },
+ "nasdzhyn": {
+  "name": "Nascın",
+  "description": "Balqabaqlı osetin piroqu. Nazik xəmir, bol içlik və üstünə ərinmiş yağ.",
+  "history": "Bayramlarda osetin piroqları günəş, torpaq və suyu təmsil edərək üç-üç bişirilir. Balqabaqlı piroq bir az şirin olur və payızda məhsul yığımından sonra bişirilir.",
+  "ingredientsText": "Buğda unu, maya, kefir, kərə yağı, balqabaq, şəkər və ya bal"
+ },
+ "nazuk": {
+  "name": "Nazik",
+  "description": "Un, yağ və şəkərdən xırda dağılan şirin içlikli zəngin mayalı xəmir rulonu, çəp kəsilir.",
+  "history": "Nazuk çay və qəhvə ilə verilir, çox vaxt Milad və Pasxada bişirilir.",
+  "ingredientsText": "Buğda unu, kərə yağı, xama, maya, yumurta, şəkər, vanil"
+ },
+ "nazuki": {
+  "name": "Nazuki",
+  "description": "Surami yaxınlığında yol kənarında satılan, tone sobasında bişən kişmişli və darçınlı şirin çörək.",
+  "history": "Nazuki Suraminin simvoludur: satıcılar isti çörəkləri keçən maşınlara qədər gətirir.",
+  "ingredientsText": "Buğda unu, maya, süd, yumurta, şəkər, kişmiş, darçın, kərə yağı"
+ },
+ "nishalda": {
+  "name": "Nişalda",
+  "description": "Şəkər və biyan kökü ilə çalınmış yumurta ağından ağappaq, yüngül şirniyyat.",
+  "history": "Nişallda Ramazanda iftardan sonra içinə çörək batırılaraq yeyilir.",
+  "ingredientsText": "Yumurta ağı, şəkər, biyan kökü"
+ },
+ "nushi-muraba": {
+  "name": "Qoz mürəbbəsi",
+  "description": "Şəkər şərbətində tündləşənə qədər bişirilən bütöv yaşıl qoz, çayla verilir.",
+  "history": "Qoz yayın əvvəlində, qabığı hələ yumşaq ikən yığılır və bişirilməzdən əvvəl uzun müddət isladılır.",
+  "ingredientsText": "Yaşıl qoz, şəkər, su, mixək, darçın"
+ },
+ "ojakhuri": {
+  "name": "Ocaxuri",
+  "description": "Xırtıldayan kartof, soğan və ədviyyatla qızardılmış donuz əti, saxsı ketsi tavasında verilir. Sadə və doyumlu \"ailə\" yeməyi.",
+  "history": "Adı \"ailəvi\" deməkdir: ocaxuri bütün ailə üçün əldə olanlardan bişirilirdi.",
+  "ingredientsText": "Donuz əti, kartof, soğan, sarımsaq, xmeli-suneli, keşniş"
+ },
+ "oromo": {
+  "name": "Oromo",
+  "description": "Ət və balqabaq və ya kartofla doldurulub buxarda bişən nazik xəmir rulonu.",
+  "history": "Oromo mantı qabında bişirilir və sous və ya bulyonla verilir.",
+  "ingredientsText": "Buğda unu, mal və ya qoyun əti, balqabaq, soğan"
+ },
+ "osetr-kebab": {
+  "name": "Nərə kababı",
+  "description": "Kömür üzərində bişib narşərabla verilən şişdə nərə balığı tikələri.",
+  "history": "Xəzər nərəsi Bakı mətbəxinin fəxridir; şirəli qalsın deyə qısa müddət bişirilir.",
+  "ingredientsText": "Nərə balığı, kərə yağı, limon, nar sousu, duz"
+ },
+ "oshi-burida": {
+  "name": "Oşi burida",
+  "description": "Nazik ev əriştəsi, ət, paxlalılar və göyərti ilə şorba.",
+  "history": "Burida \"kəsilmiş\" deməkdir: əriştə bıçaqla nazik zolaqlar şəklində kəsilir.",
+  "ingredientsText": "Buğda unu, mal əti, noxud, maş, soğan, pomidor, göyərti"
+ },
+ "ostri": {
+  "name": "Ostri",
+  "description": "Duzlu xiyar, sarımsaq və ədviyyatlı qatı tomat sousunda acı mal əti yeməyi. Çörək və ya kartofla verilir.",
+  "history": "Adı \"acı\" mənasını verən sözdəndir. Ostri Tiflis yeməkxanalarının sevimli yeməyidir.",
+  "ingredientsText": "Mal əti, pomidor, tomat pastası, duzlu xiyar, soğan, sarımsaq, acı bibər, xmeli-suneli"
+ },
+ "pahlava": {
+  "name": "Paxlava",
+  "description": "Paxlava laylı quruluşu və zəngin dadı ilə Azərbaycan mətbəxinin şirin simvoludur. Bal və ya şərbətə batırılmış nazik xəmir layları doğranmış qoz və ya fındıqla növbələşir. Hər tikə xırtıldayan qabıq və zərif içliyi birləşdirir. Paxlava bayram süfrəsinin, xüsusən Novruzun vacib bəzəyidir.",
+  "quote": "Paxlava təkcə desert deyil, mədəniyyətin bir hissəsidir: sevinci və minnətdarlığı bölüşmək üçün Novruzda, toylarda və bayramlarda bişirilir",
+  "history": "Azərbaycan paxlavası ölkənin mədəniyyətində və bayramlarında mühüm yer tutan qozlu və şərbətli çoxlaylı desertdir.\n\nTarixçilər paxlavanın Osmanlı yemək kitablarında (XV əsr) erkən qeydlərinə işarə etsə də, Azərbaycan da bu desertin tarixində öz payını iddia edə bilər.",
+  "ingredientsText": "Xəmir üçün: un 35 q, süd 12 ml, kərə yağı 6 q, 1 yumurta, şəkər 4 q, quru maya 1 q, duz 1 q\nİçlik üçün: qoz 30 q, kərə yağı 8 q, şəkər 15 q, kartof nişastası 1 xörək qaşığı\nŞərbət üçün: bal 10 q, şəkər 10 q, su 10 ml, limon suyu 1 xörək qaşığı"
+ },
+ "pasta-adyg": {
+  "name": "Pasta",
+  "description": "Çörək kimi doğranıb ət və şçips ilə verilən çox qatı darı sıyığı.",
+  "history": "Pasta adıgeylərdə çörəyi əvəz edirdi; əzilməsin deyə sapla kəsilir.",
+  "ingredientsText": "Darı, su, duz"
+ },
+ "pasuc-tolma": {
+  "name": "Pasuts dolma",
+  "description": "Oruc dolması: lobya, mərci, noxud, bulğur və düyü ilə ədviyyatlı doldurulmuş kələm yarpaqları.",
+  "history": "Pasus tolma Böyük Orucda hazırlanır. İçlikdəki çoxlu paxlalılar bolluğu simvolizə edir.",
+  "ingredientsText": "Kələm, lobya, mərci, noxud, bulğur, düyü, tomat pastası, soğan, ədviyyat"
+ },
+ "pelamushi": {
+  "name": "Pelamuşi",
+  "description": "Qəliblərdə donan üzüm şirəsi və un pudinqi. Çox vaxt üstünə qoz səpilir.",
+  "history": "Çurçxela kimi pelamuşi də şərabçılığın yan məhsuludur: hər ikisi eyni qatılaşdırılmış şirədən hazırlanır.",
+  "ingredientsText": "Üzüm şirəsi, buğda və ya qarğıdalı unu"
+ },
+ "pide": {
+  "name": "Pidə",
+  "description": "Qiymə, pendir, yumurta və ya tərəvəzlə qayıq şəkilli çörək.",
+  "history": "Pide bütün Türkiyədə daş sobalarda bişirilir; Qara dəniz variantları xüsusilə məşhurdur.",
+  "ingredientsText": "Buğda unu, maya, qiymə və ya pendir, yumurta, kərə yağı"
+ },
+ "piti": {
+  "name": "Piti",
+  "description": "Noxud, şabalıd, heyva və zəfəranla porsiya saxsı qabda yavaş-yavaş bişən quzu şorbası. Əvvəl suyu çörəklə içilir, sonra əti yeyilir.",
+  "history": "Piti Şəkinin simvol yeməyidir. Qablar saatlarla sobada qalır, quyruq yağı bulyonu zəngin edir.",
+  "ingredientsText": "Quzu əti, quyruq yağı, noxud, şabalıd, heyva, soğan, zəfəran"
+ },
+ "pkhali": {
+  "name": "Pxali",
+  "description": "İspanaq, çuğundur və ya kələm kimi doğranmış tərəvəz və ya göyərtinin qoz pastası, sarımsaq və ədviyyatla qarışığından qəlyanaltı. Kürə şəkli verilib nar dənələri ilə bəzədilir.",
+  "history": "Pxali gürcü süfrəsinin əsas oruc yeməklərindəndir. Bostanda nə qədər yeməli göyərti varsa, bir o qədər variantı var.",
+  "ingredientsText": "İspanaq və ya çuğundur, qoz, sarımsaq, keşniş, xmeli-suneli, şərab sirkəsi, nar"
+ },
+ "pkhlovani": {
+  "name": "Pxlovani",
+  "description": "İspanaq, çuğundur yarpağı və ya gicitkən və pendirlə piroq, Raça və Osetiyada sevilir.",
+  "history": "Pxlovani təzə göyərti çıxanda yazda bişirilir.",
+  "ingredientsText": "Buğda unu, matsoni, ispanaq və ya çuğundur yarpağı, sulquni, göyərti"
+ },
+ "plov": {
+  "name": "Plov",
+  "description": "Plov ləzzət və ənənə zənginliyini birləşdirən Azərbaycan mətbəxinin şahıdır. Dəmlənmiş düyü ətirli ət (çox vaxt quzu), quru meyvə, şabalıd və ədviyyatla verilir. Hər komponent ayrıca bişirilib sonra ahəngdar bütövə birləşdirilir. Plov böyük şənliklərdə və ailə süfrələrində qonaqpərvərliyin simvoludur.",
+  "quote": "Zəfəran Azərbaycan plovunun qızılı rənginin və bənzərsiz ətrinin sirridir: hər düyü dənəsi daş-qaş kimi parlayır",
+  "history": "Plov, digər şərq yeməkləri kimi, düyünün ət və ədviyyatla bişirildiyi qədim İran və Orta Asiyaya söykənir.\n\nPlov ticarət yolları və hərbi yürüşlər sayəsində bütün Şərqə, o cümlədən Azərbaycana yayılıb; Azərbaycan mətbəxində plovun çoxlu növü var.",
+  "ingredientsText": "Soğan 4 iri\nKişmiş ½ stəkan\nQuru ərik 1 stəkan\nQara gavalı ½ stəkan\nŞabalıd 500 q\nBir çimdik darçın\nKərə yağı 400–600 q\nQazmaq üçün: un ½ stəkan, yumurta, kefir"
+ },
+ "pokhindz": {
+  "name": "Poxinz",
+  "description": "Bal və ya şəkər və yağla qarışdırılmış qovrulmuş buğda unu, qaşıqla yeyilir və ya kürəcik edilir.",
+  "history": "Poxindz hər ailədə hazırlanıb uşaqlara paylanan ənənəvi Yeni il şirniyyatıdır.",
+  "ingredientsText": "Buğda unu, bal və ya şəkər, kərə yağı"
+ },
+ "putuk": {
+  "name": "Putuk",
+  "description": "Porsiya saxsı qabda bişirilən noxud və qurudulmuş alçalı quzu şorbası.",
+  "history": "Putuk Azərbaycan pitisinin qohumu olan qab şorbasının erməni variantıdır.",
+  "ingredientsText": "Quzu əti, noxud, kartof, qurudulmuş alça, soğan"
+ },
+ "qurutob": {
+  "name": "Qurutob",
+  "description": "Qurut sousuna batırılıb soğan, pomidor və göyərti ilə örtülən laylı fətir tikələri.",
+  "history": "Qurutob Tacikistanın milli yeməyi sayılır və ortaq taxta qabdan əllə yeyilir.",
+  "ingredientsText": "Fətir, qurut, soğan, pomidor, xiyar, göyərti, bitki yağı"
+ },
+ "sabzi-govurma": {
+  "name": "Sabzı qovurma",
+  "description": "Bol göyərti — ispanaq, keşniş, şüyüd, yaşıl soğan — və qurudulmuş alça ilə bişən quzu əti.",
+  "history": "Səbzi \"göyərti\" deməkdir. Yemək xüsusən təzə göyərti çıxan yazda sevilir.",
+  "ingredientsText": "Quzu əti, ispanaq, keşniş, şüyüd, yaşıl soğan, qurudulmuş alça, soğan"
+ },
+ "sabzi-polo-mahi": {
+  "name": "Sabzi plov balıqla",
+  "description": "Göyərtili plov və qızardılmış balıq — Novruzun ənənəvi yeməyi.",
+  "history": "Göyərti yenilənməni, balıq həyatı simvolizə edir; ona görə baharın ilk günü yeyilir.",
+  "ingredientsText": "Düyü, cəfəri, keşniş, şüyüd, yaşıl soğan, balıq, kərə yağı"
+ },
+ "saczivi": {
+  "name": "Satsivi",
+  "description": "Satsivi soyuq verilən, mürəkkəb quruluş və dada malik incə yeməkdir. Sarımsaq, ədviyyat və sirkə ilə əzilmiş qozdan sous qatı və məxməri olur. Ona haşlanmış toyuq və ya hinduşka qoyulub dəmləndirilir. Satsivi gürcü bayram süfrəsinin vacib yeməyidir.",
+  "quote": "Satsivi qoz, keşniş və ədviyyatla bişirilən, bolluq və sevinci simvolizə edən Milad yeməyidir",
+  "history": "Adı \"soyuq\" mənasını verən tsiva sözü ilə bağlıdır: satsivi soyudulmuş verilir. Gürcü Yeni il süfrəsinin əsas yeməklərindəndir, toyuq, hinduşka və ya qızardılmış tərəvəzlə hazırlanır.",
+  "ingredientsText": "2 kq-a qədər toyuq və ya hinduşka\nKərə yağı 20 q\nSoğan 1 kq\nKeşniş 4 budaq\nQoz 600 q\nQara istiot 1 xörək qaşığı\nÜyüdülmüş keşniş 1 xörək qaşığı\nİmereti zəfəranı 1 xörək qaşığı\nMixək 3–6 ədəd\nBir çimdik darçın\nSarımsaq 4–8 diş\nAğ şərab sirkəsi 1 xörək qaşığı\nDuz"
+ },
+ "sadzh": {
+  "name": "Sac",
+  "description": "Sac adlanan qabarıq dəmir tavada qızardılıb elə onun üstündə verilən ət, kartof, badımcan və bibər.",
+  "history": "Sac həm tava, həm yeməkdir. Yemək süfrədə soyumasın deyə altında çox vaxt köz saxlanılır.",
+  "ingredientsText": "Quzu əti və ya toyuq, kartof, badımcan, pomidor, bolqar bibəri, soğan"
+ },
+ "samsa": {
+  "name": "Samsa",
+  "description": "Təndir divarlarında bişən quzu əti və soğanlı üçbucaq laylı samsalar.",
+  "history": "Təndir samsası üstünə küncüt və ya qaraçörəkotu səpilən məşhur özbək küçə yeməyidir.",
+  "ingredientsText": "Buğda unu, quzu əti, quyruq yağı, soğan, zirə, küncüt"
+ },
+ "sangak": {
+  "name": "Səngək",
+  "description": "Qızmar çınqıl üzərində bişən uzun kəpəkli buğda çörəyi.",
+  "history": "Çınqıllar çörəkdə çuxurlar qoyur; səngək vaxtilə İran ordusunun çörəyi olub.",
+  "ingredientsText": "Kəpəkli un, xəmirmaya, su, duz, küncüt"
+ },
+ "sarburma": {
+  "name": "Sarburma",
+  "description": "Uzun xəmir şeridindən bükülən ətli içlikli ilbiz şəkilli laylı piroq.",
+  "history": "Sarburma \"bükülmüş\" deməkdir; bayramlarda böyük sinilərdə bişirilir.",
+  "ingredientsText": "Buğda unu, kərə yağı, yumurta, quzu əti, soğan"
+ },
+ "satsebeli": {
+  "name": "Satsebeli",
+  "description": "Sarımsaq, acı bibər və göyərti ilə pomidor sousu. Ət, quş əti və xaçapuri ilə verilir.",
+  "history": "Satsebeli sözü sadəcə \"sous\" deməkdir. Əvvəllər giləmeyvə və meyvədən hazırlanırdı; pomidorlu variant sonra yaranıb.",
+  "ingredientsText": "Pomidor, sarımsaq, acı bibər, keşniş, reyhan, duz"
+ },
+ "shah-plov": {
+  "name": "Şah plov",
+  "description": "Şah plov gözəlliyi və incə dadı ilə heyran edən Azərbaycan mətbəxinin incisidir. Düyü xırtıldayan lavaş qabığına bürünmüş \"tac\" şəklində düzülür, içində zərif ət, quru meyvə və qoz-fındıq olur. Xüsusi günlərin yeməyi və Azərbaycan süfrəsinin zənginlik və səxavət simvoludur.",
+  "quote": "Şah plov əsl şoudur: bütöv halda gətirilib qonaqların gözü qarşısında kəsilir",
+  "history": "Şah plov (xan plovu və ya \"padşah plovu\" da adlanır) qeyri-adi hazırlanma üsulu və orijinal təqdimatı ilə seçilən Azərbaycan bayram yeməyidir.\n\nOnun tarixi plovun xüsusi yer tutduğu Azərbaycan mətbəx ənənəsi ilə bağlıdır.",
+  "ingredientsText": "Mal əti 600 q\nDüyü 600 q\nƏrinmiş yağ 350 q\nSoğan 250 q\nQuru ərik 150 q\nSarı kişmiş 150 q\nQurudulmuş alça 100 q\nHaşlanmış şabalıd 150 q\nZerdəçal\nZəfəran 3–5 tel\nDuz\nZirinc 50 q (istəyə görə)\nNazik lavaş 400 q"
+ },
+ "shakarob": {
+  "name": "Şəkərob",
+  "description": "Pilov və kababla verilən acı bibər və göyərtili pomidor, xiyar və soğan salatı.",
+  "history": "Şakarob özbək açiçukunun tacik qohumudur və süfrəyə verməzdən dərhal əvvəl hazırlanır.",
+  "ingredientsText": "Pomidor, xiyar, soğan, acı bibər, keşniş, reyhan"
+ },
+ "sharots": {
+  "name": "Şarots",
+  "description": "Qatılaşdırılmış üzüm şirəsi ilə örtülmüş ipə düzülü qoz — çurçxelanın erməni qohumu.",
+  "history": "Şarots üzüm yığımından sonra payızda hazırlanıb qurumaq üçün asılır.",
+  "ingredientsText": "Qoz, üzüm şirəsi, un"
+ },
+ "shchips": {
+  "name": "Şçips",
+  "description": "Qovrulmuş unla qatılaşdırılmış bulyon və ya qaymaqdan sarımsaqlı və qırmızı bibərli qatı sous.",
+  "history": "Şçips ət, toyuq və pasta ilə verilir; onsuz adıgey süfrəsini təsəvvür etmək çətindir.",
+  "ingredientsText": "Bulyon və ya qaymaq, buğda unu, kərə yağı, sarımsaq, qırmızı bibər"
+ },
+ "shekerbura": {
+  "name": "Şəkərbura",
+  "description": "Üyüdülmüş badam və ya qoz və şəkərlə doldurulmuş, üstü maqqaşla naxışlanan yarımay şirniyyat.",
+  "history": "Şəkərbura Novruz üçün bişirilir. Üstündəki naxışa naxış deyilir və hər xanımın öz naxışı var.",
+  "ingredientsText": "Buğda unu, kərə yağı, yumurta, süd, maya, badam və ya fındıq, şəkər, hil"
+ },
+ "shekerchorek": {
+  "name": "Şəkərçörək",
+  "description": "Ağızda əriyən un, yağ və şəkərdən xırda dağılan peçenye.",
+  "history": "Şəkərçörəyi Novruz süfrəsinin digər şirniyyatları ilə birlikdə bişirilir.",
+  "ingredientsText": "Buğda unu, kərə yağı, şəkər tozu, yumurta sarısı, hil"
+ },
+ "sheki-halva": {
+  "name": "Şəki halvası",
+  "description": "Fındıqlı, qatı şəkər şərbətinə batırılmış düyü unu toru şirniyyatı.",
+  "history": "Rəştə adlanan nazik düyü toru qıfdan tökülür — Şəki ailələrində nəsildən-nəslə ötürülən sirr.",
+  "ingredientsText": "Düyü unu, fındıq, şəkər, hil, keşniş, zəfəran"
+ },
+ "sherbet": {
+  "name": "Şərbət",
+  "description": "Meyvə şirəsi, qızılgül ləçəkləri, reyhan və ya zəfərandan sərin şirin içki, plovla verilir.",
+  "history": "Şərbət toy və bayramlarda içilir; rəngi və ətri mövsümə görə dəyişir.",
+  "ingredientsText": "Su, şəkər, limon suyu, qızılgül ləçəyi və ya reyhan toxumu, zəfəran"
+ },
+ "shilaplavi": {
+  "name": "Şilaplavi",
+  "description": "Quzu əti və soğanla qaymaqlı, bir az yapışqan qıvama qədər bişən düyü — dənəvər plovdan çox rizottoya yaxındır.",
+  "history": "Şilaplavi Svanetiya və Raçada bayramlarda, hər qonağa çatsın deyə böyük qazanlarda bişirilir.",
+  "ingredientsText": "Düyü, quzu əti, soğan, svan duzu, bitki yağı"
+ },
+ "shirazi-salad": {
+  "name": "Şirazi salatı",
+  "description": "Nanə və qora suyu və ya limon suyu ilə xırda doğranmış xiyar, pomidor və qırmızı soğan.",
+  "history": "Adını İranın cənubundakı şairlər və bağlar şəhəri Şirazdan alır.",
+  "ingredientsText": "Xiyar, pomidor, qırmızı soğan, quru nanə, limon suyu, zeytun yağı"
+ },
+ "shirchoy": {
+  "name": "Şirçay",
+  "description": "Süd, yağ və duzla, bəzən çörək tikələri ilə çay — doyumlu səhər yeməyi.",
+  "history": "Şirçay dağlıq rayonlarda səhər tezdən içilir, isindirir və güc verir.",
+  "ingredientsText": "Çay, süd, kərə yağı, duz"
+ },
+ "shirin-plov": {
+  "name": "Şirin plov",
+  "description": "Bayram süfrəsi üçün quru meyvə, şabalıd və zəfəranla şirin plov.",
+  "history": "Şirin plov Azərbaycan plovunun çoxsaylı növlərindən biridir.",
+  "ingredientsText": "Düyü, kişmiş, quru ərik, şabalıd, kərə yağı, zəfəran, şəkər"
+ },
+ "shivit-oshi": {
+  "name": "Şüyüd aşı",
+  "description": "Ət yeməyi və turş südlə verilən parlaq yaşıl şüyüdlü əriştə — Xarəzm yeməyi.",
+  "history": "Şüyüd birbaşa xəmirə qatılır, ona görə əriştə yaşıl və ətirli olur.",
+  "ingredientsText": "Buğda unu, şüyüd, mal əti, kartof, yerkökü, turş süd"
+ },
+ "shkmeruli": {
+  "name": "Şkmeruli",
+  "description": "Ketsi adlanan saxsı tavada qaymaqlı sarımsaq sousunda bişirilən qızardılmış toyuq. Sarımsaq bol qoyulur.",
+  "history": "Yemək Raçadakı Şkmeri kəndindəndir. Saxsı tavalar istini uzun saxlayır, ona görə şkmeruli elə onlarda verilir.",
+  "ingredientsText": "Toyuq, qaymaq və ya süd, sarımsaq, kərə yağı, duz"
+ },
+ "sholeh-zard": {
+  "name": "Şüləzərd",
+  "description": "Zəfəran və gülabla şirin düyü pudinqi, darçın və badamla bəzədilir.",
+  "history": "Şolə-zərd nəzir kimi bişirilib qonşulara paylanır, darçınla naxış və yazılarla bəzədilir.",
+  "ingredientsText": "Düyü, şəkər, zəfəran, gülab, kərə yağı, badam, darçın"
+ },
+ "shor-gogal": {
+  "name": "Şorqoğal",
+  "description": "Un, yağ, razyana və zerdəçal içlikli duzlu laylı kökələr.",
+  "history": "Şor \"duzlu\" deməkdir. Şor qoğal Novruz qoğalının Bakı variantıdır.",
+  "ingredientsText": "Buğda unu, kərə yağı, yumurta, maya, razyana, zerdəçal, duz"
+ },
+ "shoti": {
+  "name": "Şoti",
+  "description": "Tone adlanan dəyirmi saxsı sobanın divarlarında bişən qayıq şəkilli çörək. Çölü xırtıldayan, içi yumşaq.",
+  "history": "Tiflisin hər məhəlləsində tone çörəkxanası var. Səhər isti şoti alıb yolda yeyirlər.",
+  "ingredientsText": "Buğda unu, maya, su, duz"
+ },
+ "shubat": {
+  "name": "Şubat",
+  "description": "Dəvə südündən qatı, azca şirin turş süd içkisi.",
+  "history": "Şubat dəvə saxlanılan Cənubi Qazaxıstanda içilir.",
+  "ingredientsText": "Dəvə südü, maya"
+ },
+ "shurpa": {
+  "name": "Şorba",
+  "description": "İri kartof, yerkökü, pomidor və göyərti ilə zəngin quzu şorbası.",
+  "history": "Şurpa odun üstündə qazanda bişirilir; ət çox vaxt əvvəlcə qovrulur.",
+  "ingredientsText": "Quzu əti, kartof, yerkökü, pomidor, soğan, noxud, göyərti"
+ },
+ "simit": {
+  "name": "Simit",
+  "description": "Küçə arabalarında satılan, pendir və çayla yeyilən küncütlü xırtıldayan halqa çörək.",
+  "history": "Simit bişməzdən əvvəl üzüm doşabına batırılır, bu da qabığına qızılı rəng verir.",
+  "ingredientsText": "Buğda unu, maya, üzüm doşabı, küncüt"
+ },
+ "siskal": {
+  "name": "Siskal",
+  "description": "Tavada və ya közdə bişən, ət və bulyonla verilən sadə qarğıdalı çörəyi.",
+  "history": "Siskal çeçenlərin gündəlik çörəyidir; dağlarda birbaşa ocaq külündə bişirilirdi.",
+  "ingredientsText": "Qarğıdalı unu, su, duz"
+ },
+ "sohan": {
+  "name": "Sohan",
+  "description": "Şəkər, yağ və cücərmiş buğdadan zəfəranlı və püstəli xırtıldayan kökələr.",
+  "history": "Sohan Qumun simvol şirniyyatıdır, tənəkə qutularda hədiyyə kimi aparılır.",
+  "ingredientsText": "Şəkər, kərə yağı, buğda unu, cücərmiş buğda, zəfəran, püstə, badam"
+ },
+ "sokhta": {
+  "name": "Soxta",
+  "description": "Ciyər, düyü və soğanla doldurulmuş qoyun mədəsindən haşlanmış kolbasa.",
+  "history": "Soxta qoyun kəsiləndən dərhal sonra hazırlanan bayram yeməyidir.",
+  "ingredientsText": "Qoyun mədəsi, ciyər, düyü, quyruq yağı, soğan, istiot"
+ },
+ "soko-ketsze": {
+  "name": "Ketsidə göbələk",
+  "description": "Saxsı ketsi tavasında sulquni ilə bişirilib elə onda verilən göbələk.",
+  "history": "Saxsı ketsi istini saxlayır, ona görə pendir son göbələyə qədər uzanır.",
+  "ingredientsText": "Göbələk, sulquni, kərə yağı, duz"
+ },
+ "sokos-khinkali": {
+  "name": "Göbələkli xinkali",
+  "description": "Göbələk, soğan və göyərtili xinkali — məşhur düşbərələrin ətsiz variantı.",
+  "history": "Göbələkli xinkali oruc günlərində yeyilir; bunlar da quyruğundan tutulur, amma içində şirə azdır.",
+  "ingredientsText": "Buğda unu, göbələk, soğan, keşniş, duz"
+ },
+ "spas": {
+  "name": "Spas şorbası",
+  "description": "Matsun, buğda yarması, yumurta və göyərti ilə isti qatıq şorbası. Zərif, turşməzə və isindirici.",
+  "history": "Spas ev qış şorbasıdır. Matsun kəsilməsin deyə dayanmadan bir istiqamətdə qarışdırılır.",
+  "ingredientsText": "Matsun, buğda yarması, yumurta, kərə yağı, soğan, nanə, keşniş"
+ },
+ "su-boregi": {
+  "name": "Su börəyi",
+  "description": "Ağ pendir və cəfərili haşlanmış xəmir laylarından yağda bişən laylı börək.",
+  "history": "\"Su börəyi\" adını yığılmazdan əvvəl qaynar suya batırılan xəmir laylarından alır.",
+  "ingredientsText": "Buğda unu, yumurta, ağ pendir, cəfəri, kərə yağı"
+ },
+ "sudzhuk": {
+  "name": "Sucuq",
+  "description": "Sarımsaq və ədviyyatla mal ətindən yastı, havada qurudulmuş sucuq, nazik dilimlənir.",
+  "history": "Sucuq Ermənistandan Türkiyəyə qədər bütün bölgədə tanınır. Erməni ailələri onu havalar soyuyanda payızda hazırlayırdı.",
+  "ingredientsText": "Mal əti, mal piyi, sarımsaq, zirə, paprika, istiot, duz"
+ },
+ "suluguni": {
+  "name": "Sulquni pendiri",
+  "description": "Elastik, laylı quruluşlu və duzlu dadlı duzlu pendir. Təzə, qızardılmış və hisə verilmiş yeyilir.",
+  "history": "Sulquni Sameqrelodan gəlir. Pendir isti suda yoğrulur, bu onu uzanan və laylı edir.",
+  "ingredientsText": "İnək südü, maya, duz"
+ },
+ "sumalak": {
+  "name": "Səməni halvası",
+  "description": "Novruz üçün bütöv gün bişirilən cücərmiş buğda dənələrindən şirin pasta.",
+  "history": "Səməni halvasını bütün məhəllə gecə boyu mahnılarla, növbə ilə qarışdıraraq bişirir; şəkər qatılmır.",
+  "ingredientsText": "Cücərmiş buğda, buğda unu, pambıq yağı, su"
+ },
+ "surj": {
+  "name": "Erməni qəhvəsi",
+  "description": "Cəzvədə dəmlənib xırda fincanlarda çöküntüsü ilə verilən tünd, xırda üyüdülmüş qəhvə.",
+  "history": "Qəhvə erməni qonaqpərvərliyinin bir hissəsidir, içiləndən sonra çox vaxt fala baxılır.",
+  "ingredientsText": "Xırda üyüdülmüş qəhvə, su, istəyə görə şəkər"
+ },
+ "sutlac": {
+  "name": "Südlü aş",
+  "description": "Sobada üstü qızarana qədər bişirilib darçın səpilən südlü düyü.",
+  "history": "Sütlac yalnız süd desertləri hazırlayan mühəllibiçi dükanlarında satılır.",
+  "ingredientsText": "Süd, düyü, şəkər, düyü unu, vanil, darçın"
+ },
+ "tahchin": {
+  "name": "Təhçin",
+  "description": "İçində toyuq olan qatıqlı, yumurtalı və zəfəranlı, xırtıldayan qabıqlı bişmiş düyü \"tortu\".",
+  "history": "Təhçin qızılı qabığını göstərmək üçün süfrəyə verməzdən əvvəl boşqaba çevrilir.",
+  "ingredientsText": "Düyü, qatıq, yumurta sarısı, zəfəran, toyuq, kərə yağı, zirinc"
+ },
+ "tahdig": {
+  "name": "Qazmaq",
+  "description": "Qazanın dibindən xırtıldayan qızılı düyü qabığı, ayrıca yemək kimi verilir.",
+  "history": "Süfrədə qazmaq üstündə yarışırlar — bu, İran düyüsünün ən qiymətli hissəsidir.",
+  "ingredientsText": "Düyü, kərə yağı, qatıq, zəfəran"
+ },
+ "tan": {
+  "name": "Tan",
+  "description": "Soyuq su ilə durulaşdırılmış bir çimdik duzlu matsundan sərinləşdirici içki. İstidə və ətlə içilir.",
+  "history": "Tan matsunu içməyin ən sadə yoludur və demək olar hər erməni yeməkxanasında verilir.",
+  "ingredientsText": "Matsun, soyuq su, duz"
+ },
+ "tantuni": {
+  "name": "Tantuni",
+  "description": "Pambıq yağında qovrulub göyərti ilə nazik lavaşa bükülən xırda doğranmış mal əti.",
+  "history": "Tantuni geniş qabarıq tavada bişirilən Mersin küçə yeməyidir.",
+  "ingredientsText": "Mal əti, lavaş, pomidor, soğan, cəfəri, sumax, pambıq yağı"
+ },
+ "tarkhuna": {
+  "name": "Tərxun limonadı",
+  "description": "Soyuq verilən parlaq yaşıl qazlı tərxun limonadı.",
+  "history": "Təbii şərbətli limonadları XX əsrin əvvəlində Tiflisdə Mitrofan Laqidze məşhurlaşdırıb.",
+  "ingredientsText": "Tərxun, şəkər, qazlı su, limon turşusu"
+ },
+ "tava-kebab": {
+  "name": "Tava kabab",
+  "description": "Tavada yumurta və pomidorla bişirilən quzu qiyməsi kotletləri.",
+  "history": "Tava yeməyin verildiyi qabdır; yumurta kababı şirəli saxlayır.",
+  "ingredientsText": "Quzu əti, soğan, yumurta, pomidor, duz, istiot"
+ },
+ "tavuk-gogsu": {
+  "name": "Toyuq südlü aşı",
+  "description": "İncə liflərə ayrılmış toyuq döşü ilə süd pudinqi — toyuq demək olar hiss olunmur.",
+  "history": "Bu qeyri-adi desert Osmanlı saray mətbəxindən günümüzə gəlib.",
+  "ingredientsText": "Toyuq döşü, süd, şəkər, düyü unu, darçın"
+ },
+ "tendir-chorek": {
+  "name": "Təndir çörəyi",
+  "description": "Saxsı təndirin divarlarında bişən, qabığı xırtıldayan və içi yumşaq dəyirmi çörək.",
+  "history": "Demək olar hər kənd həyətində təndir var, onun çörəyi bişdikdən sonrakı ilk saatlarda ən dadlı sayılır.",
+  "ingredientsText": "Buğda unu, maya, su, duz"
+ },
+ "testi-kebab": {
+  "name": "Səhəng kababı",
+  "description": "Ağzı bağlı saxsı küpdə bişən və süfrədə sındırılan ət və tərəvəz.",
+  "history": "Kappadokiya yeməyi — küpün sındırılması qonaqlar üçün şouya çevrilib.",
+  "ingredientsText": "Mal və ya qoyun əti, pomidor, bibər, soğan, sarımsaq"
+ },
+ "tika-kebab": {
+  "name": "Tikə kabab",
+  "description": "Quyruq yağı tikələri ilə şişə düzülüb kömür üzərində bişən marinad edilmiş quzu tikələri.",
+  "history": "Tikə \"parça\" deməkdir. Ən geniş yayılmış kabab növüdür və hər məclisdə olur.",
+  "ingredientsText": "Quzu əti, quyruq yağı, soğan, duz, istiot, sumax"
+ },
+ "tkemali": {
+  "name": "Tkemali",
+  "description": "Sarımsaq, şüyüd, keşniş və yarpızla alçadan turş-acı sous. Kabab və qızardılmış kartofun vacib əlavəsi.",
+  "history": "Tkemali həm sousun, həm də hazırlandığı alçanın adıdır. Kal meyvədən yaşıl, yetişmişdən qırmızı tkemali olur.",
+  "ingredientsText": "Alça, sarımsaq, şüyüd, keşniş, yarpız, acı bibər, duz"
+ },
+ "tklapi": {
+  "name": "Tklapi",
+  "description": "Xarçoya qatılan və ya qəlyanaltı kimi yeyilən alça və ya gavalıdan nazik turş lavaşana layları.",
+  "history": "Tklapi meyvəni qış üçün taxta lövhələrdə günəşdə qurudaraq saxlamağın gürcü üsuludur.",
+  "ingredientsText": "Alça və ya gavalı"
+ },
+ "tolma-gruzinskaya": {
+  "name": "Gürcü dolması",
+  "description": "Ət, düyü və göyərti ilə doldurulub bulyonda bişirilən, sarımsaqlı matsoni ilə verilən üzüm yarpağı dolması.",
+  "history": "Gürcüstanda dolma yazda təzə yarpaqlarla hazırlanır; qış üçün yarpaqlar duza qoyulur.",
+  "ingredientsText": "Üzüm yarpağı, mal və donuz qiyməsi, düyü, soğan, keşniş, nanə, matsoni, sarımsaq"
+ },
+ "tsakharadzhyn": {
+  "name": "Tsaxaracın",
+  "description": "Çuğundur yarpağı və pendirli osetin piroqu. Nazik xəmir, bol içlik və üstünə ərinmiş yağ.",
+  "history": "Bayramlarda osetin piroqları günəş, torpaq və suyu təmsil edərək üç-üç bişirilir. Tsaxaracın çuğundur yarpaqları gənc və zərif olanda, yaz və yayda bişirilir.",
+  "ingredientsText": "Buğda unu, maya, kefir, kərə yağı, çuğundur yarpağı, osetin pendiri, yaşıl soğan"
+ },
+ "tsitsila-tabaka": {
+  "name": "Tabaka cücəsi",
+  "description": "Ağırlıq altında xırtıldayana qədər qızardılan yastılanmış cücə, sarımsaq sousu ilə verilir.",
+  "history": "Adı cücənin ağır qapaq altında qızardıldığı tapa tavasından gəlir.",
+  "ingredientsText": "Cücə, kərə yağı, sarımsaq, duz, istiot"
+ },
+ "ttu-lavash": {
+  "name": "Turş lavaş",
+  "description": "Gavalı, ərik və ya zoğal püresindən günəşdə qurudulan nazik turş-şirin lavaşana.",
+  "history": "Adı \"turş lavaş\" deməkdir. Qışda vitamin olsun deyə yayda hazırlanırdı.",
+  "ingredientsText": "Gavalı, ərik və ya zoğal"
+ },
+ "ttu-solenya": {
+  "name": "Erməni turşusu",
+  "description": "Qarışıq turşu: kələm, bibər, yerkökü, sarımsaq, yaşıl pomidor.",
+  "history": "Turşu xaş və xorovatsla verilir, payızda böyük bankalarda qoyulur.",
+  "ingredientsText": "Kələm, bibər, yerkökü, sarımsaq, yaşıl pomidor, duz"
+ },
+ "tukhum-barak": {
+  "name": "Tuxum-barak",
+  "description": "Süd və yağla çalınmış yumurta içlikli Xarəzm düşbərələri.",
+  "history": "Maye içlik xəmirə tökülüb tez bağlanır, bu da əsl ustalıq tələb edir.",
+  "ingredientsText": "Buğda unu, yumurta, süd, kərə yağı, duz"
+ },
+ "tuppa": {
+  "name": "Tuppa",
+  "description": "Qısa ev əriştəsi, ət və tərəvəzlə, pomidorla tamamlanan şorba.",
+  "history": "Tuppa tacik dağ kəndlərində soyuq mövsümdə bişirilir.",
+  "ingredientsText": "Buğda unu, quzu əti, kartof, yerkökü, pomidor, soğan"
+ },
+ "turshu-govurma": {
+  "name": "Turşu qovurma",
+  "description": "Soğan, qurudulmuş alça və şabalıdla turş-şirin sousda qovrulmuş quzu əti.",
+  "history": "Turşu \"turş\" deməkdir; yemək plovla verilir.",
+  "ingredientsText": "Quzu əti, soğan, qurudulmuş alça, şabalıd, zəfəran"
+ },
+ "tzhvzhik": {
+  "name": "Tjvjik",
+  "description": "Soğan, pomidor və ədviyyatla qızardılmış ciyər və digər içalat. Tez və doyumlu yemək.",
+  "history": "Tjvjik kəsimdən dərhal sonra ən təzə içalatdan bişirilirdi. Yemək eyniadlı erməni filmi ilə tanınır.",
+  "ingredientsText": "Mal və ya qoyun ciyəri, böyrək, ürək, soğan, pomidor, istiot, keşniş"
+ },
+ "ualibakh": {
+  "name": "Ualibax",
+  "description": "Pendirli osetin piroqu. Nazik xəmir, bol içlik və üstünə ərinmiş yağ.",
+  "history": "Bayramlarda osetin piroqları günəş, torpaq və suyu təmsil edərək üç-üç bişirilir. Ualibax ən geniş yayılmış osetin piroqudur və demək olar hər gün bişirilir.",
+  "ingredientsText": "Buğda unu, maya, kefir, kərə yağı, osetin pendiri"
+ },
+ "uch-badzhi": {
+  "name": "Üç bacı dolması",
+  "description": "\"Üç bacı\": ət və düyü ilə doldurulub birlikdə bişirilən badımcan, pomidor və bolqar bibəri.",
+  "history": "Adı üç tərəvəzin bir qazanda bişirilməsindən gəlir. Dolmanın yay variantıdır.",
+  "ingredientsText": "Badımcan, pomidor, bolqar bibəri, quzu əti, düyü, soğan, göyərti"
+ },
+ "urbech": {
+  "name": "Urbeç",
+  "description": "Dəyirman daşında üyüdülmüş kətan toxumu, ərik ləpəsi və ya qozdan qatı pasta, bal və yağla yeyilir.",
+  "history": "Dağlarda urbeç tez enerji mənbəyi kimi yola aparılırdı.",
+  "ingredientsText": "Kətan toxumu, ərik ləpəsi və ya qoz"
+ },
+ "uzbekskiy-plov": {
+  "name": "Özbək plovu",
+  "description": "Qazanda quzu əti, sarı yerkökü, noxud, zirə və bütöv sarımsaq başları ilə bişən düyü.",
+  "history": "Plov mədəniyyəti və ənənəsi Özbəkistan adından UNESCO-nun qeyri-maddi irs siyahısına daxildir.",
+  "ingredientsText": "Devzira düyüsü, quzu əti, sarı yerkökü, soğan, noxud, zirə, sarımsaq, pambıq yağı"
+ },
+ "white-cherry-jam": {
+  "name": "Ağ gilas mürəbbəsi",
+  "description": "Limonla ağ gilasdan şəffaf mürəbbə — Azərbaycan çay süfrəsinin klassikası.",
+  "history": "Mürəbbə armudu stəkanlarda çayla kiçik qablarda verilir.",
+  "ingredientsText": "Ağ gilas, şəkər, limon"
+ },
+ "yantyk": {
+  "name": "Yantıq",
+  "description": "Ət və ya pendirlə doldurulub quru tavada bişən, yağlanan nazik piroqlar.",
+  "history": "Yantıq çəbərəyin qohumudur, amma yağda qızardılmır, quru tavada bişirilir.",
+  "ingredientsText": "Buğda unu, quzu əti və ya ağ pendir, soğan, kərə yağı"
+ },
+ "yukha": {
+  "name": "Yuxa",
+  "description": "Sacda bişirilib quru saxlanan çox nazik mayasız çörək.",
+  "history": "Yeməzdən əvvəl yuxaya su çilənir və o yenidən yumşalır.",
+  "ingredientsText": "Buğda unu, su, duz"
+ },
+ "zereshk-polo": {
+  "name": "Zirişk plov",
+  "description": "Turş zirincli zəfəranlı plov, toyuqla verilir, üstünə püstə və badam səpilir.",
+  "history": "Turş zirinc və şirin zəfəran onu parlaq bayram yeməyinə çevirir.",
+  "ingredientsText": "Düyü, zirinc, toyuq, zəfəran, kərə yağı, şəkər, püstə, badam"
+ },
+ "zhent": {
+  "name": "Jent",
+  "description": "Yağ, şəkər, kişmiş və qozla döyülmüş qovrulmuş darıdan şirniyyat.",
+  "history": "Jent bayramlarda çayla, preslənib tikə-tikə kəsilərək verilir.",
+  "ingredientsText": "Darı, kərə yağı, şəkər, kişmiş, qoz, kəsmik"
+ },
+ "zhingyalov-hats": {
+  "name": "Jingyalov xas",
+  "description": "Onlarla növ xırda doğranmış göyərti ilə doldurulub quru tavada bişən, isti yeyilən nazik lavaş.",
+  "history": "Qarabağın simvol yeməyi. Bir lavaşa 20-yə qədər yabanı və bostan göyərtisi qoyulur.",
+  "ingredientsText": "Buğda unu, su, ispanaq, turşəng, gicitkən, keşniş, şüyüd, yaşıl soğan, bitki yağı"
+ },
+ "zhizhig-chorpa": {
+  "name": "Jijiq-çorpa",
+  "description": "Kartof və göyərti ilə zəngin ət bulyonu, jijig-qalnaşın yanında ayrıca verilir.",
+  "history": "Çorpa \"bulyon\" deməkdir; ət və xəmir kürəcikləri ilə birlikdə kasadan içilir.",
+  "ingredientsText": "Mal və ya qoyun əti, kartof, soğan, göyərti, duz"
+ },
+ "zhizhig-galnash": {
+  "name": "Jijiq-qalnaş",
+  "description": "Buğda və ya qarğıdalı unundan xəmir kürəcikləri, bulyon və sarımsaq sousu ilə haşlanmış ət. Çeçen süfrəsinin əsas yeməyi.",
+  "history": "Adı \"xəmirli ət\" deməkdir. Qonaq gələndə və bayramlarda bişirilir.",
+  "ingredientsText": "Mal və ya qoyun əti, buğda və ya qarğıdalı unu, sarımsaq, bulyon, duz"
+ }
+}

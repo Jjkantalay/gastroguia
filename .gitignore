@@ -1,0 +1,17 @@
+node_modules
+.next
+out
+.env
+.env.local
+*.tsbuildinfo
+next-env.d.ts
+
+# Экспорт WordPress содержит личные данные и спам — в репозиторий не кладём
+*.xml
+# …а файлы для импорта в WordPress собраны из content/ и личных данных не содержат
+!wordpress/*.xml
+.pglite
+
+# Сборки сервера на C
+/gastroguia
+/gastroguia.exe

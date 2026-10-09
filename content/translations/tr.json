@@ -1,0 +1,1818 @@
+{
+ "abgoosht": {
+  "name": "Abguşt (dizi)",
+  "description": "Taş çömlekte nohut ve patatesle pişen kuzu çorbası: suyu ekmekle içilir, geri kalanı ezilir.",
+  "history": "Dizi, Tahran'ın işçi mahallelerinin geleneksel yemeğidir ve kendine özgü bir sunum ritüeli vardır.",
+  "ingredientsText": "Kuzu eti, nohut, kuru fasulye, patates, domates, kuru limon, zerdeçal"
+ },
+ "abkhazura": {
+  "name": "Abhazura",
+  "description": "Kızılcık ve baharatla yoğrulmuş dana ve domuz kıyması köfteler, kuzu tülüne sarılıp kızartılır.",
+  "history": "Adı Abhaz kökenine işaret eder ama yemek Gürcü mutfağının ayrılmaz parçasıdır.",
+  "ingredientsText": "Dana eti, domuz eti, tül yağı, soğan, karamuk, sarımsak, kişniş"
+ },
+ "abysta": {
+  "name": "Abısta",
+  "description": "Tuzsuz, koyu mısır unu lapası; ekmek yerine peynir ve etle servis edilir.",
+  "history": "Abısta kazanda pişirilir ve tahta kürekle servis edilir, çoğu zaman içine peynir parçaları gömülür.",
+  "ingredientsText": "Mısır unu, su"
+ },
+ "achapa": {
+  "name": "Açapa",
+  "description": "Haşlanmış fasulye ya da yeşillik; ceviz ezmesi, acika ve otlarla tatlandırılır.",
+  "history": "Açapa, Gürcü pkhali'nin Abhaz kuzenidir; genellikle taze fasulye ve pancarla yapılır.",
+  "ingredientsText": "Taze fasulye veya pancar yaprağı, ceviz, acika, kişniş"
+ },
+ "achash": {
+  "name": "Açaş",
+  "description": "Taze peynirle doldurulup tereyağında kızartılan mısır ya da buğday unu gözlemeleri.",
+  "history": "Abhaz köylerinde açaş kahvaltıda taze ev peyniriyle yapılır.",
+  "ingredientsText": "Mısır veya buğday unu, taze peynir, tereyağı"
+ },
+ "achichuk": {
+  "name": "Açiçuk",
+  "description": "İnce dilimlenmiş domates ve soğan, acı biber ve otlarla; pilavın yanında sunulur.",
+  "history": "Taze açiçuk yağlı pilavı dengeler; Özbekistan'da pilav onsuz asla servis edilmez.",
+  "ingredientsText": "Domates, soğan, acı biber, fesleğen, tuz"
+ },
+ "achma": {
+  "name": "Açma",
+  "description": "Katmanlı peynirli börek: haşlanmış ince yufkalar peynir ve tereyağıyla dizilip fırınlanır. Tadı ve yapısıyla lazanyayı andırır.",
+  "history": "Acara ve Abhazya yemeği. Yufkaların haşlanması böreği içten yumuşak, üstten çıtır yapar.",
+  "ingredientsText": "Buğday unu, yumurta, sulguni, İmereti peyniri, tereyağı"
+ },
+ "adana-kebab": {
+  "name": "Adana kebabı",
+  "description": "Pul biberli, zırhla çekilmiş kuzu etinden acılı kebap; geniş şişte kömür ateşinde pişer.",
+  "history": "Adını güney Türkiye'deki Adana şehrinden alır; et zırhla kıyılır ve her zaman kuyruk yağıyla karıştırılır.",
+  "ingredientsText": "Kuzu eti, kuyruk yağı, pul biber, tuz"
+ },
+ "adygeyskaya-sol": {
+  "name": "Adige tuzu",
+  "description": "Sarımsak ve kuru otlarla dövülmüş tuz: kekik, dereotu, kişniş ve biber.",
+  "history": "Adigeler bu tuzu bütün yıl et ve peyniri tatlandırmak için hazırlardı.",
+  "ingredientsText": "Tuz, sarımsak, kekik, dereotu, kişniş, kırmızı biber"
+ },
+ "adygeyskiy-syr": {
+  "name": "Adige peyniri",
+  "description": "Pastörize sütten yumuşak, hafif ve narin dokulu peynir; taze, kızartılmış ya da tütsülenmiş yenir.",
+  "history": "Adige peyniri maya yerine ekşi peynir altı suyuyla kesilir; şeklini süzüldüğü örgü sepetten alır.",
+  "ingredientsText": "İnek sütü, ekşi peynir altı suyu, tuz"
+ },
+ "adzhapsandali": {
+  "name": "Acapsandali",
+  "description": "Bol ot ve sarımsaklı patlıcan, biber, domates ve soğan yahnisi. Sıcak ya da soğuk servis edilir.",
+  "history": "Benzer sebze yahnileri bütün Kafkasya'da vardır. Gürcistan'da acapsandali özellikle sebzelerin olgunlaştığı yaz aylarında sevilir.",
+  "ingredientsText": "Patlıcan, dolmalık biber, domates, soğan, sarımsak, kişniş, fesleğen, bitkisel yağ"
+ },
+ "adzhika": {
+  "name": "Acika",
+  "description": "Taşta dövülen kırmızı biber, sarımsak, kişniş ve tuzdan acı ezme. Bir kaşığı bile yemeği yakar.",
+  "history": "Acika Abhazcada \"tuz\" demektir; eskiden biberler daha uzun dayansın diye tuzla dövülürdü.",
+  "ingredientsText": "Acı kırmızı biber, sarımsak, kişniş, mavi çemen, tuz"
+ },
+ "afarar": {
+  "name": "Afarar",
+  "description": "Isırgan, kuzukulağı, kazayağı gibi yabani otlar ve soğanla doldurulmuş ince gözlemeler.",
+  "history": "Afarar, dağlarda ilk otlar çıktığında ilkbaharda yapılır.",
+  "ingredientsText": "Buğday unu, su, ısırgan, kuzukulağı, taze soğan, tereyağı"
+ },
+ "akhar-khudar": {
+  "name": "Ahar hudar",
+  "description": "Sütte pişirilip tereyağıyla tamamlanan mısır unu lapası. Sade bir kahvaltı.",
+  "history": "Mısır Çeçenya'nın başlıca ürünlerinden biri oldu; ondan yapılan lapalar her gün yenir.",
+  "ingredientsText": "Mısır unu, süt, tereyağı, tuz"
+ },
+ "akuarchal": {
+  "name": "Akuarçal",
+  "description": "Sıcak tavada ya da korda pişen küçük mısır ekmekleri.",
+  "history": "Akuarçal Abhazların geleneksel ekmeğidir; çorba ve soslarla sunulur.",
+  "ingredientsText": "Mısır unu, su, tuz"
+ },
+ "alani": {
+  "name": "Alani",
+  "description": "Şeker ve tarçınlı dövülmüş cevizle doldurulmuş kuru şeftali. Pişirme gerektirmeyen doğal bir tatlı.",
+  "history": "Şeftaliler çekirdeği çıkarıldıktan sonra bütün halde güneşte kurutulur. Bu tatlılar Ararat ovasında yapılır.",
+  "ingredientsText": "Kuru şeftali, ceviz, şeker, tarçın"
+ },
+ "arganak": {
+  "name": "Arganak",
+  "description": "Küçük tavuk köfteli ve yeşillikli berrak tavuk suyu. Hafif bir bayram çorbası.",
+  "history": "Arganak Ararat ovasında düğün ve bayramlarda pişirilirdi. Su berrak olsun diye uzun süre kaynatılır.",
+  "ingredientsText": "Tavuk, pirinç, yumurta, soğan, kişniş, tuz"
+ },
+ "arishta": {
+  "name": "Arişta",
+  "description": "Tereyağında kavrulup sarımsaklı yoğurtla servis edilen ev yapımı yumurtalı erişte.",
+  "history": "Arişta önceden hazırlanırdı: erişteler kurutulup bütün kış saklanırdı. Ermenistan ve Artsakh'ta pişirilir.",
+  "ingredientsText": "Buğday unu, yumurta, tereyağı, matsun yoğurdu, sarımsak"
+ },
+ "ash-reshteh": {
+  "name": "Aş-ı reşte",
+  "description": "Erişte, baklagil ve otlarla koyu çorba; üzerine keş, kızarmış soğan ve nane konur.",
+  "history": "Aş-ı reşte Nevruz'da ve yolculuğa uğurlarken pişirilir; erişte yolu simgeler.",
+  "ingredientsText": "Reşte eriştesi, nohut, fasulye, mercimek, ıspanak, otlar, keş, soğan, nane"
+ },
+ "ashlyan-fu": {
+  "name": "Aşlyan-fu",
+  "description": "Kalın erişte, nişasta jölesi, omlet şeritleri ve sirkeli sosla soğuk, acılı çorba.",
+  "history": "Aşlyan-fu, Isık Göl kıyısındaki Karakol kasabasını ünlü yapan bir Dungan yemeğidir.",
+  "ingredientsText": "Buğday eriştesi, nişasta jölesi, yumurta, sirke, acı biber, sarımsak, otlar"
+ },
+ "asure": {
+  "name": "Aşure",
+  "description": "Buğday, baklagil, kuru meyve ve cevizle büyük kazanlarda pişirilip komşulara dağıtılan tatlı.",
+  "history": "Rivayete göre Nuh Tufan'dan sonra son erzakla aşure yapmıştır; Muharrem ayında pişirilir.",
+  "ingredientsText": "Buğday, nohut, fasulye, kuru kayısı, kuru üzüm, incir, ceviz, şeker, nar"
+ },
+ "avarskiy-hinkal": {
+  "name": "Avar hinkalı",
+  "description": "Et, et suyu ve sarımsaklı sosla servis edilen büyük haşlanmış hamur parçaları — Gürcü hinkalisiyle karıştırılmamalı.",
+  "history": "Hinkal Dağıstan'ın ana yemeğidir; Avar usulünde baklava dilimi kesilen kabarık hamur et suyunda pişer.",
+  "ingredientsText": "Buğday unu, kefir, karbonat, kuzu veya dana eti, sarımsak, domates sosu"
+ },
+ "ayran": {
+  "name": "Ayran",
+  "description": "Soğuk suyla açılmış yoğurttan, tuzlu ve bazen naneli ferahlatıcı içecek.",
+  "history": "Ayran bütün Kafkasya'da ve Türkiye'de içilir; yağlı et ve kebapla özellikle iyi gider.",
+  "ingredientsText": "Yoğurt, soğuk su, tuz, nane"
+ },
+ "badambura": {
+  "name": "Badambura",
+  "description": "Badem ve şekerle doldurulmuş ince milföy ruloları, üzerine pudra şekeri serpilir.",
+  "history": "Adı \"badem\" anlamındaki badam'dan gelir. Bakü'de badambura bayramlarda yapılır.",
+  "ingredientsText": "Buğday unu, tereyağı, yumurta, badem, şeker, kakule"
+ },
+ "badrijani-nigvzit": {
+  "name": "Badricani nigvzit",
+  "description": "Sarımsaklı, baharatlı ceviz ezmesiyle sarılmış ince kızarmış patlıcan dilimleri, üzerine nar taneleri.",
+  "history": "Adı \"cevizli patlıcan\" demektir. Gürcü sofrası supra bu mezesiz pek kurulmaz.",
+  "ingredientsText": "Patlıcan, ceviz, sarımsak, kişniş, hmeli suneli, şarap sirkesi, nar"
+ },
+ "bagany": {
+  "name": "Oset birası",
+  "description": "Arpa ya da mısırdan şerbetçiotuyla yapılan koyu ev birası; bayram ve ayinler için hazırlanır.",
+  "history": "Osetçede biraya bægæny denir; büyük kazanlarda yapılır ve ortak bir kâseden içilir.",
+  "ingredientsText": "Arpa veya mısır, şerbetçiotu, su, şeker"
+ },
+ "baghali-polo": {
+  "name": "Bağali polo",
+  "description": "Bakla ve bol dereotlu pilav; genellikle haşlanmış kuzu inciğiyle sunulur.",
+  "history": "Taze baklanın çıktığı ilkbahar yemeğidir.",
+  "ingredientsText": "Pirinç, bakla, dereotu, tereyağı, safran, kuzu incik"
+ },
+ "baklava": {
+  "name": "Baklava",
+  "description": "Şerbete batırılmış, fıstıklı onlarca ince yufka katı: pahlavanın Türk versiyonu.",
+  "history": "Gaziantep fıstıklı baklavası AB'de korumalı coğrafi işaret olarak tescillidir.",
+  "ingredientsText": "Yufka, tereyağı, Antep fıstığı, şeker, su, limon suyu"
+ },
+ "balyk-lyavangi": {
+  "name": "Balık levengisi",
+  "description": "Ceviz, soğan ve ekşi erik ezmesiyle doldurulup fırında ya da tandırda pişirilen balık.",
+  "history": "Levenginin balıklı versiyonu Hazar kıyısında, genellikle kutum ya da sazanla yapılır.",
+  "ingredientsText": "Balık, ceviz, soğan, ekşi erik ezmesi, tuz"
+ },
+ "barbari": {
+  "name": "Berberi ekmeği",
+  "description": "Oluklu, susamlı ve çörek otlu kalın oval ekmek: klasik kahvaltı ekmeği.",
+  "history": "Berberi sabahları peynir, yeşillik ve çayla yenir; Ermeni matnakaşına benzer.",
+  "ingredientsText": "Buğday unu, maya, su, tuz, susam, çörek otu"
+ },
+ "bastani-sonnati": {
+  "name": "Bastani sonnati",
+  "description": "Safranlı, gül sulu, donmuş krema parçacıklı İran dondurması; üzerine fıstık serpilir.",
+  "history": "Çoğu zaman iki gofret arasında sandviç gibi sunulur.",
+  "ingredientsText": "Süt, krema, şeker, yumurta sarısı, safran, gül suyu, salep, Antep fıstığı"
+ },
+ "bastirma-kebab": {
+  "name": "Bastırma kebabı",
+  "description": "Pişirilmeden önce bir gün soğan ve sirkede marine edilen dana ya da kuzu kebabı.",
+  "history": "Uzun marine eti çok yumuşatır, bu yüzden bastırma hızlıca ızgara edilir.",
+  "ingredientsText": "Dana veya kuzu eti, soğan, şarap sirkesi, tuz, biber"
+ },
+ "basturma": {
+  "name": "Pastırma",
+  "description": "Çemen, kırmızı biber ve sarımsaktan çemenle kaplanmış hava kurusu dana eti. İncecik dilimlenip meze olarak sunulur.",
+  "history": "Eti baharatla kurutmak bölgede eskiden beri bilinir. Rüzgârda kurutma eti aylarca saklamayı sağlardı.",
+  "ingredientsText": "Dana bonfile, tuz, çemen, kırmızı toz biber, sarımsak, acı biber"
+ },
+ "baursak": {
+  "name": "Bavursak",
+  "description": "Kızgın yağda kızartılan mayalı hamur topları ya da baklava dilimleri; çayla sunulur.",
+  "history": "Bavursak bayramlarda kızartılıp misafirlerle paylaşılır; yuvarlak şekli güneşi simgeler.",
+  "ingredientsText": "Buğday unu, maya, süt, yumurta, şeker, bitkisel yağ"
+ },
+ "bazhe": {
+  "name": "Baje",
+  "description": "Sarımsak, baharat ve sirkeli koyu ceviz sosu. Kümes hayvanı, balık ve kızarmış sebzeyle sunulur.",
+  "history": "Baje, satsivi dahil pek çok Gürcü yemeğinin temelidir. Özellikle Batı Gürcistan'da sevilir ve bayramlarda yapılır.",
+  "ingredientsText": "Ceviz, sarımsak, kişniş, mavi çemen, acı biber, şarap sirkesi, su"
+ },
+ "beshbarmak": {
+  "name": "Beşbarmak",
+  "description": "İnce hamur kareleri üzerinde haşlanmış at ya da kuzu eti, soğan sosuyla; yanında et suyu.",
+  "history": "Adı \"beş parmak\" demektir, çünkü geleneksel olarak elle yenir.",
+  "ingredientsText": "At veya kuzu eti, buğday unu, soğan, et suyu"
+ },
+ "boreg": {
+  "name": "Börek (Ermeni)",
+  "description": "Peynirli ve otlu iç harçlı ince yufkadan katmanlı börek, kare kesilir.",
+  "history": "Dünyanın her yerindeki Ermeniler, özellikle Batı Ermeni aileleri böreği pişirir.",
+  "ingredientsText": "Yufka, beyaz peynir, yumurta, maydanoz, tereyağı"
+ },
+ "bozartma": {
+  "name": "Bozartma",
+  "description": "Soğan ve domatesle kendi suyunda yumuşayana dek pişen kuzu ya da tavuk.",
+  "history": "Bozartma gündelik bir yemektir; et kavrulmadan doğrudan pişirildiği için sulu kalır.",
+  "ingredientsText": "Kuzu veya tavuk, soğan, domates, safran, tuz, biber"
+ },
+ "bozbash": {
+  "name": "Bozbaş",
+  "description": "Nohut, patates ve ayva ya da elmalı koyu kuzu çorbası. Doyurucu ve hafif tatlı.",
+  "history": "Bozbaş bütün Güney Kafkasya'da, her bölgede farklı pişirilir: Erivan'da ayvayla, Şirak'ta bezelyeyle.",
+  "ingredientsText": "Kuzu eti, nohut, patates, ayva, soğan, salça, otlar"
+ },
+ "cacik": {
+  "name": "Cacık",
+  "description": "Salatalık, sarımsak, nane ve zeytinyağlı soğuk yoğurt.",
+  "history": "Cacık suyla açılıp çorba gibi yenir ya da koyu haliyle etin yanında sunulur.",
+  "ingredientsText": "Yoğurt, salatalık, sarımsak, nane, zeytinyağı, tuz"
+ },
+ "chahohbili": {
+  "name": "Çahohbili",
+  "description": "Çahohbili, Gürcü ziyafetinin ruhunu taşıyan kokulu bir tavuk yahnisidir. Domates, soğan, sarımsak ve baharatla pişen et zengin ve canlı bir tat kazanır. Başlangıçta sülünle yapılırdı, bugün tavukla yapılır. Sosu sıyırmak için ekmek ya da pilavla sunulur.",
+  "quote": "Çahohbili aileyi sofrada buluşturur; kokusu evi sıcaklıkla doldurur",
+  "history": "Adı \"sülün\" anlamındaki hohobi'den gelir: yemek önce av etiyle yapılırdı. Sonra tavuk sülünün yerini aldı; bugün vazgeçilmez olan domates ise tarife görece yakın zamanda girdi.",
+  "ingredientsText": "Tavuk 800 g\nSoğan 3\nDomates 4\nDolmalık biber ½\nSarımsak 3 diş\nKişniş, maydanoz\nAcı biber ½\nBaharat ve tuz"
+ },
+ "chakapuli": {
+  "name": "Çakapuli",
+  "description": "Beyaz şarapta tarhun, yeşil ekşi erik ve bol otla pişen kuzu ya da dana. Bir bahar yemeği.",
+  "history": "Çakapuli Paskalya'ya bağlıdır; taze otlar, tarhun ve ham erikler olmadan yapılmaz.",
+  "ingredientsText": "Kuzu veya dana eti, tarhun, yeşil erik, beyaz şarap, kişniş, taze soğan, sarımsak"
+ },
+ "chakka": {
+  "name": "Çakka",
+  "description": "Otlar ve ekmekle yenen koyu, süzülmüş fermente süt ürünü.",
+  "history": "Çakka ekşi sütün torbalarda süzülmesiyle yapılır; lor ile ekşi krema arası bir üründür.",
+  "ingredientsText": "Ekşi süt, tuz, otlar"
+ },
+ "chalop": {
+  "name": "Çalop",
+  "description": "Salatalık, turp ve otlarla katık yoğurdu ve sudan soğuk çorba.",
+  "history": "Çalop, Özbekistan'da sıcaklığın kırk dereceyi geçtiği yaz günlerinde kurtarıcıdır.",
+  "ingredientsText": "Katık yoğurdu, su, salatalık, turp, dereotu, kişniş, tuz"
+ },
+ "chanakhi": {
+  "name": "Çanahi",
+  "description": "Patlıcan, patates, domates ve bol otla toprak güveçte pişen kuzu.",
+  "history": "Çanahi tek kişilik güveçlerde pişer, sebzeler etin suyunda pişer; özellikle Tiflis'te sevilir.",
+  "ingredientsText": "Kuzu eti, patlıcan, patates, domates, soğan, sarımsak, kişniş, fesleğen"
+ },
+ "chashushuli": {
+  "name": "Çaşuşuli",
+  "description": "Domates, soğan, sarımsak ve acı biberle pişen dana yahnisi. Zengin, acılı soslu sade bir ev yemeği.",
+  "history": "Çaşuşuli \"yahni\" demektir. Bu tür yahniler bütün Gürcistan'da yapılır; et ve baharat mevsime göre değişir.",
+  "ingredientsText": "Dana eti, domates, soğan, sarımsak, acı biber, kişniş, hmeli suneli"
+ },
+ "chebureki": {
+  "name": "Çiğbörek",
+  "description": "Sulu kuzu kıyması ve soğan harçlı, ince, yarım ay şeklinde kızarmış börek.",
+  "history": "Çiğbörek en bilinen Kırım Tatar yemeğidir ve Kırım'ın çok ötesinde sevilir.",
+  "ingredientsText": "Buğday unu, su, kuzu eti, soğan, otlar, bitkisel yağ"
+ },
+ "chechil": {
+  "name": "Çeçil peyniri",
+  "description": "İplik iplik çekilip örülen tel peynir; taze ya da tütsülenmiş satılır.",
+  "history": "Çeçil sıcak suda elle çekilir ve bira yanında ya da salatalarda yenir.",
+  "ingredientsText": "İnek sütü, peynir mayası, tuz"
+ },
+ "chepalgash": {
+  "name": "Çepalgaş",
+  "description": "Lor ve otla doldurulmuş ince gözlemeler; pişince sıcak suya batırılır, tereyağı sürülüp üst üste dizilir.",
+  "history": "Çepalgaş ailede çocuk doğduğunda ve bayramlarda yapılır. Kat kat dizilen gözlemeler pasta gibi kesilir.",
+  "ingredientsText": "Buğday unu, kefir, lor, taze soğan, tereyağı, tuz"
+ },
+ "chetlibzh": {
+  "name": "Çetlibj",
+  "description": "Kırmızı biberli ekşi krema ve sarımsak soslu tavuk: Adige bayram yemeği.",
+  "history": "Çetlibj düğünler ve misafirler için yapılır; sos unla koyulaştırılır ve pasta (darı lapası) ile sunulur.",
+  "ingredientsText": "Tavuk, ekşi krema, soğan, sarımsak, buğday unu, kırmızı biber"
+ },
+ "chikhirtma": {
+  "name": "Çihirtma",
+  "description": "Çırpılmış yumurta ve unla koyulaştırılmış, sirke ya da limonla ekşitilmiş tavuk çorbası. Narin ve hafif ekşi.",
+  "history": "Gürcistan'da çihirtma ziyafetten sonra en iyi ilaç sayılır. Yumurta kesilmesin diye en sonda eklenir.",
+  "ingredientsText": "Tavuk, soğan, yumurta, buğday unu, şarap sirkesi, kişniş"
+ },
+ "chilov": {
+  "name": "Çilov",
+  "description": "Fasulye, mercimek ya da otlarla pişen tane tane pirinç; et ve balığa garnitür.",
+  "history": "Çilov, pirincin diğer malzemelerle birlikte piştiği sade bir pilav türüdür.",
+  "ingredientsText": "Pirinç, maş fasulyesi veya mercimek, tereyağı, safran, tuz"
+ },
+ "chirbuli": {
+  "name": "Çirbuli",
+  "description": "Domates, soğan, ceviz ve otlu Acara usulü yumurta.",
+  "history": "Çirbuli Acara'nın geleneksel kahvaltısıdır; ceviz onu doyurucu yapar.",
+  "ingredientsText": "Yumurta, domates, soğan, ceviz, kişniş, tereyağı"
+ },
+ "chuchvara": {
+  "name": "Çuçvara",
+  "description": "Et suyunda ya da ekşi sütle servis edilen küçük etli mantılar.",
+  "history": "Çuçvarayı bütün aile birlikte yapar ve kış için parti parti dondurur.",
+  "ingredientsText": "Buğday unu, yumurta, dana veya kuzu eti, soğan, ekşi süt"
+ },
+ "chudu": {
+  "name": "Çudu",
+  "description": "Et, lor, kabak ya da otla doldurulmuş, tereyağı sürülmüş ince gözleme.",
+  "history": "Çudu bütün Dağıstan'da yapılır; iç harç mevsime göre değişir ve gözlemeler üst üste dizilir.",
+  "ingredientsText": "Buğday unu, su, et veya lor, otlar, tereyağı"
+ },
+ "churchkhela": {
+  "name": "Çurçhela",
+  "description": "İpe dizilmiş cevizlerin unla koyulaştırılmış üzüm suyuna defalarca batırılıp kurutulmasıyla yapılan tatlı \"sucuk\".",
+  "history": "Çurçhela bağ bozumundan sonra sonbaharda yapılır. İyi saklandığı ve çok besleyici olduğu için yola götürülürdü.",
+  "ingredientsText": "Ceviz veya fındık, üzüm suyu, buğday unu"
+ },
+ "chvishtari": {
+  "name": "Çvişhtari",
+  "description": "İçi peynirli, çıtır çıtır kızartılmış mısır ekmekleri. Eriyen peynir ortalarını yumuşak yapar.",
+  "history": "Svaneti yemeği. Svanlar hamura sulguni kattığı için çvişhtari sıradan mçadiden daha doyurucudur.",
+  "ingredientsText": "Mısır unu, sulguni, tereyağı, su"
+ },
+ "chygyrtma": {
+  "name": "Çığırtma",
+  "description": "Soğan ve domatesle kavrulmuş tavuk ya da sebze, sonunda üzerine yumurta kırılır.",
+  "history": "Çığırtma hızlı ve kolaydır; tavuk, ıspanak ya da patlıcanla yapılır.",
+  "ingredientsText": "Tavuk, soğan, domates, yumurta, tereyağı, otlar"
+ },
+ "cig-kofte": {
+  "name": "Çiğ köfte",
+  "description": "Domates ve biber salçalı ince bulgurdan acılı köfteler, marula sarılarak yenir.",
+  "history": "Çiğ köfte eskiden çiğ etle yapılırdı; bugün genellikle etsizi satılır.",
+  "ingredientsText": "İnce bulgur, biber salçası, domates salçası, soğan, otlar, nar ekşisi"
+ },
+ "dimlama": {
+  "name": "Dimlama",
+  "description": "Kazanda kat kat dizilip kapağı kapalı, kendi suyunda pişen et ve sebze.",
+  "history": "Dimlama sebzenin bol olduğu yazın yapılır; üstteki lahana yaprakları nemi korur.",
+  "ingredientsText": "Kuzu eti, patates, havuç, patlıcan, biber, domates, lahana, soğan"
+ },
+ "dograma": {
+  "name": "Doğrama",
+  "description": "Et, soğan ve domatesli zengin et suyuna doğranmış ekmek parçaları.",
+  "history": "Doğrama bayramlarda yapılır; bütün aile ekmeği ve eti elle doğrar.",
+  "ingredientsText": "Buğday ekmeği, kuzu eti, soğan, domates, et suyu"
+ },
+ "dolma-armyanskaya": {
+  "name": "Dolma",
+  "description": "Dolma, Ermeni mutfağının en zarif yemeklerinden ve Ermeni evinin misafirperverliğinin simgelerindendir. Yumuşak, hafif ekşi asma yaprakları pirinç, kıyma ve kokulu otlardan bir içi sarar. Matsun ya da sarımsaklı sosla sunulur; bayram ve aile sofralarının vazgeçilmezidir.",
+  "quote": "Dolma bir denge sanatıdır: yumuşak et, kokulu pirinç ve sulu asma yaprakları ilk lokmadan uyum içindedir",
+  "history": "Asma yaprağı dolması bütün Kafkasya'da ve Orta Doğu'da yapılır. Ermenistan'da tolma denir ve sarımsaklı matsunla sunulur; yazın taze yapraklar kullanılır, kış için salamuraya yatırılır.",
+  "ingredientsText": "Asma yaprağı 400 g\nDana eti 600 g\nDomuz eti 100 g\nUzun taneli pirinç 100 g\nSoğan 100 g\nTaze fesleğen 20 g\nMaydanoz 20 g\nKişniş 20 g\nKarabiber\nTuz"
+ },
+ "dolma-azerbajdzhanskaya": {
+  "name": "Dolma",
+  "description": "Dolma, Azerbaycan mutfağının en sevilen ve büyük özenle hazırlanan yemeklerindendir. Asma yaprakları ya da sebzeler (patlıcan, domates, biber) pirinç, kıyma ve otlarla doldurulur. Sarımsaklı yoğurtla sunulur ve bayram sofrasının vazgeçilmezidir.",
+  "quote": "Azerbaycan dolması yalnızca yaprak değildir: patlıcan, biber, domates ve hatta ayva gibi meyveler de doldurulur",
+  "history": "Dolma adı \"doldurmak\" fiilinden gelir.\n\nAzerbaycan'da dolmanın pek çok çeşidi vardır: asma yaprağının yanı sıra biber, domates, ayva, patlıcan ve başka sebze ve meyveler doldurulur.",
+  "ingredientsText": "Kuzu ve dana kıyması 100 g\nAsma yaprağı 120 g\nNane, kişniş ve dereotu, birer tutam\nTereyağı 20 g\nPirinç 1 yemek kaşığı\nSoğan ¼\nTuz ve karabiber"
+ },
+ "dondurma": {
+  "name": "Maraş dondurması",
+  "description": "Keçi sütü, salep ve sakızla yapılan, bıçakla kesilecek kadar sert, uzayan dondurma.",
+  "history": "Maraş dondurmanın vatanıdır; satıcılar müşterilere onunla gösteri yapar.",
+  "ingredientsText": "Keçi sütü, şeker, salep, damla sakızı"
+ },
+ "doshab": {
+  "name": "Pekmez",
+  "description": "Kaynatılarak koyulaştırılmış üzüm ya da dut suyundan pekmez; ekmekle yenir ve tatlılarda kullanılır.",
+  "history": "Pekmez sonbaharda büyük bakır kazanlarda şeker eklenmeden kaynatılır.",
+  "ingredientsText": "Üzüm veya dut suyu"
+ },
+ "dovga": {
+  "name": "Dovğa",
+  "description": "Pirinç ve bol yeşillikli ekşi süt ya da yoğurt çorbası, sıcak veya soğuk sunulur.",
+  "history": "Yazın dovğa serinletmek için soğuk içilir, kışın sıcak yenir. Yoğurt kesilmesin diye tek yöne karıştırılır.",
+  "ingredientsText": "Yoğurt, pirinç, yumurta, ıspanak, kuzukulağı, dereotu, kişniş, nane"
+ },
+ "dulkh-khyaltam": {
+  "name": "Dulh-haltam",
+  "description": "Patates, soğan ve sarımsaklı sosla haşlanmış et, bazen hamur toplarıyla.",
+  "history": "Çeçenya'nın dağlık bölgelerinin yemeği; orada et ve patates kış beslenmesinin temelidir.",
+  "ingredientsText": "Dana veya kuzu eti, patates, soğan, sarımsak, buğday unu"
+ },
+ "dyushbara": {
+  "name": "Düşbere",
+  "description": "Naneli ve sarımsaklı sirkeli berrak et suyunda minik kuzu mantıları.",
+  "history": "Usta bir aşçı düşbereyi o kadar küçük yapar ki bir kaşığa ondan fazlası sığar.",
+  "ingredientsText": "Buğday unu, yumurta, kuzu eti, soğan, nane, şarap sirkesi, sarımsak"
+ },
+ "dzavar-plov": {
+  "name": "Cavar pilavı",
+  "description": "Kavrulmuş şehriye ve soğanlı bulgur pilavı. Etin yanına tane tane garnitür.",
+  "history": "Bulgur bölgenin en eski tahıllarından biridir. Köylerde buğday haşlanıp kurutularak evde yapılırdı.",
+  "ingredientsText": "Bulgur, şehriye, tereyağı, soğan, et suyu"
+ },
+ "dzykka": {
+  "name": "Dzıkka",
+  "description": "Taze peynir, ekşi krema ve unun yağı ayrılana dek pişirilmesiyle yapılan koyu yemek.",
+  "history": "Dağ çobanları dzıkkayı taze peynirle yapar ve içine ekmek banarak sıcak yer.",
+  "ingredientsText": "Taze Oset peyniri, ekşi krema, buğday veya mısır unu, tuz"
+ },
+ "eech": {
+  "name": "İç",
+  "description": "Salça, soğan, otlar ve limon sulu soğuk bulgur salatası. Bir oruç yemeği.",
+  "history": "İç, et ve süt ürünlerinden kaçınılan Büyük Perhiz'de yapılır. İyi saklanır ve ertesi gün daha lezzetlidir.",
+  "ingredientsText": "Bulgur, domates salçası, domates, soğan, maydanoz, limon suyu, bitkisel yağ"
+ },
+ "elarji": {
+  "name": "Elarci",
+  "description": "Bol sulguniyle uzayana kadar karıştırılan koyu mısır lapası. Et ve soslarla sıcak servis edilir.",
+  "history": "Megrel mutfağının klasiği. Elarci tahta kürekle uzun ve kuvvetle karıştırılır; uzaması buna bağlıdır.",
+  "ingredientsText": "Mısır unu, sulguni, su, tuz"
+ },
+ "ezogelin-corbasi": {
+  "name": "Ezogelin çorbası",
+  "description": "Bulgur, pirinç, salça ve kuru naneli kırmızı mercimek çorbası.",
+  "history": "Çorba, hayatı türkülere konu olan Gaziantepli genç bir kadın olan Ezo'nun adını taşır.",
+  "ingredientsText": "Kırmızı mercimek, bulgur, pirinç, domates salçası, nane, kırmızı biber"
+ },
+ "faloodeh": {
+  "name": "Faludeh",
+  "description": "Gül suyu şerbetinde dondurulmuş ince pirinç erişteleri, limon suyuyla sunulur.",
+  "history": "Şiraz faludesi dünyanın en eski dondurulmuş tatlılarından biridir.",
+  "ingredientsText": "Pirinç eriştesi, şeker, gül suyu, limon suyu"
+ },
+ "fatir": {
+  "name": "Fatir",
+  "description": "Tandırda pişen çok katlı tereyağlı ekmek: kurutobun temeli.",
+  "history": "Fatir çok ince açılır ve katları arasına tereyağı sürülerek defalarca katlanır.",
+  "ingredientsText": "Buğday unu, tereyağı, süt, tuz"
+ },
+ "fisinjan": {
+  "name": "Fisincan",
+  "description": "Ceviz ve nar ekşisinden koyu sosta köfte ya da tavuk.",
+  "history": "Güney Azerbaycan ve İran'da yaygın olan yemek, ekşi narı tatlılıkla dengeler.",
+  "ingredientsText": "Tavuk veya dana kıyma, ceviz, nar ekşisi, soğan, safran"
+ },
+ "fydzhyn": {
+  "name": "Fıdcın",
+  "description": "Etli Oset böreği. İnce hamur, bol iç ve üzerine eritilmiş tereyağı.",
+  "history": "Bayramlarda Oset börekleri güneş, toprak ve suyu simgeleyerek üçer üçer pişirilir. Fıdcının ortasında buhar çıksın, suyu akmasın diye küçük bir delik bırakılır.",
+  "ingredientsText": "Buğday unu, maya, kefir, tereyağı, dana eti, soğan, sarımsak, biber"
+ },
+ "gata": {
+  "name": "Gata",
+  "description": "Gata, Ermeni mutfağının ev sıcaklığı ve huzurla özdeşleşen tatlı simgesidir. Tereyağı, un ve şekerden iç harçlı, dışı çıtır içi yumuşak katmerli bir çörektir. Güneş gibi yuvarlak ya da dilimlere bölünmüş olabilir; bayramlarda ya da sadece çay için yapılır ve Ermenistan'ın her bölgesinin kendi tarifi vardır.",
+  "quote": "Ermenistan'ın her bölgesinin kendi gatası vardır ama bir şey değişmez: insanları aynı sofrada buluşturur",
+  "history": "Gatanın ilk yazılı kaydı 13. yüzyıla aittir, ama ne zaman ortaya çıktığı bilinmiyor. Ulusal ruhu içine sindirmiştir: 20. yüzyıla kadar süren zorluklara rağmen Ermeniler kimliklerini ve kültürlerini korudu.\n\nGata hem Ermenistan'da hem de evden uzakta mutfağının özelliklerini koruyan diasporada sevilir.",
+  "ingredientsText": "Buğday unu 58 g\nTereyağı 33 g\nMatsun yoğurdu 20 g\nKarbonat 1 tatlı kaşığı\nBir tutam tuz\nİç harç için: eritilmiş tereyağı 13 g, vanilyalı şeker 1 tatlı kaşığı, un 40 g, pudra şekeri 41 g"
+ },
+ "gaz": {
+  "name": "Gez",
+  "description": "Ilgın kudreti helvası ve gül suyuyla yapılan fıstıklı ya da bademli yumuşak koz helvası.",
+  "history": "Gez İsfahan'ın tatlısıdır; parçalar yapışmasın diye una bulanır.",
+  "ingredientsText": "Şeker, yumurta akı, kudret helvası, gül suyu, fıstık veya badem"
+ },
+ "gebzhalia": {
+  "name": "Gebjalia",
+  "description": "Matsoni ve naneli sosta taze peynir ruloları, soğuk servis edilir.",
+  "history": "Taze peynirle, yapıldığı gün hazırlanan bir Megrel yemeği.",
+  "ingredientsText": "Taze peynir, matsoni, nane, acı biber, tuz"
+ },
+ "gedlibzhe": {
+  "name": "Gedlibje",
+  "description": "Soğan, sarımsak ve kırmızı biberli koyu ekşi krema sosunda pişen tavuk, pasta (darı lapası) ile.",
+  "history": "Gedlibje Kabardey bayram yemeğidir; sos tereyağında kavrulmuş unla koyulaştırılır.",
+  "ingredientsText": "Tavuk, ekşi krema, soğan, sarımsak, buğday unu, kırmızı biber"
+ },
+ "ghapama": {
+  "name": "Ğapama",
+  "description": "Pirinç, kuru meyve, ceviz ve balla doldurulup fırınlanan bütün balkabağı, dilim dilim sunulur.",
+  "history": "Ğapama kış bayramlarının yemeğidir; hakkında \"Hey Ğapama\" adlı bir halk şarkısı bile vardır.",
+  "ingredientsText": "Balkabağı, pirinç, kuru kayısı, kuru üzüm, kuru erik, ceviz, bal, tereyağı, tarçın"
+ },
+ "ghormeh-sabzi": {
+  "name": "Kormeh sabzi",
+  "description": "Bol kavrulmuş ot, barbunya ve kuru limonla pişmiş et yahnisi.",
+  "history": "Kormeh sabzi çoğu zaman İran'ın en sevilen yahnisi sayılır; otlar koyulaşana dek uzun süre pişer.",
+  "ingredientsText": "Kuzu veya dana eti, maydanoz, kişniş, çemen otu, taze soğan, barbunya, kuru limon"
+ },
+ "gogal": {
+  "name": "Gogal",
+  "description": "Un, tereyağı, rezene ve zerdeçallı baharatlı içli, yuvarlak tuzlu ya da tatlı katmerli çörekler.",
+  "history": "Gogal, şekerbura ve pahlava ile birlikte Nevruz'un başlıca tatlılarındandır.",
+  "ingredientsText": "Buğday unu, tereyağı, yumurta, maya, rezene, zerdeçal, tuz"
+ },
+ "gomi": {
+  "name": "Gomi",
+  "description": "Tuz ve tereyağı olmadan yapılan koyu mısır lapası. Sulguni, sos ve etle ekmek gibi yenir.",
+  "history": "Gomi Batı Gürcistan'ın temel gıdasıdır. Eskiden darıdan, mısır gelince mısır unundan yapıldı.",
+  "ingredientsText": "Mısır unu, su"
+ },
+ "govurma": {
+  "name": "Kavurma",
+  "description": "Kendi yağında kızarana dek kavrulan et. Eskiden kuzu kış için böyle saklanırdı.",
+  "history": "Kavrulan et yağla kaplanıp kavanozlarda saklanırdı. Bugün kavurma kendi başına bir yemek olarak da pişirilir.",
+  "ingredientsText": "Kuzu eti, kuyruk yağı, soğan, tuz"
+ },
+ "gozinaki": {
+  "name": "Gozinaki",
+  "description": "Balda karamelize edilip baklava dilimi kesilen ceviz. İki malzemeli sade bir tatlı.",
+  "history": "Gozinaki Gürcistan'da Yılbaşı'nın vazgeçilmezidir; yıl tatlı geçsin diye sofraya konur.",
+  "ingredientsText": "Ceviz, bal, şeker"
+ },
+ "gozleme": {
+  "name": "Gözleme",
+  "description": "Peynir, ıspanak ya da patatesin üzerine katlanıp sacda pişirilen ince yufka.",
+  "history": "Gözleme gözünüzün önünde açılıp pişirilir, geleneksel olarak köy kadınları tarafından.",
+  "ingredientsText": "Buğday unu, su, beyaz peynir, ıspanak, tereyağı"
+ },
+ "guruli-gvezeli": {
+  "name": "Guria gvezelisi",
+  "description": "Peynir ve haşlanmış yumurtalı hilal şeklinde börek. Noel'de yapıldığı için Gürcistan'da Noel haçapurisi de denir.",
+  "history": "Batı Gürcistan'daki Guria bölgesinin yemeği. Hilal şekli boynuza ya da aya benzetilerek farklı şekillerde açıklanır.",
+  "ingredientsText": "Buğday unu, maya, matsoni yoğurdu, sulguni, İmereti peyniri, haşlanmış yumurta"
+ },
+ "gutap": {
+  "name": "Gutap",
+  "description": "Et, kabak ya da otla doldurulup kuru tavada pişen ince yarım ay gözlemeler.",
+  "history": "Gutap, Azerbaycan kutabının Türkmen kuzenidir.",
+  "ingredientsText": "Buğday unu, kuzu eti veya kabak, soğan, otlar"
+ },
+ "guubat": {
+  "name": "Guubat",
+  "description": "Adige peyniriyle doldurulup fırında pişirilen üçgen poğaçalar.",
+  "history": "Guubat çay ve bayramlar için yapılır; üçgen şekil Adige hamur işlerinde gelenekseldir.",
+  "ingredientsText": "Buğday unu, kefir, yumurta, Adige peyniri, tereyağı"
+ },
+ "guymag": {
+  "name": "Kuymak (Azerbaycan)",
+  "description": "Tereyağında kavrulmuş undan şeker ya da bal, zerdeçal ve tarçınlı tatlı lapa.",
+  "history": "Kuymak çok besleyici sayıldığı için lohusalara ve soğuk günlerde yapılır.",
+  "ingredientsText": "Buğday unu, tereyağı, şeker veya bal, zerdeçal, tarçın"
+ },
+ "gyrdzhyn": {
+  "name": "Gırcın",
+  "description": "Ayranla yapılıp tavada ya da fırında pişen sade ekmek; et ve çayla sunulur.",
+  "history": "Gırcın Karaçay ve Balkarların gündelik ekmeğidir, çoğu zaman peynir ya da patatesle doldurulur.",
+  "ingredientsText": "Buğday unu, ayran, karbonat, tuz"
+ },
+ "gyurza": {
+  "name": "Gürze",
+  "description": "Yılan pullarını andıran örgü kenarlı etli mantılar, haşlanır ya da kızartılır.",
+  "history": "Gürze, dikiş deseni pullarına benzediği için adını bir engerekten alan bir Bakü yemeğidir.",
+  "ingredientsText": "Buğday unu, yumurta, kuzu eti, soğan, tuz"
+ },
+ "hachapuri": {
+  "name": "Haçapuri",
+  "description": "Haçapuri, sadeliği ve dolgun tadıyla gönülleri fetheden peynirli Gürcü pidesidir. Eritilmiş sulguni ya da İmereti peyniriyle doldurulmuş ince hamur çıtır kabuk ve yumuşak içi dengeler. Bölgeye göre yuvarlak (İmereti), kayık (Acara) ya da üstü peynirli (Megrel) olur. Peynir uzasın diye sıcak sunulur.",
+  "quote": "Haçapuri sadece peynirli börek değil, bütün bir kültürdür: Gürcistan'ın neresinde olursanız olun sofrada yeri vardır",
+  "history": "Haçapuri bütün Gürcistan'da yapılır ve neredeyse her bölgenin kendi versiyonu vardır: İmereti, Megrel, Acara, Guria. Adı genellikle hacho (lor) ve puri (ekmek) kelimelerinden \"lorlu ekmek\" diye açıklanır.",
+  "ingredientsText": "Süt 250 ml\nSu 250 ml\nYaş maya 10 g\nŞeker 10 g\nTuz 5 g\nUn 700 g\nYumurta 2\nAyçiçek yağı 120 g\nSulguni 300 g\nİmereti peyniri 300 g\nSert peynir 50 g\nTereyağı 100 g"
+ },
+ "hachapuri-imeretinskij": {
+  "name": "İmereti haçapurisi",
+  "description": "Tuzlu İmereti peyniriyle dolu yuvarlak kapalı pide. Gürcistan'ın en yaygın haçapurisi, evlerde neredeyse her gün yapılır.",
+  "history": "Adını Batı Gürcistan'daki İmereti bölgesinden alır. Hamur çoğu zaman matsoni ile yapılır; bu onu yumuşak ve hafif ekşi yapar.",
+  "ingredientsText": "Buğday unu, matsoni yoğurdu, karbonat, İmereti peyniri, tereyağı"
+ },
+ "hachapuri-penovani": {
+  "name": "Penovani haçapuri",
+  "description": "Milföy hamurlu haçapuri: peynir kare ya da zarf şeklinde katlanıp çıtır ve altın rengi olana dek pişirilir. Tiflis'te sevilen bir sokak atıştırmalığı.",
+  "history": "Penovani \"katmerli\" demektir. Bu versiyon klasiklerden sonra ortaya çıktı ve şehir fırınlarında yerleşti.",
+  "ingredientsText": "Milföy hamuru, sulguni, İmereti peyniri, tereyağı"
+ },
+ "hachapuri-po-adzharski": {
+  "name": "Acara haçapurisi",
+  "description": "Erimiş peynirle dolu açık mayalı hamur kayığı; servisten hemen önce üzerine çiğ yumurta sarısı ve tereyağı konur. Kenarı koparılıp içe karıştırılarak yenir.",
+  "history": "Yemek Gürcistan'ın Karadeniz kıyısındaki Acara'dan gelir. Kayık şekli bölgenin denizcilik hayatıyla, yumurta sarısı denizin üzerindeki güneşle ilişkilendirilir.",
+  "ingredientsText": "Buğday unu, maya, süt, sulguni, İmereti peyniri, yumurta, tereyağı"
+ },
+ "halim": {
+  "name": "Halim",
+  "description": "Pürüzsüz olana dek dövülen buğday ve et lapası; tarçın, şeker ve tereyağıyla yenir.",
+  "history": "Halim kışın ve Ramazan'da kahvaltıda yenir, özel halim dükkânlarında satılır.",
+  "ingredientsText": "Buğday, hindi veya kuzu eti, tereyağı, tarçın, şeker"
+ },
+ "hamsi-tava": {
+  "name": "Hamsi tava",
+  "description": "Mısır ununa bulanıp tavada yelpaze gibi dizilerek kızartılan Karadeniz hamsisi.",
+  "history": "Hamsi Türkiye'nin Karadeniz kıyısının simgesidir; türkülere ve fıkralara konu olur.",
+  "ingredientsText": "Hamsi, mısır unu, buğday unu, bitkisel yağ, limon"
+ },
+ "harissa": {
+  "name": "Herise",
+  "description": "Saatlerce pişirilip pürüzsüz olana dek dövülen bütün buğday ve tavuk ya da kuzu lapası. Eritilmiş tereyağıyla servis edilir.",
+  "history": "Herise bayramlarda ve Musa Dağı savunucularının pişirdiği 1915'in anısına yapılır. En simgesel Ermeni yemeklerinden biridir.",
+  "ingredientsText": "Kabuksuz buğday, tavuk veya kuzu eti, tereyağı, tuz"
+ },
+ "hash": {
+  "name": "Haş",
+  "description": "Haş sadece bir çorba değil, Ermeni mutfağının bir efsanesidir; zaman, sabır ve geleneğe saygı ister. Dana paçası, et kemikten ayrılana dek uzun süre kaynatılır. Sarımsak, otlar ve doğrudan suya ufalanan kuru lavaşla sıcak sunulur; geleneksel olarak sabah erkenden, çoğu zaman uzun ziyafetlerden sonra yenir.",
+  "quote": "Haş bir araya getirir. Bütün gün enerji toplamak için geleneksel olarak sabah erkenden yenir",
+  "history": "Başlangıçta yoksulların yemeğiydi, sonra Ermeni kültürünün ve mutfak geleneğinin simgesi oldu.\n\nRivayete göre bir köyde geceleyen bir kral haşı tadıp öyle beğendi ki onu sofrasının baş yemeği yaptı.",
+  "ingredientsText": "Dana paçası 1,5 kg\nDana işkembesi 500 g\nSarımsak 3 baş\nTurp 1"
+ },
+ "hingalsh": {
+  "name": "Hingalaş",
+  "description": "Hingalaş, Çeçen mutfağına özgü bir yemektir: tatlı balkabağıyla doldurulmuş mayasız buğday hamurundan gözlemeler. Yumuşak iç, yumuşak hamurla mükemmel uyum sağlar ve eritilmiş tereyağıyla sunulur. Yumuşasın diye pişen gözlemeler eskiden beri sıcak suya batırılır.",
+  "quote": "Yemek o kadar doyurucudur ki misafir az yerse ev sahibi \"Sanki az önce hingalaş yemişsin gibi yiyorsun\" diyebilir",
+  "history": "Çeçenya'da eskiden beri arpa, buğday, darı, mısır, yulaf ve pirincin yanı sıra keten ve pamuk yetiştirilir; arpa ve buğday en eski tahıllardır. Hamur mayalı da mayasız da yapılırdı.\n\nÇeçenler şerbetçiotu mayası hoyahar'ı eskiden beri bilir. Hamur çoğu zaman ekşi sütle ekşitilir; iç harçlar lor, taze peynir, patates püresi ya da kabaktır.",
+  "ingredientsText": "Buğday hamuru\nTatlı balkabağı\nSade yağ"
+ },
+ "hinkali": {
+  "name": "Hinkali",
+  "description": "Hinkali sıradan Gürcü mantısı değil, gerçek bir sanattır. İnce, esnek hamur soğan, sarımsak ve otlarla tatlandırılmış sulu bir kıyma (dana ya da domuz) içini saklar. Sırrı içinde kalan ve ilk ısırıkta patlayan et suyudur. Elle, tepesinden tutularak yenir; tepe geleneksel olarak yenmez.",
+  "quote": "Hinkali gerçek bir mutfak macerasıdır: her ısırık bir sulu lezzet patlamasıdır",
+  "history": "Hinkali doğu Gürcistan'ın dağlarından — Pşavi, Hevsureti ve Tuşeti'den gelir. Doğranmış etli ve baharatlı dağ versiyonuna mtiuluri, otlu şehir versiyonuna kalakuri denir. Elle, tepesinden tutularak yenir ve tepe tabakta bırakılır.",
+  "ingredientsText": "Un 500 g\nSu 400 ml\nTuz 1½ tatlı kaşığı\nDana eti (genç) 250 g\nDana eti 250 g\nİç yağ 100 g\nSoğan 100 g\nSarımsak 2 diş\nKimyon\nAcı biber\nKişniş"
+ },
+ "horovacz-narsharab": {
+  "name": "Horovats",
+  "description": "Horovats, mangal için ideal olan geleneksel bir Ermeni ızgara sebze yemeğidir. Sebzeler dışarıda közde, evde ise fırında pişirilir.",
+  "quote": "Horovats gönülden yapılan bir yemektir",
+  "history": "Horovats kelimesi Ermenicede \"mangal\" demektir. Salata sebzeleri dışarıda közde ya da evde fırında veya ocak alevinde pişirilir. Şiş, patates, ızgara balık ya da sadece lavaş ve taze ekmekle sunulur.",
+  "ingredientsText": "Patlıcan 3\nDomates 3\nDolmalık biber 2\nSoğan 1\nSarımsak 1 diş\nBitkisel yağ\nTuz\nKarabiber\nOtlar"
+ },
+ "hunkar-begendi": {
+  "name": "Hünkâr beğendi",
+  "description": "Peynirli ve kremamsı soslu közlenmiş patlıcan püresi üzerinde kuzu yahnisi.",
+  "history": "Adı \"hünkâr beğendi\" demektir; yemek Osmanlı saray mutfağıyla ilişkilendirilir.",
+  "ingredientsText": "Kuzu eti, patlıcan, süt, tereyağı, buğday unu, peynir, domates"
+ },
+ "imam-bayildi": {
+  "name": "İmam bayıldı",
+  "description": "Zeytinyağında pişirilip soğan, sarımsak ve domatesle doldurulan patlıcan, soğuk sunulur.",
+  "history": "Adı \"imam bayıldı\" demektir — rivayete göre lezzetinden.",
+  "ingredientsText": "Patlıcan, soğan, sarımsak, domates, zeytinyağı, maydanoz"
+ },
+ "imeruli-kveli": {
+  "name": "İmereti peyniri",
+  "description": "Hafif tuzlu, yumuşak taze peynir: haçapurinin temeli ve kendi başına bir meze.",
+  "history": "Peynir İmereti'de yapılır ve hemen yenir; uzun olgunlaştırma için değildir.",
+  "ingredientsText": "İnek sütü, peynir mayası, tuz"
+ },
+ "iron-tsykht": {
+  "name": "Oset peyniri",
+  "description": "İnek ya da koyun sütünden yumuşak salamura peynir; taze yenir ve böreklerde kullanılır.",
+  "history": "Hiçbir Oset böreği bu peynirsiz yapılmaz; Osetçede iron tsıht denir.",
+  "ingredientsText": "İnek veya koyun sütü, peynir mayası, tuz"
+ },
+ "ishkhan": {
+  "name": "İşhan alabalığı",
+  "description": "Limon ve otlarla fırında ya da közde pişen Sevan alabalığı. Çok az kılçıklı, beyaz ve yumuşak et.",
+  "history": "Adı \"prens\" demektir. Sevan Gölü'nün endemik alabalığı bugün nadirdir, bu yüzden çiftliklerde yetiştirilir.",
+  "ingredientsText": "Alabalık, limon, tarhun, tereyağı, tuz"
+ },
+ "ishlekli": {
+  "name": "İşlekli",
+  "description": "Sıcak kumda ya da korda pişen büyük, yuvarlak etli ve soğanlı börek.",
+  "history": "İşlekliyi göçebeler ve çobanlar çölün ortasında, kızgın kuma gömerek pişirir.",
+  "ingredientsText": "Buğday unu, kuzu eti, soğan, tuz"
+ },
+ "ishli-kyufta": {
+  "name": "İçli köfte",
+  "description": "İçi kavrulmuş kıyma ve cevizli bulgur ve et köfteleri, haşlanır ya da kızartılır.",
+  "history": "İçli köfte ustalık ister: dış kabuk ince olmalı ama pişerken patlamamalıdır.",
+  "ingredientsText": "Bulgur, dana eti, soğan, ceviz, tereyağı, baharat"
+ },
+ "iskender-kebab": {
+  "name": "İskender kebap",
+  "description": "Pide üzerinde döner etinin ince dilimleri, domates sosu, cızırdayan tereyağı ve yoğurtla.",
+  "history": "Yemek 19. yüzyılda Bursa'da doğdu ve yaratıcısının ailesi adı hâlâ kullanıyor.",
+  "ingredientsText": "Kuzu veya dana eti, pide, domates sosu, tereyağı, yoğurt"
+ },
+ "ispanakhi-matsvnit": {
+  "name": "Matsonili ıspanak",
+  "description": "Matsoni, sarımsak ve otlarla haşlanmış ıspanak. Etin yanına hafif bir garnitür.",
+  "history": "Gürcü mutfağında matsoni, acılı yemekleri yumuşatmak için sos ve mezelerde kullanılır.",
+  "ingredientsText": "Ispanak, matsoni, sarımsak, kişniş, tuz"
+ },
+ "izgara-kofte": {
+  "name": "Izgara köfte",
+  "description": "Soğan ve baharatlı dana kıymasından ızgarada pişen köfteler.",
+  "history": "Her Türk şehrinin kendi köftesi vardır; İstanbul'da yalnızca köfte satan lokantalar bulunur.",
+  "ingredientsText": "Dana kıyma, soğan, galeta unu, yumurta, kimyon, biber"
+ },
+ "jarma": {
+  "name": "Carma",
+  "description": "Ayranla karıştırılmış kavrulmuş arpa unundan ferahlatıcı içecek.",
+  "history": "Carma ot biçme sıcağında içilirdi: susuzluğu giderir ve güç verir.",
+  "ingredientsText": "Kavrulmuş arpa unu, ayran, tuz"
+ },
+ "jiz-biz": {
+  "name": "Ciz-biz",
+  "description": "Patates ve soğanla kızarmış kuzu sakatatı — adı tavadaki cızırtıyı taklit eder.",
+  "history": "Ciz-biz Bakü lokantalarının yemeğidir; hızla pişirilip sıcak servis edilir.",
+  "ingredientsText": "Kuzu ciğeri, böbrek, yürek, kuyruk yağı, patates, soğan"
+ },
+ "jonjoli": {
+  "name": "Conjoli",
+  "description": "Kafkasya'da yetişen bir çalı olan çıngıraklı ağacın turşusu çiçek tomurcukları. Etle birlikte soğan ve yağla meze olarak sunulur.",
+  "history": "Conjoli ilkbaharda toplanıp bütün yıl için saklanır. Biraz kapariyi andıran ekşimsi bir tadı vardır.",
+  "ingredientsText": "Çıngıraklı ağaç tomurcuğu, tuz, şarap sirkesi, soğan, bitkisel yağ"
+ },
+ "joojeh-kebab": {
+  "name": "Cuce kebap",
+  "description": "Yoğurt, limon ve safranda marine edilip közde pişen tavuk parçaları.",
+  "history": "Safran cuce kebaba altın rengini verir; çoğu zaman kubide ile birlikte sunulur.",
+  "ingredientsText": "Tavuk, yoğurt, limon suyu, safran, soğan"
+ },
+ "kabuskadzhyn": {
+  "name": "Kabuskacın",
+  "description": "Lahanalı ve peynirli Oset böreği. İnce hamur, bol iç ve üzerine eritilmiş tereyağı.",
+  "history": "Bayramlarda Oset börekleri güneş, toprak ve suyu simgeleyerek üçer üçer pişirilir. Lahanalısı özellikle sonbahar ve kışın sevilir.",
+  "ingredientsText": "Buğday unu, maya, kefir, tereyağı, beyaz lahana, Oset peyniri"
+ },
+ "kada": {
+  "name": "Kada",
+  "description": "Un, tereyağı ve şekerden iç harçlı, içi un kurabiyesi gibi dağılan zengin hamurlu tatlı.",
+  "history": "Gürcistan'da kada bayramlarda yapılır. Ermeni ve Azerbaycanlıların da benzer çörekleri vardır; tarif aileden aileye değişir.",
+  "ingredientsText": "Buğday unu, tereyağı, şeker, yumurta, matsoni yoğurdu, maya, vanilya"
+ },
+ "kaghamb-tolma": {
+  "name": "Lahana dolması",
+  "description": "Ermeni lahana sarması: et ve pirinçle doldurulan lahana yaprakları domates sosunda pişer.",
+  "history": "Lahana dolması asma yaprağının olmadığı sonbahar ve kışın yapılır.",
+  "ingredientsText": "Beyaz lahana, dana kıyma, pirinç, soğan, domates salçası, otlar"
+ },
+ "kalla-pacha": {
+  "name": "Kelle paça",
+  "description": "Saatlerce pişen kuzu kelle ve paçasından zengin çorba; sarımsak ve sirkeyle sunulur.",
+  "history": "Kelle paça hash gibi sabahın erken saatinde, özellikle kışın içilir.",
+  "ingredientsText": "Kuzu kellesi, kuzu paçası, nohut, sarımsak, şarap sirkesi"
+ },
+ "karniyarik": {
+  "name": "Karnıyarık",
+  "description": "Kıyma, soğan ve domatesle doldurulan yarılmış kızarmış patlıcan.",
+  "history": "Adı \"yarılmış karın\" demektir; imam bayıldının etli kardeşidir.",
+  "ingredientsText": "Patlıcan, dana kıyma, soğan, domates, yeşil biber"
+ },
+ "kartofdzhyn": {
+  "name": "Kartofcın",
+  "description": "Patatesli ve peynirli Oset böreği. İnce hamur, bol iç ve üzerine eritilmiş tereyağı.",
+  "history": "Bayramlarda Oset börekleri güneş, toprak ve suyu simgeleyerek üçer üçer pişirilir. Patatesli iç, patates 19. yüzyılda Kafkasya'ya yayılınca ortaya çıktı.",
+  "ingredientsText": "Buğday unu, maya, kefir, tereyağı, patates, Oset peyniri"
+ },
+ "kashk-e-bademjan": {
+  "name": "Keşk-i bademcan",
+  "description": "Keş, kızarmış soğan, sarımsak ve naneli kızarmış patlıcan püresi.",
+  "history": "Keş, yemeğe tuzlu derinliğini veren kurutulmuş fermente bir süt ürünüdür.",
+  "ingredientsText": "Patlıcan, keş, soğan, sarımsak, kuru nane, ceviz"
+ },
+ "kashyk-burek": {
+  "name": "Kaşık böreği",
+  "description": "Et suyunda minik mantılar — adı \"kaşık böreği\" demektir.",
+  "history": "Mantılar o kadar küçük yapılır ki bir kaşığa birkaç tane birden sığar.",
+  "ingredientsText": "Buğday unu, yumurta, kuzu eti, soğan, et suyu, nane"
+ },
+ "kazan-kebab": {
+  "name": "Kazan kebabı",
+  "description": "Kazanda altın rengi olana dek kızartılan kuzu kaburga ve patates.",
+  "history": "Kazan kebabı ince doğranmış soğan ve yeşillikle büyük bir tabakta sunulur.",
+  "ingredientsText": "Kuzu eti, kuzu kaburga, patates, soğan, kimyon, pamuk yağı"
+ },
+ "kazy": {
+  "name": "Kazı",
+  "description": "Doğal bağırsağa doldurulmuş at kaburga eti ve yağından sucuk, haşlanır ya da kurutulur.",
+  "history": "Kazı Kazak sofrasının (dastarhan) baş tacıdır ve halka halka dilimlenerek sunulur.",
+  "ingredientsText": "At kaburga eti, at yağı, tuz, biber, sarımsak"
+ },
+ "kchuch": {
+  "name": "Kçuç",
+  "description": "Sebzelerin et suyunda iyice yumuşadığı toprak güveçte pişen et ve sebze.",
+  "history": "Kçuç hem yemeğin hem de içinde piştiği toprak güvecin adıdır.",
+  "ingredientsText": "Kuzu eti, patlıcan, patates, domates, biber, soğan, otlar"
+ },
+ "kesme": {
+  "name": "Kesme",
+  "description": "Bıçakla kesilmiş ev eriştesi, et ve sebzeli çorba.",
+  "history": "Kesme \"kesilmiş\" demektir; Kırgız evlerinde gündelik bir çorbadır.",
+  "ingredientsText": "Buğday unu, yumurta, dana eti, patates, havuç, soğan"
+ },
+ "khabizgina": {
+  "name": "Habizgina",
+  "description": "Gürcistan ve Osetya'nın dağlık bölgelerinden patates püresi ve Oset peynirli börek.",
+  "history": "Habizgina, Oset patatesli böreğinin Gürcüce adıdır; Kazbegi ve Raça'da yapılır.",
+  "ingredientsText": "Buğday unu, kefir, patates, Oset peyniri, tereyağı"
+ },
+ "khadurdzhyn": {
+  "name": "Hadurcın",
+  "description": "Fasulyeli Oset böreği. İnce hamur, bol iç ve üzerine eritilmiş tereyağı.",
+  "history": "Bayramlarda Oset börekleri güneş, toprak ve suyu simgeleyerek üçer üçer pişirilir. Fasulyelisi et yenmeyen oruç günlerinde yapılır.",
+  "ingredientsText": "Buğday unu, maya, kefir, tereyağı, kırmızı fasulye, soğan"
+ },
+ "khalvaitar": {
+  "name": "Helvaitar",
+  "description": "Tereyağında kavrulmuş undan şeker ya da bal ve sütle yumuşak helva.",
+  "history": "Helvaitar bayramlarda ve lohusalar için besleyici bir tatlı olarak yapılır.",
+  "ingredientsText": "Buğday unu, tereyağı, şeker veya bal, süt"
+ },
+ "khalyuzh": {
+  "name": "Haluj",
+  "description": "Adige peyniri ve soğan ya da patatesle doldurulmuş kızarmış üçgen börekler.",
+  "history": "Haluj bayramlar için yapılır; üçgen şekil eşit kızarmasına yardım eder.",
+  "ingredientsText": "Buğday unu, kefir, Adige peyniri, taze soğan, bitkisel yağ"
+ },
+ "khamrashi": {
+  "name": "Hamraşi",
+  "description": "Ev eriştesi, fasulye ve küçük köfteli çorba.",
+  "history": "Hamraşi güney Azerbaycan'ın kış çorbasıdır; erişte elle çok ince kesilir.",
+  "ingredientsText": "Buğday unu, fasulye, kuzu eti, soğan, otlar"
+ },
+ "khanum": {
+  "name": "Hanum",
+  "description": "Et, patates ya da kabakla doldurulup buharda pişen ince hamur rulosu.",
+  "history": "Hanum mantı tenceresinde pişer, sonra dilimlenip üzerine sos dökülür.",
+  "ingredientsText": "Buğday unu, kuzu eti, patates, soğan, kimyon"
+ },
+ "kharcho": {
+  "name": "Harço",
+  "description": "Pirinç, ekşi tkemali ya da tklapi, ceviz ve baharatla koyu dana çorbası. Acılı, doyurucu ve kokulu.",
+  "history": "Harço yurtdışında en bilinen Gürcü çorbalarındandır. Megrelya'da pirinçsiz yapılır ve daha çok yahni gibi sunulur.",
+  "ingredientsText": "Dana eti, pirinç, tkemali veya tklapi, ceviz, soğan, sarımsak, kişniş, hmeli suneli"
+ },
+ "khashil": {
+  "name": "Haşıl",
+  "description": "Eritilmiş tereyağı ve bal ya da üzüm pekmeziyle sunulan koyu un ve su lapası.",
+  "history": "Haşıl soğuk havalarda ve lohusalar için yapılır; ortasına açılan çukura tereyağı konur.",
+  "ingredientsText": "Buğday unu, su, tereyağı, bal veya üzüm pekmezi"
+ },
+ "khashlama": {
+  "name": "Haşlama",
+  "description": "Sebzeyle kendi suyunda iri parçalar halinde pişen kuzu ya da dana, bazen bira veya şarapla.",
+  "history": "Adı \"haşlamak\" kelimesiyle ilgilidir. Haşlama bütün aile için büyük tencerede, sebzeler kat kat dizilerek yapılır.",
+  "ingredientsText": "Kuzu veya dana eti, patates, domates, dolmalık biber, soğan, otlar, tuz"
+ },
+ "khasip": {
+  "name": "Hasip",
+  "description": "Doğranmış et, ciğer ve pirinçle doldurulmuş kuzu bağırsağından sucuk, et suyunda haşlanır.",
+  "history": "Hasip bayramlarda kuzu sakatatından, hiçbir şey israf edilmeden yapılır.",
+  "ingredientsText": "Kuzu bağırsağı, kuzu eti, ciğer, pirinç, soğan, kimyon"
+ },
+ "khingal": {
+  "name": "Hingal",
+  "description": "Üzerine kavrulmuş et ve soğan, sarımsaklı yoğurt ve kurut konan geniş haşlanmış hamur kareleri.",
+  "history": "Hingal Azerbaycan'da ve Kuzey Kafkasya'da yapılır. Her bölge hamuru farklı keser: kare ya da baklava dilimi.",
+  "ingredientsText": "Buğday unu, kuzu eti, soğan, yoğurt, sarımsak, kurut"
+ },
+ "khoresh-bademjan": {
+  "name": "Hureş-i bademcan",
+  "description": "Kızarmış patlıcan, domates ve koruklu kuzu yahnisi.",
+  "history": "Hureş, her zaman pilavla sunulan İran yahnilerinin genel adıdır.",
+  "ingredientsText": "Kuzu eti, patlıcan, domates, koruk, soğan, zerdeçal"
+ },
+ "khoresh-gheymeh": {
+  "name": "Hureş-i kıyme",
+  "description": "Sarı bezelye, domates ve kuru limonlu kuzu yahnisi, üzerine çıtır patates kızartması.",
+  "history": "Kıyme geleneksel olarak Muharrem ayındaki dini toplantılarda dağıtılır.",
+  "ingredientsText": "Kuzu eti, sarı bezelye, domates salçası, kuru limon, soğan, patates"
+ },
+ "khorovats-ovoshchnoy": {
+  "name": "Sebze horovatsı",
+  "description": "Közde pişirilip soyulan, sarımsak ve otlarla doğranan patlıcan, domates ve biber.",
+  "history": "Sebzeler etli horovatsla aynı korda pişirilir ve onunla birlikte sunulur.",
+  "ingredientsText": "Patlıcan, domates, dolmalık biber, sarımsak, kişniş, tuz"
+ },
+ "khychiny": {
+  "name": "Hıçın",
+  "description": "Patates ve peynir ya da etle doldurulup kuru tavada pişen, tereyağı sürülen ince gözlemeler.",
+  "history": "Hıçın, bütün Kabardey-Balkarya'da sevilen bir Balkar ve Karaçay yemeğidir.",
+  "ingredientsText": "Buğday unu, kefir, patates, peynir, tereyağı"
+ },
+ "khyovla": {
+  "name": "Hovla",
+  "description": "Kavrulmuş un, tereyağı ve şeker ya da baldan baklava dilimi kesilen Çeçen helvası.",
+  "history": "Hovla anma günleri ve bayramlar için yapılır ve komşularla paylaşılır.",
+  "ingredientsText": "Buğday unu, tereyağı, şeker veya bal"
+ },
+ "kisir": {
+  "name": "Kısır",
+  "description": "Domates ve biber salçalı, otlu, limonlu ve nar ekşili ince bulgur salatası.",
+  "history": "Kısır ev toplantılarında çayla, marul yaprağına sarılarak sunulur.",
+  "ingredientsText": "İnce bulgur, domates salçası, biber salçası, taze soğan, maydanoz, limon, nar ekşisi"
+ },
+ "kobete": {
+  "name": "Köbete",
+  "description": "Et, patates ve soğan dolgulu büyük yuvarlak börek.",
+  "history": "Köbete bayramlar ve aile kutlamaları için, hamur desenleriyle süslenerek yapılır.",
+  "ingredientsText": "Buğday unu, tereyağı, yumurta, kuzu eti, patates, soğan"
+ },
+ "kok-choy": {
+  "name": "Kök çay (yeşil çay)",
+  "description": "Gün boyu kâselerden içilen ve her öğünde sunulan yeşil çay.",
+  "history": "Ev sahibi misafirin kâsesini sık sık doldurabilmek için yalnızca yarısına kadar doldurur; bu ilgi göstergesidir.",
+  "ingredientsText": "Yeşil çay, su"
+ },
+ "kololik": {
+  "name": "Kololak",
+  "description": "Domatesli et suyunda büyük et ve pirinç köfteli çorba — her köfte neredeyse tek başına bir öğün.",
+  "history": "Şirak bölgesinin yemeği. Köfteler pişerken dağılmasın diye kıymaya pirinç ve yumurta eklenir.",
+  "ingredientsText": "Dana kıyma, pirinç, yumurta, soğan, domates salçası, otlar, tuz"
+ },
+ "koobideh": {
+  "name": "Kubide kebabı",
+  "description": "Geniş şişlerde soğanlı kuzu kıymasından kebap; pilav, közlenmiş domates ve sumakla sunulur.",
+  "history": "Pilavlı kubide, yani çelov kebap, İran'ın ulusal yemeği sayılır.",
+  "ingredientsText": "Kuzu eti, soğan, tuz, biber, sumak, pirinç, domates"
+ },
+ "kubdari": {
+  "name": "Kubdari",
+  "description": "Bıçakla doğranmış et, soğan ve Svan baharatlarıyla bol içli kapalı börek. Et kıyılmak yerine doğrandığı için iç sulu ve parçalı kalır.",
+  "history": "Gürcistan'ın dağlık bölgesi Svaneti'nin geleneksel yemeği. Tuz, ot ve baharat karışımı olan Svan tuzuyla tatlandırılır.",
+  "ingredientsText": "Buğday unu, maya, dana eti, domuz eti, soğan, Svan tuzu, kişniş, sarımsak"
+ },
+ "kuchmachi": {
+  "name": "Kuçmaçi",
+  "description": "Soğan, nar ve dövülmüş cevizle kızartılmış sakatat — ciğer, yürek ve akciğer. Sıcak servis edilir.",
+  "history": "Kuçmaçi kesimden sonra hiçbir şeyin israf edilmediği tutumlu bir mutfaktan gelir. Çoğu zaman bayramlarda pişirilir.",
+  "ingredientsText": "Dana veya domuz ciğeri, yürek, akciğer, soğan, ceviz, nar, kişniş"
+ },
+ "kufta-bozbash": {
+  "name": "Küfte bozbaş",
+  "description": "Her birinin içinde bir kuru ekşi erik saklı iri kuzu-pirinç köfteli, nohut ve patatesli çorba.",
+  "history": "Her köftede saklı erik bir sürprizdir ve piştikçe ortaya çıkan ekşiliğin kaynağıdır.",
+  "ingredientsText": "Kuzu eti, pirinç, nohut, patates, kuru ekşi erik, soğan, safran, nane"
+ },
+ "kumpir": {
+  "name": "Kumpir",
+  "description": "Tereyağı ve peynirle ezilip bir düzine malzemeyle doldurulan dev fırın patates.",
+  "history": "Kumpir İstanbul'un Ortaköy semtinde, sahil boyunca satılarak ünlendi.",
+  "ingredientsText": "Patates, tereyağı, peynir, mısır, zeytin, turşu, sosis"
+ },
+ "kumys": {
+  "name": "Kımız",
+  "description": "Kısrak sütünden hafif köpüklü, ferahlatıcı fermente içecek.",
+  "history": "Kımız bozkır göçebelerince çok eski zamanlardan beri bilinir ve deri tulumda çalkalanır.",
+  "ingredientsText": "Kısrak sütü, maya"
+ },
+ "kunefe": {
+  "name": "Künefe",
+  "description": "Tuzsuz peynirle eritilmiş tel kadayıftan şerbetli sıcak tatlı.",
+  "history": "Künefe güney Türkiye'deki Hatay'ın gururudur ve fırından çıkar çıkmaz fıstıkla sunulur.",
+  "ingredientsText": "Tel kadayıf, tuzsuz peynir, tereyağı, şeker şerbeti, Antep fıstığı"
+ },
+ "kupaty": {
+  "name": "Kupati",
+  "description": "Doğal bağırsağa doldurulmuş baharatlı, sarımsaklı ve karamuklu kızarmış domuz ya da dana sucukları. Nar ve soğanla sunulur.",
+  "history": "Gürcistan'da kupati tavada ya da közde kızartılır. Sovyet döneminde ülkenin çok ötesinde popüler oldu.",
+  "ingredientsText": "Domuz veya dana eti, doğal bağırsak, sarımsak, karamuk, kişniş, biber"
+ },
+ "kurt": {
+  "name": "Kurut",
+  "description": "Uzun süre dayanan ve açlığı bastıran preslenmiş ekşi sütten tuzlu kuru toplar.",
+  "history": "Kurut uzun yolculuklara götürülürdü; atıştırmalık olarak yenir ve sos için suda eritilir.",
+  "ingredientsText": "Ekşi süt, tuz"
+ },
+ "kurze": {
+  "name": "Kurze",
+  "description": "Et, kabak, ısırgan ya da lorla doldurulmuş, örgü kenarlı damla şeklinde Dağıstan mantıları.",
+  "history": "Kurzenin örgüsü aşçının ustalığını gösterir: desen ne kadar inceyse o kadar iyi, derler.",
+  "ingredientsText": "Buğday unu, su, kuzu veya dana eti, soğan, tuz"
+ },
+ "kutaby": {
+  "name": "Kutab",
+  "description": "Kutab, sadeliği ve incelikli tadıyla gönül fetheden ince gözlemelerdir. İç harç sulu otlardan (kişniş, dereotu, ıspanak) yumuşak ete ya da kabağa kadar değişir. Kuru tavada kızarana dek pişirilir ve eritilmiş tereyağı sürülür. Yoğurt ya da ayranla sunulur. İdeal bir atıştırmalık ya da hafif akşam yemeği.",
+  "quote": "Kutab et, ot, kabak ya da peynirle doldurulan, yoğurtlu soslarla sunulan ince gözlemelerdir",
+  "history": "Kutabın tarihi, ekmek hamurunun artığıyla bu lezzetli yemeğin yapıldığı çok eski zamanlara uzanır.",
+  "ingredientsText": "Buğday unu 96 g\nRafine bitkisel yağ 1 yemek kaşığı\nSoğan 1\nTereyağı 1 yemek kaşığı\nMaydanoz 80 g\nİsteğe göre sumak\nBir tutam tuz"
+ },
+ "kuyrdak": {
+  "name": "Kuyırdak",
+  "description": "Soğanla kavrulmuş kuzu eti ve sakatat — ciğer, yürek ve böbrek.",
+  "history": "Kuyırdak, misafirlere taze et ikram etmek için kesimin hemen ardından pişirilir.",
+  "ingredientsText": "Kuzu eti, ciğer, yürek, böbrek, kuyruk yağı, soğan"
+ },
+ "kyata": {
+  "name": "Kete",
+  "description": "Un, tereyağı ve şekerden içli, katmerli zengin çörek; çayla sunulur.",
+  "history": "Kete Azerbaycan ve Ermenistan'da bilinir; bazı yörelerde tatlı, bazılarında tuzludur.",
+  "ingredientsText": "Buğday unu, tereyağı, yumurta, süt, maya, şeker"
+ },
+ "kyufta": {
+  "name": "Küfta",
+  "description": "İnce dövülmüş dana etinden iri toplar, haşlanıp dilimlenir. Tereyağı ve soğanla sunulur.",
+  "history": "Küfta Gümrü'nün gururudur. Et kıyılmaz, tahta tokmaklarla dövülerek macun haline getirilir.",
+  "ingredientsText": "Dana eti, soğan, yumurta, tereyağı, tuz, biber"
+ },
+ "kyukyu": {
+  "name": "Kükü",
+  "description": "Bol otlu, bazen cevizli ve karamuklu fırın omleti, ılık ya da soğuk sunulur.",
+  "history": "Kükü Nevruz için yapılır; yeşil rengi baharı simgeler.",
+  "ingredientsText": "Yumurta, kişniş, dereotu, ıspanak, taze soğan, ceviz, tereyağı"
+ },
+ "lagman": {
+  "name": "Lağman",
+  "description": "Et ve sebze soslu elde çekilmiş erişte: biber, turp, domates ve sarımsak.",
+  "history": "Lağman Özbeklere Uygurlardan ve Dunganlardan geldi; erişte çekilip incelene dek masaya vurulur.",
+  "ingredientsText": "Buğday unu, dana veya kuzu eti, dolmalık biber, turp, domates, soğan, sarımsak"
+ },
+ "lahmadzho": {
+  "name": "Lahmacun (Ermeni)",
+  "description": "Lahmacun, sadeliği ve dolgun tadıyla Ermeni \"pizzası\"dır. İnce hamur kıyma, domates, soğan ve baharatla kaplanıp çıtır olana dek pişirilir. Çoğu zaman rulo yapılıp otlar, limon suyu ya da matsunla yenir. Sevilen bir sokak atıştırmalığı ve aile favorisi.",
+  "quote": "Ermeniler lahmacuna \"ruhun yemeği\" der: sade ve lezzetli, herkes sever",
+  "history": "Arap ülkelerinde yemeğe lahmacun ya da lahm bi acin denir. Siparişini bekleyenler hamurun fırında değişimini izler: yayılır, kabarcıklanır ve saniyeler içinde kabarır.\n\nErmeniler Ürdün'de Arap Hristiyanlardan sonra en büyük Hristiyan topluluktur ve lahmacun Amman'daki Ermeni fırınlarında satılır.",
+  "ingredientsText": "Hamur için: kefir veya matsoni 250 ml, buğday unu 400–450 g, tuz ½ tatlı kaşığı"
+ },
+ "lakume": {
+  "name": "Lakume",
+  "description": "Çay, bal ya da etle sunulan kabarık, kızarmış mayalı hamur lokmaları.",
+  "history": "Lakume bayram ve anma günlerinde dağıtılır; baklava dilimi şekli en geleneksel olanıdır.",
+  "ingredientsText": "Buğday unu, maya, süt, yumurta, şeker, bitkisel yağ"
+ },
+ "lavash": {
+  "name": "Lavaş",
+  "description": "Açılıp tonir fırınının duvarlarında pişirilen ince mayasız ekmek. Kuru lavaş aylarca saklanır.",
+  "history": "Ermeni kültürünün ifadesi olarak lavaş yapımı UNESCO somut olmayan miras listesindedir.",
+  "ingredientsText": "Buğday unu, su, tuz"
+ },
+ "lepeshka-non": {
+  "name": "Özbek nanı",
+  "description": "Ortası ince ve damgalı, kenarı kabarık yuvarlak tandır ekmeği.",
+  "history": "Desen çekiç damgasıyla basılır; ekmek asla ters konmaz, saygısızlık sayılır.",
+  "ingredientsText": "Buğday unu, maya, su, tuz, susam veya çörek otu"
+ },
+ "lobiani": {
+  "name": "Lobiani",
+  "description": "Ezilmiş haşlanmış fasulye, soğan ve baharatla doldurulmuş pide. Gürcülerin oruç günlerinde sık yaptığı sade, doyurucu bir yemek.",
+  "history": "Adı \"fasulye\" anlamındaki lobio'dan gelir. Özellikle lobianinin sık sık pastırmayla yapıldığı Raça'da sevilir.",
+  "ingredientsText": "Buğday unu, maya, kırmızı fasulye, soğan, tereyağı veya yağ, kişniş"
+ },
+ "lobio": {
+  "name": "Lobio",
+  "description": "Lobio, fasulyenin gerçek bir lezzet olabileceğini kanıtlar. Ceviz, sarımsak, kişniş ve baharatla tatlandırılan haşlanmış fasulye yumuşak, kokulu bir kıvama gelir. Sıcak ya da soğuk, koyu püre ya da bütün taneli olarak toprak güveçlerde sunulur.",
+  "quote": "Lobio Gürcü misafirperverliğini anlatır. Gomi (mısır lapası) ile ya da sadece lavaşla sunulur",
+  "history": "Fasulye Kafkasya'ya Yeni Çağ'da Amerika'dan geldi ama kısa sürede Gürcü sofrasının temeli oldu. Lobio sıcak, toprak güveçte ya da soğuk, cevizle yapılır; mçadi ve turşuyla, özellikle oruç günlerinde yenir.",
+  "ingredientsText": "Fasulye 63 g (kırmızı veya barbunya)\nCeviz 13 g\nSoğan 0,4\nDomates 0,3\nSarımsak 0,4 diş\nKişniş 1,5 g\nHmeli suneli 0,1 yemek kaşığı\nAcı biber 0,1\nTuz\nBitkisel yağ 0,3 yemek kaşığı\nKarabiber"
+ },
+ "lokum": {
+  "name": "Lokum",
+  "description": "Gül suyu, fıstık ya da limonla tatlandırılmış, pudra şekerine bulanmış yumuşak şeker ve nişasta küpleri.",
+  "history": "Lokum 18–19. yüzyılda İstanbul'da ünlendi ve Avrupa'ya hediye olarak götürüldü.",
+  "ingredientsText": "Şeker, mısır nişastası, su, gül suyu, pudra şekeri"
+ },
+ "lori-cheese": {
+  "name": "Lori peyniri",
+  "description": "Gözenekli yapıda, inek sütünden yarı sert salamura peynir.",
+  "history": "Peynir adını yapıldığı kuzey Ermenistan'daki Lori bölgesinden alır.",
+  "ingredientsText": "İnek sütü, peynir mayası, tuz"
+ },
+ "lyavangi": {
+  "name": "Levengi",
+  "description": "Ceviz, soğan ve ekşi erik ezmesiyle doldurulup fırında pişen tavuk.",
+  "history": "Levengi güney Azerbaycan'daki Lenkeran ve Talış'ın yemeğidir; bayramlarda tandırda pişirilir.",
+  "ingredientsText": "Tavuk, ceviz, soğan, ekşi erik ezmesi, tuz, biber"
+ },
+ "lyguazha": {
+  "name": "Lıguaja",
+  "description": "Soğan, domates ve kırmızı biberle pişen dana ya da kuzu yahnisi.",
+  "history": "Lıguaja çoğu zaman Kabardey sofrasında ekmeğin yerini tutan pasta (darı lapası) ile sunulur.",
+  "ingredientsText": "Dana veya kuzu eti, soğan, domates salçası, kırmızı biber, sarımsak"
+ },
+ "lyulya-kebab": {
+  "name": "Lüle kebap",
+  "description": "Soğan ve kuyruk yağıyla zırhla kıyılmış kuzudan uzun şiş kebaplar, kömür ateşinde.",
+  "history": "Lüle için et zırhla kıyılır ve uzun süre yoğrulur, yoksa şişte durmaz.",
+  "ingredientsText": "Kuzu eti, kuyruk yağı, soğan, tuz, biber, sumak"
+ },
+ "lyvzha": {
+  "name": "Lıvja",
+  "description": "Patates, soğan ve unla, biberle tatlandırılmış etli ya da tavuklu yahni kıvamında koyu çorba.",
+  "history": "Lıvja bayramlar için pişirilir ve böreklerle derin kâselerde sıcak sunulur.",
+  "ingredientsText": "Dana eti veya tavuk, patates, soğan, buğday unu, biber, otlar"
+ },
+ "maksym": {
+  "name": "Maksım",
+  "description": "Kavrulmuş tahıldan — arpa, mısır ya da buğday — hafif köpüklü içecek.",
+  "history": "Yazın maksım Bişkek sokaklarında büyük fıçılardan satılır.",
+  "ingredientsText": "Arpa veya buğday, su, tuz, maya"
+ },
+ "mantapur": {
+  "name": "Mantapur",
+  "description": "Et suyunda sarımsaklı yoğurtla fırınlanmış küçük mantı çorbası.",
+  "history": "Mantapur bir kış yemeğidir: mantılar önce fırında kızartılır, sonra üzerine sıcak et suyu dökülür.",
+  "ingredientsText": "Buğday unu, dana kıyma, soğan, et suyu, matsun yoğurdu, sarımsak"
+ },
+ "manti-armyanskie": {
+  "name": "Ermeni mantısı",
+  "description": "Çıtır olana dek fırınlanan, et suyu ve sarımsaklı yoğurtla sunulan minik açık etli hamur kayıkları.",
+  "history": "Orta Asya mantısından farklı olarak Ermeni mantısı küçük, açık ve fırında pişirilir.",
+  "ingredientsText": "Buğday unu, dana kıyma, et suyu, matsun, sarımsak, sumak"
+ },
+ "manti-turetskie": {
+  "name": "Türk mantısı",
+  "description": "Sarımsaklı yoğurt ve pul biberli tereyağıyla sunulan minik etli mantılar.",
+  "history": "En bilineni Kayseri mantısıdır; iyi bir aşçının bir kaşığa kırk mantı sığdırdığı söylenir.",
+  "ingredientsText": "Buğday unu, yumurta, dana kıyma, yoğurt, sarımsak, tereyağı, pul biber"
+ },
+ "manty": {
+  "name": "Manty (Orta Asya)",
+  "description": "Zırhla kıyılmış kuzu ve soğanla doldurulup katlı buharlı tencerede pişen büyük mantılar.",
+  "history": "Mantı elle yenir, ısırılıp içindeki suyu içilir; yanında ekşi süt ya da ekşi krema.",
+  "ingredientsText": "Buğday unu, kuzu eti, kuyruk yağı, soğan, kimyon"
+ },
+ "mast-o-khiar": {
+  "name": "Mast-o hıyar",
+  "description": "Salatalık, nane, ceviz, kuru üzüm ve gül yapraklı soğuk yoğurt.",
+  "history": "Mast-o hıyar pilavlara eşlik eder, sıcak havada serinletici çorba gibi yenir.",
+  "ingredientsText": "Yoğurt, salatalık, nane, ceviz, kuru üzüm, gül yaprağı"
+ },
+ "mastava": {
+  "name": "Mastava",
+  "description": "Ekşi süt ve otlarla sunulan pirinçli, etli, havuçlu ve domatesli koyu çorba.",
+  "history": "Mastava gündelik bir ev çorbasıdır; pirinç onu lapa kadar doyurucu yapar.",
+  "ingredientsText": "Pirinç, kuzu eti, havuç, patates, domates, soğan, ekşi süt"
+ },
+ "matnakash": {
+  "name": "Matnakaş",
+  "description": "Altın kabuklu, boyuna oluklu yumuşak oval ekmek. Mayalanır ve pişmeden önce üzerine çay sürülür.",
+  "history": "Adı \"parmakla çekilmiş\" demektir: ekmekteki oluklar elle yapılır.",
+  "ingredientsText": "Buğday unu, maya, su, şeker, tuz"
+ },
+ "matsoni": {
+  "name": "Matsoni",
+  "description": "Bal ile yenen ya da yemeklerde kullanılan, koyu yoğurda benzer Gürcü fermente süt ürünü.",
+  "history": "Matsoni geleneksel olarak toprak küplerde mayalanır; eskiden satıcılar kapı kapı dolaştırırdı.",
+  "ingredientsText": "İnek sütü, maya"
+ },
+ "matsun": {
+  "name": "Matsun",
+  "description": "Kaşıkla yenen, çorba ve soslara katılan, koyu yoğurda benzer fermente süt ürünü.",
+  "history": "Matsun mayası kuşaktan kuşağa aktarılır. Tan'dan spas'a pek çok Ermeni yemeğinin temelidir.",
+  "ingredientsText": "İnek sütü, maya"
+ },
+ "mchadi": {
+  "name": "Mçadi",
+  "description": "Kuru tavada pişen küçük mayasız mısır ekmekleri. Peynir, lobio ve pkhali ile yenir.",
+  "history": "Mçadi Batı Gürcistan'ın geleneksel ekmeğidir. Buğday unu içermediğinden glütenden kaçınanlara uygundur.",
+  "ingredientsText": "Mısır unu, su, tuz"
+ },
+ "megruli-hachapuri": {
+  "name": "Megrel haçapurisi",
+  "description": "İçinde ve üstünde peynir olan, pişmeden önce sulguni serpilen yuvarlak haçapuri. Zengin, bol peynirli bir pide.",
+  "history": "Acılı yemekleri ve sulguni sevgisiyle bilinen Batı Gürcistan'daki Samegrelo'dan (Megrelya) gelir.",
+  "ingredientsText": "Buğday unu, matsoni yoğurdu, yumurta, sulguni, İmereti peyniri, tereyağı"
+ },
+ "menemen": {
+  "name": "Menemen",
+  "description": "Tavada domates, yeşil biber ve soğanla pişen yumurta: klasik bir Türk kahvaltısı.",
+  "history": "Menemene soğan konup konmayacağı Türkiye'de hâlâ hararetli bir tartışmadır.",
+  "ingredientsText": "Yumurta, domates, yeşil biber, soğan, zeytinyağı"
+ },
+ "mercimek-corbasi": {
+  "name": "Mercimek çorbası",
+  "description": "Havuç ve soğanlı kırmızı mercimek çorbası, limonla sunulur.",
+  "history": "Mercimek çorbası neredeyse her Türk lokantasının menüsündedir ve günün her saatinde içilir.",
+  "ingredientsText": "Kırmızı mercimek, havuç, soğan, tereyağı, limon"
+ },
+ "mezhadzhe": {
+  "name": "Mejadje",
+  "description": "Tavada pişirilip sos ve peynirle sunulan mısır ekmeği.",
+  "history": "Mejadje, mısırla birlikte yayılan geleneksel Adige ekmeğidir.",
+  "ingredientsText": "Mısır unu, su, tuz"
+ },
+ "midye-dolma": {
+  "name": "Midye dolma",
+  "description": "Baharatlı pirinç, çam fıstığı ve kuş üzümüyle doldurulmuş midye, sokak tezgâhlarında limonla yenir.",
+  "history": "Midyeciler İstanbul ve İzmir'in akşam hayatının parçasıdır.",
+  "ingredientsText": "Midye, pirinç, soğan, çam fıstığı, kuş üzümü, baharat, limon"
+ },
+ "mirza-ghasemi": {
+  "name": "Mirza kasemi",
+  "description": "Ateşte közlenip sarımsak, domates ve yumurtayla ezilen patlıcan, ekmekle sunulur.",
+  "history": "Hazar kıyısındaki Gilan eyaletinin yemeği, adını yerel bir validen alır.",
+  "ingredientsText": "Patlıcan, sarımsak, domates, yumurta, zerdeçal"
+ },
+ "morasa-polo": {
+  "name": "Morassa polo",
+  "description": "Şekerlenmiş portakal kabuğu, karamuk, fıstık ve bademli \"mücevherli pilav\".",
+  "history": "Morassa polo düğünlerde sunulur; parlak süslemeleri tatlı ve bereketli bir hayatı simgeler.",
+  "ingredientsText": "Pirinç, portakal kabuğu, havuç, karamuk, Antep fıstığı, badem, safran, şeker"
+ },
+ "motal": {
+  "name": "Motal peyniri",
+  "description": "Koyun derisinde olgunlaştırılan, keskin tadlı ve kendine özgü kokulu tuzlu koyun peyniri.",
+  "history": "Motal dağlarda çobanlar tarafından yapılır; derideki olgunlaşma ona eşsiz tadını verir.",
+  "ingredientsText": "Koyun sütü, peynir mayası, tuz"
+ },
+ "mtsvadi": {
+  "name": "Mtsvadi",
+  "description": "Asma çubuğu közünde pişen domuz ya da dana şiş, ince doğranmış soğan ve tkemali sosuyla sunulur.",
+  "history": "Asma közünde pişirme, başta Kaheti olmak üzere bağ bölgelerinin eski geleneğidir. Asma ete hafif bir is kokusu verir.",
+  "ingredientsText": "Domuz veya dana eti, soğan, tuz, biber, nar suyu"
+ },
+ "muhlama": {
+  "name": "Muhlama",
+  "description": "Mısır unu ve tereyağıyla eritilmiş uzayan peynir, ekmekle sıcak yenir.",
+  "history": "Muhlama Trabzon ve Rize'den gelir; Gürcistan ve Abhazya'da benzer yemekler vardır.",
+  "ingredientsText": "Kaşar peyniri, mısır unu, tereyağı"
+ },
+ "mutaki": {
+  "name": "Mutaki",
+  "description": "Ceviz ve şekerle doldurulmuş, pudra şekeri serpilmiş çıtır ince hamur ruloları.",
+  "history": "Adı \"küçük yastık\" demektir. Mutaki Bakü ve Gence'de bayramlarda yapılır.",
+  "ingredientsText": "Buğday unu, tereyağı, ekşi krema, yumurta, ceviz, şeker"
+ },
+ "nabat": {
+  "name": "Nabat şekeri",
+  "description": "Sıradan şeker yerine çayla sunulan, iplere dizilmiş iri şeker kristalleri.",
+  "history": "Nabat birkaç gün boyunca şuruptan büyütülür ve bazen safranla tatlandırılır.",
+  "ingredientsText": "Şeker, su, safran"
+ },
+ "nadugi": {
+  "name": "Nadugi",
+  "description": "İnce sulguni katmanlarına sarılmış naneli, otlu yumuşak krem lor.",
+  "history": "Nadugi peynir yapımının yan ürünüdür; Samegrelo'da meze olarak sunulur.",
+  "ingredientsText": "Nadugi loru, sulguni, nane, kişniş, tuz"
+ },
+ "narsharab": {
+  "name": "Narşarap",
+  "description": "Kaynatılmış nar suyundan koyu ekşi-tatlı sos; kebap ve balıkla sunulur.",
+  "history": "Narşarap sonbaharda en iyi narların yetiştiği Göyçay ve Şamahı'da yapılır.",
+  "ingredientsText": "Nar suyu, tuz, baharat"
+ },
+ "naryn": {
+  "name": "Narın",
+  "description": "Haşlanmış at ya da kuzu eti ve soğanla ince kıyılmış erişte; yanında et suyu.",
+  "history": "Narın, hamur ve etin elle çok ince doğrandığı Taşkent ve Fergana'nın bayram yemeğidir.",
+  "ingredientsText": "Buğday unu, at veya kuzu eti, kazı sucuğu, soğan, et suyu"
+ },
+ "nasdzhyn": {
+  "name": "Nascın",
+  "description": "Kabaklı Oset böreği. İnce hamur, bol iç ve üzerine eritilmiş tereyağı.",
+  "history": "Bayramlarda Oset börekleri güneş, toprak ve suyu simgeleyerek üçer üçer pişirilir. Kabaklısı hafif tatlıdır ve sonbaharda hasattan sonra yapılır.",
+  "ingredientsText": "Buğday unu, maya, kefir, tereyağı, balkabağı, şeker veya bal"
+ },
+ "nazuk": {
+  "name": "Nazuk",
+  "description": "Un, tereyağı ve şekerden dağılan tatlı içli zengin mayalı hamur rulosu, verev kesilir.",
+  "history": "Nazuk çay ve kahveyle sunulur, sıklıkla Noel ve Paskalya'da yapılır.",
+  "ingredientsText": "Buğday unu, tereyağı, ekşi krema, maya, yumurta, şeker, vanilya"
+ },
+ "nazuki": {
+  "name": "Nazuki",
+  "description": "Tone fırınında pişen, Surami yakınında yol kenarında satılan kuru üzümlü ve tarçınlı tatlı ekmek.",
+  "history": "Nazuki Surami'nin simgesidir: satıcılar sıcak ekmekleri geçen arabalara kadar getirir.",
+  "ingredientsText": "Buğday unu, maya, süt, yumurta, şeker, kuru üzüm, tarçın, tereyağı"
+ },
+ "nishalda": {
+  "name": "Nişalda",
+  "description": "Şeker ve meyan köküyle çırpılmış yumurta akından bembeyaz, hafif tatlı.",
+  "history": "Nişalda Ramazan'da iftardan sonra içine ekmek banılarak yenir.",
+  "ingredientsText": "Yumurta akı, şeker, meyan kökü"
+ },
+ "nushi-muraba": {
+  "name": "Yeşil ceviz reçeli",
+  "description": "Kararana dek şeker şurubunda pişirilen bütün yeşil cevizler, çayla sunulur.",
+  "history": "Cevizler kabukları henüz yumuşakken yaz başında toplanır ve pişirilmeden önce uzun süre suda bekletilir.",
+  "ingredientsText": "Yeşil ceviz, şeker, su, karanfil, tarçın"
+ },
+ "ojakhuri": {
+  "name": "Ocahuri",
+  "description": "Çıtır patates, soğan ve baharatla kızarmış domuz eti, toprak keci tavasında sunulur. Sade ve doyurucu bir \"aile\" yemeği.",
+  "history": "Adı \"aile usulü\" demektir: ocahuri bütün aile için eldeki malzemeyle pişirilirdi.",
+  "ingredientsText": "Domuz eti, patates, soğan, sarımsak, hmeli suneli, kişniş"
+ },
+ "oromo": {
+  "name": "Oromo",
+  "description": "Et ve kabak ya da patatesle doldurulup buharda pişen ince hamur rulosu.",
+  "history": "Oromo mantı tenceresinde pişer ve sos ya da et suyuyla sunulur.",
+  "ingredientsText": "Buğday unu, dana veya kuzu eti, balkabağı, soğan"
+ },
+ "osetr-kebab": {
+  "name": "Mersin balığı kebabı",
+  "description": "Közde pişen, nar sosuyla sunulan şişte mersin balığı parçaları.",
+  "history": "Hazar mersin balığı Bakü mutfağının gururudur; sulu kalsın diye kısa süre pişirilir.",
+  "ingredientsText": "Mersin balığı, tereyağı, limon, nar sosu, tuz"
+ },
+ "oshi-burida": {
+  "name": "Oşi burida",
+  "description": "İnce ev eriştesi, et, baklagil ve otlu çorba.",
+  "history": "Burida \"kesilmiş\" demektir: erişte bıçakla ince şeritler halinde kesilir.",
+  "ingredientsText": "Buğday unu, dana eti, nohut, maş fasulyesi, soğan, domates, otlar"
+ },
+ "ostri": {
+  "name": "Ostri",
+  "description": "Turşu salatalık, sarımsak ve baharatlı koyu domates soslu acı dana yahnisi. Ekmek ya da patatesle sunulur.",
+  "history": "Adı \"acı\" anlamına gelen bir kelimeden gelir. Ostri Tiflis meyhanelerinin sevilen yemeğidir.",
+  "ingredientsText": "Dana eti, domates, domates salçası, turşu salatalık, soğan, sarımsak, acı biber, hmeli suneli"
+ },
+ "pahlava": {
+  "name": "Pahlava",
+  "description": "Pahlava, katmanlı dokusu ve yoğun tadıyla Azerbaycan mutfağının tatlı simgesidir. Bal ya da şerbete batırılmış ince hamur katları, dövülmüş ceviz ya da fındıkla sıralanır. Her dilim çıtır kabuğu ve yumuşak içi birleştirir. Bayram sofrasının, özellikle Nevruz'un vazgeçilmezidir.",
+  "quote": "Pahlava sadece bir tatlı değil, kültürün parçasıdır: sevinci ve şükranı paylaşmak için Nevruz'da, düğünlerde ve bayramlarda yapılır",
+  "history": "Azerbaycan pahlavası, ülkenin kültüründe ve bayramlarında önemli yeri olan cevizli ve şerbetli çok katlı bir tatlıdır.\n\nTarihçiler Osmanlı yemek kitaplarındaki (15. yüzyıl) erken kayıtlara işaret etse de Azerbaycan da bu tatlının tarihinde payını isteyebilir.",
+  "ingredientsText": "Hamur için: un 35 g, süt 12 ml, tereyağı 6 g, 1 yumurta, şeker 4 g, kuru maya 1 g, tuz 1 g\nİç için: ceviz 30 g, tereyağı 8 g, şeker 15 g, patates nişastası 1 yemek kaşığı\nŞerbet için: bal 10 g, şeker 10 g, su 10 ml, limon suyu 1 yemek kaşığı"
+ },
+ "pasta-adyg": {
+  "name": "Pasta (darı lapası)",
+  "description": "Ekmek gibi dilimlenip et ve şçips ile sunulan çok koyu darı lapası.",
+  "history": "Pasta Adigelerde ekmeğin yerini tutardı; ezilmesin diye iple kesilir.",
+  "ingredientsText": "Darı, su, tuz"
+ },
+ "pasuc-tolma": {
+  "name": "Perhiz dolması",
+  "description": "Perhiz dolması: fasulye, mercimek, nohut, bulgur ve pirinçle baharatlı doldurulmuş lahana yaprakları.",
+  "history": "Pasuts tolma Büyük Perhiz'de yapılır. İçindeki çeşitli baklagiller bereketi simgeler.",
+  "ingredientsText": "Lahana, fasulye, mercimek, nohut, bulgur, pirinç, domates salçası, soğan, baharat"
+ },
+ "pelamushi": {
+  "name": "Pelamuşi",
+  "description": "Kalıplarda donan üzüm suyu ve un muhallebisi. Çoğu zaman ceviz serpilir.",
+  "history": "Çurçhela gibi pelamuşi de şarapçılığın yan ürünüdür; ikisi de aynı koyulaştırılmış şıradan yapılır.",
+  "ingredientsText": "Üzüm suyu, buğday veya mısır unu"
+ },
+ "pide": {
+  "name": "Pide",
+  "description": "Kıyma, peynir, yumurta ya da sebzeyle kaplı kayık şeklinde pide.",
+  "history": "Pide bütün Türkiye'de taş fırınlarda pişer; Karadeniz pideleri özellikle ünlüdür.",
+  "ingredientsText": "Buğday unu, maya, kıyma veya peynir, yumurta, tereyağı"
+ },
+ "piti": {
+  "name": "Piti",
+  "description": "Tek kişilik toprak güveçte ağır ağır pişen nohut, kestane, ayva ve safranlı kuzu çorbası. Önce suyu ekmekle içilir, sonra eti yenir.",
+  "history": "Piti Şeki'nin simge yemeğidir. Güveçler fırında saatlerce kalır, kuyruk yağı suyu zenginleştirir.",
+  "ingredientsText": "Kuzu eti, kuyruk yağı, nohut, kestane, ayva, soğan, safran"
+ },
+ "pkhali": {
+  "name": "Pkhali",
+  "description": "Ispanak, pancar ya da lahana gibi doğranmış sebze veya yeşilliğin ceviz ezmesi, sarımsak ve baharatla karıştırılmasıyla yapılan meze. Top şekli verilip nar taneleriyle süslenir.",
+  "history": "Pkhali Gürcü sofrasının başlıca oruç yemeklerindendir. Bahçede ne kadar yenebilir yeşillik varsa o kadar çeşidi vardır.",
+  "ingredientsText": "Ispanak veya pancar, ceviz, sarımsak, kişniş, hmeli suneli, şarap sirkesi, nar"
+ },
+ "pkhlovani": {
+  "name": "Pkhlovani",
+  "description": "Ispanak, pancar yaprağı ya da ısırgan ve peynirle doldurulmuş börek, Raça ve Osetya'da sevilir.",
+  "history": "Pkhlovani taze yeşilliklerin çıktığı ilkbaharda yapılır.",
+  "ingredientsText": "Buğday unu, matsoni, ıspanak veya pancar yaprağı, sulguni, otlar"
+ },
+ "plov": {
+  "name": "Pilav",
+  "description": "Pilav, tat ve gelenek zenginliğiyle Azerbaycan mutfağının kralıdır. Buharda pişen pirinç kokulu et (çoğunlukla kuzu), kuru meyve, kestane ve baharatla sunulur. Her bileşen ayrı pişirilip sonra bir araya getirilir. Pilav büyük kutlamalarda ve aile yemeklerinde misafirperverliğin simgesidir.",
+  "quote": "Safran, Azerbaycan pilavının altın rengi ve kokusunun sırrıdır: her tane bir mücevher gibi parlar",
+  "history": "Pilav, pek çok Doğu yemeği gibi, pirincin et ve baharatla pişirildiği eski İran ve Orta Asya'ya dayanır.\n\nTicaret yolları ve seferlerle bütün Doğu'ya, Azerbaycan'a kadar yayıldı; Azerbaycan mutfağında birçok pilav türü vardır.",
+  "ingredientsText": "Soğan 4 büyük\nKuru üzüm ½ su bardağı\nKuru kayısı 1 su bardağı\nKuru erik ½ su bardağı\nKestane 500 g\nBir tutam tarçın\nTereyağı 400–600 g\nKazmak kabuğu için: un ½ su bardağı, yumurta, kefir"
+ },
+ "pokhindz": {
+  "name": "Pohindz",
+  "description": "Bal ya da şeker ve tereyağıyla karıştırılmış kavrulmuş buğday unu, kaşıkla ya da top yapılarak yenir.",
+  "history": "Pohindz her ailede yapılıp çocuklara verilen geleneksel bir Yılbaşı tatlısıdır.",
+  "ingredientsText": "Buğday unu, bal veya şeker, tereyağı"
+ },
+ "putuk": {
+  "name": "Putuk",
+  "description": "Tek kişilik toprak güveçte pişen nohut ve kuru ekşi erikli kuzu çorbası.",
+  "history": "Putuk, Azerbaycan pitisiyle akraba olan güveç çorbasının Ermeni versiyonudur.",
+  "ingredientsText": "Kuzu eti, nohut, patates, kuru ekşi erik, soğan"
+ },
+ "qurutob": {
+  "name": "Kurutob",
+  "description": "Kurut sosuna batırılıp soğan, domates ve otlarla kaplanan katmerli fatir ekmeği parçaları.",
+  "history": "Kurutob Tacikistan'ın ulusal yemeği sayılır ve ortak bir tahta tabaktan elle yenir.",
+  "ingredientsText": "Fatir ekmeği, kurut, soğan, domates, salatalık, otlar, bitkisel yağ"
+ },
+ "sabzi-govurma": {
+  "name": "Sebzi kavurma",
+  "description": "Bol yeşillik — ıspanak, kişniş, dereotu, taze soğan — ve kuru ekşi erikle pişen kuzu.",
+  "history": "Sebzi \"yeşillik\" demektir. Yemek özellikle taze otların çıktığı ilkbaharda sevilir.",
+  "ingredientsText": "Kuzu eti, ıspanak, kişniş, dereotu, taze soğan, kuru ekşi erik, soğan"
+ },
+ "sabzi-polo-mahi": {
+  "name": "Sebzi polo ba mahi",
+  "description": "Otlu pilav ve kızarmış balık: Nevruz'un geleneksel yemeği.",
+  "history": "Otlar yenilenmeyi, balık hayatı simgeler; bu yüzden baharın ilk günü yenir.",
+  "ingredientsText": "Pirinç, maydanoz, kişniş, dereotu, taze soğan, balık, tereyağı"
+ },
+ "saczivi": {
+  "name": "Satsivi",
+  "description": "Satsivi, karmaşık dokusu ve tadıyla soğuk servis edilen incelikli bir yemektir. Sarımsak, baharat ve sirkeyle dövülen cevizden sos koyu ve kadifemsi olur. İçine haşlanmış tavuk ya da hindi konup demlenmeye bırakılır. Satsivi Gürcü bayram sofrasının vazgeçilmezidir.",
+  "quote": "Satsivi ceviz, kişniş ve baharatla yapılan, bolluk ve sevinci simgeleyen bir Noel yemeğidir",
+  "history": "Adı \"soğuk\" anlamındaki tsiva ile ilgilidir: satsivi soğuk sunulur. Gürcü Yılbaşı sofrasının ana yemeklerindendir; tavuk, hindi ya da kızarmış sebzeyle yapılır.",
+  "ingredientsText": "2 kg'a kadar tavuk veya hindi\nTereyağı 20 g\nSoğan 1 kg\nKişniş 4 dal\nCeviz 600 g\nKarabiber 1 yemek kaşığı\nToz kişniş 1 yemek kaşığı\nİmereti safranı 1 yemek kaşığı\nKaranfil 3–6\nBir tutam tarçın\nSarımsak 4–8 diş\nBeyaz şarap sirkesi 1 yemek kaşığı\nTuz"
+ },
+ "sadzh": {
+  "name": "Saç kavurma",
+  "description": "Saç denen kubbeli demir tavada kızartılıp üzerinde sunulan et, patates, patlıcan ve biber.",
+  "history": "Saç hem tavanın hem yemeğin adıdır. Yemek sofrada sıcak kalsın diye altında çoğu zaman köz bırakılır.",
+  "ingredientsText": "Kuzu eti veya tavuk, patates, patlıcan, domates, dolmalık biber, soğan"
+ },
+ "samsa": {
+  "name": "Somsa",
+  "description": "Tandır duvarlarında pişen kuzu etli ve soğanlı üçgen milföy börekler.",
+  "history": "Tandır somsası üstüne susam ya da çörek otu serpilen popüler bir Özbek sokak yemeğidir.",
+  "ingredientsText": "Buğday unu, kuzu eti, kuyruk yağı, soğan, kimyon, susam"
+ },
+ "sangak": {
+  "name": "Sengek",
+  "description": "Kızgın çakıl taşları üzerinde pişen uzun tam buğday ekmeği.",
+  "history": "Çakıllar ekmekte çukurlar bırakır; sengek bir zamanlar İran ordusunun ekmeğiydi.",
+  "ingredientsText": "Tam buğday unu, ekşi maya, su, tuz, susam"
+ },
+ "sarburma": {
+  "name": "Sarburma",
+  "description": "Uzun bir hamur şeridinden sarılan, etli içli salyangoz şeklinde katmerli börek.",
+  "history": "Sarburma \"sarılmış\" demektir; bayramlarda büyük tepsilerde yapılır.",
+  "ingredientsText": "Buğday unu, tereyağı, yumurta, kuzu eti, soğan"
+ },
+ "satsebeli": {
+  "name": "Satsebeli",
+  "description": "Sarımsak, acı biber ve otlu domates sosu. Et, tavuk ve haçapuriyle sunulur.",
+  "history": "Satsebeli kelimesi basitçe \"sos\" demektir. Eskiden meyve ve yemişten yapılırdı; domateslisi sonradan geldi.",
+  "ingredientsText": "Domates, sarımsak, acı biber, kişniş, fesleğen, tuz"
+ },
+ "shah-plov": {
+  "name": "Şah pilavı",
+  "description": "Şah pilavı, güzelliği ve lezzetiyle Azerbaycan mutfağının mücevheridir. Pirinç, çıtır lavaş kabuğa sarılı bir \"taç\" şeklinde dizilir; içinde yumuşak et, kuru meyve ve kuruyemiş vardır. Özel günlerin yemeği ve Azerbaycan sofrasının cömertliğinin simgesidir.",
+  "quote": "Şah pilavı bir gösteridir: sofraya bütün halde getirilir ve misafirlerin önünde kesilir",
+  "history": "Şah pilavı (han pilavı ya da \"kraliyet pilavı\" da denir), alışılmadık pişirilişi ve sunumuyla bilinen bir Azerbaycan bayram yemeğidir.\n\nTarihi, pilavın özel bir yeri olduğu Azerbaycan mutfak geleneğine bağlıdır.",
+  "ingredientsText": "Dana eti 600 g\nPirinç 600 g\nSade yağ 350 g\nSoğan 250 g\nKuru kayısı 150 g\nSarı kuru üzüm 150 g\nKuru can eriği 100 g\nHaşlanmış kestane 150 g\nZerdeçal\nSafran 3–5 tel\nTuz\nKaramuk 50 g (isteğe bağlı)\nİnce lavaş 400 g"
+ },
+ "shakarob": {
+  "name": "Şakarob",
+  "description": "Acı biber ve otlu domates, salatalık ve soğan salatası, pilav ve kebapla sunulur.",
+  "history": "Şakarob, Özbek açiçuğunun Tacik kuzenidir ve servisten hemen önce yapılır.",
+  "ingredientsText": "Domates, salatalık, soğan, acı biber, kişniş, fesleğen"
+ },
+ "sharots": {
+  "name": "Şarots",
+  "description": "Koyulaştırılmış üzüm suyuna batırılmış ipe dizili cevizler: çurçhelanın Ermeni kuzeni.",
+  "history": "Şarots bağ bozumundan sonra sonbaharda yapılır ve kurusun diye asılır.",
+  "ingredientsText": "Ceviz, üzüm suyu, un"
+ },
+ "shchips": {
+  "name": "Şçips",
+  "description": "Kavrulmuş unla koyulaştırılmış et suyu ya da kremadan sarımsaklı ve kırmızı biberli koyu sos.",
+  "history": "Şçips et, tavuk ve pasta ile sunulur; onsuz bir Adige sofrası düşünmek zordur.",
+  "ingredientsText": "Et suyu veya krema, buğday unu, tereyağı, sarımsak, kırmızı biber"
+ },
+ "shekerbura": {
+  "name": "Şekerbura",
+  "description": "Dövülmüş badem ya da ceviz ve şekerle doldurulan, üstü maşayla desenlenen hilal şeklinde tatlı.",
+  "history": "Şekerbura Nevruz için yapılır. Üstündeki desene nakış denir ve her aşçının kendi nakışı vardır.",
+  "ingredientsText": "Buğday unu, tereyağı, yumurta, süt, maya, badem veya fındık, şeker, kakule"
+ },
+ "shekerchorek": {
+  "name": "Şekerçörek",
+  "description": "Ağızda dağılan un, tereyağı ve şekerden kurabiye.",
+  "history": "Şekerçörek Nevruz sofrasının diğer tatlılarıyla birlikte yapılır.",
+  "ingredientsText": "Buğday unu, tereyağı, pudra şekeri, yumurta sarısı, kakule"
+ },
+ "sheki-halva": {
+  "name": "Şeki helvası",
+  "description": "Fındıklı, koyu şerbete batırılmış pirinç unu dantelinden tatlı.",
+  "history": "Reşte denen ince pirinç danteli bir hunidan dökülür — Şeki ailelerinde kuşaktan kuşağa geçen bir sır.",
+  "ingredientsText": "Pirinç unu, fındık, şeker, kakule, kişniş, safran"
+ },
+ "sherbet": {
+  "name": "Şerbet",
+  "description": "Meyve suyu, gül yaprağı, fesleğen ya da safranla yapılan soğuk tatlı içecek, pilavla sunulur.",
+  "history": "Şerbet düğün ve bayramlarda içilir; rengi ve kokusu mevsime göre değişir.",
+  "ingredientsText": "Su, şeker, limon suyu, gül yaprağı veya fesleğen tohumu, safran"
+ },
+ "shilaplavi": {
+  "name": "Şilaplavi",
+  "description": "Kuzu ve soğanla kremamsı, hafif yapışkan kıvama gelene dek pişen pirinç — tane tane pilavdan çok risottoya yakın.",
+  "history": "Şilaplavi Svaneti ve Raça'da bayramlarda, her misafire yetsin diye büyük kazanlarda yapılır.",
+  "ingredientsText": "Pirinç, kuzu eti, soğan, Svan tuzu, bitkisel yağ"
+ },
+ "shirazi-salad": {
+  "name": "Şirazi salatası",
+  "description": "Nane ve koruk suyu ya da limonla küp küp doğranmış salatalık, domates ve mor soğan.",
+  "history": "Adını güney İran'daki şairler ve bahçeler şehri Şiraz'dan alır.",
+  "ingredientsText": "Salatalık, domates, mor soğan, kuru nane, limon suyu, zeytinyağı"
+ },
+ "shirchoy": {
+  "name": "Şirçay",
+  "description": "Sütlü, tereyağlı ve tuzlu çay, bazen ekmek parçalarıyla: doyurucu bir kahvaltı.",
+  "history": "Şirçay dağlık bölgelerde sabah erkenden içilir; ısıtır ve güç verir.",
+  "ingredientsText": "Çay, süt, tereyağı, tuz"
+ },
+ "shirin-plov": {
+  "name": "Şirin pilav",
+  "description": "Bayram sofralarında sunulan kuru meyveli, kestaneli ve safranlı tatlı pilav.",
+  "history": "Şirin \"tatlı\" demektir; Azerbaycan pilavının pek çok türünden biridir.",
+  "ingredientsText": "Pirinç, kuru üzüm, kuru kayısı, kestane, tereyağı, safran, şeker"
+ },
+ "shivit-oshi": {
+  "name": "Şivit aşı",
+  "description": "Et yahnisi ve ekşi sütle sunulan parlak yeşil dereotlu erişte — Harezm yemeği.",
+  "history": "Dereotu doğrudan hamura katıldığı için erişte yeşil ve kokulu olur.",
+  "ingredientsText": "Buğday unu, dereotu, dana eti, patates, havuç, ekşi süt"
+ },
+ "shkmeruli": {
+  "name": "Şkmeruli",
+  "description": "Keci denen toprak tavada kremalı sarımsak sosunda fırınlanan kızarmış tavuk. Sarımsak cömertçe kullanılır.",
+  "history": "Yemek Raça'daki Şkmeri köyünden gelir. Toprak tavalar ısıyı uzun süre tuttuğu için şkmeruli içinde sunulur.",
+  "ingredientsText": "Tavuk, krema veya süt, sarımsak, tereyağı, tuz"
+ },
+ "sholeh-zard": {
+  "name": "Şöle zerde",
+  "description": "Safranlı ve gül sulu, tarçın ve bademle süslenmiş tatlı pirinç muhallebisi.",
+  "history": "Şöle zerde adak olarak pişirilir ve tarçınla yapılan desen ve yazılarla süslenip komşulara dağıtılır.",
+  "ingredientsText": "Pirinç, şeker, safran, gül suyu, tereyağı, badem, tarçın"
+ },
+ "shor-gogal": {
+  "name": "Şor gogal",
+  "description": "Un, tereyağı, rezene ve zerdeçalla doldurulmuş tuzlu katmerli çörekler.",
+  "history": "Şor \"tuzlu\" demektir. Şor gogal Nevruz gogalının Bakü versiyonudur.",
+  "ingredientsText": "Buğday unu, tereyağı, yumurta, maya, rezene, zerdeçal, tuz"
+ },
+ "shoti": {
+  "name": "Şoti",
+  "description": "Tone denen yuvarlak toprak fırının duvarlarında pişen kano şeklinde ekmek. Dışı çıtır, içi yumuşak.",
+  "history": "Tiflis'in her semtinde tone fırınları vardır. Sabahları sıcak şoti alınıp yolda yenir.",
+  "ingredientsText": "Buğday unu, maya, su, tuz"
+ },
+ "shubat": {
+  "name": "Şubat",
+  "description": "Deve sütünden koyu, hafif tatlı fermente içecek.",
+  "history": "Şubat, develerin yetiştirildiği güney Kazakistan'da içilir.",
+  "ingredientsText": "Deve sütü, maya"
+ },
+ "shurpa": {
+  "name": "Şorpa",
+  "description": "İri patates, havuç, domates ve otlu zengin kuzu çorbası.",
+  "history": "Şorpa ateş üstünde kazanda pişer; et çoğu zaman kaynatılmadan önce kavrulur.",
+  "ingredientsText": "Kuzu eti, patates, havuç, domates, soğan, nohut, otlar"
+ },
+ "simit": {
+  "name": "Simit",
+  "description": "Seyyar arabalarda satılan, peynir ve çayla yenen susamlı çıtır halka ekmek.",
+  "history": "Simit pişmeden önce üzüm pekmezine batırılır; kabuğuna altın rengini bu verir.",
+  "ingredientsText": "Buğday unu, maya, üzüm pekmezi, susam"
+ },
+ "siskal": {
+  "name": "Siskal",
+  "description": "Tavada ya da korda pişen, et ve et suyuyla sunulan sade mısır ekmeği.",
+  "history": "Siskal Çeçenlerin gündelik ekmeğidir; dağlarda doğrudan ocağın külünde pişirilirdi.",
+  "ingredientsText": "Mısır unu, su, tuz"
+ },
+ "sohan": {
+  "name": "Sohan",
+  "description": "Şeker, tereyağı ve çimlenmiş buğdaydan safranlı, fıstıklı çıtır diskler.",
+  "history": "Sohan Kum şehrinin simge tatlısıdır ve teneke kutularda hediye olarak alınır.",
+  "ingredientsText": "Şeker, tereyağı, buğday unu, çimlenmiş buğday, safran, Antep fıstığı, badem"
+ },
+ "sokhta": {
+  "name": "Sohta",
+  "description": "Ciğer, pirinç ve soğanla doldurulmuş haşlanmış kuzu işkembesi sucuğu.",
+  "history": "Sohta bir koyun kesildikten hemen sonra yapılan bayram yemeğidir.",
+  "ingredientsText": "Kuzu işkembesi, ciğer, pirinç, kuyruk yağı, soğan, biber"
+ },
+ "soko-ketsze": {
+  "name": "Kecide mantar",
+  "description": "Toprak keci tavasında sulguniyle fırınlanıp içinde sunulan mantar.",
+  "history": "Toprak keci ısıyı tutar, bu yüzden peynir son mantara kadar uzar.",
+  "ingredientsText": "Mantar, sulguni, tereyağı, tuz"
+ },
+ "sokos-khinkali": {
+  "name": "Mantarlı hinkali",
+  "description": "Mantar, soğan ve otlu hinkali — ünlü mantıların etsiz versiyonu.",
+  "history": "Mantarlı hinkali oruç günlerinde yenir; bunlar da tepesinden tutulur ama daha az su tutar.",
+  "ingredientsText": "Buğday unu, mantar, soğan, kişniş, tuz"
+ },
+ "spas": {
+  "name": "Spas",
+  "description": "Matsun, buğday, yumurta ve otlarla sıcak yoğurt çorbası. Hafif, ekşimsi ve ısıtıcı.",
+  "history": "Spas bir ev kış çorbasıdır. Yoğurt kesilmesin diye durmadan tek yöne karıştırılır.",
+  "ingredientsText": "Matsun yoğurdu, buğday tanesi, yumurta, tereyağı, soğan, nane, kişniş"
+ },
+ "su-boregi": {
+  "name": "Su böreği",
+  "description": "Beyaz peynir ve maydanozla haşlanmış yufkalardan katmanlı, tereyağında pişen börek.",
+  "history": "\"Su böreği\" adını yufkaların dizilmeden önce kaynar suya batırılmasından alır.",
+  "ingredientsText": "Buğday unu, yumurta, beyaz peynir, maydanoz, tereyağı"
+ },
+ "sudzhuk": {
+  "name": "Sucuk",
+  "description": "Sarımsaklı ve baharatlı yassı, hava kurusu dana sucuğu, ince dilimlenir.",
+  "history": "Sucuk Ermenistan'dan Türkiye'ye bütün bölgede bilinir. Ermeni aileleri havalar serinleyince sonbaharda yapardı.",
+  "ingredientsText": "Dana eti, dana yağı, sarımsak, kimyon, kırmızı toz biber, karabiber, tuz"
+ },
+ "suluguni": {
+  "name": "Sulguni",
+  "description": "Elastik, katmanlı dokulu ve tuzlu salamura peynir. Taze, kızartılmış ve tütsülenmiş yenir.",
+  "history": "Sulguni Samegrelo'dan gelir. Peynir sıcak suda yoğrulur, bu da onu uzayan ve katmanlı yapar.",
+  "ingredientsText": "İnek sütü, peynir mayası, tuz"
+ },
+ "sumalak": {
+  "name": "Sümelek",
+  "description": "Nevruz için bütün gün pişirilen çimlenmiş buğday tanelerinden tatlı ezme.",
+  "history": "Sümeleği bütün mahalle gece boyunca şarkılarla ve sırayla karıştırarak pişirir; şeker eklenmez.",
+  "ingredientsText": "Çimlenmiş buğday, buğday unu, pamuk yağı, su"
+ },
+ "surj": {
+  "name": "Ermeni kahvesi",
+  "description": "Cezvede pişirilip küçük fincanlarda telvesiyle sunulan sert, ince çekilmiş kahve.",
+  "history": "Kahve Ermeni misafirperverliğinin parçasıdır; fincan bitince çoğu zaman fal bakılır.",
+  "ingredientsText": "İnce çekilmiş kahve, su, isteğe göre şeker"
+ },
+ "sutlac": {
+  "name": "Sütlaç",
+  "description": "Fırında üstü kızarana dek pişirilip tarçın serpilen sütlü pirinç tatlısı.",
+  "history": "Sütlaç yalnızca sütlü tatlı yapan muhallebicilerde satılır.",
+  "ingredientsText": "Süt, pirinç, şeker, pirinç unu, vanilya, tarçın"
+ },
+ "tahchin": {
+  "name": "Tahçin",
+  "description": "İçinde tavuk olan, yoğurtlu, yumurtalı ve safranlı, çıtır kabuklu fırın pilav \"keki\".",
+  "history": "Tahçin altın kabuğunu göstermek için servisten önce tabağa ters çevrilir.",
+  "ingredientsText": "Pirinç, yoğurt, yumurta sarısı, safran, tavuk, tereyağı, karamuk"
+ },
+ "tahdig": {
+  "name": "Tahdig",
+  "description": "Tencerenin dibindeki çıtır, altın rengi pirinç kabuğu, ayrı bir yemek olarak sunulur.",
+  "history": "Sofrada tahdig için yarışılır: İran pilavının en değerli kısmıdır.",
+  "ingredientsText": "Pirinç, tereyağı, yoğurt, safran"
+ },
+ "tan": {
+  "name": "Tan",
+  "description": "Soğuk suyla açılmış bir tutam tuzlu matsundan ferahlatıcı içecek. Sıcakta ve etle içilir.",
+  "history": "Tan, matsunu tüketmenin en kolay yoludur ve neredeyse her Ermeni lokantasında sunulur.",
+  "ingredientsText": "Matsun yoğurdu, soğuk su, tuz"
+ },
+ "tantuni": {
+  "name": "Tantuni",
+  "description": "Pamuk yağında kavrulup otlarla ince lavaşa sarılan zırhla doğranmış dana eti.",
+  "history": "Tantuni geniş kubbeli bir sacda pişirilen Mersin sokak lezzetidir.",
+  "ingredientsText": "Dana eti, lavaş, domates, soğan, maydanoz, sumak, pamuk yağı"
+ },
+ "tarkhuna": {
+  "name": "Tarhuna",
+  "description": "Soğuk servis edilen parlak yeşil, gazlı tarhunlu limonata.",
+  "history": "Doğal şuruplu limonataları 20. yüzyıl başında Tiflis'te Mitrofan Lagidze ünlü yaptı.",
+  "ingredientsText": "Tarhun, şeker, maden suyu, limon tuzu"
+ },
+ "tava-kebab": {
+  "name": "Tava kebabı",
+  "description": "Tava denen tencerede yumurta ve domatesle pişirilen kuzu kıyma köfteleri.",
+  "history": "Tava, yemeğin sunulduğu kaptır; yumurta kebabın sulu kalmasını sağlar.",
+  "ingredientsText": "Kuzu eti, soğan, yumurta, domates, tuz, biber"
+ },
+ "tavuk-gogsu": {
+  "name": "Tavuk göğsü",
+  "description": "İncecik didiklenmiş tavuk göğüslü süt tatlısı — tavuk neredeyse hissedilmez.",
+  "history": "Bu sıra dışı tatlı Osmanlı saray mutfağından günümüze kalmıştır.",
+  "ingredientsText": "Tavuk göğsü, süt, şeker, pirinç unu, tarçın"
+ },
+ "tendir-chorek": {
+  "name": "Tandır ekmeği",
+  "description": "Toprak tandırın duvarlarında pişen, kabuğu çıtır ve içi yumuşak yuvarlak ekmek.",
+  "history": "Hemen her köy avlusunda bir tandır vardır; ekmeğinin piştikten sonraki ilk saatlerde en lezzetli olduğuna inanılır.",
+  "ingredientsText": "Buğday unu, maya, su, tuz"
+ },
+ "testi-kebab": {
+  "name": "Testi kebabı",
+  "description": "Masada kırılan, ağzı kapatılmış toprak testide pişen et ve sebze.",
+  "history": "Kapadokya yemeği: testiyi kırmak misafirler için bir gösteriye dönüştü.",
+  "ingredientsText": "Dana veya kuzu eti, domates, biber, soğan, sarımsak"
+ },
+ "tika-kebab": {
+  "name": "Tikka kebap",
+  "description": "Kuyruk yağı parçalarıyla şişe dizilip közde pişen marine kuzu parçaları.",
+  "history": "Tikka \"parça\" demektir. En yaygın kebap türüdür ve her ziyafette bulunur.",
+  "ingredientsText": "Kuzu eti, kuyruk yağı, soğan, tuz, biber, sumak"
+ },
+ "tkemali": {
+  "name": "Tkemali",
+  "description": "Sarımsak, dereotu, kişniş ve yarpuzlu ekşi ve acı can eriği sosu. Şiş ve kızarmış patatesin vazgeçilmez eşlikçisi.",
+  "history": "Tkemali hem sosun hem de yapıldığı can eriğinin adıdır. Ham meyveden yeşil, olgun meyveden kırmızı tkemali yapılır.",
+  "ingredientsText": "Can eriği, sarımsak, dereotu, kişniş, yarpuz, acı biber, tuz"
+ },
+ "tklapi": {
+  "name": "Tklapi",
+  "description": "Harçoya eklenen ya da atıştırılan, can eriği ya da erikten ince ekşi meyve pestili.",
+  "history": "Tklapi, meyveyi kış için tahta tahtalar üzerinde güneşte kurutarak saklamanın Gürcü yoludur.",
+  "ingredientsText": "Can eriği veya erik"
+ },
+ "tolma-gruzinskaya": {
+  "name": "Gürcü dolması",
+  "description": "Et, pirinç ve otla doldurulup et suyunda pişen, sarımsaklı matsoniyle sunulan asma yaprağı sarması.",
+  "history": "Gürcistan'da dolma ilkbaharda taze yapraklarla yapılır; kış için yapraklar salamuraya yatırılır.",
+  "ingredientsText": "Asma yaprağı, dana ve domuz kıyması, pirinç, soğan, kişniş, nane, matsoni, sarımsak"
+ },
+ "tsakharadzhyn": {
+  "name": "Tsaharacın",
+  "description": "Pancar yapraklı ve peynirli Oset böreği. İnce hamur, bol iç ve üzerine eritilmiş tereyağı.",
+  "history": "Bayramlarda Oset börekleri güneş, toprak ve suyu simgeleyerek üçer üçer pişirilir. Tsaharacın pancar yaprakları taze ve körpeyken ilkbahar ve yazın yapılır.",
+  "ingredientsText": "Buğday unu, maya, kefir, tereyağı, pancar yaprağı, Oset peyniri, taze soğan"
+ },
+ "tsitsila-tabaka": {
+  "name": "Tabaka tavuk",
+  "description": "Ağırlık altında çıtır olana dek kızartılan yassılaştırılmış tavuk, sarımsaklı sosla sunulur.",
+  "history": "Adı, tavuğun ağır bir kapak altında kızartıldığı tapa tavasından gelir.",
+  "ingredientsText": "Piliç, tereyağı, sarımsak, tuz, biber"
+ },
+ "ttu-lavash": {
+  "name": "Ttu lavaş",
+  "description": "Erik, kayısı ya da kızılcık püresinden güneşte kurutulan ince ekşi-tatlı pestil.",
+  "history": "Adı \"ekşi lavaş\" demektir. Kışın vitamin olsun diye yazın yapılırdı.",
+  "ingredientsText": "Erik, kayısı veya kızılcık"
+ },
+ "ttu-solenya": {
+  "name": "Ermeni turşusu",
+  "description": "Karışık turşu: lahana, biber, havuç, sarımsak, yeşil domates.",
+  "history": "Turşu haş ve horovatsla sunulur, sonbaharda büyük kavanozlarda kurulur.",
+  "ingredientsText": "Lahana, biber, havuç, sarımsak, yeşil domates, tuz"
+ },
+ "tukhum-barak": {
+  "name": "Tuhum barak",
+  "description": "Süt ve tereyağıyla çırpılmış yumurta dolgulu Harezm mantısı.",
+  "history": "Sıvı iç hamura dökülüp hızla kapatılır, bu da gerçek ustalık ister.",
+  "ingredientsText": "Buğday unu, yumurta, süt, tereyağı, tuz"
+ },
+ "tuppa": {
+  "name": "Tuppa",
+  "description": "Kısa ev eriştesi, et ve sebzeli, domatesle tamamlanan çorba.",
+  "history": "Tuppa Tacik dağ köylerinde soğuk mevsimde pişirilir.",
+  "ingredientsText": "Buğday unu, kuzu eti, patates, havuç, domates, soğan"
+ },
+ "turshu-govurma": {
+  "name": "Turşu kavurma",
+  "description": "Soğan, kuru ekşi erik ve kestaneyle ekşi-tatlı sosta kavrulmuş kuzu.",
+  "history": "Turşu \"ekşi\" demektir; yemek pilavla sunulur.",
+  "ingredientsText": "Kuzu eti, soğan, kuru ekşi erik, kestane, safran"
+ },
+ "tzhvzhik": {
+  "name": "Tjvjik",
+  "description": "Soğan, domates ve baharatla kızartılmış ciğer ve diğer sakatat. Hızlı ve doyurucu bir yemek.",
+  "history": "Tjvjik kesimden hemen sonra en taze sakatattan pişirilirdi. Aynı adlı bir Ermeni filmiyle tanınır.",
+  "ingredientsText": "Dana veya kuzu ciğeri, böbrek, yürek, soğan, domates, biber, kişniş"
+ },
+ "ualibakh": {
+  "name": "Ualibah",
+  "description": "Peynirli Oset böreği. İnce hamur, bol iç ve üzerine eritilmiş tereyağı.",
+  "history": "Bayramlarda Oset börekleri güneş, toprak ve suyu simgeleyerek üçer üçer pişirilir. Ualibah en yaygın Oset böreğidir ve neredeyse her gün yapılır.",
+  "ingredientsText": "Buğday unu, maya, kefir, tereyağı, Oset peyniri"
+ },
+ "uch-badzhi": {
+  "name": "Üç bacı dolması",
+  "description": "\"Üç bacı\": et ve pirinçle doldurulup birlikte pişen patlıcan, domates ve biber.",
+  "history": "Adı üç sebzenin aynı tencerede pişmesinden gelir. Dolmanın yaz versiyonudur.",
+  "ingredientsText": "Patlıcan, domates, dolmalık biber, kuzu eti, pirinç, soğan, otlar"
+ },
+ "urbech": {
+  "name": "Urbeç",
+  "description": "Değirmen taşında öğütülmüş keten tohumu, kayısı çekirdeği ya da cevizden koyu ezme; bal ve tereyağıyla yenir.",
+  "history": "Dağlarda urbeç hızlı enerji kaynağı olarak yola götürülürdü.",
+  "ingredientsText": "Keten tohumu, kayısı çekirdeği veya ceviz"
+ },
+ "uzbekskiy-plov": {
+  "name": "Özbek pilavı",
+  "description": "Kazanda kuzu, sarı havuç, nohut, kimyon ve bütün sarımsak başlarıyla pişen pilav.",
+  "history": "Pilav kültürü ve geleneği Özbekistan adına UNESCO somut olmayan miras listesindedir.",
+  "ingredientsText": "Devzira pirinci, kuzu eti, sarı havuç, soğan, nohut, kimyon, sarımsak, pamuk yağı"
+ },
+ "white-cherry-jam": {
+  "name": "Beyaz kiraz reçeli",
+  "description": "Limonlu berrak beyaz kiraz reçeli — Azerbaycan çay sofrasının klasiği.",
+  "history": "Reçel armut biçimli armudu bardaklarda çayla birlikte küçük tabaklarda sunulur.",
+  "ingredientsText": "Beyaz kiraz, şeker, limon"
+ },
+ "yantyk": {
+  "name": "Yantık",
+  "description": "Et ya da peynirle doldurulup kuru tavada pişen, tereyağı sürülen ince börekler.",
+  "history": "Yantık çiğböreğin akrabasıdır ama kızartılmak yerine kuru tavada pişer.",
+  "ingredientsText": "Buğday unu, kuzu eti veya beyaz peynir, soğan, tereyağı"
+ },
+ "yukha": {
+  "name": "Yufka",
+  "description": "Sacda pişirilip kuru saklanan çok ince mayasız ekmek.",
+  "history": "Yemeden önce yufkaya su serpilir ve yeniden yumuşar.",
+  "ingredientsText": "Buğday unu, su, tuz"
+ },
+ "zereshk-polo": {
+  "name": "Zereşk polo",
+  "description": "Ekşi karamuklu safranlı pilav, tavukla sunulur, üzerine fıstık ve badem serpilir.",
+  "history": "Ekşi karamuk ve tatlı safran onu parlak bir bayram yemeği yapar.",
+  "ingredientsText": "Pirinç, karamuk, tavuk, safran, tereyağı, şeker, Antep fıstığı, badem"
+ },
+ "zhent": {
+  "name": "Cent",
+  "description": "Tereyağı, şeker, kuru üzüm ve cevizle ezilmiş kavrulmuş darıdan tatlı.",
+  "history": "Cent bayramlarda çayla, preslenip parçalar halinde kesilerek sunulur.",
+  "ingredientsText": "Darı, tereyağı, şeker, kuru üzüm, ceviz, lor"
+ },
+ "zhingyalov-hats": {
+  "name": "Jingalov hats",
+  "description": "İnce kıyılmış onlarca çeşit otla doldurulan, kuru tavada pişip sıcak yenen ince ekmek.",
+  "history": "Artsakh'ın simge yemeği. Tek bir ekmeğe 20'ye kadar yabani ve bahçe otu girer.",
+  "ingredientsText": "Buğday unu, su, ıspanak, kuzukulağı, ısırgan, kişniş, dereotu, taze soğan, bitkisel yağ"
+ },
+ "zhizhig-chorpa": {
+  "name": "Jijig çorpa",
+  "description": "Patates ve otlu zengin et suyu, jijig galnaşın yanında ayrı sunulur.",
+  "history": "Çorpa \"et suyu\" demektir; et ve hamur toplarıyla birlikte kâseden içilir.",
+  "ingredientsText": "Dana veya kuzu eti, patates, soğan, otlar, tuz"
+ },
+ "zhizhig-galnash": {
+  "name": "Jijig galnaş",
+  "description": "Buğday ya da mısır unundan hamur topları, et suyu ve sarımsaklı sosla haşlanmış et. Çeçen sofrasının ana yemeği.",
+  "history": "Adı \"hamurlu et\" demektir. Misafir geldiğinde ve bayramlarda pişirilir.",
+  "ingredientsText": "Dana veya kuzu eti, buğday veya mısır unu, sarımsak, et suyu, tuz"
+ }
+}

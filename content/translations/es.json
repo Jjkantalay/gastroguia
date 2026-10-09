@@ -1,0 +1,1727 @@
+{
+ "abgoosht": {
+  "name": "Abgusht (dizi)",
+  "description": "Sopa de cordero con garbanzos y patatas en olla de piedra: el caldo se toma con pan y el resto se machaca.",
+  "history": "El dizi es la comida tradicional de los barrios obreros de Teherán, con su propio ritual para servirlo.",
+  "ingredientsText": "Cordero, garbanzos, alubias blancas, patatas, tomates, lima seca, cúrcuma"
+ },
+ "abkhazura": {
+  "name": "Abjazura",
+  "description": "Albóndigas de carne picada de ternera y cerdo con agracejo y especias, envueltas en redaño y fritas.",
+  "history": "El nombre apunta a un origen abjasio, pero el plato forma parte de la cocina georgiana.",
+  "ingredientsText": "Ternera, cerdo, redaño, cebolla, agracejo, ajo, cilantro"
+ },
+ "abysta": {
+  "name": "Abysta",
+  "description": "Gachas espesas de harina de maíz sin sal que se sirven en lugar de pan con queso y carne.",
+  "history": "La abysta se cuece en un caldero y se sirve con una pala de madera, a menudo con trozos de queso hundidos en ella.",
+  "ingredientsText": "Harina de maíz, agua"
+ },
+ "achapa": {
+  "name": "Achapa",
+  "description": "Judías verdes u hojas cocidas aliñadas con pasta de nueces, adjika y hierbas.",
+  "history": "La achapa es la prima abjasia del pjali georgiano; suele hacerse con judías verdes y remolacha.",
+  "ingredientsText": "Judías verdes u hojas de remolacha, nueces, adjika, cilantro"
+ },
+ "achash": {
+  "name": "Achash",
+  "description": "Tortas de harina de maíz o de trigo rellenas de queso tierno y fritas en mantequilla.",
+  "history": "En los pueblos abjasios el achash se prepara para desayunar con queso casero recién hecho.",
+  "ingredientsText": "Harina de maíz o de trigo, queso tierno, mantequilla"
+ },
+ "achichuk": {
+  "name": "Achichuk",
+  "description": "Ensalada de tomate y cebolla en rodajas finas con guindilla y hierbas, que acompaña al plov.",
+  "history": "El achichuk fresco equilibra el plov graso; en Uzbekistán nunca se sirve plov sin él.",
+  "ingredientsText": "Tomates, cebolla, guindilla, albahaca, sal"
+ },
+ "achma": {
+  "name": "Achma",
+  "description": "Pastel de queso en capas: láminas finas de masa hervida se apilan con queso y mantequilla y se hornean. Recuerda a la lasaña por su sabor y estructura.",
+  "history": "Plato de Adjaria y Abjasia. Al hervir las láminas, el pastel queda tierno por dentro y crujiente por arriba.",
+  "ingredientsText": "Harina de trigo, huevos, sulguni, queso imeretio, mantequilla"
+ },
+ "adana-kebab": {
+  "name": "Kebab de Adana",
+  "description": "Kebab picante de cordero picado a cuchillo con escamas de pimiento rojo, asado en una brocheta ancha sobre carbón.",
+  "history": "Lleva el nombre de la ciudad de Adana, en el sur de Turquía; la carne se pica a cuchillo y siempre se mezcla con grasa de cola.",
+  "ingredientsText": "Cordero, grasa de cola, escamas de pimiento rojo, sal"
+ },
+ "adygeyskaya-sol": {
+  "name": "Sal adigué",
+  "description": "Sal molida con ajo y hierbas secas: tomillo, eneldo, cilantro y pimienta.",
+  "history": "Los adigués preparaban esta sal para condimentar la carne y el queso durante todo el año.",
+  "ingredientsText": "Sal, ajo, tomillo, eneldo, cilantro, pimiento rojo"
+ },
+ "adygeyskiy-syr": {
+  "name": "Queso adigué",
+  "description": "Queso suave y tierno de leche pasteurizada, de textura delicada; se come fresco, frito o ahumado.",
+  "history": "El queso adigué se cuaja con suero ácido en lugar de cuajo; su forma viene de la cesta trenzada donde escurre.",
+  "ingredientsText": "Leche de vaca, suero ácido, sal"
+ },
+ "adzhapsandali": {
+  "name": "Ajapsandali",
+  "description": "Guiso de berenjena, pimiento dulce, tomate y cebolla con abundantes hierbas y ajo. Se sirve caliente o frío.",
+  "history": "Guisos de verduras parecidos existen en todo el Cáucaso. En Georgia el ajapsandali gusta sobre todo en verano, cuando las verduras están en su punto.",
+  "ingredientsText": "Berenjena, pimiento dulce, tomates, cebolla, ajo, cilantro, albahaca, aceite vegetal"
+ },
+ "adzhika": {
+  "name": "Adjika",
+  "description": "Pasta picante de pimiento rojo, ajo, cilantro y sal molida en piedra. Basta una cucharada para dar picor a un plato.",
+  "history": "Adjika significa «sal» en abjasio; antes los pimientos se molían con sal para que se conservaran más.",
+  "ingredientsText": "Pimiento rojo picante, ajo, cilantro, fenogreco azul, sal"
+ },
+ "afarar": {
+  "name": "Afarar",
+  "description": "Tortas finas rellenas de hierbas silvestres —ortiga, acedera, armuelle— y cebolla.",
+  "history": "Los afarar se hornean en primavera, cuando aparecen las primeras hierbas en las montañas.",
+  "ingredientsText": "Harina de trigo, agua, ortiga, acedera, cebolleta, mantequilla"
+ },
+ "akhar-khudar": {
+  "name": "Ajar judar",
+  "description": "Gachas de harina de maíz cocidas con leche y terminadas con mantequilla. Un desayuno sencillo.",
+  "history": "El maíz se convirtió en uno de los cultivos principales de Chechenia, y sus gachas se comen a diario.",
+  "ingredientsText": "Harina de maíz, leche, mantequilla, sal"
+ },
+ "akuarchal": {
+  "name": "Akuarchal",
+  "description": "Pequeñas tortas de harina de maíz cocidas en sartén caliente o en las brasas.",
+  "history": "El akuarchal es el pan tradicional de los abjasios; se sirve con sopas y salsas.",
+  "ingredientsText": "Harina de maíz, agua, sal"
+ },
+ "alani": {
+  "name": "Alani",
+  "description": "Melocotones secos rellenos de nueces picadas con azúcar y canela. Un dulce natural sin horno.",
+  "history": "Los melocotones se secan enteros al sol tras quitarles el hueso. Estos dulces se hacen en el valle del Ararat.",
+  "ingredientsText": "Melocotones secos, nueces, azúcar, canela"
+ },
+ "arganak": {
+  "name": "Arganak",
+  "description": "Caldo claro de pollo con albondiguillas de pollo y hierbas. Una sopa festiva ligera.",
+  "history": "El arganak se preparaba para bodas y fiestas en el valle del Ararat. El caldo se cuece largo rato para que quede claro.",
+  "ingredientsText": "Pollo, arroz, huevo, cebolla, cilantro, sal"
+ },
+ "arishta": {
+  "name": "Arishta",
+  "description": "Fideos caseros de huevo fritos en mantequilla y servidos con yogur al ajo.",
+  "history": "La arishta se hacía con antelación: los fideos se secaban y se guardaban todo el invierno. Se cocina en Armenia y Artsaj.",
+  "ingredientsText": "Harina de trigo, huevos, mantequilla, yogur matsun, ajo"
+ },
+ "ash-reshteh": {
+  "name": "Ash reshteh",
+  "description": "Sopa espesa con fideos, legumbres y hierbas, coronada con kashk, cebolla frita y menta.",
+  "history": "El ash reshteh se cocina en Nouruz y para despedir a quien emprende un viaje; los fideos simbolizan el camino.",
+  "ingredientsText": "Fideos reshteh, garbanzos, alubias, lentejas, espinacas, hierbas, kashk, cebolla, menta"
+ },
+ "ashlyan-fu": {
+  "name": "Ashlyan-fu",
+  "description": "Sopa fría y picante con fideos gruesos, gelatina de almidón, tiras de tortilla y aliño de vinagre.",
+  "history": "El ashlyan-fu es un plato dungano que dio fama a la ciudad de Karakol, junto al Issyk-Kul.",
+  "ingredientsText": "Fideos de trigo, gelatina de almidón, huevos, vinagre, guindilla, ajo, hierbas"
+ },
+ "asure": {
+  "name": "Ashure",
+  "description": "Pudin de trigo, legumbres, frutos secos y nueces que se cocina en grandes ollas y se reparte entre los vecinos.",
+  "history": "Según la leyenda, Noé hizo ashure con las últimas provisiones tras el Diluvio; se cocina en el mes de muharram.",
+  "ingredientsText": "Trigo, garbanzos, alubias, orejones, pasas, higos, nueces, azúcar, granada"
+ },
+ "avarskiy-hinkal": {
+  "name": "Jinkal ávaro",
+  "description": "Grandes trozos de masa hervida servidos con carne, caldo y salsa de ajo; no confundir con los jinkali georgianos.",
+  "history": "El jinkal es el plato principal de Daguestán; la versión ávara tiene una masa esponjosa cortada en rombos y cocida en caldo.",
+  "ingredientsText": "Harina de trigo, kéfir, bicarbonato, cordero o ternera, ajo, salsa de tomate"
+ },
+ "ayran": {
+  "name": "Ayran",
+  "description": "Bebida refrescante de yogur diluido en agua fría, con sal y a veces menta.",
+  "history": "El ayran se bebe en todo el Cáucaso y en Turquía, y combina especialmente bien con carnes grasas y kebabs.",
+  "ingredientsText": "Yogur, agua fría, sal, menta"
+ },
+ "badambura": {
+  "name": "Badambura",
+  "description": "Rollos de hojaldre fino rellenos de almendra y azúcar, espolvoreados con azúcar glas.",
+  "history": "El nombre viene de badam, «almendra». En Bakú la badambura se hornea para las fiestas.",
+  "ingredientsText": "Harina de trigo, mantequilla, huevos, almendras, azúcar, cardamomo"
+ },
+ "badrijani-nigvzit": {
+  "name": "Badrijani nigvzit",
+  "description": "Láminas finas de berenjena frita enrolladas con pasta de nueces, ajo y especias, con granos de granada por encima.",
+  "history": "El nombre significa «berenjenas con nueces». Un banquete georgiano, la supra, rara vez prescinde de este entrante.",
+  "ingredientsText": "Berenjena, nueces, ajo, cilantro, jmeli suneli, vinagre de vino, granada"
+ },
+ "bagany": {
+  "name": "Cerveza osetia",
+  "description": "Cerveza casera oscura de cebada o maíz con lúpulo, elaborada para fiestas y ritos.",
+  "history": "En osetio la cerveza se llama baegaeny; se elabora en grandes ollas y se sirve en un cuenco común.",
+  "ingredientsText": "Cebada o maíz, lúpulo, agua, azúcar"
+ },
+ "baghali-polo": {
+  "name": "Baghali polo",
+  "description": "Arroz con habas y mucho eneldo, a menudo servido con jarrete de cordero estofado.",
+  "history": "Un plato de primavera, cuando aparecen las habas tiernas.",
+  "ingredientsText": "Arroz, habas, eneldo, mantequilla, azafrán, jarrete de cordero"
+ },
+ "baklava": {
+  "name": "Baklava",
+  "description": "Decenas de capas de masa finísima con pistachos, empapadas en almíbar: la versión turca de la pajlava.",
+  "history": "El baklava de pistacho de Gaziantep está registrado como indicación geográfica protegida en la UE.",
+  "ingredientsText": "Masa fina, mantequilla, pistachos, azúcar, agua, zumo de limón"
+ },
+ "balyk-lyavangi": {
+  "name": "Lavangi de pescado",
+  "description": "Pescado relleno de nueces, cebolla y pasta de ciruela ácida, asado al horno o en tandur.",
+  "history": "La versión de pescado del lavangi se prepara en el Caspio, normalmente con kutum o carpa.",
+  "ingredientsText": "Pescado, nueces, cebolla, pasta de ciruela ácida, sal"
+ },
+ "barbari": {
+  "name": "Barbari",
+  "description": "Pan plano ovalado y grueso con surcos, sésamo y semillas de neguilla: el clásico pan del desayuno.",
+  "history": "El barbari se come por la mañana con queso, hierbas y té; se parece al matnakash armenio.",
+  "ingredientsText": "Harina de trigo, levadura, agua, sal, sésamo, neguilla"
+ },
+ "bastani-sonnati": {
+  "name": "Bastani sonnati",
+  "description": "Helado persa con azafrán, agua de rosas y trocitos de nata congelada, espolvoreado con pistachos.",
+  "history": "A menudo se sirve entre dos barquillos, como un sándwich.",
+  "ingredientsText": "Leche, nata, azúcar, yemas, azafrán, agua de rosas, salep, pistachos"
+ },
+ "bastirma-kebab": {
+  "name": "Kebab bastirma",
+  "description": "Kebab de ternera o cordero marinado un día en cebolla y vinagre antes de asarlo.",
+  "history": "El largo marinado deja la carne muy tierna, así que el bastirma se asa rápido.",
+  "ingredientsText": "Ternera o cordero, cebolla, vinagre de vino, sal, pimienta"
+ },
+ "basturma": {
+  "name": "Basturma",
+  "description": "Ternera curada al aire y cubierta de chaman, una pasta picante de fenogreco, pimentón y ajo. Se corta muy fina y se sirve como entrante.",
+  "history": "Curar la carne con especias es una práctica antigua en la región. El secado al viento permitía conservarla durante meses.",
+  "ingredientsText": "Solomillo de ternera, sal, fenogreco, pimentón, ajo, guindilla"
+ },
+ "baursak": {
+  "name": "Baursak",
+  "description": "Bolitas o rombos de masa de levadura fritos en aceite y servidos con té.",
+  "history": "Los baursak se fríen para las fiestas y se comparten con los invitados; su forma redonda simboliza el sol.",
+  "ingredientsText": "Harina de trigo, levadura, leche, huevos, azúcar, aceite vegetal"
+ },
+ "bazhe": {
+  "name": "Bazhe",
+  "description": "Salsa espesa de nueces con ajo, especias y vinagre. Acompaña aves, pescado y verduras fritas.",
+  "history": "El bazhe es la base de muchos platos georgianos, incluido el satsivi. Gusta especialmente en el oeste de Georgia y se prepara en las fiestas.",
+  "ingredientsText": "Nueces, ajo, cilantro, fenogreco azul, guindilla, vinagre de vino, agua"
+ },
+ "beshbarmak": {
+  "name": "Beshbarmak",
+  "description": "Carne de caballo o cordero hervida sobre cuadrados finos de masa con salsa de cebolla, servida con caldo.",
+  "history": "El nombre significa «cinco dedos», porque tradicionalmente se come con las manos.",
+  "ingredientsText": "Carne de caballo o cordero, harina de trigo, cebolla, caldo"
+ },
+ "boreg": {
+  "name": "Boereg",
+  "description": "Pastel de masa fina en capas relleno de queso y hierbas, cortado en cuadrados.",
+  "history": "Los armenios de todo el mundo hornean boereg, sobre todo en las familias de Armenia occidental.",
+  "ingredientsText": "Masa fina, queso blanco, huevos, perejil, mantequilla"
+ },
+ "bozartma": {
+  "name": "Bozartma",
+  "description": "Cordero o pollo guisado con cebolla y tomate en su propio jugo hasta quedar tierno.",
+  "history": "El bozartma es un plato cotidiano; la carne se guisa directamente sin dorarla, por eso queda jugosa.",
+  "ingredientsText": "Cordero o pollo, cebolla, tomates, azafrán, sal, pimienta"
+ },
+ "bozbash": {
+  "name": "Bozbash",
+  "description": "Sopa espesa de cordero con garbanzos, patatas y membrillo o manzana. Contundente y algo dulce.",
+  "history": "El bozbash se prepara en todo el Cáucaso Sur, distinto en cada región: con membrillo en Ereván, con guisantes en Shirak.",
+  "ingredientsText": "Cordero, garbanzos, patatas, membrillo, cebolla, concentrado de tomate, hierbas"
+ },
+ "cacik": {
+  "name": "Cacık",
+  "description": "Plato frío de yogur con pepino, ajo, menta y aceite de oliva.",
+  "history": "El cacık se aclara con agua y se toma como sopa, o se sirve espeso con la carne.",
+  "ingredientsText": "Yogur, pepino, ajo, menta, aceite de oliva, sal"
+ },
+ "chakapuli": {
+  "name": "Chakapuli",
+  "description": "Cordero lechal o ternera guisados en vino blanco con estragón, ciruelas verdes ácidas y muchas hierbas. Un plato de primavera.",
+  "history": "El chakapuli se asocia a la Pascua, cuando aparecen las hierbas tiernas, el estragón y las ciruelas verdes, sin las que no se hace.",
+  "ingredientsText": "Cordero o ternera, estragón, ciruelas verdes ácidas, vino blanco, cilantro, cebolleta, ajo"
+ },
+ "chakka": {
+  "name": "Chakka",
+  "description": "Lácteo fermentado espeso y colado que se come con hierbas y pan.",
+  "history": "La chakka se hace colando leche agria en sacos; queda entre el requesón y la nata agria.",
+  "ingredientsText": "Leche agria, sal, hierbas"
+ },
+ "chalop": {
+  "name": "Chalop",
+  "description": "Sopa fría de yogur katyk y agua con pepino, rábano y hierbas.",
+  "history": "El chalop salva en los calores del verano, cuando en Uzbekistán se superan los cuarenta grados.",
+  "ingredientsText": "Yogur katyk, agua, pepinos, rábano, eneldo, cilantro, sal"
+ },
+ "chanakhi": {
+  "name": "Chanaji",
+  "description": "Cordero al horno en cazuela de barro con berenjenas, patatas, tomates y muchas hierbas.",
+  "history": "El chanaji se cocina en cazuelas individuales donde las verduras se guisan en el jugo de la carne; gusta sobre todo en Tiflis.",
+  "ingredientsText": "Cordero, berenjenas, patatas, tomates, cebolla, ajo, cilantro, albahaca"
+ },
+ "chashushuli": {
+  "name": "Chashushuli",
+  "description": "Ternera guisada con tomate, cebolla, ajo y guindilla. Un plato casero sencillo con una salsa intensa y picante.",
+  "history": "Chashushuli significa «guisado». Estos guisos se hacen por toda Georgia, y la carne y las especias cambian con la estación.",
+  "ingredientsText": "Ternera, tomates, cebolla, ajo, guindilla, cilantro, jmeli suneli"
+ },
+ "chebureki": {
+  "name": "Chebureki",
+  "description": "Empanadillas finas en forma de media luna, fritas, con un jugoso relleno de cordero picado y cebolla.",
+  "history": "Los chebureki son el plato tártaro de Crimea más conocido y gustan mucho más allá de Crimea.",
+  "ingredientsText": "Harina de trigo, agua, cordero, cebolla, hierbas, aceite vegetal"
+ },
+ "chechil": {
+  "name": "Chechil",
+  "description": "Queso hilado que se estira en hebras y se trenza; se vende fresco o ahumado.",
+  "history": "El chechil se estira a mano en agua caliente y se come con cerveza o en ensaladas.",
+  "ingredientsText": "Leche de vaca, cuajo, sal"
+ },
+ "chepalgash": {
+  "name": "Chepalgash",
+  "description": "Tortas finas rellenas de requesón y hierbas; tras cocerlas se pasan por agua caliente, se untan con mantequilla y se apilan.",
+  "history": "El chepalgash se hornea cuando nace un niño en la familia y en las fiestas. La pila se corta como una tarta.",
+  "ingredientsText": "Harina de trigo, kéfir, requesón, cebolleta, mantequilla, sal"
+ },
+ "chetlibzh": {
+  "name": "Chetlibzh",
+  "description": "Pollo en salsa de nata agria y ajo con pimiento rojo: un plato festivo adigué.",
+  "history": "El chetlibzh se prepara para bodas e invitados; la salsa se espesa con harina y se sirve con pasta (gachas de mijo).",
+  "ingredientsText": "Pollo, nata agria, cebolla, ajo, harina de trigo, pimiento rojo"
+ },
+ "chikhirtma": {
+  "name": "Chijirtma",
+  "description": "Sopa de pollo espesada con huevo batido y harina, acidulada con vinagre o limón. Delicada y ligeramente ácida.",
+  "history": "En Georgia la chijirtma se considera el mejor remedio tras un banquete. Los huevos se añaden al final para que no cuajen.",
+  "ingredientsText": "Pollo, cebolla, huevos, harina de trigo, vinagre de vino, cilantro"
+ },
+ "chilov": {
+  "name": "Chilov",
+  "description": "Arroz suelto cocido con judías, lentejas o hierbas, servido como guarnición de carne y pescado.",
+  "history": "El chilov es una forma sencilla de pilaf en la que el arroz se cuece junto con los demás ingredientes.",
+  "ingredientsText": "Arroz, judías mungo o lentejas, mantequilla, azafrán, sal"
+ },
+ "chirbuli": {
+  "name": "Chirbuli",
+  "description": "Huevos fritos al estilo adjario con tomate, cebolla, nueces y hierbas.",
+  "history": "El chirbuli es un desayuno tradicional de Adjaria; las nueces lo hacen saciante.",
+  "ingredientsText": "Huevos, tomates, cebolla, nueces, cilantro, mantequilla"
+ },
+ "chuchvara": {
+  "name": "Chuchvara",
+  "description": "Pequeñas empanadillas de carne servidas en caldo o con leche agria.",
+  "history": "Toda la familia prepara chuchvara y se congela por tandas para el invierno.",
+  "ingredientsText": "Harina de trigo, huevo, ternera o cordero, cebolla, leche agria"
+ },
+ "chudu": {
+  "name": "Chudu",
+  "description": "Torta fina rellena de carne, requesón, calabaza o hierbas, untada con mantequilla.",
+  "history": "Los chudu se hornean en todo Daguestán; el relleno cambia con la estación y las tortas se apilan.",
+  "ingredientsText": "Harina de trigo, agua, carne o requesón, hierbas, mantequilla"
+ },
+ "churchkhela": {
+  "name": "Churchjela",
+  "description": "Nueces ensartadas en un hilo, bañadas muchas veces en mosto espesado con harina y secadas: una «salchicha» dulce.",
+  "history": "La churchjela se hace en otoño tras la vendimia. Se llevaba de viaje porque se conserva bien y es muy nutritiva.",
+  "ingredientsText": "Nueces o avellanas, mosto de uva, harina de trigo"
+ },
+ "chvishtari": {
+  "name": "Chvishtari",
+  "description": "Tortas de maíz con queso dentro, fritas hasta quedar crujientes. El queso fundido las deja tiernas por dentro.",
+  "history": "Plato de Svanetia. Los svanos mezclan sulguni en la masa, por eso los chvishtari son más ricos que el mchadi corriente.",
+  "ingredientsText": "Harina de maíz, queso sulguni, mantequilla, agua"
+ },
+ "chygyrtma": {
+  "name": "Chighirtma",
+  "description": "Pollo o verduras sofritos con cebolla y tomate, con huevos cascados al final.",
+  "history": "La chighirtma es rápida y sencilla; se hace con pollo, espinacas o berenjenas.",
+  "ingredientsText": "Pollo, cebolla, tomates, huevos, mantequilla, hierbas"
+ },
+ "cig-kofte": {
+  "name": "Çiğ köfte",
+  "description": "Bolitas picantes de bulgur fino con pasta de tomate y de pimiento, que se comen envueltas en lechuga.",
+  "history": "Antes el çiğ köfte se hacía con carne cruda; hoy lo habitual es la versión sin carne.",
+  "ingredientsText": "Bulgur fino, pasta de pimiento, concentrado de tomate, cebolla, hierbas, melaza de granada"
+ },
+ "dimlama": {
+  "name": "Dimlama",
+  "description": "Carne y verduras en capas en un kazán, guisadas con tapa en su propio jugo.",
+  "history": "La dimlama se hace en verano, cuando abundan las verduras; las hojas de col por encima conservan la humedad.",
+  "ingredientsText": "Cordero, patatas, zanahorias, berenjenas, pimientos, tomates, col, cebolla"
+ },
+ "dograma": {
+  "name": "Dograma",
+  "description": "Trozos de pan desmenuzados en un caldo sustancioso con carne, cebolla y tomate.",
+  "history": "La dograma se prepara para las fiestas y toda la familia desmenuza el pan y la carne a mano.",
+  "ingredientsText": "Pan de trigo, cordero, cebolla, tomates, caldo"
+ },
+ "dondurma": {
+  "name": "Dondurma",
+  "description": "Helado elástico de leche de cabra, salep y almáciga, tan firme que se corta con cuchillo.",
+  "history": "Maraş es la cuna del dondurma, y los vendedores montan auténticos espectáculos con él.",
+  "ingredientsText": "Leche de cabra, azúcar, salep, almáciga"
+ },
+ "doshab": {
+  "name": "Doshab",
+  "description": "Melaza espesa de mosto de uva o de morera reducido, que se come con pan y se usa en dulces.",
+  "history": "El doshab se reduce en otoño en grandes calderos de cobre sin añadir azúcar.",
+  "ingredientsText": "Mosto de uva o de morera"
+ },
+ "dovga": {
+  "name": "Dovga",
+  "description": "Sopa de leche agria o yogur con arroz y muchas hierbas, que se sirve caliente o fría.",
+  "history": "En verano la dovga se bebe fría para refrescarse y en invierno se toma caliente. Se remueve en un solo sentido para que el yogur no se corte.",
+  "ingredientsText": "Yogur, arroz, huevo, espinacas, acedera, eneldo, cilantro, menta"
+ },
+ "dulkh-khyaltam": {
+  "name": "Dulj-jaltam",
+  "description": "Carne hervida con patatas, cebolla y salsa de ajo, a veces con bolas de masa.",
+  "history": "Plato de las zonas montañosas de Chechenia, donde la carne y la patata son la base de la dieta invernal.",
+  "ingredientsText": "Ternera o cordero, patatas, cebolla, ajo, harina de trigo"
+ },
+ "dyushbara": {
+  "name": "Dushbara",
+  "description": "Diminutas empanadillas de cordero en caldo claro con menta y vinagre al ajo.",
+  "history": "Una buena cocinera hace la dushbara tan pequeña que caben más de diez en una cuchara.",
+  "ingredientsText": "Harina de trigo, huevo, cordero, cebolla, menta, vinagre de vino, ajo"
+ },
+ "dzavar-plov": {
+  "name": "Pilaf dzavar",
+  "description": "Pilaf de bulgur con fideos tostados y cebolla. Una guarnición suelta para la carne.",
+  "history": "El bulgur es uno de los cereales más antiguos de la región. En los pueblos se hacía en casa hirviendo y secando el trigo.",
+  "ingredientsText": "Bulgur, fideos, mantequilla, cebolla, caldo"
+ },
+ "dzykka": {
+  "name": "Dzykka",
+  "description": "Plato espeso de queso fresco, nata agria y harina cocidos hasta que se separa la mantequilla.",
+  "history": "Los pastores de montaña preparan el dzykka con queso fresco y lo comen caliente mojando pan.",
+  "ingredientsText": "Queso osetio fresco, nata agria, harina de trigo o maíz, sal"
+ },
+ "eech": {
+  "name": "Eetch",
+  "description": "Ensalada fría de bulgur con concentrado de tomate, cebolla, hierbas y limón. Un plato de ayuno.",
+  "history": "El eetch se prepara en Cuaresma, cuando se evitan la carne y los lácteos. Se conserva bien y al día siguiente sabe mejor.",
+  "ingredientsText": "Bulgur, concentrado de tomate, tomates, cebolla, perejil, zumo de limón, aceite vegetal"
+ },
+ "elarji": {
+  "name": "Elarji",
+  "description": "Gachas espesas de maíz con mucho sulguni, removidas hasta quedar elásticas. Se sirven calientes con carne y salsas.",
+  "history": "Un clásico de la cocina megrela. El elarji se remueve largo rato y con fuerza con una pala de madera: de ello depende su elasticidad.",
+  "ingredientsText": "Harina de maíz, queso sulguni, agua, sal"
+ },
+ "ezogelin-corbasi": {
+  "name": "Sopa ezogelin",
+  "description": "Sopa de lentejas rojas con bulgur, arroz, concentrado de tomate y menta seca.",
+  "history": "La sopa lleva el nombre de Ezo, una joven de Gaziantep cuya vida inspiró canciones.",
+  "ingredientsText": "Lentejas rojas, bulgur, arroz, concentrado de tomate, menta, pimiento rojo"
+ },
+ "faloodeh": {
+  "name": "Faloodeh",
+  "description": "Fideos finos de arroz congelados en almíbar de agua de rosas, servidos con zumo de limón.",
+  "history": "El faloodeh de Shiraz es uno de los postres helados más antiguos del mundo.",
+  "ingredientsText": "Fideos de arroz, azúcar, agua de rosas, zumo de limón"
+ },
+ "fatir": {
+  "name": "Fatir",
+  "description": "Pan de mantequilla de muchas capas cocido en tandur: la base del qurutob.",
+  "history": "El fatir se estira muy fino y se pliega muchas veces con mantequilla entre las capas.",
+  "ingredientsText": "Harina de trigo, mantequilla, leche, sal"
+ },
+ "fisinjan": {
+  "name": "Fisinjan",
+  "description": "Albóndigas o pollo en una salsa espesa de nueces y melaza de granada.",
+  "history": "Plato común en el sur de Azerbaiyán y en Irán, que equilibra la granada ácida con el dulzor.",
+  "ingredientsText": "Pollo o carne picada de ternera, nueces, melaza de granada, cebolla, azafrán"
+ },
+ "fydzhyn": {
+  "name": "Fydjyn",
+  "description": "Pastel osetio de carne. Masa fina, mucho relleno y mantequilla fundida por encima.",
+  "history": "En las fiestas los pasteles osetios se hornean de tres en tres, en alusión al sol, la tierra y el agua. En el centro del fydjyn se deja un agujerito para que salga el vapor y no se escape el jugo.",
+  "ingredientsText": "Harina de trigo, levadura, kéfir, mantequilla, ternera, cebolla, ajo, pimienta"
+ },
+ "gaz": {
+  "name": "Gaz",
+  "description": "Turrón blando con pistachos o almendras, hecho con maná de tamarisco y agua de rosas.",
+  "history": "El gaz es el dulce de Isfahán; se espolvorea con harina para que los trozos no se peguen.",
+  "ingredientsText": "Azúcar, claras de huevo, maná, agua de rosas, pistachos o almendras"
+ },
+ "gebzhalia": {
+  "name": "Gebzhalia",
+  "description": "Rollitos de queso tierno en salsa de matsoni y menta, servidos fríos.",
+  "history": "Plato megrelo que se hace con queso fresco el mismo día de su elaboración.",
+  "ingredientsText": "Queso tierno, matsoni, menta, guindilla, sal"
+ },
+ "gedlibzhe": {
+  "name": "Gedlibzhe",
+  "description": "Pollo guisado en una salsa espesa de nata agria con cebolla, ajo y pimiento rojo, servido con pasta (gachas de mijo).",
+  "history": "El gedlibzhe es un plato festivo cabardino; la salsa se espesa con harina tostada en mantequilla.",
+  "ingredientsText": "Pollo, nata agria, cebolla, ajo, harina de trigo, pimiento rojo"
+ },
+ "ghapama": {
+  "name": "Ghapama",
+  "description": "Calabaza entera rellena de arroz, frutos secos, nueces y miel, horneada y servida en gajos.",
+  "history": "La ghapama es un plato de las fiestas de invierno; hasta tiene una canción popular, «Hey Ghapama».",
+  "ingredientsText": "Calabaza, arroz, orejones, pasas, ciruelas pasas, nueces, miel, mantequilla, canela"
+ },
+ "ghormeh-sabzi": {
+  "name": "Ghormeh sabzi",
+  "description": "Carne guisada con muchas hierbas fritas, alubias rojas y lima seca.",
+  "history": "Al ghormeh sabzi se le llama a menudo el guiso favorito de Irán; se cuece largo rato hasta que las hierbas se oscurecen.",
+  "ingredientsText": "Cordero o ternera, perejil, cilantro, fenogreco, cebolleta, alubias rojas, lima seca"
+ },
+ "gogal": {
+  "name": "Gogal",
+  "description": "Bollos redondos de hojaldre con un relleno especiado de harina, mantequilla, hinojo y cúrcuma, salados o dulces.",
+  "history": "El gogal es uno de los principales dulces de Novruz, junto con la shakarbura y la pajlava.",
+  "ingredientsText": "Harina de trigo, mantequilla, huevos, levadura, hinojo, cúrcuma, sal"
+ },
+ "gomi": {
+  "name": "Gomi",
+  "description": "Gachas densas de maíz sin sal ni mantequilla. Se comen con sulguni, salsas y carne, como si fueran pan.",
+  "history": "El gomi es un alimento básico del oeste de Georgia. Antes se hacía con mijo y, tras la llegada del maíz, con harina de maíz.",
+  "ingredientsText": "Harina de maíz, agua"
+ },
+ "govurma": {
+  "name": "Govurma",
+  "description": "Carne frita en su propia grasa hasta dorarse. Así se conservaba antes el cordero para el invierno.",
+  "history": "La carne frita se cubría de grasa y se guardaba en tarros. Hoy la govurma también se cocina como plato propio.",
+  "ingredientsText": "Cordero, grasa de cola, cebolla, sal"
+ },
+ "gozinaki": {
+  "name": "Gozinaki",
+  "description": "Nueces caramelizadas en miel y cortadas en rombos. Un dulce sencillo de dos ingredientes.",
+  "history": "El gozinaki es un dulce imprescindible del Año Nuevo en Georgia: se pone en la mesa para que el año sea dulce.",
+  "ingredientsText": "Nueces, miel, azúcar"
+ },
+ "gozleme": {
+  "name": "Gözleme",
+  "description": "Pan fino doblado sobre queso, espinacas o patata y cocido en un saj.",
+  "history": "El gözleme se estira y se cuece delante de ti, tradicionalmente por mujeres de los pueblos.",
+  "ingredientsText": "Harina de trigo, agua, queso blanco, espinacas, mantequilla"
+ },
+ "guruli-gvezeli": {
+  "name": "Guruli gvezeli",
+  "description": "Pastel en forma de media luna relleno de queso y huevo duro. Se hornea en Navidad, por eso en Georgia también se llama jachapuri navideño.",
+  "history": "Plato de Guria, en el oeste de Georgia. Su forma de media luna se explica de varias maneras, entre ellas su parecido con un cuerno o con la luna.",
+  "ingredientsText": "Harina de trigo, levadura, yogur matsoni, sulguni, queso imeretio, huevos duros"
+ },
+ "gutap": {
+  "name": "Gutap",
+  "description": "Empanadillas finas en media luna rellenas de carne, calabaza o hierbas, cocidas en sartén sin aceite.",
+  "history": "El gutap es el primo turcomano del qutab azerbaiyano.",
+  "ingredientsText": "Harina de trigo, cordero o calabaza, cebolla, hierbas"
+ },
+ "guubat": {
+  "name": "Guubat",
+  "description": "Empanadillas triangulares rellenas de queso adigué y horneadas.",
+  "history": "Los guubat se hornean para el té y las fiestas; la forma triangular es tradicional en la repostería adigué.",
+  "ingredientsText": "Harina de trigo, kéfir, huevo, queso adigué, mantequilla"
+ },
+ "guymag": {
+  "name": "Quymaq",
+  "description": "Gachas dulces de harina tostada en mantequilla con azúcar o miel, cúrcuma y canela.",
+  "history": "El quymaq se prepara para las recién paridas y en días fríos, porque se considera muy nutritivo.",
+  "ingredientsText": "Harina de trigo, mantequilla, azúcar o miel, cúrcuma, canela"
+ },
+ "gyrdzhyn": {
+  "name": "Gyrjyn",
+  "description": "Pan plano sencillo hecho con ayran y cocido en sartén u horno, servido con carne y té.",
+  "history": "El gyrjyn es el pan de diario de karacháis y bálkaros, a menudo relleno de queso o patata.",
+  "ingredientsText": "Harina de trigo, ayran, bicarbonato, sal"
+ },
+ "gyurza": {
+  "name": "Gurza",
+  "description": "Empanadillas de carne cerradas con un borde trenzado que recuerda las escamas de una serpiente, hervidas o fritas.",
+  "history": "La gurza es un plato de Bakú que debe su nombre a una víbora, porque el dibujo de la costura parece sus escamas.",
+  "ingredientsText": "Harina de trigo, huevo, cordero, cebolla, sal"
+ },
+ "hachapuri-imeretinskij": {
+  "name": "Jachapuri imeretio",
+  "description": "Pan redondo cerrado lleno de queso imeretio salado. Es el jachapuri más común de Georgia y se hornea en casa casi a diario.",
+  "history": "Debe su nombre a la región de Imeretia, en el oeste de Georgia. La masa suele llevar yogur matsoni, que la hace tierna y algo ácida.",
+  "ingredientsText": "Harina de trigo, yogur matsoni, bicarbonato, queso imeretio, mantequilla"
+ },
+ "hachapuri-penovani": {
+  "name": "Jachapuri penovani",
+  "description": "Jachapuri de hojaldre: el queso se envuelve en un cuadrado o sobre y se hornea hasta quedar crujiente y dorado. Un tentempié callejero popular en Tiflis.",
+  "history": "Penovani significa «hojaldrado». Esta versión apareció más tarde que las clásicas y arraigó en las panaderías urbanas.",
+  "ingredientsText": "Hojaldre, sulguni, queso imeretio, mantequilla"
+ },
+ "hachapuri-po-adzharski": {
+  "name": "Jachapuri adjario",
+  "description": "Una barca abierta de masa de levadura rellena de queso fundido, coronada al servir con una yema cruda y un trozo de mantequilla. Se come arrancando el borde y mezclándolo con el relleno.",
+  "history": "El plato viene de Adjaria, en la costa georgiana del mar Negro. Su forma de barca suele asociarse a la vida marinera de la región, y la yema al sol sobre el mar.",
+  "ingredientsText": "Harina de trigo, levadura, leche, sulguni, queso imeretio, huevos, mantequilla"
+ },
+ "halim": {
+  "name": "Halim",
+  "description": "Gachas espesas de trigo y carne batidas hasta quedar finas, que se comen con canela, azúcar y mantequilla.",
+  "history": "El halim se desayuna en invierno y en Ramadán; se vende en tiendas especializadas.",
+  "ingredientsText": "Trigo, pavo o cordero, mantequilla, canela, azúcar"
+ },
+ "hamsi-tava": {
+  "name": "Hamsi tava",
+  "description": "Anchoas del mar Negro rebozadas en harina de maíz y fritas en abanico en la sartén.",
+  "history": "La hamsi es el símbolo de la costa turca del mar Negro, protagonista de canciones y chistes.",
+  "ingredientsText": "Anchoas, harina de maíz, harina de trigo, aceite vegetal, limón"
+ },
+ "harissa": {
+  "name": "Harissa",
+  "description": "Gachas espesas de trigo entero y pollo o cordero, cocidas durante horas y batidas hasta quedar finas. Se sirve con mantequilla fundida.",
+  "history": "La harissa se prepara en las fiestas y en memoria de 1915, cuando la cocinaron los defensores del Musa Dagh. Es uno de los platos armenios más simbólicos.",
+  "ingredientsText": "Trigo pelado, pollo o cordero, mantequilla, sal"
+ },
+ "hash": {
+  "name": "Jash",
+  "description": "El jash no es solo una sopa: es una leyenda de la cocina armenia, un plato que exige tiempo, paciencia y respeto por la tradición. Se prepara con patas de ternera que cuecen largo rato hasta que la carne se desprende literalmente de los huesos. El jash se sirve caliente, con ajo, hierbas y lavash seco que se añade directamente al caldo. Tradicionalmente se come de madrugada, a menudo tras largos banquetes, para recuperar fuerzas.",
+  "quote": "El jash es un plato que une. Tradicionalmente se come de madrugada para cargarse de energía para todo el día",
+  "history": "En su origen fue un plato de pobres, y más tarde se convirtió en un símbolo de la cultura y la tradición culinaria armenias.\n\nCuenta la leyenda que un rey que pasó la noche en una aldea probó el jash y le gustó tanto que lo convirtió en el plato principal de su mesa.",
+  "ingredientsText": "Pata de ternera 1,5 kg\nCallos de ternera 500 g\nAjo 3 cabezas\nRábano 1 ud."
+ },
+ "hunkar-begendi": {
+  "name": "Hünkâr beğendi",
+  "description": "Cordero guisado sobre un puré de berenjena ahumada con queso y una salsa cremosa.",
+  "history": "El nombre significa «le gustó al sultán»; el plato se asocia a la cocina del palacio otomano.",
+  "ingredientsText": "Cordero, berenjenas, leche, mantequilla, harina de trigo, queso, tomates"
+ },
+ "imam-bayildi": {
+  "name": "İmam bayıldı",
+  "description": "Berenjenas confitadas en aceite de oliva y rellenas de cebolla, ajo y tomate, servidas frías.",
+  "history": "El nombre significa «el imán se desmayó»; según la leyenda, de placer al probarlo.",
+  "ingredientsText": "Berenjenas, cebolla, ajo, tomates, aceite de oliva, perejil"
+ },
+ "imeruli-kveli": {
+  "name": "Queso imeretio",
+  "description": "Queso tierno y joven de sabor suave y salado: la base del jachapuri y un entrante por sí mismo.",
+  "history": "Se elabora en Imeretia y se come casi enseguida; no está pensado para una larga maduración.",
+  "ingredientsText": "Leche de vaca, cuajo, sal"
+ },
+ "iron-tsykht": {
+  "name": "Queso osetio",
+  "description": "Queso tierno en salmuera de leche de vaca u oveja, que se come fresco y se usa en pasteles.",
+  "history": "Ningún pastel osetio se hace sin este queso; en osetio se llama iron tsykht.",
+  "ingredientsText": "Leche de vaca u oveja, cuajo, sal"
+ },
+ "ishkhan": {
+  "name": "Trucha ishjan",
+  "description": "Trucha del Seván al horno o a la brasa con limón y hierbas. Carne blanca y tierna con muy pocas espinas.",
+  "history": "El nombre significa «príncipe». La trucha endémica del lago Seván hoy es rara, por eso se cría en piscifactorías.",
+  "ingredientsText": "Trucha, limón, estragón, mantequilla, sal"
+ },
+ "ishlekli": {
+  "name": "Ishlekli",
+  "description": "Gran pastel redondo de carne y cebolla cocido en arena caliente o en las brasas.",
+  "history": "Nómadas y pastores hornean el ishlekli en pleno desierto, enterrado en arena caliente.",
+  "ingredientsText": "Harina de trigo, cordero, cebolla, sal"
+ },
+ "ishli-kyufta": {
+  "name": "Ishli kufta",
+  "description": "Bolas de bulgur y carne con un relleno de carne picada frita y nueces, hervidas o fritas.",
+  "history": "La ishli kufta exige destreza: la capa exterior se hace fina para que no reviente al cocinarse.",
+  "ingredientsText": "Bulgur, ternera, cebolla, nueces, mantequilla, especias"
+ },
+ "iskender-kebab": {
+  "name": "Kebab İskender",
+  "description": "Lonchas finas de carne asada en espetón sobre pan pide, con salsa de tomate, mantequilla chisporroteante y yogur.",
+  "history": "El plato nació en Bursa en el siglo XIX, y la familia de su creador aún usa el nombre.",
+  "ingredientsText": "Cordero o ternera, pan pide, salsa de tomate, mantequilla, yogur"
+ },
+ "ispanakhi-matsvnit": {
+  "name": "Espinacas con matsoni",
+  "description": "Espinacas cocidas con matsoni, ajo y hierbas. Una guarnición ligera para la carne.",
+  "history": "En la cocina georgiana el matsoni se usa en salsas y entrantes para suavizar los platos picantes.",
+  "ingredientsText": "Espinacas, matsoni, ajo, cilantro, sal"
+ },
+ "izgara-kofte": {
+  "name": "Köfte a la parrilla",
+  "description": "Hamburguesitas de ternera picada con cebolla y especias, hechas a la parrilla.",
+  "history": "Cada ciudad turca tiene su köfte, y en Estambul hay locales que no sirven otra cosa.",
+  "ingredientsText": "Carne picada de ternera, cebolla, pan rallado, huevo, comino, pimienta"
+ },
+ "jarma": {
+  "name": "Jarma",
+  "description": "Bebida refrescante de harina de cebada tostada mezclada con ayran.",
+  "history": "La jarma se bebía con el calor de la siega: quita la sed y da energía.",
+  "ingredientsText": "Harina de cebada tostada, ayran, sal"
+ },
+ "jiz-biz": {
+  "name": "Jiz-biz",
+  "description": "Casquería de cordero frita con patatas y cebolla; el nombre imita el chisporroteo de la sartén.",
+  "history": "El jiz-biz es un plato de las tabernas de Bakú, que se cocina rápido y se sirve caliente.",
+  "ingredientsText": "Hígado, riñones y corazón de cordero, grasa de cola, patatas, cebolla"
+ },
+ "jonjoli": {
+  "name": "Jonjoli",
+  "description": "Botones florales encurtidos del estafilea, un arbusto que crece en el Cáucaso. Se sirven con cebolla y aceite como entrante con la carne.",
+  "history": "El jonjoli se recoge en primavera y se conserva para todo el año. Tiene un sabor ácido que recuerda un poco a las alcaparras.",
+  "ingredientsText": "Botones de estafilea, sal, vinagre de vino, cebolla, aceite vegetal"
+ },
+ "joojeh-kebab": {
+  "name": "Joojeh kabab",
+  "description": "Trozos de pollo marinados en yogur, limón y azafrán, asados a la brasa.",
+  "history": "El azafrán da al joojeh kabab su color dorado; a menudo se sirve junto con el koobideh.",
+  "ingredientsText": "Pollo, yogur, zumo de limón, azafrán, cebolla"
+ },
+ "kabuskadzhyn": {
+  "name": "Kabuskajyn",
+  "description": "Pastel osetio de col y queso. Masa fina, mucho relleno y mantequilla fundida por encima.",
+  "history": "En las fiestas los pasteles osetios se hornean de tres en tres, en alusión al sol, la tierra y el agua. El de col gusta especialmente en otoño e invierno.",
+  "ingredientsText": "Harina de trigo, levadura, kéfir, mantequilla, col blanca, queso osetio"
+ },
+ "kada": {
+  "name": "Kada",
+  "description": "Pastel dulce de masa rica con un relleno de harina, mantequilla y azúcar, que queda arenoso por dentro.",
+  "history": "En Georgia la kada se hornea en las fiestas. Armenios y azerbaiyanos tienen dulces parecidos, y la receta varía de una familia a otra.",
+  "ingredientsText": "Harina de trigo, mantequilla, azúcar, huevos, yogur matsoni, levadura, vainilla"
+ },
+ "kaghamb-tolma": {
+  "name": "Tolma de col",
+  "description": "Rollitos armenios de hoja de col rellenos de carne y arroz, guisados en salsa de tomate.",
+  "history": "La tolma de col se prepara en otoño e invierno, cuando no hay hojas de parra.",
+  "ingredientsText": "Col blanca, carne picada de ternera, arroz, cebolla, concentrado de tomate, hierbas"
+ },
+ "kalla-pacha": {
+  "name": "Kalla-pacha",
+  "description": "Sopa sustanciosa de cabeza y manitas de cordero cocida durante horas, servida con ajo y vinagre.",
+  "history": "La kalla-pacha se toma de madrugada, como el jash, sobre todo en invierno.",
+  "ingredientsText": "Cabeza de cordero, manitas de cordero, garbanzos, ajo, vinagre de vino"
+ },
+ "karniyarik": {
+  "name": "Karnıyarık",
+  "description": "Berenjenas fritas abiertas y rellenas de carne picada, cebolla y tomate.",
+  "history": "El nombre significa «vientre abierto»; es el hermano carnívoro del imam bayıldı.",
+  "ingredientsText": "Berenjenas, carne picada de ternera, cebolla, tomates, pimientos verdes"
+ },
+ "kartofdzhyn": {
+  "name": "Kartofjyn",
+  "description": "Pastel osetio de patata y queso. Masa fina, mucho relleno y mantequilla fundida por encima.",
+  "history": "En las fiestas los pasteles osetios se hornean de tres en tres, en alusión al sol, la tierra y el agua. El relleno de patata apareció cuando la patata se extendió por el Cáucaso en el siglo XIX.",
+  "ingredientsText": "Harina de trigo, levadura, kéfir, mantequilla, patatas, queso osetio"
+ },
+ "kashk-e-bademjan": {
+  "name": "Kashk-e bademjan",
+  "description": "Puré de berenjena frita con kashk, cebolla frita, ajo y menta.",
+  "history": "El kashk es un lácteo fermentado y seco que da al plato su profundidad salada.",
+  "ingredientsText": "Berenjenas, kashk, cebolla, ajo, menta seca, nueces"
+ },
+ "kashyk-burek": {
+  "name": "Kashyk burek",
+  "description": "Empanadillas diminutas en caldo de carne; el nombre significa «burek de cuchara».",
+  "history": "Se hacen tan pequeñas que caben varias a la vez en una cuchara.",
+  "ingredientsText": "Harina de trigo, huevo, cordero, cebolla, caldo, menta"
+ },
+ "kazan-kebab": {
+  "name": "Kazan kebab",
+  "description": "Costillas de cordero y patatas fritas en un kazán hasta dorarse.",
+  "history": "El kazan kebab se sirve en una gran fuente con cebolla en rodajas finas y hierbas.",
+  "ingredientsText": "Cordero, costillas de cordero, patatas, cebolla, comino, aceite de algodón"
+ },
+ "kazy": {
+  "name": "Kazy",
+  "description": "Embutido de carne y grasa de costilla de caballo en tripa natural, cocido o curado al aire.",
+  "history": "El kazy es la pieza central del dastarján kazajo y se sirve cortado en rodajas.",
+  "ingredientsText": "Carne de costilla de caballo, grasa de caballo, sal, pimienta, ajo"
+ },
+ "kchuch": {
+  "name": "Kchuch",
+  "description": "Carne y verduras al horno en cazuela de barro, donde las verduras se cuecen en el jugo de la carne hasta quedar muy tiernas.",
+  "history": "Kchuch es el nombre tanto del plato como de la cazuela de barro en que se cocina.",
+  "ingredientsText": "Cordero, berenjena, patatas, tomates, pimientos, cebolla, hierbas"
+ },
+ "kesme": {
+  "name": "Kesme",
+  "description": "Sopa con fideos caseros cortados a cuchillo, carne y verduras.",
+  "history": "Kesme significa «cortado»; es una sopa cotidiana en los hogares kirguises.",
+  "ingredientsText": "Harina de trigo, huevo, ternera, patatas, zanahorias, cebolla"
+ },
+ "khabizgina": {
+  "name": "Jabizgina",
+  "description": "Pastel relleno de puré de patata y queso osetio, de las zonas montañosas de Georgia y Osetia.",
+  "history": "Jabizgina es el nombre georgiano del pastel osetio de patata; se hornea en Kazbegi y Racha.",
+  "ingredientsText": "Harina de trigo, kéfir, patatas, queso osetio, mantequilla"
+ },
+ "khadurdzhyn": {
+  "name": "Jadurjyn",
+  "description": "Pastel osetio de alubias. Masa fina, mucho relleno y mantequilla fundida por encima.",
+  "history": "En las fiestas los pasteles osetios se hornean de tres en tres, en alusión al sol, la tierra y el agua. El de alubias se hornea los días de ayuno, cuando no se come carne.",
+  "ingredientsText": "Harina de trigo, levadura, kéfir, mantequilla, alubias rojas, cebolla"
+ },
+ "khalvaitar": {
+  "name": "Halvaitar",
+  "description": "Halva blanda de harina tostada en mantequilla con azúcar o miel y leche.",
+  "history": "El halvaitar se prepara en las fiestas y para las recién paridas como dulce nutritivo.",
+  "ingredientsText": "Harina de trigo, mantequilla, azúcar o miel, leche"
+ },
+ "khalyuzh": {
+  "name": "Jaliuzh",
+  "description": "Empanadillas triangulares fritas rellenas de queso adigué con cebolla o patata.",
+  "history": "Los jaliuzh se hacen para las fiestas; la forma triangular ayuda a que se frían de manera uniforme.",
+  "ingredientsText": "Harina de trigo, kéfir, queso adigué, cebolleta, aceite vegetal"
+ },
+ "khamrashi": {
+  "name": "Jamrashi",
+  "description": "Sopa con fideos caseros, alubias y pequeñas albóndigas.",
+  "history": "El jamrashi es una sopa invernal del sur de Azerbaiyán, con fideos cortados a mano muy finos.",
+  "ingredientsText": "Harina de trigo, alubias, cordero, cebolla, hierbas"
+ },
+ "khanum": {
+  "name": "Janum",
+  "description": "Rollo de masa fina relleno de carne, patata o calabaza, cocido al vapor.",
+  "history": "El janum se cuece en una vaporera de manty y luego se corta en rodajas y se cubre con salsa.",
+  "ingredientsText": "Harina de trigo, cordero, patatas, cebolla, comino"
+ },
+ "kharcho": {
+  "name": "Jarcho",
+  "description": "Sopa espesa de ternera con arroz, tkemali o tklapi ácidos, nueces y especias. Picante, sustanciosa y aromática.",
+  "history": "El jarcho es una de las sopas georgianas más conocidas fuera del país. En Megrelia se hace sin arroz y se sirve más bien como guiso.",
+  "ingredientsText": "Ternera, arroz, tkemali o tklapi, nueces, cebolla, ajo, cilantro, jmeli suneli"
+ },
+ "khashil": {
+  "name": "Jashil",
+  "description": "Gachas espesas de harina y agua servidas con mantequilla fundida y miel o melaza de uva.",
+  "history": "El jashil se prepara con el frío y para las recién paridas; en el centro se hace un hueco que se llena de mantequilla.",
+  "ingredientsText": "Harina de trigo, agua, mantequilla, miel o melaza de uva"
+ },
+ "khashlama": {
+  "name": "Jashlama",
+  "description": "Cordero o ternera guisados en trozos grandes con verduras en su propio jugo, a veces con cerveza o vino.",
+  "history": "El nombre se relaciona con la palabra «hervir». La jashlama se hace en una olla grande para toda la familia, con las verduras en capas.",
+  "ingredientsText": "Cordero o ternera, patatas, tomates, pimientos dulces, cebolla, hierbas, sal"
+ },
+ "khasip": {
+  "name": "Jasip",
+  "description": "Embutido de tripa de cordero relleno de carne picada, hígado y arroz, cocido en caldo.",
+  "history": "El jasip se hace con la casquería de cordero para las fiestas, sin desperdiciar nada.",
+  "ingredientsText": "Tripa de cordero, cordero, hígado, arroz, cebolla, comino"
+ },
+ "khingal": {
+  "name": "Jingal",
+  "description": "Anchos cuadrados de masa hervida cubiertos de carne frita con cebolla, yogur al ajo y requesón seco llamado qurut.",
+  "history": "El jingal se hace en Azerbaiyán y el Cáucaso Norte. Cada zona corta la masa de forma distinta, en cuadrados o rombos.",
+  "ingredientsText": "Harina de trigo, cordero, cebolla, yogur, ajo, qurut"
+ },
+ "khoresh-bademjan": {
+  "name": "Joresh bademjan",
+  "description": "Guiso de cordero con berenjenas fritas, tomate y uvas verdes ácidas.",
+  "history": "Joresh es el nombre general de los guisos persas, que siempre se sirven con arroz.",
+  "ingredientsText": "Cordero, berenjenas, tomates, uvas verdes, cebolla, cúrcuma"
+ },
+ "khoresh-gheymeh": {
+  "name": "Joresh gheymeh",
+  "description": "Guiso de cordero con guisantes amarillos partidos, tomate y lima seca, coronado con patatas paja crujientes.",
+  "history": "El gheymeh se reparte tradicionalmente en las reuniones religiosas del mes de muharram.",
+  "ingredientsText": "Cordero, guisantes amarillos partidos, concentrado de tomate, lima seca, cebolla, patatas"
+ },
+ "khorovats-ovoshchnoy": {
+  "name": "Jorovats de verduras",
+  "description": "Berenjenas, tomates y pimientos asados a la brasa, pelados y picados con ajo y hierbas.",
+  "history": "Las verduras se asan sobre las mismas brasas que el jorovats de carne y se sirven con él.",
+  "ingredientsText": "Berenjenas, tomates, pimientos dulces, ajo, cilantro, sal"
+ },
+ "khychiny": {
+  "name": "Jychin",
+  "description": "Tortas finas rellenas de patata y queso o de carne, cocidas en sartén sin aceite y untadas con mantequilla.",
+  "history": "El jychin es un plato bálkaro y karachái, popular en toda Kabardino-Balkaria.",
+  "ingredientsText": "Harina de trigo, kéfir, patata, queso, mantequilla"
+ },
+ "khyovla": {
+  "name": "Jovla",
+  "description": "Halva chechena de harina tostada, mantequilla y azúcar o miel, cortada en rombos.",
+  "history": "La jovla se prepara para funerales y fiestas y se comparte con los vecinos.",
+  "ingredientsText": "Harina de trigo, mantequilla, azúcar o miel"
+ },
+ "kisir": {
+  "name": "Kısır",
+  "description": "Ensalada de bulgur fino con pasta de tomate y de pimiento, hierbas, limón y melaza de granada.",
+  "history": "El kısır se sirve en las reuniones caseras con té, envuelto en hojas de lechuga.",
+  "ingredientsText": "Bulgur fino, concentrado de tomate, pasta de pimiento, cebolleta, perejil, limón, melaza de granada"
+ },
+ "kobete": {
+  "name": "Kobete",
+  "description": "Gran pastel redondo relleno de carne, patatas y cebolla.",
+  "history": "El kobete se hornea para fiestas y celebraciones familiares, decorado con dibujos de masa.",
+  "ingredientsText": "Harina de trigo, mantequilla, huevo, cordero, patatas, cebolla"
+ },
+ "kok-choy": {
+  "name": "Kok choy (té verde)",
+  "description": "Té verde que se bebe en cuencos todo el día y se sirve en cada comida.",
+  "history": "El anfitrión llena el cuenco del invitado solo hasta la mitad para rellenarlo a menudo, en señal de atención.",
+  "ingredientsText": "Té verde, agua"
+ },
+ "kololik": {
+  "name": "Kololak",
+  "description": "Sopa con grandes bolas de carne y arroz en caldo de tomate: cada bola es casi una comida en sí misma.",
+  "history": "Plato de la región de Shirak. A la carne se le añaden arroz y huevo para que las bolas mantengan la forma al cocer.",
+  "ingredientsText": "Carne picada de ternera, arroz, huevo, cebolla, concentrado de tomate, hierbas, sal"
+ },
+ "koobideh": {
+  "name": "Kabab koobideh",
+  "description": "Kebab de cordero picado con cebolla en brochetas anchas, servido con arroz, tomates asados y zumaque.",
+  "history": "El koobideh con arroz, llamado chelow kabab, se considera el plato nacional de Irán.",
+  "ingredientsText": "Cordero, cebolla, sal, pimienta, zumaque, arroz, tomates"
+ },
+ "kubdari": {
+  "name": "Kubdari",
+  "description": "Pastel cerrado con abundante relleno de carne picada a cuchillo, cebolla y especias svanas. La carne se corta en vez de picarse, así el relleno queda jugoso y en trozos.",
+  "history": "Plato tradicional de Svanetia, la región montañosa de Georgia. Se condimenta con sal svana, una mezcla de sal con hierbas y especias.",
+  "ingredientsText": "Harina de trigo, levadura, ternera, cerdo, cebolla, sal svana, cilantro, ajo"
+ },
+ "kuchmachi": {
+  "name": "Kuchmachi",
+  "description": "Casquería frita —hígado, corazón y pulmones— con cebolla, granada y nueces picadas. Se sirve caliente.",
+  "history": "El kuchmachi viene de una cocina austera en la que nada se desperdicia tras la matanza. Suele prepararse en las fiestas.",
+  "ingredientsText": "Hígado, corazón y pulmones de ternera o cerdo, cebolla, nueces, granada, cilantro"
+ },
+ "kufta-bozbash": {
+  "name": "Kufta bozbash",
+  "description": "Sopa de grandes albóndigas de cordero y arroz, cada una con una ciruela ácida seca dentro, cocida con garbanzos y patatas.",
+  "history": "La ciruela escondida en cada albóndiga es una sorpresa y aporta una acidez que aflora al cocerse.",
+  "ingredientsText": "Cordero, arroz, garbanzos, patatas, ciruelas ácidas secas, cebolla, azafrán, menta"
+ },
+ "kumpir": {
+  "name": "Kumpir",
+  "description": "Una enorme patata asada machacada con mantequilla y queso y cargada con una docena de ingredientes.",
+  "history": "El kumpir se hizo famoso en el barrio de Ortaköy de Estambul, donde se vende junto al agua.",
+  "ingredientsText": "Patatas, mantequilla, queso, maíz dulce, aceitunas, encurtidos, salchicha"
+ },
+ "kumys": {
+  "name": "Kumis",
+  "description": "Bebida fermentada de leche de yegua, ligeramente gaseosa y refrescante.",
+  "history": "Los nómadas de la estepa conocen el kumis desde la Antigüedad; se bate en un odre de cuero.",
+  "ingredientsText": "Leche de yegua, fermento"
+ },
+ "kunefe": {
+  "name": "Künefe",
+  "description": "Postre caliente de masa kadayıf rallada con queso sin sal fundido, empapado en almíbar.",
+  "history": "El künefe es el orgullo de Hatay, en el sur de Turquía, y se sirve recién salido del horno con pistachos.",
+  "ingredientsText": "Masa kadayıf, queso sin sal, mantequilla, almíbar, pistachos"
+ },
+ "kupaty": {
+  "name": "Kupati",
+  "description": "Salchichas fritas de cerdo o ternera con especias, ajo y agracejo en tripa natural. Se sirven con granada y cebolla.",
+  "history": "En Georgia los kupati se fríen en sartén o a la brasa. En la época soviética se hicieron populares mucho más allá del país.",
+  "ingredientsText": "Cerdo o ternera, tripa natural, ajo, agracejo, cilantro, pimienta"
+ },
+ "kurt": {
+  "name": "Kurt",
+  "description": "Bolitas saladas y secas de leche agria prensada que duran mucho y quitan el hambre.",
+  "history": "El kurt se llevaba en los viajes largos; se come como tentempié y se disuelve en agua para hacer salsas.",
+  "ingredientsText": "Leche agria, sal"
+ },
+ "kurze": {
+  "name": "Kurze",
+  "description": "Empanadillas daguestaníes en forma de gota con borde trenzado, rellenas de carne, calabaza, ortiga o requesón.",
+  "history": "La trenza del kurze muestra la destreza de quien lo hace: cuanto más fino el dibujo, mejor, se dice.",
+  "ingredientsText": "Harina de trigo, agua, cordero o ternera, cebolla, sal"
+ },
+ "kuyrdak": {
+  "name": "Kuyrdak",
+  "description": "Salteado de cordero y casquería —hígado, corazón y riñones— con cebolla.",
+  "history": "El kuyrdak se cocina justo tras la matanza para agasajar a los invitados con carne fresca.",
+  "ingredientsText": "Cordero, hígado, corazón, riñones, grasa de cola, cebolla"
+ },
+ "kyata": {
+  "name": "Kata",
+  "description": "Torta hojaldrada y rica con un relleno de harina, mantequilla y azúcar, servida con té.",
+  "history": "La kata se conoce en Azerbaiyán y Armenia; en unas zonas es dulce y en otras salada.",
+  "ingredientsText": "Harina de trigo, mantequilla, huevos, leche, levadura, azúcar"
+ },
+ "kyufta": {
+  "name": "Kyufta",
+  "description": "Grandes bolas de ternera finamente golpeada, hervidas y cortadas en rodajas. Se sirven con mantequilla y cebolla.",
+  "history": "La kyufta es el orgullo de Guiumri. La carne no se pica: se golpea con mazos de madera hasta hacer una pasta.",
+  "ingredientsText": "Ternera, cebolla, huevo, mantequilla, sal, pimienta"
+ },
+ "kyukyu": {
+  "name": "Kuku",
+  "description": "Tortilla al horno repleta de hierbas, a veces con nueces y agracejo, servida templada o fría.",
+  "history": "El kuku se prepara para Novruz; su color verde simboliza la primavera.",
+  "ingredientsText": "Huevos, cilantro, eneldo, espinacas, cebolleta, nueces, mantequilla"
+ },
+ "lagman": {
+  "name": "Lagman",
+  "description": "Fideos estirados a mano con una salsa de carne y verduras: pimientos, rábano, tomate y ajo.",
+  "history": "El lagman llegó a los uzbekos de los uigures y los dunganos; los fideos se estiran y se golpean contra la mesa hasta quedar finos.",
+  "ingredientsText": "Harina de trigo, ternera o cordero, pimientos dulces, rábano, tomates, cebolla, ajo"
+ },
+ "lakume": {
+  "name": "Lakume",
+  "description": "Rosquillas esponjosas fritas de masa de levadura, servidas con té, miel o carne.",
+  "history": "Las lakume se reparten en fiestas y funerales; la forma de rombo es la más tradicional.",
+  "ingredientsText": "Harina de trigo, levadura, leche, huevos, azúcar, aceite vegetal"
+ },
+ "lavash": {
+  "name": "Lavash",
+  "description": "Pan fino sin levadura que se estira y se cuece en las paredes de un horno tonir. El lavash seco se conserva meses.",
+  "history": "La elaboración del lavash como expresión de la cultura armenia figura en la lista del patrimonio inmaterial de la UNESCO.",
+  "ingredientsText": "Harina de trigo, agua, sal"
+ },
+ "lepeshka-non": {
+  "name": "Non uzbeko",
+  "description": "Pan redondo de tandur con el centro fino y estampado y el borde abombado.",
+  "history": "El dibujo se marca con un sello chekich; el pan nunca se pone boca abajo, porque es una falta de respeto.",
+  "ingredientsText": "Harina de trigo, levadura, agua, sal, sésamo o neguilla"
+ },
+ "lobiani": {
+  "name": "Lobiani",
+  "description": "Pan relleno de alubias cocidas machacadas, cebolla y especias. Un plato sencillo y saciante que los georgianos suelen hacer en días de ayuno.",
+  "history": "El nombre viene de lobio, «alubias». Es muy popular en Racha, donde el lobiani se hace a menudo con tocino.",
+  "ingredientsText": "Harina de trigo, levadura, alubias rojas, cebolla, mantequilla o aceite, cilantro"
+ },
+ "lobio": {
+  "name": "Lobio",
+  "description": "El lobio demuestra que las alubias pueden ser un auténtico manjar. Las alubias cocidas, aliñadas con nueces, ajo, cilantro y especias, se convierten en una masa tierna y aromática. El lobio puede servirse caliente o frío, y su textura va del puré espeso a los granos enteros. Se sirve en cazuelas de barro, lo que le da autenticidad y calidez.",
+  "quote": "El lobio habla de la hospitalidad georgiana. Se sirve con gomi (gachas de maíz) o simplemente con lavash",
+  "history": "Las alubias llegaron al Cáucaso desde América en la Edad Moderna, pero pronto se convirtieron en la base de la mesa georgiana. El lobio se prepara caliente, en cazuela de barro, y frío con nueces; se come con mchadi y encurtidos, sobre todo en días de ayuno.",
+  "ingredientsText": "Alubias – 63 g (rojas o pintas)\nNueces – 13 g\nCebolla – 0,4 ud.\nTomate – 0,3 ud.\nAjo – 0,4 dientes\nCilantro – 1,5 g\nJmeli suneli – 0,1 cda.\nGuindilla – 0,1 ud.\nSal al gusto\nAceite vegetal – 0,3 cda.\nPimienta negra al gusto"
+ },
+ "lokum": {
+  "name": "Delicias turcas",
+  "description": "Cubitos tiernos de azúcar y almidón aromatizados con agua de rosas, pistacho o limón y espolvoreados con azúcar glas.",
+  "history": "El lokum se hizo famoso en Estambul en los siglos XVIII y XIX y se llevaba como regalo por toda Europa.",
+  "ingredientsText": "Azúcar, almidón de maíz, agua, agua de rosas, azúcar glas"
+ },
+ "lori-cheese": {
+  "name": "Queso Lori",
+  "description": "Queso semiduro en salmuera de leche de vaca, con ojos.",
+  "history": "El queso lleva el nombre de la región de Lori, en el norte de Armenia, donde se elabora.",
+  "ingredientsText": "Leche de vaca, cuajo, sal"
+ },
+ "lyavangi": {
+  "name": "Lavangi",
+  "description": "Pollo relleno de nueces, cebolla y pasta de ciruela ácida, asado al horno.",
+  "history": "El lavangi es un plato de Lankaran y Talysh, en el sur de Azerbaiyán, que se cocina en tandur para las fiestas.",
+  "ingredientsText": "Pollo, nueces, cebolla, pasta de ciruela ácida, sal, pimienta"
+ },
+ "lyguazha": {
+  "name": "Lyguazha",
+  "description": "Ternera o cordero guisados con cebolla, tomate y pimiento rojo.",
+  "history": "La lyguazha se sirve a menudo con pasta (gachas de mijo), que sustituye al pan en la mesa cabardina.",
+  "ingredientsText": "Ternera o cordero, cebolla, concentrado de tomate, pimiento rojo, ajo"
+ },
+ "lyulya-kebab": {
+  "name": "Lula kebab",
+  "description": "Kebabs alargados de cordero picado a cuchillo con cebolla y grasa de cola, asados en brocheta sobre carbón.",
+  "history": "La carne del lula se pica a cuchillo y se amasa largo rato; si no, no se sostiene en la brocheta.",
+  "ingredientsText": "Cordero, grasa de cola, cebolla, sal, pimienta, zumaque"
+ },
+ "lyvzha": {
+  "name": "Lyvzha",
+  "description": "Sopa espesa, casi un guiso, de carne o pollo con patatas, cebolla y harina, sazonada con pimienta.",
+  "history": "La lyvzha se cocina para las fiestas y se sirve caliente en cuencos hondos con pasteles.",
+  "ingredientsText": "Ternera o pollo, patatas, cebolla, harina de trigo, pimienta, hierbas"
+ },
+ "maksym": {
+  "name": "Maksym",
+  "description": "Bebida ligeramente gaseosa hecha de cereales tostados: cebada, maíz o trigo.",
+  "history": "En verano el maksym se vende en las calles de Biskek en grandes barriles.",
+  "ingredientsText": "Cebada o trigo, agua, sal, fermento"
+ },
+ "mantapur": {
+  "name": "Mantapur",
+  "description": "Sopa con pequeños manti horneados en caldo y yogur al ajo.",
+  "history": "El mantapur es un plato de invierno: los manti se hornean primero hasta dorarse y luego se cubren con caldo caliente.",
+  "ingredientsText": "Harina de trigo, carne picada de ternera, cebolla, caldo, yogur matsun, ajo"
+ },
+ "manti-armyanskie": {
+  "name": "Manti armenios",
+  "description": "Diminutas barquitas abiertas de masa con carne, horneadas hasta quedar crujientes y servidas con caldo y yogur al ajo.",
+  "history": "A diferencia de los manty de Asia Central, los manti armenios son pequeños, abiertos y horneados.",
+  "ingredientsText": "Harina de trigo, carne picada de ternera, caldo, matsun, ajo, zumaque"
+ },
+ "manti-turetskie": {
+  "name": "Mantı turcos",
+  "description": "Diminutas empanadillas de carne servidas con yogur al ajo y mantequilla con pimiento rojo.",
+  "history": "Los más conocidos son los de Kayseri; se dice que una buena cocinera mete cuarenta mantı en una cuchara.",
+  "ingredientsText": "Harina de trigo, huevo, carne picada de ternera, yogur, ajo, mantequilla, pimiento rojo"
+ },
+ "manty": {
+  "name": "Manty",
+  "description": "Grandes empanadillas rellenas de cordero picado a cuchillo y cebolla, cocidas al vapor en una vaporera de pisos.",
+  "history": "Los manty se comen con la mano, mordiendo y bebiendo el jugo de dentro, con leche agria o nata agria.",
+  "ingredientsText": "Harina de trigo, cordero, grasa de cola, cebolla, comino"
+ },
+ "mast-o-khiar": {
+  "name": "Mast-o-khiar",
+  "description": "Yogur frío con pepino, menta, nueces, pasas y pétalos de rosa.",
+  "history": "El mast-o-khiar acompaña los platos de arroz y con calor se toma como sopa refrescante.",
+  "ingredientsText": "Yogur, pepino, menta, nueces, pasas, pétalos de rosa"
+ },
+ "mastava": {
+  "name": "Mastava",
+  "description": "Sopa espesa con arroz, carne, zanahoria y tomate, servida con leche agria y hierbas.",
+  "history": "La mastava es una sopa casera cotidiana; el arroz la hace tan saciante como unas gachas.",
+  "ingredientsText": "Arroz, cordero, zanahorias, patatas, tomates, cebolla, leche agria"
+ },
+ "matnakash": {
+  "name": "Matnakash",
+  "description": "Pan ovalado y tierno con corteza dorada y surcos longitudinales. Lleva levadura y se pinta con té antes de hornear.",
+  "history": "El nombre significa «estirado con los dedos»: los surcos del pan se hacen a mano.",
+  "ingredientsText": "Harina de trigo, levadura, agua, azúcar, sal"
+ },
+ "matsoni": {
+  "name": "Matsoni",
+  "description": "Lácteo fermentado georgiano parecido a un yogur espeso, que se come con miel o se usa en la cocina.",
+  "history": "El matsoni se cuaja tradicionalmente en tarros de barro; antes los vendedores lo llevaban de casa en casa.",
+  "ingredientsText": "Leche de vaca, fermento"
+ },
+ "matsun": {
+  "name": "Matsun",
+  "description": "Lácteo fermentado parecido a un yogur espeso, que se come a cucharadas y se añade a sopas y salsas.",
+  "history": "El fermento del matsun se transmite de generación en generación. Es la base de muchos platos armenios, del tan al spas.",
+  "ingredientsText": "Leche de vaca, fermento"
+ },
+ "mchadi": {
+  "name": "Mchadi",
+  "description": "Pequeñas tortas de maíz sin levadura cocidas en sartén sin aceite. Se comen con queso, lobio y pjali.",
+  "history": "El mchadi es el pan tradicional del oeste de Georgia. Como no lleva harina de trigo, sirve a quienes evitan el gluten.",
+  "ingredientsText": "Harina de maíz, agua, sal"
+ },
+ "megruli-hachapuri": {
+  "name": "Jachapuri megrelo",
+  "description": "Jachapuri redondo con queso dentro y encima: antes de hornearlo se espolvorea con sulguni. Resulta un pan muy rico y quesoso.",
+  "history": "Viene de Samegrelo (Megrelia), en el oeste de Georgia, región conocida por su comida picante y su amor por el sulguni.",
+  "ingredientsText": "Harina de trigo, yogur matsoni, huevo, sulguni, queso imeretio, mantequilla"
+ },
+ "menemen": {
+  "name": "Menemen",
+  "description": "Huevos cocinados en sartén con tomate, pimiento verde y cebolla: un desayuno turco clásico.",
+  "history": "Si el menemen lleva o no cebolla sigue siendo un debate animado en Turquía.",
+  "ingredientsText": "Huevos, tomates, pimientos verdes, cebolla, aceite de oliva"
+ },
+ "mercimek-corbasi": {
+  "name": "Sopa de lentejas",
+  "description": "Crema de lentejas rojas con zanahoria y cebolla, servida con limón.",
+  "history": "La sopa de lentejas está en la carta de casi todos los restaurantes turcos y se toma a cualquier hora.",
+  "ingredientsText": "Lentejas rojas, zanahoria, cebolla, mantequilla, limón"
+ },
+ "mezhadzhe": {
+  "name": "Mezhadzhe",
+  "description": "Pan de maíz cocido en sartén y servido con salsas y queso.",
+  "history": "El mezhadzhe es el pan tradicional de los adigués, que se extendió junto con el maíz.",
+  "ingredientsText": "Harina de maíz, agua, sal"
+ },
+ "midye-dolma": {
+  "name": "Midye dolma",
+  "description": "Mejillones rellenos de arroz especiado, piñones y pasas de Corinto, que se comen con limón en puestos callejeros.",
+  "history": "Los vendedores de mejillones forman parte de la vida nocturna de Estambul y Esmirna.",
+  "ingredientsText": "Mejillones, arroz, cebolla, piñones, pasas de Corinto, especias, limón"
+ },
+ "mirza-ghasemi": {
+  "name": "Mirza ghasemi",
+  "description": "Berenjenas ahumadas al fuego y machacadas con ajo, tomate y huevo, servidas con pan.",
+  "history": "Plato de la provincia caspia de Guilán, que lleva el nombre de un gobernador local.",
+  "ingredientsText": "Berenjenas, ajo, tomates, huevos, cúrcuma"
+ },
+ "morasa-polo": {
+  "name": "Morasa polo",
+  "description": "«Arroz enjoyado» con piel de naranja confitada, agracejo, pistachos y almendras.",
+  "history": "El morasa polo se sirve en las bodas; sus vivos adornos simbolizan una vida dulce y próspera.",
+  "ingredientsText": "Arroz, piel de naranja, zanahorias, agracejo, pistachos, almendras, azafrán, azúcar"
+ },
+ "motal": {
+  "name": "Queso motal",
+  "description": "Queso salado de oveja curado en una piel de oveja, de sabor fuerte y aroma característico.",
+  "history": "Los pastores elaboran el motal en zonas de montaña; la curación en piel de oveja le da su sabor único.",
+  "ingredientsText": "Leche de oveja, cuajo, sal"
+ },
+ "mtsvadi": {
+  "name": "Mtsvadi",
+  "description": "Brochetas georgianas de cerdo o ternera asadas sobre brasas de sarmiento. Se sirven con cebolla en rodajas finas y salsa tkemali.",
+  "history": "Asar sobre brasas de sarmiento es una vieja tradición de las regiones vinícolas, sobre todo Kajetia. La vid da a la carne un ligero aroma ahumado.",
+  "ingredientsText": "Cerdo o ternera, cebolla, sal, pimienta, zumo de granada"
+ },
+ "muhlama": {
+  "name": "Muhlama",
+  "description": "Queso elástico fundido con harina de maíz y mantequilla, que se come caliente con pan.",
+  "history": "La muhlama viene de Trebisonda y Rize; hay platos parecidos en Georgia y Abjasia.",
+  "ingredientsText": "Queso curado, harina de maíz, mantequilla"
+ },
+ "mutaki": {
+  "name": "Mutaki",
+  "description": "Tubitos crujientes de masa fina rellenos de nueces y azúcar, espolvoreados con azúcar glas.",
+  "history": "El nombre significa «almohadita». Los mutaki se hornean en Bakú y Ganyá para las fiestas.",
+  "ingredientsText": "Harina de trigo, mantequilla, nata agria, huevos, nueces, azúcar"
+ },
+ "nabat": {
+  "name": "Nabat",
+  "description": "Grandes cristales de azúcar en hilos que se sirven con el té en lugar de azúcar corriente.",
+  "history": "El nabat se cristaliza a partir de almíbar durante varios días y a veces se aromatiza con azafrán.",
+  "ingredientsText": "Azúcar, agua, azafrán"
+ },
+ "nadugi": {
+  "name": "Nadughi",
+  "description": "Requesón cremoso y tierno con menta y hierbas, enrollado en finas láminas de sulguni.",
+  "history": "El nadughi es un subproducto de la elaboración del queso; en Samegrelo se sirve como entrante.",
+  "ingredientsText": "Requesón nadughi, sulguni, menta, cilantro, sal"
+ },
+ "narsharab": {
+  "name": "Narsharab",
+  "description": "Salsa espesa agridulce de zumo de granada reducido, servida con kebabs y pescado.",
+  "history": "El narsharab se hace en otoño en Goychay y Shamaji, donde crecen las mejores granadas.",
+  "ingredientsText": "Zumo de granada, sal, especias"
+ },
+ "naryn": {
+  "name": "Naryn",
+  "description": "Fideos finamente cortados con carne de caballo o cordero hervida y cebolla, servidos con caldo.",
+  "history": "El naryn es un plato festivo de Taskent y Ferganá, con la masa y la carne cortadas a mano muy finas.",
+  "ingredientsText": "Harina de trigo, carne de caballo o cordero, embutido kazy, cebolla, caldo"
+ },
+ "nasdzhyn": {
+  "name": "Nasjyn",
+  "description": "Pastel osetio de calabaza. Masa fina, mucho relleno y mantequilla fundida por encima.",
+  "history": "En las fiestas los pasteles osetios se hornean de tres en tres, en alusión al sol, la tierra y el agua. El de calabaza es algo dulce y se hornea en otoño tras la cosecha.",
+  "ingredientsText": "Harina de trigo, levadura, kéfir, mantequilla, calabaza, azúcar o miel"
+ },
+ "nazuk": {
+  "name": "Nazuk",
+  "description": "Rollo de masa rica de levadura con un relleno arenoso de harina, mantequilla y azúcar, cortado en diagonal.",
+  "history": "El nazuk se sirve con té y café y a menudo se hornea en Navidad y Pascua.",
+  "ingredientsText": "Harina de trigo, mantequilla, nata agria, levadura, huevo, azúcar, vainilla"
+ },
+ "nazuki": {
+  "name": "Nazuki",
+  "description": "Pan dulce con pasas y canela cocido en horno tone, que se vende junto a la carretera cerca de Surami.",
+  "history": "El nazuki es la seña de identidad de Surami: los vendedores acercan los panes calientes a los coches que pasan.",
+  "ingredientsText": "Harina de trigo, levadura, leche, huevos, azúcar, pasas, canela, mantequilla"
+ },
+ "nishalda": {
+  "name": "Nishalda",
+  "description": "Dulce blanquísimo y aireado de claras montadas con azúcar y raíz de regaliz.",
+  "history": "La nishalda se come en Ramadán tras la puesta del sol, mojando pan en ella.",
+  "ingredientsText": "Claras de huevo, azúcar, raíz de regaliz"
+ },
+ "nushi-muraba": {
+  "name": "Confitura de nueces verdes",
+  "description": "Nueces verdes enteras cocidas en almíbar hasta oscurecerse, servidas con té.",
+  "history": "Las nueces se recogen a principios del verano, cuando la cáscara aún es blanda, y se ponen largo tiempo en remojo antes de cocerlas.",
+  "ingredientsText": "Nueces verdes, azúcar, agua, clavo, canela"
+ },
+ "ojakhuri": {
+  "name": "Ojajuri",
+  "description": "Cerdo frito con patatas crujientes, cebolla y especias, servido en una cazuela de barro ketsi. Un plato «familiar» sencillo y contundente.",
+  "history": "El nombre significa «a la manera de la familia»: el ojajuri se cocinaba para toda la familia con lo que hubiera a mano.",
+  "ingredientsText": "Cerdo, patatas, cebolla, ajo, jmeli suneli, cilantro"
+ },
+ "oromo": {
+  "name": "Oromo",
+  "description": "Rollo de masa fina relleno de carne y calabaza o patata, cocido al vapor.",
+  "history": "El oromo se cuece en una vaporera de manty y se sirve con salsa o caldo.",
+  "ingredientsText": "Harina de trigo, ternera o cordero, calabaza, cebolla"
+ },
+ "osetr-kebab": {
+  "name": "Kebab de esturión",
+  "description": "Trozos de esturión en brocheta, asados a la brasa y servidos con salsa de granada.",
+  "history": "El esturión del Caspio es el orgullo de la cocina de Bakú; se asa brevemente para que quede jugoso.",
+  "ingredientsText": "Esturión, mantequilla, limón, salsa de granada, sal"
+ },
+ "oshi-burida": {
+  "name": "Oshi burida",
+  "description": "Sopa con fideos caseros finos, carne, legumbres y hierbas.",
+  "history": "Burida significa «cortado»: los fideos se cortan a cuchillo en tiras finas.",
+  "ingredientsText": "Harina de trigo, ternera, garbanzos, judías mungo, cebolla, tomates, hierbas"
+ },
+ "ostri": {
+  "name": "Ostri",
+  "description": "Guiso picante de ternera en una espesa salsa de tomate con pepinillos, ajo y especias. Se sirve con pan o patatas.",
+  "history": "El nombre viene de una palabra que significa «picante». El ostri es un plato popular en las tabernas de Tiflis.",
+  "ingredientsText": "Ternera, tomates, concentrado de tomate, pepinillos, cebolla, ajo, guindilla, jmeli suneli"
+ },
+ "pahlava": {
+  "name": "Pajlava",
+  "description": "La pajlava es el símbolo dulce de la cocina azerbaiyana, que conquista por su textura en capas y su sabor intenso. Finas capas de masa empapadas en miel o almíbar se alternan con un relleno de frutos secos picados (sobre todo nueces o avellanas). Cada trocito une una corteza crujiente y un relleno tierno que se deshace en la boca. La pajlava es imprescindible en la mesa festiva, sobre todo en Novruz y otras celebraciones.",
+  "quote": "La pajlava no es solo un postre, es parte de la cultura. Se prepara para Novruz, bodas y otras fiestas para compartir alegría y gratitud",
+  "history": "La pajlava azerbaiyana es un postre de muchas capas con nueces y almíbar que tiene un papel importante en la cultura y las fiestas de Azerbaiyán.\n\nAunque los historiadores señalan menciones tempranas de la pajlava en los libros de cocina del Imperio otomano (siglo XV), Azerbaiyán también puede reclamar su parte en la historia de este postre.",
+  "ingredientsText": "Para la masa: harina de trigo 35 g, leche 12 ml, mantequilla 6 g, 1 huevo, azúcar 4 g, levadura seca 1 g, sal 1 g\nPara el relleno: nueces 30 g, mantequilla 8 g, azúcar 15 g, fécula de patata 1 cda.\nPara el almíbar: miel 10 g, azúcar 10 g, agua 10 ml, zumo de limón 1 cda."
+ },
+ "pasta-adyg": {
+  "name": "Pasta (gachas de mijo)",
+  "description": "Gachas de mijo muy espesas que se cortan como el pan y se sirven con carne y shchips.",
+  "history": "La pasta sustituía al pan entre los adigués; se corta con un hilo para no aplastarla.",
+  "ingredientsText": "Mijo, agua, sal"
+ },
+ "pasuc-tolma": {
+  "name": "Tolma pasuts",
+  "description": "Tolma de Cuaresma: hojas de col rellenas de alubias, lentejas, garbanzos, bulgur y arroz con especias.",
+  "history": "La tolma pasuts se hace en Cuaresma. La variedad de legumbres del relleno simboliza la abundancia.",
+  "ingredientsText": "Col, alubias, lentejas, garbanzos, bulgur, arroz, concentrado de tomate, cebolla, especias"
+ },
+ "pelamushi": {
+  "name": "Pelamushi",
+  "description": "Pudin espeso de mosto y harina que cuaja en moldes. A menudo se espolvorea con nueces.",
+  "history": "Como la churchjela, el pelamushi es un subproducto de la vinificación: ambos dulces se hacen con el mismo mosto espesado.",
+  "ingredientsText": "Mosto de uva, harina de trigo o de maíz"
+ },
+ "pide": {
+  "name": "Pide",
+  "description": "Pan en forma de barca cubierto de carne picada, queso, huevo o verduras.",
+  "history": "La pide se hornea en hornos de piedra por toda Turquía; las versiones del mar Negro son especialmente famosas.",
+  "ingredientsText": "Harina de trigo, levadura, carne picada o queso, huevo, mantequilla"
+ },
+ "piti": {
+  "name": "Piti",
+  "description": "Sopa de cordero con garbanzos, castañas, membrillo y azafrán, cocida lentamente en una cazuela individual de barro. Primero se toma el caldo con pan y luego la carne.",
+  "history": "El piti es el plato emblemático de Shaki. Las cazuelas pasan horas en el horno y la grasa de cola hace el caldo sustancioso.",
+  "ingredientsText": "Cordero, grasa de cola, garbanzos, castañas, membrillo, cebolla, azafrán"
+ },
+ "pkhali": {
+  "name": "Pjali",
+  "description": "Entrante de verduras u hojas picadas —espinacas, remolacha o col— mezcladas con pasta de nueces, ajo y especias. Se forma en bolas y se adorna con granos de granada.",
+  "history": "El pjali es uno de los principales platos de ayuno de la mesa georgiana. Hay tantas versiones como hojas comestibles en el huerto.",
+  "ingredientsText": "Espinacas o remolacha, nueces, ajo, cilantro, jmeli suneli, vinagre de vino, granada"
+ },
+ "pkhlovani": {
+  "name": "Pjlovani",
+  "description": "Pastel relleno de espinacas, hojas de remolacha u ortiga y queso, popular en Racha y Osetia.",
+  "history": "El pjlovani se hornea en primavera, cuando aparecen las hojas tiernas.",
+  "ingredientsText": "Harina de trigo, matsoni, espinacas u hojas de remolacha, sulguni, hierbas"
+ },
+ "pokhindz": {
+  "name": "Pojindz",
+  "description": "Harina de trigo tostada mezclada con miel o azúcar y mantequilla, que se come a cucharadas o en bolitas.",
+  "history": "El pojindz es un dulce tradicional de Año Nuevo que se hace en cada familia y se regala a los niños.",
+  "ingredientsText": "Harina de trigo, miel o azúcar, mantequilla"
+ },
+ "putuk": {
+  "name": "Putuk",
+  "description": "Sopa de cordero con garbanzos y ciruelas ácidas secas cocida en cazuela individual de barro.",
+  "history": "El putuk es la versión armenia de la sopa en cazuela, emparentada con el piti azerbaiyano.",
+  "ingredientsText": "Cordero, garbanzos, patatas, ciruelas ácidas secas, cebolla"
+ },
+ "qurutob": {
+  "name": "Qurutob",
+  "description": "Trozos de pan hojaldrado fatir empapados en salsa de qurut y cubiertos de cebolla, tomate y hierbas.",
+  "history": "El qurutob se considera el plato nacional de Tayikistán y se come con la mano de una fuente común de madera.",
+  "ingredientsText": "Pan fatir, qurut, cebolla, tomates, pepinos, hierbas, aceite vegetal"
+ },
+ "sabzi-govurma": {
+  "name": "Sabzi govurma",
+  "description": "Cordero guisado con muchas hierbas —espinacas, cilantro, eneldo, cebolleta— y ciruelas ácidas secas.",
+  "history": "Sabzi significa «verduras». El plato gusta sobre todo en primavera, cuando aparecen las hierbas tiernas.",
+  "ingredientsText": "Cordero, espinacas, cilantro, eneldo, cebolleta, ciruelas ácidas secas, cebolla"
+ },
+ "sabzi-polo-mahi": {
+  "name": "Sabzi polo ba mahi",
+  "description": "Arroz con hierbas y pescado frito: el plato tradicional de Nouruz.",
+  "history": "Las hierbas simbolizan la renovación y el pescado la vida; por eso se come el primer día de la primavera.",
+  "ingredientsText": "Arroz, perejil, cilantro, eneldo, cebolleta, pescado, mantequilla"
+ },
+ "sadzh": {
+  "name": "Saj",
+  "description": "Carne, patatas, berenjenas y pimientos fritos en una sartén abombada de hierro llamada saj y servidos en ella.",
+  "history": "Saj es a la vez la sartén y el plato. A menudo se dejan brasas debajo para que la comida siga caliente en la mesa.",
+  "ingredientsText": "Cordero o pollo, patatas, berenjenas, tomates, pimientos dulces, cebolla"
+ },
+ "samsa": {
+  "name": "Samsa",
+  "description": "Hojaldres triangulares rellenos de cordero y cebolla, cocidos en las paredes de un tandur.",
+  "history": "La samsa de tandur es una comida callejera popular en Uzbekistán, espolvoreada con sésamo o neguilla.",
+  "ingredientsText": "Harina de trigo, cordero, grasa de cola, cebolla, comino, sésamo"
+ },
+ "sangak": {
+  "name": "Sangak",
+  "description": "Pan plano y alargado de harina integral cocido sobre un lecho de guijarros calientes.",
+  "history": "Los guijarros dejan hoyuelos en el pan; el sangak fue en su día el pan del ejército persa.",
+  "ingredientsText": "Harina integral, masa madre, agua, sal, sésamo"
+ },
+ "sarburma": {
+  "name": "Sarburma",
+  "description": "Pastel en capas en forma de caracol con relleno de carne, enrollado a partir de un largo cordón de masa.",
+  "history": "Sarburma significa «enrollado»; se hace para las fiestas en grandes bandejas.",
+  "ingredientsText": "Harina de trigo, mantequilla, huevo, cordero, cebolla"
+ },
+ "satsebeli": {
+  "name": "Satsebeli",
+  "description": "Salsa de tomate con ajo, guindilla y hierbas. Acompaña carnes, aves y jachapuri.",
+  "history": "La palabra satsebeli significa simplemente «salsa». Antes se hacía con bayas y frutas; la versión de tomate llegó después.",
+  "ingredientsText": "Tomates, ajo, guindilla, cilantro, albahaca, sal"
+ },
+ "shakarob": {
+  "name": "Shakarob",
+  "description": "Ensalada de tomate, pepino y cebolla con guindilla y hierbas, servida con pilaf y kebabs.",
+  "history": "El shakarob es el primo tayiko del achichuk uzbeko y se prepara justo antes de servir.",
+  "ingredientsText": "Tomates, pepinos, cebolla, guindilla, cilantro, albahaca"
+ },
+ "sharots": {
+  "name": "Sharots",
+  "description": "Nueces en un hilo bañadas en mosto espesado: la prima armenia de la churchjela.",
+  "history": "El sharots se hace en otoño tras la vendimia y se cuelga a secar.",
+  "ingredientsText": "Nueces, mosto de uva, harina"
+ },
+ "shchips": {
+  "name": "Shchips",
+  "description": "Salsa espesa de caldo o nata espesada con harina tostada, con ajo y pimiento rojo.",
+  "history": "El shchips se sirve con carne, pollo y pasta, y es difícil imaginar una mesa adigué sin él.",
+  "ingredientsText": "Caldo o nata, harina de trigo, mantequilla, ajo, pimiento rojo"
+ },
+ "shekerbura": {
+  "name": "Shakarbura",
+  "description": "Pastelito en media luna relleno de almendra o nuez molida con azúcar, decorado por encima con un dibujo hecho con pinzas.",
+  "history": "La shakarbura se hornea para Novruz. El dibujo de encima se llama najysh, y cada cocinera tiene el suyo.",
+  "ingredientsText": "Harina de trigo, mantequilla, huevos, leche, levadura, almendras o avellanas, azúcar, cardamomo"
+ },
+ "shekerchorek": {
+  "name": "Shakarchorek",
+  "description": "Galleta de mantequilla arenosa de harina, mantequilla y azúcar que se deshace en la boca.",
+  "history": "El shakarchorek se hornea para Novruz junto con los demás dulces de la mesa festiva.",
+  "ingredientsText": "Harina de trigo, mantequilla, azúcar glas, yema de huevo, cardamomo"
+ },
+ "sheki-halva": {
+  "name": "Halva de Shaki",
+  "description": "Dulce de encaje de harina de arroz relleno de avellanas y empapado en almíbar espeso.",
+  "history": "El fino encaje de arroz, llamado reshta, se vierte con un embudo: un secreto que se transmite en las familias de Shaki.",
+  "ingredientsText": "Harina de arroz, avellanas, azúcar, cardamomo, cilantro, azafrán"
+ },
+ "sherbet": {
+  "name": "Sorbete",
+  "description": "Bebida dulce y fría de zumo de frutas, pétalos de rosa, albahaca o azafrán, servida con pilaf.",
+  "history": "El sorbete se bebe en bodas y fiestas; su color y aroma cambian con la estación.",
+  "ingredientsText": "Agua, azúcar, zumo de limón, pétalos de rosa o semillas de albahaca, azafrán"
+ },
+ "shilaplavi": {
+  "name": "Shilaplavi",
+  "description": "Arroz cocido con cordero y cebolla hasta quedar cremoso y algo pegajoso, más cerca del risotto que de un pilaf suelto.",
+  "history": "El shilaplavi se hace en Svanetia y Racha para las fiestas, en grandes ollas para que haya para todos los invitados.",
+  "ingredientsText": "Arroz, cordero, cebolla, sal svana, aceite vegetal"
+ },
+ "shirazi-salad": {
+  "name": "Ensalada shirazi",
+  "description": "Pepino, tomate y cebolla roja en daditos con menta y agraz o zumo de limón.",
+  "history": "Lleva el nombre de Shiraz, la ciudad de poetas y jardines del sur de Irán.",
+  "ingredientsText": "Pepinos, tomates, cebolla roja, menta seca, zumo de limón, aceite de oliva"
+ },
+ "shirchoy": {
+  "name": "Shirchoy",
+  "description": "Té con leche, mantequilla y sal, a veces con trozos de pan: un desayuno saciante.",
+  "history": "El shirchoy se bebe temprano en las zonas de montaña, donde calienta y da energía.",
+  "ingredientsText": "Té, leche, mantequilla, sal"
+ },
+ "shirin-plov": {
+  "name": "Pilaf dulce",
+  "description": "Pilaf dulce con frutos secos, castañas y azafrán, servido en mesas festivas.",
+  "history": "Shirin significa «dulce»; es uno de los muchos tipos de pilaf azerbaiyano.",
+  "ingredientsText": "Arroz, pasas, orejones, castañas, mantequilla, azafrán, azúcar"
+ },
+ "shivit-oshi": {
+  "name": "Shivit oshi",
+  "description": "Fideos verde intenso de eneldo servidos con guiso de carne y leche agria: un plato de Jorezm.",
+  "history": "El eneldo va directamente a la masa, así que los fideos salen verdes y aromáticos.",
+  "ingredientsText": "Harina de trigo, eneldo, ternera, patatas, zanahorias, leche agria"
+ },
+ "shkmeruli": {
+  "name": "Shkmeruli",
+  "description": "Pollo frito horneado en una salsa cremosa de ajo en una cazuela de barro llamada ketsi. El ajo se usa con generosidad.",
+  "history": "El plato viene del pueblo de Shkmeri, en Racha. Las cazuelas de barro guardan el calor mucho tiempo, por eso el shkmeruli se sirve en ellas.",
+  "ingredientsText": "Pollo, nata o leche, ajo, mantequilla, sal"
+ },
+ "sholeh-zard": {
+  "name": "Sholeh zard",
+  "description": "Arroz con leche dulce con azafrán y agua de rosas, decorado con canela y almendras.",
+  "history": "El sholeh zard se cocina como promesa y se reparte entre los vecinos, decorado con dibujos y palabras de canela.",
+  "ingredientsText": "Arroz, azúcar, azafrán, agua de rosas, mantequilla, almendras, canela"
+ },
+ "shor-gogal": {
+  "name": "Shor gogal",
+  "description": "Bollos hojaldrados salados rellenos de harina, mantequilla, hinojo y cúrcuma.",
+  "history": "Shor significa «salado». El shor gogal es la versión bakuense del gogal de Novruz.",
+  "ingredientsText": "Harina de trigo, mantequilla, huevos, levadura, hinojo, cúrcuma, sal"
+ },
+ "shoti": {
+  "name": "Shoti",
+  "description": "Pan en forma de canoa cocido en las paredes de un horno de barro redondo llamado tone. Crujiente por fuera y tierno por dentro.",
+  "history": "Hay panaderías tone en todos los barrios de Tiflis. La gente compra shoti caliente por la mañana y se lo come por el camino.",
+  "ingredientsText": "Harina de trigo, levadura, agua, sal"
+ },
+ "shubat": {
+  "name": "Shubat",
+  "description": "Bebida fermentada de leche de camella, espesa y ligeramente dulce.",
+  "history": "El shubat se bebe en el sur de Kazajistán, donde se crían camellos.",
+  "ingredientsText": "Leche de camella, fermento"
+ },
+ "shurpa": {
+  "name": "Shurpa",
+  "description": "Sopa sustanciosa de cordero con trozos grandes de patata, zanahoria, tomate y hierbas.",
+  "history": "La shurpa se cocina en un kazán al fuego; la carne a menudo se dora antes de cocerla.",
+  "ingredientsText": "Cordero, patatas, zanahorias, tomates, cebolla, garbanzos, hierbas"
+ },
+ "simit": {
+  "name": "Simit",
+  "description": "Rosca de pan crujiente cubierta de sésamo que se vende en carritos callejeros y se come con queso y té.",
+  "history": "Antes de hornearlo, el simit se baña en melaza de uva, que da a la corteza su color dorado.",
+  "ingredientsText": "Harina de trigo, levadura, melaza de uva, sésamo"
+ },
+ "siskal": {
+  "name": "Siskal",
+  "description": "Pan de maíz sencillo cocido en sartén o en las brasas, servido con carne y caldo.",
+  "history": "El siskal es el pan cotidiano de los chechenos; en las montañas se cocía directamente en la ceniza del hogar.",
+  "ingredientsText": "Harina de maíz, agua, sal"
+ },
+ "sohan": {
+  "name": "Sohan",
+  "description": "Discos crujientes de azúcar, mantequilla y trigo germinado con azafrán y pistachos.",
+  "history": "El sohan es el dulce emblemático de Qom y se lleva de regalo en cajas de hojalata.",
+  "ingredientsText": "Azúcar, mantequilla, harina de trigo, trigo germinado, azafrán, pistachos, almendras"
+ },
+ "sokhta": {
+  "name": "Sojta",
+  "description": "Embutido hervido de estómago de cordero relleno de hígado, arroz y cebolla.",
+  "history": "La sojta es un plato festivo que se prepara justo después de sacrificar una oveja.",
+  "ingredientsText": "Estómago de cordero, hígado, arroz, grasa de cola, cebolla, pimienta"
+ },
+ "soko-ketsze": {
+  "name": "Setas en ketsi",
+  "description": "Setas horneadas con sulguni en una cazuela de barro ketsi y servidas en ella.",
+  "history": "El ketsi de barro conserva el calor, así que el queso sigue elástico hasta la última seta.",
+  "ingredientsText": "Setas, sulguni, mantequilla, sal"
+ },
+ "sokos-khinkali": {
+  "name": "Jinkali de setas",
+  "description": "Jinkali rellenos de setas, cebolla y hierbas: una versión sin carne de las famosas empanadillas.",
+  "history": "Los jinkali de setas se comen en días de ayuno; también se sujetan por el copete, pero guardan menos jugo.",
+  "ingredientsText": "Harina de trigo, setas, cebolla, cilantro, sal"
+ },
+ "spas": {
+  "name": "Spas",
+  "description": "Sopa caliente de yogur con matsun, trigo en grano, huevo y hierbas. Suave, ácida y reconfortante.",
+  "history": "El spas es una sopa casera de invierno. Para que el yogur no se corte, se remueve sin parar en un solo sentido.",
+  "ingredientsText": "Yogur matsun, trigo en grano, huevo, mantequilla, cebolla, menta, cilantro"
+ },
+ "su-boregi": {
+  "name": "Su böreği",
+  "description": "Pastel en capas de láminas de masa hervida con queso blanco y perejil, horneado en mantequilla.",
+  "history": "El «börek de agua» debe su nombre a que las láminas se sumergen en agua hirviendo antes de montarlo.",
+  "ingredientsText": "Harina de trigo, huevos, queso blanco, perejil, mantequilla"
+ },
+ "sudzhuk": {
+  "name": "Sujuk",
+  "description": "Embutido plano de ternera curado al aire con ajo y especias, cortado en lonchas finas.",
+  "history": "El sujuk se conoce en toda la región, de Armenia a Turquía. Las familias armenias lo hacían en otoño, cuando refrescaba.",
+  "ingredientsText": "Ternera, grasa de ternera, ajo, comino, pimentón, pimienta, sal"
+ },
+ "suluguni": {
+  "name": "Sulguni",
+  "description": "Queso en salmuera de textura elástica y hojaldrada y sabor salado. Se come fresco, frito y ahumado.",
+  "history": "El sulguni viene de Samegrelo. Se amasa en agua caliente, lo que lo hace elástico y en capas.",
+  "ingredientsText": "Leche de vaca, cuajo, sal"
+ },
+ "sumalak": {
+  "name": "Sumalak",
+  "description": "Pasta dulce de granos de trigo germinado cocida un día entero para Navruz.",
+  "history": "Todo el barrio cocina el sumalak de noche entre canciones, turnándose para remover; no lleva azúcar.",
+  "ingredientsText": "Trigo germinado, harina de trigo, aceite de algodón, agua"
+ },
+ "surj": {
+  "name": "Café armenio",
+  "description": "Café fuerte y finamente molido preparado en un cazo yazve y servido en tazas pequeñas con el poso.",
+  "history": "El café forma parte de la hospitalidad armenia, y a menudo se lee el poso al terminar la taza.",
+  "ingredientsText": "Café finamente molido, agua, azúcar al gusto"
+ },
+ "sutlac": {
+  "name": "Sütlaç",
+  "description": "Arroz con leche horneado hasta dorarse por encima y espolvoreado con canela.",
+  "history": "El sütlaç se vende en las muhallebici, tiendas que solo hacen postres lácteos.",
+  "ingredientsText": "Leche, arroz, azúcar, harina de arroz, vainilla, canela"
+ },
+ "tahchin": {
+  "name": "Tahchin",
+  "description": "«Pastel» de arroz al horno con yogur, huevo, azafrán y pollo dentro y una costra crujiente.",
+  "history": "El tahchin se vuelca en una fuente antes de servir para lucir su costra dorada.",
+  "ingredientsText": "Arroz, yogur, yema de huevo, azafrán, pollo, mantequilla, agracejo"
+ },
+ "tahdig": {
+  "name": "Tahdig",
+  "description": "La costra dorada y crujiente de arroz del fondo de la olla, servida como plato propio.",
+  "history": "En la mesa todos compiten por el tahdig: es la parte más apreciada del arroz persa.",
+  "ingredientsText": "Arroz, mantequilla, yogur, azafrán"
+ },
+ "tan": {
+  "name": "Tan",
+  "description": "Bebida refrescante de yogur matsun diluido en agua fría con una pizca de sal. Se bebe con calor y con la carne.",
+  "history": "El tan es la forma más sencilla de tomar matsun y se sirve en casi todos los locales armenios.",
+  "ingredientsText": "Yogur matsun, agua fría, sal"
+ },
+ "tantuni": {
+  "name": "Tantuni",
+  "description": "Ternera picada muy fina frita en aceite de algodón y envuelta en lavash fino con hierbas.",
+  "history": "El tantuni es la comida callejera de Mersin, cocinada en una ancha sartén abombada.",
+  "ingredientsText": "Ternera, lavash, tomates, cebolla, perejil, zumaque, aceite de algodón"
+ },
+ "tarkhuna": {
+  "name": "Tarjuna",
+  "description": "Limonada espumosa verde intenso con estragón, servida fría.",
+  "history": "Las limonadas de jarabes naturales las hizo famosas Mitrofán Laguidze en Tiflis a principios del siglo XX.",
+  "ingredientsText": "Estragón, azúcar, agua con gas, ácido cítrico"
+ },
+ "tava-kebab": {
+  "name": "Tava kebab",
+  "description": "Hamburguesitas de cordero picado horneadas en una sartén tava con huevo y tomate.",
+  "history": "Tava es la sartén en la que se sirve el plato; el huevo mantiene jugoso el kebab.",
+  "ingredientsText": "Cordero, cebolla, huevos, tomates, sal, pimienta"
+ },
+ "tavuk-gogsu": {
+  "name": "Tavuk göğsü",
+  "description": "Pudin de leche con hebras finísimas de pechuga de pollo: el pollo apenas se nota.",
+  "history": "Este curioso postre ha sobrevivido desde las cocinas del palacio otomano.",
+  "ingredientsText": "Pechuga de pollo, leche, azúcar, harina de arroz, canela"
+ },
+ "tendir-chorek": {
+  "name": "Pan de tandir",
+  "description": "Pan redondo cocido en las paredes de un horno de barro tandir, de corteza crujiente y miga tierna.",
+  "history": "Casi cada patio de pueblo tiene un tandir, y se dice que su pan sabe mejor en las primeras horas tras hornearse.",
+  "ingredientsText": "Harina de trigo, levadura, agua, sal"
+ },
+ "testi-kebab": {
+  "name": "Testi kebab",
+  "description": "Carne y verduras cocidas en una jarra de barro sellada que se rompe en la mesa.",
+  "history": "Un plato de Capadocia: romper la jarra se ha convertido en todo un espectáculo para los invitados.",
+  "ingredientsText": "Ternera o cordero, tomates, pimientos, cebolla, ajo"
+ },
+ "tika-kebab": {
+  "name": "Tika kebab",
+  "description": "Trozos de cordero marinado ensartados en brochetas con trocitos de grasa de cola y asados a la brasa.",
+  "history": "Tika significa «trozo». Es el tipo de kebab más común y aparece en todos los banquetes.",
+  "ingredientsText": "Cordero, grasa de cola, cebolla, sal, pimienta, zumaque"
+ },
+ "tkemali": {
+  "name": "Tkemali",
+  "description": "Salsa ácida y picante de ciruela cereza con ajo, eneldo, cilantro y poleo. El condimento por excelencia para el kebab y las patatas fritas.",
+  "history": "Tkemali es el nombre de la salsa y de la ciruela con que se hace. Hay tkemali verde, de fruta inmadura, y rojo, de fruta madura.",
+  "ingredientsText": "Ciruelas cereza, ajo, eneldo, cilantro, poleo, guindilla, sal"
+ },
+ "tklapi": {
+  "name": "Tklapi",
+  "description": "Finas láminas ácidas de fruta seca de ciruela cereza o ciruela, que se añaden al jarcho o se comen como tentempié.",
+  "history": "El tklapi es la manera georgiana de conservar fruta para el invierno, secada al sol sobre tablas de madera.",
+  "ingredientsText": "Ciruelas cereza o ciruelas"
+ },
+ "tolma-gruzinskaya": {
+  "name": "Tolma georgiana",
+  "description": "Hojas de parra rellenas de carne, arroz y hierbas, guisadas en caldo y servidas con matsoni al ajo.",
+  "history": "En Georgia la tolma se hace en primavera con hojas tiernas; para el invierno las hojas se encurten.",
+  "ingredientsText": "Hojas de parra, carne picada de ternera y cerdo, arroz, cebolla, cilantro, menta, matsoni, ajo"
+ },
+ "tsakharadzhyn": {
+  "name": "Tsajarajyn",
+  "description": "Pastel osetio de hojas de remolacha y queso. Masa fina, mucho relleno y mantequilla fundida por encima.",
+  "history": "En las fiestas los pasteles osetios se hornean de tres en tres, en alusión al sol, la tierra y el agua. El tsajarajyn se hornea en primavera y verano, cuando las hojas de remolacha son jóvenes y tiernas.",
+  "ingredientsText": "Harina de trigo, levadura, kéfir, mantequilla, hojas de remolacha, queso osetio, cebolleta"
+ },
+ "tsitsila-tabaka": {
+  "name": "Pollo tabaka",
+  "description": "Pollo aplastado frito bajo un peso hasta quedar crujiente, servido con salsa de ajo.",
+  "history": "El nombre viene de la sartén tapa en que se fríe el pollo bajo una tapa pesada.",
+  "ingredientsText": "Pollo tomatero, mantequilla, ajo, sal, pimienta"
+ },
+ "ttu-lavash": {
+  "name": "Ttu lavash",
+  "description": "Fina lámina agridulce de puré de ciruelas, albaricoques o cornejos, secada al sol.",
+  "history": "El nombre significa «lavash ácido». Se hacía en verano para tener vitaminas en invierno.",
+  "ingredientsText": "Ciruelas, albaricoques o cornejos"
+ },
+ "ttu-solenya": {
+  "name": "Encurtidos armenios",
+  "description": "Surtido de verduras encurtidas: col, pimientos, zanahorias, ajo y tomates verdes.",
+  "history": "Los encurtidos se sirven con el jash y el jorovats y se preparan en otoño en grandes tarros.",
+  "ingredientsText": "Col, pimientos, zanahorias, ajo, tomates verdes, sal"
+ },
+ "tukhum-barak": {
+  "name": "Tujum barak",
+  "description": "Empanadillas de Jorezm rellenas de huevo batido con leche y mantequilla.",
+  "history": "El relleno líquido se vierte en la masa y se cierra deprisa, lo que exige verdadera destreza.",
+  "ingredientsText": "Harina de trigo, huevos, leche, mantequilla, sal"
+ },
+ "tuppa": {
+  "name": "Tuppa",
+  "description": "Sopa con fideos caseros cortos, carne y verduras, terminada con tomate.",
+  "history": "La tuppa se cocina en los pueblos de montaña tayikos durante la estación fría.",
+  "ingredientsText": "Harina de trigo, cordero, patatas, zanahorias, tomates, cebolla"
+ },
+ "turshu-govurma": {
+  "name": "Turshu govurma",
+  "description": "Cordero frito con cebolla, ciruelas ácidas secas y castañas en una salsa agridulce.",
+  "history": "Turshu significa «ácido»; el plato se sirve con pilaf.",
+  "ingredientsText": "Cordero, cebolla, ciruelas ácidas secas, castañas, azafrán"
+ },
+ "tzhvzhik": {
+  "name": "Tjvjik",
+  "description": "Hígado y otras vísceras fritos con cebolla, tomate y especias. Un plato rápido y contundente.",
+  "history": "El tjvjik se cocinaba justo después de la matanza con las vísceras más frescas. El plato es conocido por una película armenia del mismo nombre.",
+  "ingredientsText": "Hígado de ternera o cordero, riñones, corazón, cebolla, tomates, pimienta, cilantro"
+ },
+ "ualibakh": {
+  "name": "Walibaj",
+  "description": "Pastel osetio de queso. Masa fina, mucho relleno y mantequilla fundida por encima.",
+  "history": "En las fiestas los pasteles osetios se hornean de tres en tres, en alusión al sol, la tierra y el agua. El walibaj es el pastel osetio más común y se hornea casi a diario.",
+  "ingredientsText": "Harina de trigo, levadura, kéfir, mantequilla, queso osetio"
+ },
+ "uch-badzhi": {
+  "name": "Dolma «tres hermanas»",
+  "description": "«Tres hermanas»: berenjenas, tomates y pimientos rellenos de carne y arroz y guisados juntos.",
+  "history": "El nombre viene de cocinar las tres verduras en una misma olla. Es una versión veraniega de la dolma.",
+  "ingredientsText": "Berenjenas, tomates, pimientos dulces, cordero, arroz, cebolla, hierbas"
+ },
+ "urbech": {
+  "name": "Urbech",
+  "description": "Pasta espesa de semillas de lino, almendras de albaricoque o nueces molidas en piedra, que se come con miel y mantequilla.",
+  "history": "En las montañas el urbech se llevaba de viaje como fuente rápida de energía.",
+  "ingredientsText": "Semillas de lino, almendras de albaricoque o nueces"
+ },
+ "uzbekskiy-plov": {
+  "name": "Plov uzbeko",
+  "description": "Arroz cocido en kazán con cordero, zanahoria amarilla, garbanzos, comino y cabezas de ajo enteras.",
+  "history": "La cultura y tradición del plov figura en la lista del patrimonio inmaterial de la UNESCO por Uzbekistán.",
+  "ingredientsText": "Arroz devzira, cordero, zanahorias amarillas, cebolla, garbanzos, comino, ajo, aceite de algodón"
+ },
+ "white-cherry-jam": {
+  "name": "Confitura de cereza blanca",
+  "description": "Confitura transparente de cerezas blancas con limón: un clásico de la mesa de té azerbaiyana.",
+  "history": "La confitura se sirve en platitos con té en vasos armudu en forma de pera.",
+  "ingredientsText": "Cerezas blancas, azúcar, limón"
+ },
+ "yantyk": {
+  "name": "Yantyk",
+  "description": "Empanadillas finas de carne o queso cocidas en sartén sin aceite y untadas con mantequilla.",
+  "history": "El yantyk es pariente de los chebureki, pero se cuece en sartén seca en lugar de freírse.",
+  "ingredientsText": "Harina de trigo, cordero o queso blanco, cebolla, mantequilla"
+ },
+ "yukha": {
+  "name": "Yuja",
+  "description": "Pan sin levadura muy fino cocido en un saj y guardado seco.",
+  "history": "Antes de comerlo, la yuja se rocía con agua y vuelve a ablandarse.",
+  "ingredientsText": "Harina de trigo, agua, sal"
+ },
+ "zereshk-polo": {
+  "name": "Zereshk polo",
+  "description": "Arroz con azafrán y agracejo ácido, servido con pollo y coronado con pistachos y almendras.",
+  "history": "El agracejo ácido y el azafrán dulce hacen de este un plato festivo y vistoso.",
+  "ingredientsText": "Arroz, agracejo, pollo, azafrán, mantequilla, azúcar, pistachos, almendras"
+ },
+ "zhent": {
+  "name": "Zhent",
+  "description": "Dulce de mijo tostado molido con mantequilla, azúcar, pasas y nueces.",
+  "history": "El zhent se sirve con té en las fiestas, prensado y cortado en trozos.",
+  "ingredientsText": "Mijo, mantequilla, azúcar, pasas, nueces, requesón"
+ },
+ "zhingyalov-hats": {
+  "name": "Zhingyalov hats",
+  "description": "Pan fino relleno de decenas de hierbas picadas, cocido en sartén sin aceite y comido caliente.",
+  "history": "El plato emblemático de Artsaj. En un solo pan entran hasta 20 tipos de hierbas silvestres y de huerta.",
+  "ingredientsText": "Harina de trigo, agua, espinacas, acedera, ortiga, cilantro, eneldo, cebolleta, aceite vegetal"
+ },
+ "zhizhig-chorpa": {
+  "name": "Zhizhig chorpa",
+  "description": "Caldo de carne sustancioso con patatas y hierbas, servido aparte con el zhizhig galnash.",
+  "history": "Chorpa significa «caldo»; se bebe en cuenco junto a la carne y las bolas de masa.",
+  "ingredientsText": "Ternera o cordero, patatas, cebolla, hierbas, sal"
+ },
+ "zhizhig-galnash": {
+  "name": "Zhizhig galnash",
+  "description": "Carne hervida con bolas de masa de harina de trigo o maíz, caldo y salsa de ajo. El plato principal de la mesa chechena.",
+  "history": "El nombre significa «carne con bolas de masa». Se cocina cuando llegan invitados y en las fiestas.",
+  "ingredientsText": "Ternera o cordero, harina de trigo o maíz, ajo, caldo, sal"
+ }
+}
