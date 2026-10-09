@@ -1154,7 +1154,7 @@
  "megruli-hachapuri": {
   "name": "Meqreliya xaçapurisi",
   "description": "İçində də, üstündə də pendir olan, bişməzdən əvvəl sulquni səpilən dəyirmi xaçapuri. Zəngin, çox pendirli lavaş alınır.",
-  "history": "Acı yeməkləri və sulquni sevgisi ilə tanınan Qərbi Gürcüstandakı Samеqrelodan (Meqreliya) gəlir.",
+  "history": "Acı yeməkləri və sulquni sevgisi ilə tanınan Qərbi Gürcüstandakı Sameqrelodan (Meqreliya) gəlir.",
   "ingredientsText": "Buğda unu, matsoni, yumurta, sulquni, imereti pendiri, kərə yağı"
  },
  "menemen": {
@@ -1226,7 +1226,7 @@
  "nadugi": {
   "name": "Naduği",
   "description": "Nazik sulquni laylarına bükülmüş nanəli və göyərtili zərif qaymaqlı kəsmik.",
-  "history": "Naduqi pendir hazırlamanın yan məhsuludur; Samеqreloda qəlyanaltı kimi verilir.",
+  "history": "Naduqi pendir hazırlamanın yan məhsuludur; Sameqreloda qəlyanaltı kimi verilir.",
   "ingredientsText": "Naduqi kəsmiyi, sulquni, nanə, keşniş, duz"
  },
  "narsharab": {
@@ -1596,7 +1596,7 @@
  "suluguni": {
   "name": "Sulquni pendiri",
   "description": "Elastik, laylı quruluşlu və duzlu dadlı duzlu pendir. Təzə, qızardılmış və hisə verilmiş yeyilir.",
-  "history": "Sulquni Samеqrelodan gəlir. Pendir isti suda yoğrulur, bu onu uzanan və laylı edir.",
+  "history": "Sulquni Sameqrelodan gəlir. Pendir isti suda yoğrulur, bu onu uzanan və laylı edir.",
   "ingredientsText": "İnək südü, maya, duz"
  },
  "sumalak": {
