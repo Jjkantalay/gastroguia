@@ -1,15 +1,20 @@
-// Готовит файлы для импорта новых блюд в WordPress (Инструменты → Импорт → WordPress).
+// Готовит файлы для импорта блюд в WordPress (Инструменты → Импорт → WordPress).
 // Запуск: npm run export:wordpress
 //
 // Получается то же, что на сайте: запись типа «bliuda» с полями JetEngine (nazvanie, opisanie,
-// istoriialevo, istoriiapravo, ingredienty-1, allergen1–3, foto), термин «kukhnia» и шаблон
-// Elementor «СтраницаБлюда». Блюда, которые уже есть на сайте, не выгружаются.
+// tsitata, istoriialevo, istoriiapravo, ingredienty-1, allergen1–3, foto), термин «kukhnia» и шаблон
+// Elementor «СтраницаБлюда».
 //
-//   wordpress/gastroguia-ru.xml  новые блюда на русском и новые кухни
-//   wordpress/gastroguia-en.xml  английские версии с полями WPML Export and Import
+//   wordpress/gastroguia-ru.xml    новые блюда на русском и новые кухни
+//   wordpress/gastroguia-<яз>.xml  переводы на 19 языков: новых блюд и тех, что уже есть на сайте
+//                                  (кроме английской и испанской версий старых блюд — они на сайте есть)
+//
+// Переводы связывает с русскими записями mu-плагин wordpress/gastroguia-after-import.php через API WPML:
+// по полям _gastroguia_lang и _gastroguia_slug он находит русскую запись, ставит язык, возвращает адрес
+// без «-2» и копирует фото.
 
 import { existsSync, mkdirSync, readFileSync, writeFileSync } from "node:fs";
-import type { ContentFile, ExtraFile, PhotosFile } from "../src/db/content";
+import type { ContentFile, ExtraFile, PhotosFile, TranslationsFile } from "../src/db/content";
 
 // Шаблон Elementor, через который на сайте выводится каждое блюдо
 const TEMPLATE_ID = Number(process.env.WP_TEMPLATE_ID ?? 6194);
@@ -18,7 +23,7 @@ const SITE = "https://gastroguia.ru";
 // Номера записей берём с запасом: импортёр всё равно выдаст свои, а связи внутри файла сохранит
 const FIRST_ID = 900000;
 
-type Lang = { code: string; cuisines: Record<string, string>; allergens: Record<string, string> };
+type Lang = { code: string; name: string; cuisines: Record<string, string>; allergens: Record<string, string> };
 
 const read = <T>(f: string): T => JSON.parse(readFileSync(`content/${f}`, "utf8"));
 const main = read<ContentFile>("dishes.json");
@@ -33,9 +38,10 @@ const pad = (n: number) => String(n).padStart(2, "0");
 const wpDate = (d: Date) =>
   `${d.getUTCFullYear()}-${pad(d.getUTCMonth() + 1)}-${pad(d.getUTCDate())} ${pad(d.getUTCHours())}:${pad(d.getUTCMinutes())}:${pad(d.getUTCSeconds())}`;
 
-// История на сайте выводится в две колонки — делим по предложениям примерно пополам
+// История на сайте выводится в две колонки — делим по предложениям примерно пополам.
+// Концы предложений: латиница и кириллица, китайский и японский «。», хинди «।», арабский «؟»
 function splitHistory(text: string): [string, string] {
-  const sentences = text.match(/[^.!?]+[.!?]+["»)]?\s*|[^.!?]+$/g) ?? [text];
+  const sentences = text.match(/[^.!?。！？।؟]+[.!?。！？।؟]+["»)」]?\s*|[^.!?。！？।؟]+$/g) ?? [text];
   let left = "";
   for (const s of sentences) {
     if (left && left.length + s.length / 2 > text.length / 2) break;
@@ -57,7 +63,7 @@ const meta = (fields: Record<string, string | number>) =>
     .map(([k, v]) => `\t\t<wp:postmeta><wp:meta_key>${cdata(k)}</wp:meta_key><wp:meta_value>${cdata(String(v))}</wp:meta_value></wp:postmeta>`)
     .join("\n");
 
-type Item = { id: number; title: string; slug: string; type: string; content: string; extraXml?: string; meta: Record<string, string | number>; parent?: number };
+type Item = { id: number; title: string; slug: string; type: string; date: string; content: string; extraXml?: string; meta: Record<string, string | number>; parent?: number };
 
 function itemXml(it: Item) {
   return `\t<item>
@@ -69,8 +75,8 @@ function itemXml(it: Item) {
 \t\t<content:encoded>${cdata(it.content)}</content:encoded>
 \t\t<excerpt:encoded>${cdata("")}</excerpt:encoded>
 \t\t<wp:post_id>${it.id}</wp:post_id>
-\t\t<wp:post_date>${cdata(wpDate(now))}</wp:post_date>
-\t\t<wp:post_date_gmt>${cdata(wpDate(now))}</wp:post_date_gmt>
+\t\t<wp:post_date>${cdata(it.date)}</wp:post_date>
+\t\t<wp:post_date_gmt>${cdata(it.date)}</wp:post_date_gmt>
 \t\t<wp:comment_status>${cdata("closed")}</wp:comment_status>
 \t\t<wp:ping_status>${cdata("closed")}</wp:ping_status>
 \t\t<wp:post_name>${cdata(it.slug)}</wp:post_name>
@@ -111,15 +117,22 @@ ${items.map(itemXml).join("\n")}
 }
 
 const ru = langs.find((l) => l.code === "ru")!;
-const en = langs.find((l) => l.code === "en")!;
 const cuisineName = new Map([...main.cuisines, ...(extra.cuisines ?? [])].map((c) => [c.slug, c.name]));
+const translationsOf = (code: string): TranslationsFile =>
+  existsSync(`content/translations/${code}.json`) ? read(`translations/${code}.json`) : {};
+const enTranslations = translationsOf("en");
 
-// Блюда, которые на сайте уже заполнены, не трогаем
+// Блюда, которые на сайте уже заполнены: русские записи не трогаем, добавляем только новые языки
 const onSite = new Set(main.dishes.map((d) => d.slug));
 const dishes = extra.dishes.filter((d) => !onSite.has(d.slug));
 
 // Пустые карточки на сайте с тем же адресом: их надо удалить до импорта, иначе получится kubdari-2
 const stubs = main.skipped.filter((s) => dishes.some((d) => d.slug === s.slug));
+
+// Аллергены старых блюд записаны русскими словами — переводим в коды по первым буквам
+const ruAllergen = Object.entries(ru.allergens);
+const allergenCodes = (words: string[]) =>
+  words.map((w) => ruAllergen.find(([, v]) => v.slice(0, 4) === w.toLowerCase().slice(0, 4))?.[0]).filter((c): c is string => !!c);
 
 const used = [...new Set(dishes.map((d) => d.cuisine))];
 const terms = used
@@ -128,89 +141,129 @@ const terms = used
   )
   .join("\n");
 
-const ruItems: Item[] = [];
-const enItems: Item[] = [];
+type Texts = { name: string; description: string; quote?: string | null; history?: string | null; ingredientsText?: string | null };
+// wpSlug — адрес записи на сайте (у старых блюд бывает другим: dolma, lobio-2), ruIds — номера их записей
+type Source = { slug: string; wpSlug: string; ruIds: number[]; cuisine: string; allergenCodes: string[]; texts: Record<string, Texts | undefined>; isNew: boolean; onSite: Set<string> };
+
+// Все блюда с текстами по языкам: русский, английский и content/translations/<язык>.json
+const sources: Source[] = [
+  ...main.dishes.map((d) => ({
+    slug: d.slug,
+    wpSlug: d.legacySlugs[0] ?? d.slug,
+    ruIds: d.wpIds,
+    cuisine: d.cuisine ?? "",
+    allergenCodes: allergenCodes(d.allergens),
+    texts: { ru: d, ...d.translations } as Record<string, Texts | undefined>,
+    isNew: false,
+    onSite: new Set(Object.keys(d.translations)),
+  })),
+  ...dishes.map((d) => ({ slug: d.slug, wpSlug: d.slug, ruIds: [] as number[], cuisine: d.cuisine, allergenCodes: d.allergenCodes, texts: { ru: d, en: d.translations.en } as Record<string, Texts | undefined>, isNew: true, onSite: new Set<string>() })),
+];
+for (const l of langs) {
+  if (l.code === "ru") continue;
+  const file = translationsOf(l.code);
+  for (const s of sources) {
+    const t = file[s.slug];
+    // Пустые поля перевода дополняем английскими, затем русскими
+    const base = s.texts[l.code] ?? s.texts.en ?? enTranslations[s.slug];
+    if (t || base) s.texts[l.code] = { ...base, ...Object.fromEntries(Object.entries(t ?? {}).filter(([, v]) => v)) } as Texts;
+  }
+}
+
+const content = `[elementor-template id="${TEMPLATE_ID}"]`;
 let nextId = FIRST_ID;
 let withPhoto = 0;
+const files = new Map<string, Item[]>(langs.map((l) => [l.code, []]));
 
-for (const d of dishes) {
-  const id = ++nextId;
-  const category = `\t\t<category domain="kukhnia" nicename="${d.cuisine}">${cdata(cuisineName.get(d.cuisine)!)}</category>\n`;
+function fields(s: Source, t: Texts, lang: Lang) {
+  const [left, right] = splitHistory(t.history ?? "");
+  return {
+    nazvanie: t.name,
+    kukhnia: lang.cuisines[s.cuisine] ?? `${cuisineName.get(s.cuisine)} кухня`,
+    opisanie: t.description,
+    tsitata: t.quote ?? "",
+    "ingredienty-1": t.ingredientsText ?? "",
+    "ingredienty-2": "",
+    ...allergenFields(s.allergenCodes, lang),
+    istoriialevo: left,
+    istoriiapravo: right,
+    // Как у блюд на сайте: WPML дублирует фото в переводы
+    _wpml_media_duplicate: 1,
+    _wpml_media_featured: 1,
+  };
+}
 
-  // Фото: импортёр сам скачает файл с Wikimedia Commons, если стоит галочка «Скачать и импортировать вложения»
-  const photo = photos[d.slug];
-  let photoId: number | null = null;
-  if (photo?.original) {
-    photoId = ++nextId;
-    withPhoto++;
-    ruItems.push({
-      id: photoId,
-      parent: id,
-      title: d.name,
-      slug: `${d.slug}-foto`,
-      type: "attachment",
-      content: `Фото: ${photo.author}, ${photo.license}. ${photo.source}`,
-      extraXml: `\t\t<wp:attachment_url>${cdata(photo.original)}</wp:attachment_url>\n`,
-      meta: { _wp_attachment_image_alt: d.name },
+for (const [li, lang] of langs.entries()) {
+  // Импортёр считает запись дублем, если совпали заголовок, текст и дата, — поэтому у каждого языка своя минута
+  const date = wpDate(new Date(now.getTime() + li * 60_000));
+  for (const s of sources) {
+    const t = s.texts[lang.code];
+    if (!t?.name || !t.description) continue;
+    // Старые блюда: русская запись и переводы из WPML (английский, испанский) на сайте уже есть
+    if (!s.isNew && (lang.code === "ru" || s.onSite.has(lang.code))) continue;
+    const items = files.get(lang.code)!;
+    const id = ++nextId;
+    const category = `\t\t<category domain="kukhnia" nicename="${s.cuisine}">${cdata(cuisineName.get(s.cuisine) ?? s.cuisine)}</category>\n`;
+
+    // Фото только у новых русских записей; переводам его скопирует mu-плагин
+    const photo = photos[s.slug];
+    let photoId: number | null = null;
+    if (lang.code === "ru" && photo?.original) {
+      photoId = ++nextId;
+      withPhoto++;
+      items.push({
+        id: photoId,
+        parent: id,
+        title: t.name,
+        slug: `${s.slug}-foto`,
+        type: "attachment",
+        date,
+        content: `Фото: ${photo.author}, ${photo.license}. ${photo.source}`,
+        extraXml: `\t\t<wp:attachment_url>${cdata(photo.original)}</wp:attachment_url>\n`,
+        meta: { _wp_attachment_image_alt: t.name },
+      });
+    }
+
+    const group = `gastroguia-${s.slug}`;
+    items.push({
+      id,
+      title: t.name,
+      slug: s.wpSlug,
+      type: "bliuda",
+      date,
+      content,
+      extraXml: category,
+      meta: {
+        ...fields(s, t, lang),
+        ...(photoId ? { foto: photoId, _thumbnail_id: photoId } : {}),
+        _gastroguia_lang: lang.code,
+        _gastroguia_slug: s.wpSlug,
+        // Старые блюда: среди этих записей плагин найдёт русскую
+        ...(s.ruIds.length ? { _gastroguia_ru_ids: s.ruIds.join(",") } : {}),
+        // Те же связи для плагина WPML Export and Import, если удобнее им
+        _wpml_import_language_code: lang.code,
+        ...(lang.code === "ru" ? {} : { _wpml_import_source_language_code: "ru" }),
+        _wpml_import_translation_group: group,
+      },
     });
   }
-
-  const fields = (t: { name: string; description: string; history: string; ingredientsText: string }, lang: Lang) => {
-    const [left, right] = splitHistory(t.history);
-    return {
-      nazvanie: t.name,
-      ...(photoId ? { foto: photoId, _thumbnail_id: photoId } : {}),
-      kukhnia: lang.cuisines[d.cuisine] ?? `${cuisineName.get(d.cuisine)} кухня`,
-      opisanie: t.description,
-      tsitata: "",
-      "ingredienty-1": t.ingredientsText,
-      "ingredienty-2": "",
-      ...allergenFields(d.allergenCodes, lang),
-      istoriialevo: left,
-      istoriiapravo: right,
-      // Как у блюд на сайте: WPML дублирует фото в переводы
-      _wpml_media_duplicate: 1,
-      _wpml_media_featured: 1,
-    };
-  };
-
-  const content = `[elementor-template id="${TEMPLATE_ID}"]`;
-  const group = `gastroguia-${d.slug}`;
-  ruItems.push({
-    id,
-    title: d.name,
-    slug: d.slug,
-    type: "bliuda",
-    content,
-    extraXml: category,
-    meta: { ...fields(d, ru), _wpml_import_language_code: "ru", _wpml_import_translation_group: group },
-  });
-  enItems.push({
-    id: ++nextId,
-    title: d.translations.en.name,
-    slug: d.slug,
-    type: "bliuda",
-    content,
-    extraXml: category,
-    meta: {
-      // Фото у английской версии проставит wordpress/gastroguia-fix-photos.php по русской записи
-      ...Object.fromEntries(Object.entries(fields(d.translations.en, en)).filter(([k]) => k !== "foto" && k !== "_thumbnail_id")),
-      _wpml_import_language_code: "en",
-      _wpml_import_source_language_code: "ru",
-      _wpml_import_translation_group: group,
-    },
-  });
 }
 
 mkdirSync("wordpress", { recursive: true });
-writeFileSync("wordpress/gastroguia-ru.xml", wxr("ru-RU", terms, ruItems));
-writeFileSync("wordpress/gastroguia-en.xml", wxr("en-US", "", enItems));
+const written: string[] = [];
+for (const lang of langs) {
+  const items = files.get(lang.code)!;
+  if (!items.length) continue;
+  const path = `wordpress/gastroguia-${lang.code}.xml`;
+  writeFileSync(path, wxr(lang.code, lang.code === "ru" ? terms : "", items));
+  written.push(`  ${path.padEnd(30)} ${lang.name}: записей ${items.filter((i) => i.type === "bliuda").length}`);
+}
 
-console.log(`Готово: блюд ${dishes.length}, с фото ${withPhoto}, новых кухонь ${used.filter((c) => !main.cuisines.some((m) => m.slug === c)).length}`);
-console.log("  wordpress/gastroguia-ru.xml\n  wordpress/gastroguia-en.xml");
+console.log(`Готово: новых блюд ${dishes.length}, с фото ${withPhoto}, новых кухонь ${used.filter((c) => !main.cuisines.some((m) => m.slug === c)).length}`);
+console.log(written.join("\n"));
 if (stubs.length) {
   console.log(`\nДо импорта удалите на сайте пустые карточки (Блюда → в корзину → очистить корзину), иначе адреса получат «-2»:`);
   for (const s of stubs) console.log(`  ${s.title} — ${SITE}/bliuda/${s.slug}/ (ID ${s.wpId})`);
 }
-if (withPhoto) console.log("\nПосле импорта включите wordpress/gastroguia-fix-photos.php — он проставит фото в поле «foto» (см. README)");
-if (!withPhoto) console.log("\nФото не добавлены: сначала выполните npm run photos:fetch");
+console.log("\nПосле импорта включите wordpress/gastroguia-after-import.php — он свяжет переводы в WPML и проставит фото (см. README)");
+if (!withPhoto) console.log("Фото не добавлены: сначала выполните npm run photos:fetch");
