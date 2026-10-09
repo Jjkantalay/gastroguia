@@ -1,0 +1,1818 @@
+{
+ "abgoosht": {
+  "name": "Abgusht (dizi)",
+  "description": "Zuppa d'agnello con ceci e patate in pentola di pietra: il brodo si beve con il pane e il resto si schiaccia.",
+  "history": "Il dizi è il cibo tradizionale dei quartieri operai di Teheran, con un suo rituale di servizio.",
+  "ingredientsText": "Agnello, ceci, fagioli bianchi, patate, pomodori, lime essiccato, curcuma"
+ },
+ "abkhazura": {
+  "name": "Abkhazura",
+  "description": "Polpette di manzo e maiale tritati con crespino e spezie, avvolte nella rete di maiale e fritte.",
+  "history": "Il nome rimanda a un'origine abcasa, ma il piatto appartiene pienamente alla cucina georgiana.",
+  "ingredientsText": "Manzo, maiale, rete di maiale, cipolla, crespino, aglio, coriandolo"
+ },
+ "abysta": {
+  "name": "Abysta",
+  "description": "Polenta densa di mais senza sale, servita al posto del pane con formaggio e carne.",
+  "history": "L'abysta si cuoce nel paiolo e si serve con una spatola di legno, spesso con pezzi di formaggio affondati dentro.",
+  "ingredientsText": "Farina di mais, acqua"
+ },
+ "achapa": {
+  "name": "Achapa",
+  "description": "Fagiolini o verdure a foglia lessati, conditi con pasta di noci, adjika ed erbe.",
+  "history": "L'achapa è la cugina abcasa del pkhali georgiano, spesso preparata con fagiolini e barbabietola.",
+  "ingredientsText": "Fagiolini o foglie di bietola, noci, adjika, coriandolo"
+ },
+ "achash": {
+  "name": "Achash",
+  "description": "Focacce di farina di mais o di grano ripiene di formaggio fresco e fritte nel burro.",
+  "history": "Nei villaggi abcasi l'achash si prepara a colazione con formaggio fatto in casa appena pronto.",
+  "ingredientsText": "Farina di mais o di grano, formaggio fresco, burro"
+ },
+ "achichuk": {
+  "name": "Achichuk",
+  "description": "Insalata di pomodori e cipolle a fette sottili con peperoncino ed erbe, servita con il plov.",
+  "history": "L'achichuk fresco bilancia il plov grasso; in Uzbekistan il plov non si serve mai senza.",
+  "ingredientsText": "Pomodori, cipolla, peperoncino, basilico, sale"
+ },
+ "achma": {
+  "name": "Achma",
+  "description": "Torta di formaggio a strati: sottili sfoglie di pasta bollita alternate a formaggio e burro e cotte al forno. Ricorda le lasagne per gusto e struttura.",
+  "history": "Piatto dell'Agiaria e dell'Abcasia. La bollitura delle sfoglie rende la torta morbida dentro e croccante sopra.",
+  "ingredientsText": "Farina di grano, uova, sulguni, formaggio imereti, burro"
+ },
+ "adana-kebab": {
+  "name": "Kebab di Adana",
+  "description": "Kebab piccante di agnello tritato a coltello con fiocchi di peperoncino, grigliato su un largo spiedo sulla brace.",
+  "history": "Prende il nome dalla città di Adana, nel sud della Turchia; la carne si trita a coltello e si unisce sempre al grasso di coda.",
+  "ingredientsText": "Agnello, grasso di coda, fiocchi di peperoncino, sale"
+ },
+ "adygeyskaya-sol": {
+  "name": "Sale adighè",
+  "description": "Sale macinato con aglio ed erbe secche: timo, aneto, coriandolo e pepe.",
+  "history": "Gli adighè preparavano questo sale per insaporire carne e formaggio tutto l'anno.",
+  "ingredientsText": "Sale, aglio, timo, aneto, coriandolo, peperoncino"
+ },
+ "adygeyskiy-syr": {
+  "name": "Formaggio adighè",
+  "description": "Formaggio morbido e delicato di latte pastorizzato, mangiato fresco, fritto o affumicato.",
+  "history": "Il formaggio adighè si caglia con siero acido anziché caglio; la forma viene dal cesto intrecciato in cui sgocciola.",
+  "ingredientsText": "Latte vaccino, siero acido, sale"
+ },
+ "adzhapsandali": {
+  "name": "Ajapsandali",
+  "description": "Stufato di melanzane, peperoni, pomodori e cipolle con molte erbe e aglio. Si serve caldo o freddo.",
+  "history": "Stufati di verdure simili esistono in tutto il Caucaso. In Georgia l'ajapsandali è amato soprattutto d'estate, quando le verdure sono mature.",
+  "ingredientsText": "Melanzana, peperone, pomodori, cipolla, aglio, coriandolo, basilico, olio vegetale"
+ },
+ "adzhika": {
+  "name": "Adjika",
+  "description": "Pasta piccante di peperoncino rosso, aglio, coriandolo e sale pestati sulla pietra. Ne basta un cucchiaio per dare fuoco a un piatto.",
+  "history": "Adjika in abcaso significa «sale»; un tempo i peperoncini si pestavano col sale per conservarli più a lungo.",
+  "ingredientsText": "Peperoncino rosso, aglio, coriandolo, fieno greco blu, sale"
+ },
+ "afarar": {
+  "name": "Afarar",
+  "description": "Sottili focacce ripiene di erbe selvatiche — ortica, acetosa, atriplice — e cipolla.",
+  "history": "Gli afarar si fanno in primavera, quando in montagna spuntano le prime erbe.",
+  "ingredientsText": "Farina di grano, acqua, ortica, acetosa, cipollotto, burro"
+ },
+ "akhar-khudar": {
+  "name": "Akhar khudar",
+  "description": "Polenta di mais cotta nel latte e finita con il burro. Una colazione semplice.",
+  "history": "Il mais è diventato una delle colture principali della Cecenia, e le sue polente si mangiano ogni giorno.",
+  "ingredientsText": "Farina di mais, latte, burro, sale"
+ },
+ "akuarchal": {
+  "name": "Akuarchal",
+  "description": "Piccole focacce di farina di mais cotte in padella calda o sotto la brace.",
+  "history": "L'akuarchal è il pane tradizionale degli abcasi, servito con zuppe e salse.",
+  "ingredientsText": "Farina di mais, acqua, sale"
+ },
+ "alani": {
+  "name": "Alani",
+  "description": "Pesche secche farcite di noci tritate con zucchero e cannella. Un dolce naturale senza cottura.",
+  "history": "Le pesche si essiccano intere al sole dopo aver tolto il nocciolo. Questi dolci si fanno nella valle dell'Ararat.",
+  "ingredientsText": "Pesche secche, noci, zucchero, cannella"
+ },
+ "arganak": {
+  "name": "Arganak",
+  "description": "Brodo di pollo limpido con polpettine di pollo ed erbe. Una zuppa di festa leggera.",
+  "history": "L'arganak si preparava per nozze e feste nella valle dell'Ararat. Il brodo sobbolle a lungo per restare limpido.",
+  "ingredientsText": "Pollo, riso, uovo, cipolla, coriandolo, sale"
+ },
+ "arishta": {
+  "name": "Arishta",
+  "description": "Tagliatelle all'uovo fatte in casa, saltate nel burro e servite con yogurt all'aglio.",
+  "history": "L'arishta si preparava in anticipo: la pasta si essiccava e si conservava tutto l'inverno. Si cucina in Armenia e in Artsakh.",
+  "ingredientsText": "Farina di grano, uova, burro, yogurt matsun, aglio"
+ },
+ "ash-reshteh": {
+  "name": "Ash reshteh",
+  "description": "Zuppa densa con tagliolini, legumi ed erbe, guarnita con kashk, cipolla fritta e menta.",
+  "history": "L'ash reshteh si cucina per Nowruz e per salutare chi parte; i tagliolini simboleggiano la strada.",
+  "ingredientsText": "Tagliolini reshteh, ceci, fagioli, lenticchie, spinaci, erbe, kashk, cipolla, menta"
+ },
+ "ashlyan-fu": {
+  "name": "Ashlyan-fu",
+  "description": "Zuppa fredda e piccante con spaghettoni, gelatina d'amido, strisce di frittata e condimento all'aceto.",
+  "history": "L'ashlyan-fu è un piatto dungano che ha reso famosa la città di Karakol, sul lago Issyk-Kul.",
+  "ingredientsText": "Spaghetti di grano, gelatina d'amido, uova, aceto, peperoncino, aglio, erbe"
+ },
+ "asure": {
+  "name": "Ashure",
+  "description": "Budino di grano, legumi, frutta secca e noci, cotto in grandi pentole e condiviso con i vicini.",
+  "history": "Secondo la leggenda, Noè preparò l'ashure con le ultime provviste dopo il Diluvio; si cucina nel mese di muharram.",
+  "ingredientsText": "Grano, ceci, fagioli, albicocche secche, uvetta, fichi, noci, zucchero, melagrana"
+ },
+ "avarskiy-hinkal": {
+  "name": "Khinkal avaro",
+  "description": "Grandi pezzi di pasta bollita serviti con carne, brodo e salsa all'aglio — da non confondere con i khinkali georgiani.",
+  "history": "Il khinkal è il piatto principale del Daghestan; la versione avara ha una pasta soffice tagliata a rombi e cotta nel brodo.",
+  "ingredientsText": "Farina di grano, kefir, bicarbonato, agnello o manzo, aglio, salsa di pomodoro"
+ },
+ "ayran": {
+  "name": "Ayran",
+  "description": "Bevanda rinfrescante di yogurt diluito con acqua fredda, sale e talvolta menta.",
+  "history": "L'ayran si beve in tutto il Caucaso e in Turchia, e si sposa benissimo con carni grasse e kebab.",
+  "ingredientsText": "Yogurt, acqua fredda, sale, menta"
+ },
+ "badambura": {
+  "name": "Badambura",
+  "description": "Rotolini di sottile pasta sfoglia ripieni di mandorle e zucchero, spolverati di zucchero a velo.",
+  "history": "Il nome viene da badam, «mandorla». A Baku la badambura si prepara per le feste.",
+  "ingredientsText": "Farina di grano, burro, uova, mandorle, zucchero, cardamomo"
+ },
+ "badrijani-nigvzit": {
+  "name": "Badrijani nigvzit",
+  "description": "Fette sottili di melanzana fritta arrotolate attorno a una pasta di noci con aglio e spezie, cosparse di chicchi di melagrana.",
+  "history": "Il nome significa «melanzane con noci». Un banchetto georgiano, la supra, raramente fa a meno di questo antipasto.",
+  "ingredientsText": "Melanzana, noci, aglio, coriandolo, khmeli suneli, aceto di vino, melagrana"
+ },
+ "bagany": {
+  "name": "Birra osseta",
+  "description": "Birra scura casalinga d'orzo o di mais con luppolo, prodotta per feste e riti.",
+  "history": "In osseto la birra si chiama baegaeny; si fa in grandi pentole e si serve in una ciotola comune.",
+  "ingredientsText": "Orzo o mais, luppolo, acqua, zucchero"
+ },
+ "baghali-polo": {
+  "name": "Baghali polo",
+  "description": "Riso con fave e tanto aneto, spesso servito con stinco d'agnello brasato.",
+  "history": "Un piatto primaverile, quando arrivano le fave fresche.",
+  "ingredientsText": "Riso, fave, aneto, burro, zafferano, stinco d'agnello"
+ },
+ "baklava": {
+  "name": "Baklava",
+  "description": "Decine di strati di pasta sottilissima con pistacchi, imbevuti di sciroppo: la versione turca della pakhlava.",
+  "history": "Il baklava al pistacchio di Gaziantep è registrato nell'UE come indicazione geografica protetta.",
+  "ingredientsText": "Pasta sottile, burro, pistacchi, zucchero, acqua, succo di limone"
+ },
+ "balyk-lyavangi": {
+  "name": "Lavangi di pesce",
+  "description": "Pesce ripieno di noci, cipolla e pasta di prugne acide, cotto al forno o nel tandoor.",
+  "history": "La versione di pesce del lavangi si prepara sul Caspio, di solito con kutum o carpa.",
+  "ingredientsText": "Pesce, noci, cipolla, pasta di prugne acide, sale"
+ },
+ "barbari": {
+  "name": "Barbari",
+  "description": "Pane piatto ovale e spesso, scanalato, con sesamo e nigella: il classico pane della colazione.",
+  "history": "Il barbari si mangia la mattina con formaggio, erbe e tè; somiglia al matnakash armeno.",
+  "ingredientsText": "Farina di grano, lievito, acqua, sale, sesamo, nigella"
+ },
+ "bastani-sonnati": {
+  "name": "Bastani sonnati",
+  "description": "Gelato persiano allo zafferano e acqua di rose con scaglie di panna congelata, cosparso di pistacchi.",
+  "history": "Spesso si serve tra due cialde, come un panino.",
+  "ingredientsText": "Latte, panna, zucchero, tuorli, zafferano, acqua di rose, salep, pistacchi"
+ },
+ "bastirma-kebab": {
+  "name": "Kebab bastirma",
+  "description": "Kebab di manzo o agnello marinato un giorno in cipolla e aceto prima della griglia.",
+  "history": "La lunga marinatura rende la carne tenerissima, quindi il bastirma si griglia in fretta.",
+  "ingredientsText": "Manzo o agnello, cipolla, aceto di vino, sale, pepe"
+ },
+ "basturma": {
+  "name": "Basturma",
+  "description": "Manzo essiccato all'aria e ricoperto di chaman, una pasta speziata di fieno greco, paprika e aglio. Tagliato sottilissimo e servito come antipasto.",
+  "history": "Stagionare la carne con le spezie è una pratica antica nella regione. L'essiccazione al vento permetteva di conservarla per mesi.",
+  "ingredientsText": "Filetto di manzo, sale, fieno greco, paprika, aglio, peperoncino"
+ },
+ "baursak": {
+  "name": "Baursak",
+  "description": "Palline o rombi di pasta lievitata fritti e serviti con il tè.",
+  "history": "I baursak si friggono per le feste e si offrono agli ospiti; la forma rotonda simboleggia il sole.",
+  "ingredientsText": "Farina di grano, lievito, latte, uova, zucchero, olio vegetale"
+ },
+ "bazhe": {
+  "name": "Bazhe",
+  "description": "Salsa densa di noci con aglio, spezie e aceto. Si serve con pollame, pesce e verdure fritte.",
+  "history": "Il bazhe è la base di molti piatti georgiani, compreso il satsivi. È amato soprattutto nella Georgia occidentale e si prepara per le feste.",
+  "ingredientsText": "Noci, aglio, coriandolo, fieno greco blu, peperoncino, aceto di vino, acqua"
+ },
+ "beshbarmak": {
+  "name": "Beshbarmak",
+  "description": "Carne di cavallo o agnello bollita su sottili quadrati di pasta con salsa di cipolla, servita con il brodo.",
+  "history": "Il nome significa «cinque dita», perché tradizionalmente si mangia con le mani.",
+  "ingredientsText": "Carne di cavallo o agnello, farina di grano, cipolla, brodo"
+ },
+ "boreg": {
+  "name": "Boereg",
+  "description": "Torta a strati di pasta sottile con ripieno di formaggio ed erbe, tagliata a quadrati.",
+  "history": "Gli armeni di tutto il mondo preparano il boereg, soprattutto nelle famiglie dell'Armenia occidentale.",
+  "ingredientsText": "Pasta sottile, formaggio bianco, uova, prezzemolo, burro"
+ },
+ "bozartma": {
+  "name": "Bozartma",
+  "description": "Agnello o pollo stufato con cipolla e pomodori nel proprio sugo fino a diventare tenero.",
+  "history": "Il bozartma è un piatto quotidiano; la carne si stufa subito senza rosolarla, così resta succosa.",
+  "ingredientsText": "Agnello o pollo, cipolla, pomodori, zafferano, sale, pepe"
+ },
+ "bozbash": {
+  "name": "Bozbash",
+  "description": "Zuppa densa d'agnello con ceci, patate e mele cotogne o mele. Sostanziosa e leggermente dolce.",
+  "history": "Il bozbash si prepara in tutto il Caucaso meridionale, diverso in ogni regione: con la cotogna a Erevan, con i piselli nello Shirak.",
+  "ingredientsText": "Agnello, ceci, patate, mela cotogna, cipolla, concentrato di pomodoro, erbe"
+ },
+ "cacik": {
+  "name": "Cacık",
+  "description": "Piatto freddo di yogurt con cetriolo, aglio, menta e olio d'oliva.",
+  "history": "Il cacık si allunga con acqua e si mangia come zuppa, oppure si serve denso con la carne.",
+  "ingredientsText": "Yogurt, cetriolo, aglio, menta, olio d'oliva, sale"
+ },
+ "chahohbili": {
+  "name": "Chakhokhbili",
+  "description": "Il chakhokhbili è uno stufato di pollo profumato che incarna lo spirito del banchetto georgiano. La carne stufata con pomodori, cipolla, aglio e spezie ha un gusto ricco e vivace. In origine si faceva con il fagiano, oggi con il pollo. Si serve con pane o riso per raccogliere il sugo.",
+  "quote": "Il chakhokhbili riunisce la famiglia a tavola; il suo profumo riempie la casa di calore",
+  "history": "Il nome viene da khokhobi, «fagiano»: in origine il piatto si faceva con la selvaggina. Poi il pollo sostituì il fagiano, e i pomodori, oggi indispensabili, sono entrati nella ricetta in tempi relativamente recenti.",
+  "ingredientsText": "Pollo 800 g\nCipolle 3\nPomodori 4\nPeperone ½\nAglio 3 spicchi\nCoriandolo, prezzemolo\nPeperoncino ½\nSpezie e sale"
+ },
+ "chakapuli": {
+  "name": "Chakapuli",
+  "description": "Agnello giovane o vitello stufati nel vino bianco con dragoncello, prugne verdi acerbe e molte erbe. Un piatto di primavera.",
+  "history": "Il chakapuli è legato alla Pasqua, quando arrivano erbe giovani, dragoncello e prugne acerbe, senza cui non si prepara.",
+  "ingredientsText": "Agnello o vitello, dragoncello, prugne verdi acide, vino bianco, coriandolo, cipollotto, aglio"
+ },
+ "chakka": {
+  "name": "Chakka",
+  "description": "Latticino fermentato denso e scolato, mangiato con erbe e pane.",
+  "history": "La chakka si ottiene scolando latte acido in sacchi: una via di mezzo tra ricotta e panna acida.",
+  "ingredientsText": "Latte acido, sale, erbe"
+ },
+ "chalop": {
+  "name": "Chalop",
+  "description": "Zuppa fredda di yogurt katyk e acqua con cetrioli, ravanello ed erbe.",
+  "history": "Il chalop salva dal caldo estivo, quando in Uzbekistan si superano i quaranta gradi.",
+  "ingredientsText": "Yogurt katyk, acqua, cetrioli, ravanello, aneto, coriandolo, sale"
+ },
+ "chanakhi": {
+  "name": "Chanakhi",
+  "description": "Agnello cotto in coccio con melanzane, patate, pomodori e molte erbe.",
+  "history": "Il chanakhi si cuoce in cocci monoporzione dove le verdure stufano nel sugo della carne; è amato soprattutto a Tbilisi.",
+  "ingredientsText": "Agnello, melanzane, patate, pomodori, cipolla, aglio, coriandolo, basilico"
+ },
+ "chashushuli": {
+  "name": "Chashushuli",
+  "description": "Manzo stufato con pomodori, cipolla, aglio e peperoncino. Un piatto casalingo semplice con un sugo ricco e piccante.",
+  "history": "Chashushuli significa «stufato». Questi stufati si fanno in tutta la Georgia, con carne e spezie che cambiano con le stagioni.",
+  "ingredientsText": "Manzo, pomodori, cipolla, aglio, peperoncino, coriandolo, khmeli suneli"
+ },
+ "chebureki": {
+  "name": "Chebureki",
+  "description": "Sottili mezzelune fritte con un succoso ripieno di agnello tritato e cipolla.",
+  "history": "I chebureki sono il piatto tataro di Crimea più famoso, amato ben oltre la Crimea.",
+  "ingredientsText": "Farina di grano, acqua, agnello, cipolla, erbe, olio vegetale"
+ },
+ "chechil": {
+  "name": "Chechil",
+  "description": "Formaggio a pasta filata tirato in fili e intrecciato, venduto fresco o affumicato.",
+  "history": "Il chechil si fila a mano in acqua calda e si mangia con la birra o nelle insalate.",
+  "ingredientsText": "Latte vaccino, caglio, sale"
+ },
+ "chepalgash": {
+  "name": "Chepalgash",
+  "description": "Sottili focacce ripiene di ricotta ed erbe; dopo la cottura si immergono in acqua calda, si imburrano e si impilano.",
+  "history": "Il chepalgash si prepara quando nasce un bambino e per le feste. La pila si taglia come una torta.",
+  "ingredientsText": "Farina di grano, kefir, ricotta, cipollotto, burro, sale"
+ },
+ "chetlibzh": {
+  "name": "Chetlibzh",
+  "description": "Pollo in salsa di panna acida e aglio con peperoncino: un piatto di festa adighè.",
+  "history": "Il chetlibzh si prepara per nozze e ospiti; la salsa si addensa con farina e si serve con la pasta (polenta di miglio).",
+  "ingredientsText": "Pollo, panna acida, cipolla, aglio, farina di grano, peperoncino"
+ },
+ "chikhirtma": {
+  "name": "Chikhirtma",
+  "description": "Zuppa di pollo addensata con uova sbattute e farina, acidulata con aceto o limone. Delicata e leggermente acidula.",
+  "history": "In Georgia la chikhirtma è considerata il miglior rimedio dopo un banchetto. Le uova si aggiungono alla fine per non farle rapprendere.",
+  "ingredientsText": "Pollo, cipolla, uova, farina di grano, aceto di vino, coriandolo"
+ },
+ "chilov": {
+  "name": "Chilov",
+  "description": "Riso sgranato cotto con fagioli, lenticchie o erbe, servito come contorno a carne e pesce.",
+  "history": "Il chilov è una forma semplice di pilaf in cui il riso cuoce insieme agli altri ingredienti.",
+  "ingredientsText": "Riso, fagioli mungo o lenticchie, burro, zafferano, sale"
+ },
+ "chirbuli": {
+  "name": "Chirbuli",
+  "description": "Uova al tegamino all'agiara con pomodori, cipolla, noci ed erbe.",
+  "history": "Il chirbuli è una colazione tradizionale dell'Agiaria; le noci lo rendono sostanzioso.",
+  "ingredientsText": "Uova, pomodori, cipolla, noci, coriandolo, burro"
+ },
+ "chuchvara": {
+  "name": "Chuchvara",
+  "description": "Piccoli ravioli di carne serviti in brodo o con latte acido.",
+  "history": "Tutta la famiglia prepara la chuchvara, congelata a lotti per l'inverno.",
+  "ingredientsText": "Farina di grano, uovo, manzo o agnello, cipolla, latte acido"
+ },
+ "chudu": {
+  "name": "Chudu",
+  "description": "Focaccia sottile ripiena di carne, ricotta, zucca o erbe, spennellata di burro.",
+  "history": "I chudu si fanno in tutto il Daghestan; il ripieno cambia con la stagione e le focacce si impilano.",
+  "ingredientsText": "Farina di grano, acqua, carne o ricotta, erbe, burro"
+ },
+ "churchkhela": {
+  "name": "Churchkhela",
+  "description": "Noci infilate su un filo, immerse più volte nel succo d'uva addensato con farina e poi essiccate: una «salsiccia» dolce.",
+  "history": "La churchkhela si fa in autunno dopo la vendemmia. Si portava in viaggio perché si conserva bene ed è molto nutriente.",
+  "ingredientsText": "Noci o nocciole, succo d'uva, farina di grano"
+ },
+ "chvishtari": {
+  "name": "Chvishtari",
+  "description": "Focaccine di mais con formaggio dentro, fritte fino a diventare croccanti. Il formaggio fuso le rende morbide al centro.",
+  "history": "Piatto dello Svaneti. Gli svani mescolano il sulguni nell'impasto, quindi i chvishtari sono più ricchi del normale mchadi.",
+  "ingredientsText": "Farina di mais, sulguni, burro, acqua"
+ },
+ "chygyrtma": {
+  "name": "Chighirtma",
+  "description": "Pollo o verdure saltati con cipolla e pomodori, con uova rotte alla fine.",
+  "history": "La chighirtma è veloce e semplice, con pollo, spinaci o melanzane.",
+  "ingredientsText": "Pollo, cipolla, pomodori, uova, burro, erbe"
+ },
+ "cig-kofte": {
+  "name": "Çiğ köfte",
+  "description": "Polpettine piccanti di bulgur fine con concentrato di pomodoro e di peperone, mangiate avvolte nella lattuga.",
+  "history": "Un tempo il çiğ köfte si faceva con carne cruda; oggi si vende di solito la versione senza carne.",
+  "ingredientsText": "Bulgur fine, pasta di peperone, concentrato di pomodoro, cipolla, erbe, melassa di melagrana"
+ },
+ "dimlama": {
+  "name": "Dimlama",
+  "description": "Carne e verdure a strati nel kazan, stufate con il coperchio nel proprio sugo.",
+  "history": "La dimlama si fa d'estate, quando le verdure abbondano; le foglie di cavolo sopra trattengono l'umidità.",
+  "ingredientsText": "Agnello, patate, carote, melanzane, peperoni, pomodori, cavolo, cipolla"
+ },
+ "dograma": {
+  "name": "Dograma",
+  "description": "Pezzi di pane sbriciolati in un brodo ricco con carne, cipolla e pomodori.",
+  "history": "La dograma si prepara per le feste, con tutta la famiglia che sbriciola pane e carne a mano.",
+  "ingredientsText": "Pane di grano, agnello, cipolla, pomodori, brodo"
+ },
+ "dolma-armyanskaya": {
+  "name": "Dolma",
+  "description": "La dolma è uno dei piatti più raffinati della cucina armena e un simbolo dell'ospitalità. Foglie di vite tenere e leggermente acide avvolgono un ripieno di riso, carne macinata ed erbe profumate. Si serve con matsun o salsa all'aglio ed è immancabile nelle feste e nelle cene di famiglia.",
+  "quote": "La dolma è l'arte dell'equilibrio: carne tenera, riso profumato e foglie di vite succose in armonia dal primo morso",
+  "history": "La dolma in foglie di vite si prepara in tutto il Caucaso e nel Medio Oriente. In Armenia si chiama tolma e si serve con matsun all'aglio; d'estate si usano foglie giovani, per l'inverno si mettono in salamoia.",
+  "ingredientsText": "Foglie di vite 400 g\nManzo 600 g\nMaiale 100 g\nRiso a chicco lungo 100 g\nCipolla 100 g\nBasilico fresco 20 g\nPrezzemolo 20 g\nCoriandolo 20 g\nPepe nero\nSale"
+ },
+ "dolma-azerbajdzhanskaya": {
+  "name": "Dolma",
+  "description": "La dolma è uno dei piatti più amati della cucina azera, preparato con grande cura. Foglie di vite o verdure (melanzane, pomodori, peperoni) si farciscono con riso, carne macinata ed erbe. Si serve con yogurt all'aglio ed è immancabile sulla tavola di festa.",
+  "quote": "La dolma azera non è solo foglie di vite: si farciscono anche melanzane, peperoni, pomodori e perfino frutti come la mela cotogna",
+  "history": "Il nome dolma viene dal verbo turco doldurmaq, «riempire».\n\nIn Azerbaigian la dolma ha molte varianti: oltre alle foglie di vite si farciscono peperoni, pomodori, mele cotogne, melanzane e altre verdure e frutti.",
+  "ingredientsText": "Macinato d'agnello e manzo 100 g\nFoglie di vite 120 g\nMenta, coriandolo e aneto, un po' di ciascuno\nBurro 20 g\nRiso 1 cucchiaio\nCipolla ¼\nSale e pepe"
+ },
+ "dondurma": {
+  "name": "Dondurma",
+  "description": "Gelato elastico di latte di capra con salep e mastice, così sodo da tagliarsi col coltello.",
+  "history": "Maraş è la patria del dondurma, e i venditori ci fanno veri spettacoli per i clienti.",
+  "ingredientsText": "Latte di capra, zucchero, salep, mastice"
+ },
+ "doshab": {
+  "name": "Doshab",
+  "description": "Melassa densa di succo d'uva o di gelso ridotto, mangiata col pane e usata nei dolci.",
+  "history": "Il doshab si riduce in autunno in grandi paioli di rame, senza zucchero aggiunto.",
+  "ingredientsText": "Succo d'uva o di gelso"
+ },
+ "dovga": {
+  "name": "Dovga",
+  "description": "Zuppa di latte acido o yogurt con riso e tante erbe, servita calda o fredda.",
+  "history": "D'estate la dovga si beve fredda per rinfrescarsi, d'inverno calda. Si mescola in un solo verso perché lo yogurt non impazzisca.",
+  "ingredientsText": "Yogurt, riso, uovo, spinaci, acetosa, aneto, coriandolo, menta"
+ },
+ "dulkh-khyaltam": {
+  "name": "Dulkh-khaltam",
+  "description": "Carne bollita con patate, cipolla e salsa all'aglio, talvolta con gnocchetti.",
+  "history": "Piatto delle zone montane della Cecenia, dove carne e patate sono la base della dieta invernale.",
+  "ingredientsText": "Manzo o agnello, patate, cipolla, aglio, farina di grano"
+ },
+ "dyushbara": {
+  "name": "Dushbara",
+  "description": "Minuscoli ravioli d'agnello in brodo limpido con menta e aceto all'aglio.",
+  "history": "Una cuoca abile fa la dushbara così piccola che più di dieci stanno in un cucchiaio.",
+  "ingredientsText": "Farina di grano, uovo, agnello, cipolla, menta, aceto di vino, aglio"
+ },
+ "dzavar-plov": {
+  "name": "Pilaf dzavar",
+  "description": "Pilaf di bulgur con vermicelli tostati e cipolla. Un contorno sgranato per la carne.",
+  "history": "Il bulgur è uno dei cereali più antichi della regione. Nei villaggi lo si faceva in casa bollendo ed essiccando il grano.",
+  "ingredientsText": "Bulgur, vermicelli, burro, cipolla, brodo"
+ },
+ "dzykka": {
+  "name": "Dzykka",
+  "description": "Piatto denso di formaggio fresco, panna acida e farina cotti finché il burro si separa.",
+  "history": "I pastori di montagna fanno la dzykka con formaggio fresco e la mangiano calda intingendo il pane.",
+  "ingredientsText": "Formaggio osseto fresco, panna acida, farina di grano o di mais, sale"
+ },
+ "eech": {
+  "name": "Eetch",
+  "description": "Insalata fredda di bulgur con concentrato di pomodoro, cipolla, erbe e limone. Un piatto di digiuno.",
+  "history": "L'eetch si prepara in Quaresima, quando si evitano carne e latticini. Si conserva bene e il giorno dopo è ancora più buono.",
+  "ingredientsText": "Bulgur, concentrato di pomodoro, pomodori, cipolla, prezzemolo, succo di limone, olio vegetale"
+ },
+ "elarji": {
+  "name": "Elarji",
+  "description": "Polenta densa con tanto sulguni, mescolata finché diventa filante. Si serve calda con carni e salse.",
+  "history": "Un classico della cucina mingrela. L'elarji si mescola a lungo e con forza con una spatola di legno: da questo dipende la sua elasticità.",
+  "ingredientsText": "Farina di mais, sulguni, acqua, sale"
+ },
+ "ezogelin-corbasi": {
+  "name": "Zuppa ezogelin",
+  "description": "Zuppa di lenticchie rosse con bulgur, riso, concentrato di pomodoro e menta secca.",
+  "history": "La zuppa prende il nome da Ezo, una giovane di Gaziantep la cui vita ha ispirato canzoni.",
+  "ingredientsText": "Lenticchie rosse, bulgur, riso, concentrato di pomodoro, menta, peperoncino"
+ },
+ "faloodeh": {
+  "name": "Faloodeh",
+  "description": "Sottili spaghetti di riso ghiacciati in sciroppo di acqua di rose, serviti con succo di limone.",
+  "history": "Il faloodeh di Shiraz è uno dei dessert ghiacciati più antichi del mondo.",
+  "ingredientsText": "Spaghetti di riso, zucchero, acqua di rose, succo di limone"
+ },
+ "fatir": {
+  "name": "Fatir",
+  "description": "Pane sfogliato al burro cotto nel tandoor: la base del qurutob.",
+  "history": "Il fatir si stende sottilissimo e si piega più volte con burro tra gli strati.",
+  "ingredientsText": "Farina di grano, burro, latte, sale"
+ },
+ "fisinjan": {
+  "name": "Fisinjan",
+  "description": "Polpette o pollo in una salsa densa di noci e melassa di melagrana.",
+  "history": "Piatto diffuso nel sud dell'Azerbaigian e in Iran, che bilancia l'acidità della melagrana con la dolcezza.",
+  "ingredientsText": "Pollo o manzo macinato, noci, melassa di melagrana, cipolla, zafferano"
+ },
+ "fydzhyn": {
+  "name": "Fydjyn",
+  "description": "Torta osseta di carne. Pasta sottile, ripieno abbondante e burro fuso sopra.",
+  "history": "Per le feste le torte ossete si fanno a tre, legate al sole, alla terra e all'acqua. Al centro del fydjyn si lascia un forellino perché esca il vapore senza perdere il sugo.",
+  "ingredientsText": "Farina di grano, lievito, kefir, burro, manzo, cipolla, aglio, pepe"
+ },
+ "gata": {
+  "name": "Gata",
+  "description": "La gata è il simbolo dolce della cucina armena, legato al calore di casa. È un dolce sfogliato con un ripieno di burro, farina e zucchero, croccante fuori e morbido dentro. Può essere rotonda come il sole o divisa in porzioni; si prepara per le feste o semplicemente per il tè, e ogni regione dell'Armenia ha la sua ricetta.",
+  "quote": "Ogni regione dell'Armenia ha la sua gata, ma una cosa non cambia: riunisce le persone alla stessa tavola",
+  "history": "La prima menzione scritta della gata risale al XIII secolo, ma non si sa quando sia nata. Ha assorbito lo spirito nazionale: nonostante le difficoltà fino al Novecento, gli armeni hanno preservato identità e cultura.\n\nLa gata è amata in Armenia e nella diaspora, che lontano da casa ha conservato i tratti della propria cucina.",
+  "ingredientsText": "Farina di grano 58 g\nBurro 33 g\nYogurt matsun 20 g\nBicarbonato 1 cucchiaino\nUn pizzico di sale\nPer il ripieno: burro fuso 13 g, zucchero vanigliato 1 cucchiaino, farina 40 g, zucchero a velo 41 g"
+ },
+ "gaz": {
+  "name": "Gaz",
+  "description": "Torrone morbido con pistacchi o mandorle, fatto con manna di tamerice e acqua di rose.",
+  "history": "Il gaz è il dolce di Isfahan, spolverato di farina perché i pezzi non si attacchino.",
+  "ingredientsText": "Zucchero, albumi, manna, acqua di rose, pistacchi o mandorle"
+ },
+ "gebzhalia": {
+  "name": "Gebzhalia",
+  "description": "Involtini di formaggio fresco in salsa di matsoni e menta, serviti freddi.",
+  "history": "Un piatto mingrelo preparato con formaggio fresco il giorno stesso della produzione.",
+  "ingredientsText": "Formaggio fresco, matsoni, menta, peperoncino, sale"
+ },
+ "gedlibzhe": {
+  "name": "Gedlibzhe",
+  "description": "Pollo stufato in una densa salsa di panna acida con cipolla, aglio e peperoncino, servito con la pasta (polenta di miglio).",
+  "history": "Il gedlibzhe è un piatto di festa cabardino; la salsa si addensa con farina tostata nel burro.",
+  "ingredientsText": "Pollo, panna acida, cipolla, aglio, farina di grano, peperoncino"
+ },
+ "ghapama": {
+  "name": "Ghapama",
+  "description": "Zucca intera ripiena di riso, frutta secca, noci e miele, cotta al forno e servita a spicchi.",
+  "history": "La ghapama è un piatto delle feste invernali; esiste perfino una canzone popolare, «Hey Ghapama».",
+  "ingredientsText": "Zucca, riso, albicocche secche, uvetta, prugne secche, noci, miele, burro, cannella"
+ },
+ "ghormeh-sabzi": {
+  "name": "Ghormeh sabzi",
+  "description": "Carne stufata con tante erbe soffritte, fagioli rossi e lime essiccato.",
+  "history": "Il ghormeh sabzi è spesso definito lo stufato preferito dell'Iran; sobbolle a lungo finché le erbe si scuriscono.",
+  "ingredientsText": "Agnello o manzo, prezzemolo, coriandolo, fieno greco, cipollotto, fagioli rossi, lime essiccato"
+ },
+ "gogal": {
+  "name": "Gogal",
+  "description": "Panini sfogliati rotondi con un ripieno speziato di farina, burro, finocchio e curcuma, salati o dolci.",
+  "history": "Il gogal è uno dei dolci principali di Novruz, insieme a shakarbura e pakhlava.",
+  "ingredientsText": "Farina di grano, burro, uova, lievito, finocchio, curcuma, sale"
+ },
+ "gomi": {
+  "name": "Gomi",
+  "description": "Polenta densa di mais senza sale né burro. Si mangia con sulguni, salse e carne, un po' come il pane.",
+  "history": "Il gomi è un alimento base della Georgia occidentale. Un tempo si faceva col miglio e, dopo l'arrivo del mais, con farina di mais.",
+  "ingredientsText": "Farina di mais, acqua"
+ },
+ "govurma": {
+  "name": "Govurma",
+  "description": "Carne fritta nel proprio grasso fino a dorarsi. Così un tempo si conservava l'agnello per l'inverno.",
+  "history": "La carne fritta si copriva di grasso e si conservava in barattoli. Oggi la govurma si cucina anche come piatto a sé.",
+  "ingredientsText": "Agnello, grasso di coda, cipolla, sale"
+ },
+ "gozinaki": {
+  "name": "Gozinaki",
+  "description": "Noci caramellate nel miele e tagliate a rombi. Un dolce semplice di due ingredienti.",
+  "history": "Il gozinaki è il dolce immancabile del Capodanno georgiano, messo in tavola perché l'anno sia dolce.",
+  "ingredientsText": "Noci, miele, zucchero"
+ },
+ "gozleme": {
+  "name": "Gözleme",
+  "description": "Sottile sfoglia piegata su formaggio, spinaci o patate e cotta sul saj.",
+  "history": "Il gözleme si stende e si cuoce davanti a te, tradizionalmente dalle donne dei villaggi.",
+  "ingredientsText": "Farina di grano, acqua, formaggio bianco, spinaci, burro"
+ },
+ "guruli-gvezeli": {
+  "name": "Gvezeli della Guria",
+  "description": "Torta a mezzaluna ripiena di formaggio e uova sode. Si prepara a Natale, per questo in Georgia si chiama anche khachapuri di Natale.",
+  "history": "Piatto della Guria, nella Georgia occidentale. La forma a mezzaluna si spiega in vari modi, ad esempio la somiglianza con un corno o con la luna.",
+  "ingredientsText": "Farina di grano, lievito, yogurt matsoni, sulguni, formaggio imereti, uova sode"
+ },
+ "gutap": {
+  "name": "Gutap",
+  "description": "Sottili mezzelune ripiene di carne, zucca o erbe, cotte in padella asciutta.",
+  "history": "Il gutap è il cugino turkmeno del qutab azero.",
+  "ingredientsText": "Farina di grano, agnello o zucca, cipolla, erbe"
+ },
+ "guubat": {
+  "name": "Guubat",
+  "description": "Fagottini triangolari ripieni di formaggio adighè e cotti al forno.",
+  "history": "I guubat si preparano per il tè e le feste; la forma triangolare è tradizionale nei dolci adighè.",
+  "ingredientsText": "Farina di grano, kefir, uovo, formaggio adighè, burro"
+ },
+ "guymag": {
+  "name": "Guymag",
+  "description": "Pappa dolce di farina tostata nel burro con zucchero o miele, curcuma e cannella.",
+  "history": "Il guymag si prepara per le puerpere e nei giorni freddi, perché considerato molto nutriente.",
+  "ingredientsText": "Farina di grano, burro, zucchero o miele, curcuma, cannella"
+ },
+ "gyrdzhyn": {
+  "name": "Gyrjyn",
+  "description": "Semplice pane piatto all'ayran cotto in padella o al forno, servito con carne e tè.",
+  "history": "Il gyrjyn è il pane quotidiano di karaciai e balcari, spesso ripieno di formaggio o patate.",
+  "ingredientsText": "Farina di grano, ayran, bicarbonato, sale"
+ },
+ "gyurza": {
+  "name": "Gyurza",
+  "description": "Ravioli di carne chiusi con un bordo intrecciato che ricorda le squame di un serpente, bolliti o fritti.",
+  "history": "La gyurza è un piatto di Baku che deve il nome a una vipera, perché il motivo della cucitura ne ricorda le squame.",
+  "ingredientsText": "Farina di grano, uovo, agnello, cipolla, sale"
+ },
+ "hachapuri": {
+  "name": "Khachapuri",
+  "description": "Il khachapuri è il simbolo della cucina georgiana, un pane al formaggio semplice e ricco di gusto. La pasta sottile con sulguni o formaggio imereti fuso unisce crosta croccante e cuore morbido. A seconda della regione è rotondo (Imerezia), a barca (Agiaria) o con il formaggio sopra (Mingrelia). Si serve caldo perché il formaggio fili.",
+  "quote": "Il khachapuri non è solo una torta al formaggio ma un'intera cultura: ovunque in Georgia ha il suo posto in tavola",
+  "history": "Il khachapuri si prepara in tutta la Georgia e quasi ogni regione ha la sua versione: imereti, mingrelo, agiaro, guriano. Il nome si spiega di solito come «pane alla cagliata», da khacho (cagliata) e puri (pane).",
+  "ingredientsText": "Latte 250 ml\nAcqua 250 ml\nLievito fresco 10 g\nZucchero 10 g\nSale 5 g\nFarina 700 g\nUova 2\nOlio di girasole 120 g\nSulguni 300 g\nFormaggio imereti 300 g\nFormaggio duro 50 g\nBurro 100 g"
+ },
+ "hachapuri-imeretinskij": {
+  "name": "Khachapuri imereti",
+  "description": "Pane rotondo chiuso pieno di formaggio imereti salato. È il khachapuri più diffuso in Georgia, sfornato in casa quasi ogni giorno.",
+  "history": "Prende il nome dalla regione dell'Imerezia, nella Georgia occidentale. L'impasto spesso contiene yogurt matsoni, che lo rende morbido e leggermente acidulo.",
+  "ingredientsText": "Farina di grano, yogurt matsoni, bicarbonato, formaggio imereti, burro"
+ },
+ "hachapuri-penovani": {
+  "name": "Khachapuri penovani",
+  "description": "Khachapuri di pasta sfoglia: il formaggio si chiude a quadrato o a busta e si cuoce fino a renderlo croccante e dorato. Uno spuntino da strada popolare a Tbilisi.",
+  "history": "Penovani significa «sfogliato». Questa versione è nata dopo le classiche e si è diffusa nelle panetterie di città.",
+  "ingredientsText": "Pasta sfoglia, sulguni, formaggio imereti, burro"
+ },
+ "hachapuri-po-adzharski": {
+  "name": "Khachapuri agiaro",
+  "description": "Una barchetta aperta di pasta lievitata piena di formaggio fuso, completata al momento con un tuorlo crudo e una noce di burro. Si mangia strappando il bordo e mescolandolo al ripieno.",
+  "history": "Il piatto viene dall'Agiaria, sulla costa georgiana del Mar Nero. La forma a barca è legata alla vita marinara della regione, il tuorlo al sole sul mare.",
+  "ingredientsText": "Farina di grano, lievito, latte, sulguni, formaggio imereti, uova, burro"
+ },
+ "halim": {
+  "name": "Halim",
+  "description": "Pappa densa di grano e carne frullata fino a renderla liscia, mangiata con cannella, zucchero e burro.",
+  "history": "L'halim si mangia a colazione d'inverno e durante il Ramadan, venduto in negozi dedicati.",
+  "ingredientsText": "Grano, tacchino o agnello, burro, cannella, zucchero"
+ },
+ "hamsi-tava": {
+  "name": "Hamsi tava",
+  "description": "Acciughe del Mar Nero passate nella farina di mais e fritte a ventaglio in padella.",
+  "history": "L'hamsi è il simbolo della costa turca del Mar Nero, protagonista di canzoni e barzellette.",
+  "ingredientsText": "Acciughe, farina di mais, farina di grano, olio vegetale, limone"
+ },
+ "harissa": {
+  "name": "Harissa",
+  "description": "Pappa densa di grano intero e pollo o agnello, cotta per ore e battuta fino a renderla liscia. Servita con burro fuso.",
+  "history": "La harissa si prepara per le feste e in memoria del 1915, quando la cucinavano i difensori del Musa Dagh. È uno dei piatti armeni più simbolici.",
+  "ingredientsText": "Grano decorticato, pollo o agnello, burro, sale"
+ },
+ "hash": {
+  "name": "Khash",
+  "description": "Il khash non è solo una zuppa: è una leggenda della cucina armena, un piatto che richiede tempo, pazienza e rispetto della tradizione. Si fa con piedi di manzo cotti a lungo finché la carne si stacca dalle ossa. Si serve caldo con aglio, erbe e lavash secco sbriciolato nel brodo, tradizionalmente di primo mattino, spesso dopo lunghi banchetti.",
+  "quote": "Il khash unisce. Tradizionalmente si mangia all'alba per fare il pieno di energia per tutta la giornata",
+  "history": "In origine era un piatto dei poveri; poi è diventato un simbolo della cultura e della tradizione culinaria armena.\n\nLa leggenda narra di un re che, passata la notte in un villaggio, assaggiò il khash e lo amò tanto da farne il piatto principale della sua tavola.",
+  "ingredientsText": "Piedi di manzo 1,5 kg\nTrippa di manzo 500 g\nAglio 3 teste\nRavanello nero 1"
+ },
+ "hingalsh": {
+  "name": "Khingalash",
+  "description": "Il khingalash è un piatto tipico della cucina cecena: focacce di pasta di grano non lievitata ripiene di zucca dolce. Il ripieno tenero si sposa con la pasta morbida, servita con burro fuso. Per renderle morbide, da sempre le focacce cotte si immergono in acqua calda.",
+  "quote": "Il piatto è così sostanzioso che, se un ospite mangia poco, il padrone di casa può dirgli: «Mangi come se avessi appena mangiato khingalash»",
+  "history": "In Cecenia si coltivano da tempo orzo, grano, miglio, mais, avena e riso, oltre a lino e cotone; orzo e grano sono i cereali più antichi. La pasta si faceva con e senza lievito.\n\nI ceceni conoscono da tempo il lievito di luppolo, detto khoyakhar. La pasta spesso si inacidisce con latte acido, e i ripieni sono di ricotta, formaggio fresco, purè o zucca.",
+  "ingredientsText": "Pasta di grano\nZucca dolce\nBurro chiarificato"
+ },
+ "hinkali": {
+  "name": "Khinkali",
+  "description": "I khinkali non sono semplici ravioli georgiani ma una vera arte. La pasta sottile ed elastica racchiude un ripieno succoso di carne macinata (manzo o maiale) con cipolla, aglio ed erbe. Il segreto è il brodo all'interno, che esplode al primo morso. Si mangiano con le mani tenendoli per il ciuffo, che per tradizione si lascia nel piatto.",
+  "quote": "I khinkali sono una vera avventura culinaria: ogni morso porta un'esplosione di succo e sapore",
+  "history": "I khinkali vengono dalle montagne della Georgia orientale — Pshavi, Khevsureti e Tusheti. La versione montana con carne tagliata e spezie si chiama mtiuluri, quella cittadina con erbe kalakuri. Si mangiano con le mani tenendo il ciuffo, che poi si lascia nel piatto.",
+  "ingredientsText": "Farina 500 g\nAcqua 400 ml\nSale 1½ cucchiaino\nVitello 250 g\nManzo 250 g\nStrutto 100 g\nCipolla 100 g\nAglio 2 spicchi\nCumino\nPeperoncino\nCoriandolo"
+ },
+ "horovacz-narsharab": {
+  "name": "Khorovats",
+  "description": "Il khorovats è un piatto armeno tradizionale di verdure grigliate, perfetto per una grigliata. Le verdure si arrostiscono sulla brace all'aperto o, a casa, al forno.",
+  "quote": "Il khorovats è un piatto preparato con l'anima",
+  "history": "La parola khorovats in armeno significa «grigliata». Le verdure per l'insalata si arrostiscono sulla brace all'aperto, o a casa al forno o sulla fiamma. Si servono con spiedini, patate, pesce alla griglia o semplicemente con lavash e pane fresco.",
+  "ingredientsText": "Melanzane 3\nPomodori 3\nPeperoni 2\nCipolla 1\nAglio 1 spicchio\nOlio vegetale\nSale\nPepe nero\nErbe"
+ },
+ "hunkar-begendi": {
+  "name": "Hünkâr beğendi",
+  "description": "Agnello stufato su una purea di melanzane affumicate con formaggio e salsa cremosa.",
+  "history": "Il nome significa «piacque al sultano»; il piatto è legato alla cucina del palazzo ottomano.",
+  "ingredientsText": "Agnello, melanzane, latte, burro, farina di grano, formaggio, pomodori"
+ },
+ "imam-bayildi": {
+  "name": "İmam bayıldı",
+  "description": "Melanzane stufate nell'olio d'oliva e farcite di cipolla, aglio e pomodori, servite fredde.",
+  "history": "Il nome significa «l'imam svenne» — di piacere, secondo la leggenda.",
+  "ingredientsText": "Melanzane, cipolla, aglio, pomodori, olio d'oliva, prezzemolo"
+ },
+ "imeruli-kveli": {
+  "name": "Formaggio imereti",
+  "description": "Formaggio giovane e morbido dal gusto delicato e salato: la base del khachapuri e un antipasto a sé.",
+  "history": "Si produce in Imerezia e si mangia quasi subito; non è fatto per una lunga stagionatura.",
+  "ingredientsText": "Latte vaccino, caglio, sale"
+ },
+ "iron-tsykht": {
+  "name": "Formaggio osseto",
+  "description": "Formaggio morbido in salamoia di latte vaccino o ovino, mangiato fresco e usato nelle torte.",
+  "history": "Nessuna torta osseta si fa senza questo formaggio; in osseto si chiama iron tsykht.",
+  "ingredientsText": "Latte vaccino o ovino, caglio, sale"
+ },
+ "ishkhan": {
+  "name": "Trota ishkhan",
+  "description": "Trota del Sevan cotta al forno o alla brace con limone ed erbe. Carne bianca e tenera con pochissime spine.",
+  "history": "Il nome significa «principe». La trota endemica del lago Sevan oggi è rara, perciò si alleva in allevamento.",
+  "ingredientsText": "Trota, limone, dragoncello, burro, sale"
+ },
+ "ishlekli": {
+  "name": "Ishlekli",
+  "description": "Grande torta rotonda di carne e cipolla cotta nella sabbia calda o sotto la brace.",
+  "history": "Nomadi e pastori cuociono l'ishlekli in pieno deserto, sepolto nella sabbia rovente.",
+  "ingredientsText": "Farina di grano, agnello, cipolla, sale"
+ },
+ "ishli-kyufta": {
+  "name": "Ishli kufta",
+  "description": "Palline di bulgur e carne con un ripieno di macinato fritto e noci, bollite o fritte.",
+  "history": "L'ishli kufta richiede abilità: il guscio deve essere sottile senza rompersi in cottura.",
+  "ingredientsText": "Bulgur, manzo, cipolla, noci, burro, spezie"
+ },
+ "iskender-kebab": {
+  "name": "Kebab İskender",
+  "description": "Fettine di carne allo spiedo su pane pide, con salsa di pomodoro, burro sfrigolante e yogurt.",
+  "history": "Il piatto nacque a Bursa nell'Ottocento, e la famiglia del suo ideatore ne usa ancora il nome.",
+  "ingredientsText": "Agnello o manzo, pane pide, salsa di pomodoro, burro, yogurt"
+ },
+ "ispanakhi-matsvnit": {
+  "name": "Spinaci con matsoni",
+  "description": "Spinaci lessati con matsoni, aglio ed erbe. Un contorno leggero per la carne.",
+  "history": "Nella cucina georgiana il matsoni si usa in salse e antipasti per ammorbidire i piatti piccanti.",
+  "ingredientsText": "Spinaci, matsoni, aglio, coriandolo, sale"
+ },
+ "izgara-kofte": {
+  "name": "Köfte alla griglia",
+  "description": "Polpettine di manzo macinato con cipolla e spezie, cotte sulla griglia.",
+  "history": "Ogni città turca ha le sue köfte, e a Istanbul ci sono locali che servono solo quelle.",
+  "ingredientsText": "Manzo macinato, cipolla, pangrattato, uovo, cumino, pepe"
+ },
+ "jarma": {
+  "name": "Jarma",
+  "description": "Bevanda rinfrescante di farina d'orzo tostata mescolata all'ayran.",
+  "history": "La jarma si beveva durante la fienagione: disseta e dà energia.",
+  "ingredientsText": "Farina d'orzo tostata, ayran, sale"
+ },
+ "jiz-biz": {
+  "name": "Jiz-biz",
+  "description": "Frattaglie d'agnello fritte con patate e cipolla; il nome imita lo sfrigolio in padella.",
+  "history": "Il jiz-biz è un piatto delle trattorie di Baku, cotto in fretta e servito caldo.",
+  "ingredientsText": "Fegato, rognoni e cuore d'agnello, grasso di coda, patate, cipolla"
+ },
+ "jonjoli": {
+  "name": "Jonjoli",
+  "description": "Boccioli fiorali sottaceto di stafilea, un arbusto che cresce nel Caucaso. Si servono con cipolla e olio come antipasto con la carne.",
+  "history": "Il jonjoli si raccoglie in primavera e si conserva per tutto l'anno. Ha un sapore acidulo che ricorda un po' i capperi.",
+  "ingredientsText": "Boccioli di stafilea, sale, aceto di vino, cipolla, olio vegetale"
+ },
+ "joojeh-kebab": {
+  "name": "Joojeh kabab",
+  "description": "Pezzi di pollo marinati in yogurt, limone e zafferano, grigliati sulla brace.",
+  "history": "Lo zafferano dà al joojeh kabab il suo colore dorato; spesso si serve insieme al koobideh.",
+  "ingredientsText": "Pollo, yogurt, succo di limone, zafferano, cipolla"
+ },
+ "kabuskadzhyn": {
+  "name": "Kabuskajyn",
+  "description": "Torta osseta con cavolo e formaggio. Pasta sottile, ripieno abbondante e burro fuso sopra.",
+  "history": "Per le feste le torte ossete si fanno a tre, legate al sole, alla terra e all'acqua. Quella al cavolo è amata soprattutto in autunno e inverno.",
+  "ingredientsText": "Farina di grano, lievito, kefir, burro, cavolo cappuccio, formaggio osseto"
+ },
+ "kada": {
+  "name": "Kada",
+  "description": "Dolce di pasta ricca con un ripieno di farina, burro e zucchero, friabile all'interno.",
+  "history": "In Georgia la kada si prepara per le feste. Armeni e azeri hanno dolci simili, e la ricetta varia da famiglia a famiglia.",
+  "ingredientsText": "Farina di grano, burro, zucchero, uova, yogurt matsoni, lievito, vaniglia"
+ },
+ "kaghamb-tolma": {
+  "name": "Tolma di cavolo",
+  "description": "Involtini armeni di foglie di cavolo ripieni di carne e riso, stufati in salsa di pomodoro.",
+  "history": "La tolma di cavolo si prepara in autunno e inverno, quando non ci sono foglie di vite.",
+  "ingredientsText": "Cavolo cappuccio, manzo macinato, riso, cipolla, concentrato di pomodoro, erbe"
+ },
+ "kalla-pacha": {
+  "name": "Kalla-pacha",
+  "description": "Zuppa ricca di testa e zampe d'agnello cotte per ore, servita con aglio e aceto.",
+  "history": "La kalla-pacha si mangia di primo mattino, come il khash, soprattutto d'inverno.",
+  "ingredientsText": "Testa d'agnello, zampe d'agnello, ceci, aglio, aceto di vino"
+ },
+ "karniyarik": {
+  "name": "Karnıyarık",
+  "description": "Melanzane fritte aperte e farcite di carne macinata, cipolla e pomodori.",
+  "history": "Il nome significa «pancia aperta»; è il fratello carnivoro dell'imam bayıldı.",
+  "ingredientsText": "Melanzane, manzo macinato, cipolla, pomodori, peperoni verdi"
+ },
+ "kartofdzhyn": {
+  "name": "Kartofjyn",
+  "description": "Torta osseta con patate e formaggio. Pasta sottile, ripieno abbondante e burro fuso sopra.",
+  "history": "Per le feste le torte ossete si fanno a tre, legate al sole, alla terra e all'acqua. Il ripieno di patate comparve quando la patata si diffuse nel Caucaso nell'Ottocento.",
+  "ingredientsText": "Farina di grano, lievito, kefir, burro, patate, formaggio osseto"
+ },
+ "kashk-e-bademjan": {
+  "name": "Kashk-e bademjan",
+  "description": "Purea di melanzane fritte con kashk, cipolla fritta, aglio e menta.",
+  "history": "Il kashk è un latticino fermentato essiccato che dà al piatto la sua profondità sapida.",
+  "ingredientsText": "Melanzane, kashk, cipolla, aglio, menta secca, noci"
+ },
+ "kashyk-burek": {
+  "name": "Kashyk burek",
+  "description": "Minuscoli ravioli in brodo di carne: il nome significa «burek da cucchiaio».",
+  "history": "Si fanno così piccoli che ne stanno diversi insieme in un cucchiaio.",
+  "ingredientsText": "Farina di grano, uovo, agnello, cipolla, brodo, menta"
+ },
+ "kazan-kebab": {
+  "name": "Kazan kebab",
+  "description": "Costine d'agnello e patate fritte nel kazan fino a dorarsi.",
+  "history": "Il kazan kebab si serve su un grande piatto con cipolla affettata sottile ed erbe.",
+  "ingredientsText": "Agnello, costine d'agnello, patate, cipolla, cumino, olio di semi di cotone"
+ },
+ "kazy": {
+  "name": "Kazy",
+  "description": "Salsiccia di carne e grasso di costola di cavallo in budello naturale, bollita o essiccata.",
+  "history": "Il kazy è il pezzo forte del dastarkhan kazako, servito a rondelle.",
+  "ingredientsText": "Carne di costola di cavallo, grasso di cavallo, sale, pepe, aglio"
+ },
+ "kchuch": {
+  "name": "Kchuch",
+  "description": "Carne e verdure cotte in un coccio, dove le verdure stufano nel sugo della carne fino a diventare tenerissime.",
+  "history": "Kchuch è il nome sia del piatto sia del coccio in cui cuoce.",
+  "ingredientsText": "Agnello, melanzana, patate, pomodori, peperoni, cipolla, erbe"
+ },
+ "kesme": {
+  "name": "Kesme",
+  "description": "Zuppa con tagliatelle fatte in casa tagliate a coltello, carne e verdure.",
+  "history": "Kesme significa «tagliato»; è una zuppa quotidiana nelle case kirghise.",
+  "ingredientsText": "Farina di grano, uovo, manzo, patate, carote, cipolla"
+ },
+ "khabizgina": {
+  "name": "Khabizgina",
+  "description": "Torta ripiena di purè di patate e formaggio osseto, delle zone montane di Georgia e Ossezia.",
+  "history": "Khabizgina è il nome georgiano della torta osseta di patate; si prepara a Kazbegi e in Racha.",
+  "ingredientsText": "Farina di grano, kefir, patate, formaggio osseto, burro"
+ },
+ "khadurdzhyn": {
+  "name": "Khadurjyn",
+  "description": "Torta osseta di fagioli. Pasta sottile, ripieno abbondante e burro fuso sopra.",
+  "history": "Per le feste le torte ossete si fanno a tre, legate al sole, alla terra e all'acqua. Quella di fagioli si prepara nei giorni di magro, senza carne.",
+  "ingredientsText": "Farina di grano, lievito, kefir, burro, fagioli rossi, cipolla"
+ },
+ "khalvaitar": {
+  "name": "Halvaitar",
+  "description": "Halva morbida di farina tostata nel burro con zucchero o miele e latte.",
+  "history": "L'halvaitar si prepara per le feste e per le puerpere come dolce nutriente.",
+  "ingredientsText": "Farina di grano, burro, zucchero o miele, latte"
+ },
+ "khalyuzh": {
+  "name": "Khalyuzh",
+  "description": "Fagottini triangolari fritti ripieni di formaggio adighè e cipolla o patate.",
+  "history": "I khalyuzh si fanno per le feste; la forma triangolare aiuta a friggerli in modo uniforme.",
+  "ingredientsText": "Farina di grano, kefir, formaggio adighè, cipollotto, olio vegetale"
+ },
+ "khamrashi": {
+  "name": "Khamrashi",
+  "description": "Zuppa con tagliolini fatti in casa, fagioli e piccole polpette.",
+  "history": "Il khamrashi è una zuppa invernale del sud dell'Azerbaigian, con tagliolini tagliati a mano sottilissimi.",
+  "ingredientsText": "Farina di grano, fagioli, agnello, cipolla, erbe"
+ },
+ "khanum": {
+  "name": "Khanum",
+  "description": "Rotolo di pasta sottile ripieno di carne, patate o zucca, cotto al vapore.",
+  "history": "Il khanum cuoce nella vaporiera per manty, poi si affetta e si condisce con la salsa.",
+  "ingredientsText": "Farina di grano, agnello, patate, cipolla, cumino"
+ },
+ "kharcho": {
+  "name": "Kharcho",
+  "description": "Zuppa densa di manzo con riso, tkemali o tklapi acidi, noci e spezie. Piccante, ricca e profumata.",
+  "history": "Il kharcho è una delle zuppe georgiane più note all'estero. In Mingrelia si fa senza riso e si serve più come uno stufato.",
+  "ingredientsText": "Manzo, riso, tkemali o tklapi, noci, cipolla, aglio, coriandolo, khmeli suneli"
+ },
+ "khashil": {
+  "name": "Khashil",
+  "description": "Pappa densa di farina e acqua servita con burro fuso e miele o melassa d'uva.",
+  "history": "Il khashil si prepara col freddo e per le puerpere; al centro si fa un incavo che si riempie di burro.",
+  "ingredientsText": "Farina di grano, acqua, burro, miele o melassa d'uva"
+ },
+ "khashlama": {
+  "name": "Khashlama",
+  "description": "Agnello o manzo stufati a grossi pezzi con verdure nel proprio sugo, talvolta con birra o vino.",
+  "history": "Il nome è legato alla parola «bollire». La khashlama si fa in una grande pentola per tutta la famiglia, con le verdure a strati.",
+  "ingredientsText": "Agnello o manzo, patate, pomodori, peperoni, cipolla, erbe, sale"
+ },
+ "khasip": {
+  "name": "Khasip",
+  "description": "Salsiccia in budello d'agnello ripiena di carne tritata, fegato e riso, bollita nel brodo.",
+  "history": "Il khasip si fa con le frattaglie d'agnello per le feste, senza sprecare nulla.",
+  "ingredientsText": "Budello d'agnello, agnello, fegato, riso, cipolla, cumino"
+ },
+ "khingal": {
+  "name": "Khingal",
+  "description": "Larghi quadrati di pasta bollita con carne e cipolla fritte, yogurt all'aglio e cagliata secca detta qurut.",
+  "history": "Il khingal si fa in Azerbaigian e nel Caucaso del Nord. Ogni zona taglia la pasta a modo suo, a quadrati o a rombi.",
+  "ingredientsText": "Farina di grano, agnello, cipolla, yogurt, aglio, qurut"
+ },
+ "khoresh-bademjan": {
+  "name": "Khoresh bademjan",
+  "description": "Stufato d'agnello con melanzane fritte, pomodori e uva acerba.",
+  "history": "Khoresh è il nome generico degli stufati persiani, serviti sempre con il riso.",
+  "ingredientsText": "Agnello, melanzane, pomodori, uva acerba, cipolla, curcuma"
+ },
+ "khoresh-gheymeh": {
+  "name": "Khoresh gheymeh",
+  "description": "Stufato d'agnello con piselli spezzati gialli, pomodoro e lime essiccato, guarnito con patatine croccanti a fiammifero.",
+  "history": "Il gheymeh si distribuisce tradizionalmente negli incontri religiosi del mese di muharram.",
+  "ingredientsText": "Agnello, piselli spezzati gialli, concentrato di pomodoro, lime essiccato, cipolla, patate"
+ },
+ "khorovats-ovoshchnoy": {
+  "name": "Khorovats di verdure",
+  "description": "Melanzane, pomodori e peperoni arrostiti sulla brace, spellati e tritati con aglio ed erbe.",
+  "history": "Le verdure si arrostiscono sulla stessa brace del khorovats di carne e si servono insieme.",
+  "ingredientsText": "Melanzane, pomodori, peperoni, aglio, coriandolo, sale"
+ },
+ "khychiny": {
+  "name": "Khychin",
+  "description": "Sottili focacce ripiene di patate e formaggio o carne, cotte in padella asciutta e spennellate di burro.",
+  "history": "Il khychin è un piatto balcaro e karaciai, popolare in tutta la Cabardino-Balcaria.",
+  "ingredientsText": "Farina di grano, kefir, patata, formaggio, burro"
+ },
+ "khyovla": {
+  "name": "Khovla",
+  "description": "Halva cecena di farina tostata, burro e zucchero o miele, tagliata a rombi.",
+  "history": "La khovla si prepara per commemorazioni e feste e si condivide con i vicini.",
+  "ingredientsText": "Farina di grano, burro, zucchero o miele"
+ },
+ "kisir": {
+  "name": "Kısır",
+  "description": "Insalata di bulgur fine con concentrato di pomodoro e di peperone, erbe, limone e melassa di melagrana.",
+  "history": "Il kısır si serve agli incontri in casa con il tè, avvolto in foglie di lattuga.",
+  "ingredientsText": "Bulgur fine, concentrato di pomodoro, pasta di peperone, cipollotto, prezzemolo, limone, melassa di melagrana"
+ },
+ "kobete": {
+  "name": "Kobete",
+  "description": "Grande torta rotonda ripiena di carne, patate e cipolla.",
+  "history": "La kobete si prepara per feste e celebrazioni familiari, decorata con motivi di pasta.",
+  "ingredientsText": "Farina di grano, burro, uovo, agnello, patate, cipolla"
+ },
+ "kok-choy": {
+  "name": "Kok choy (tè verde)",
+  "description": "Tè verde bevuto dalle ciotole tutto il giorno e servito a ogni pasto.",
+  "history": "L'ospite riempie la ciotola del visitatore solo a metà per poterla riempire spesso, segno di premura.",
+  "ingredientsText": "Tè verde, acqua"
+ },
+ "kololik": {
+  "name": "Kololak",
+  "description": "Zuppa con grandi polpette di carne e riso in brodo di pomodoro: ogni polpetta è quasi un pasto.",
+  "history": "Piatto della regione di Shirak. Si aggiungono riso e uovo alla carne perché le polpette tengano la forma in cottura.",
+  "ingredientsText": "Manzo macinato, riso, uovo, cipolla, concentrato di pomodoro, erbe, sale"
+ },
+ "koobideh": {
+  "name": "Kabab koobideh",
+  "description": "Kebab di agnello macinato con cipolla su larghi spiedi, servito con riso, pomodori grigliati e sommacco.",
+  "history": "Il koobideh con riso, detto chelow kabab, è considerato il piatto nazionale dell'Iran.",
+  "ingredientsText": "Agnello, cipolla, sale, pepe, sommacco, riso, pomodori"
+ },
+ "kubdari": {
+  "name": "Kubdari",
+  "description": "Torta chiusa con abbondante ripieno di carne tagliata a coltello, cipolla e spezie svane. La carne si taglia invece di macinarla, così il ripieno resta succoso e a pezzi.",
+  "history": "Piatto tradizionale dello Svaneti, la regione montana della Georgia. Si condisce con il sale svano, un mix di sale, erbe e spezie.",
+  "ingredientsText": "Farina di grano, lievito, manzo, maiale, cipolla, sale svano, coriandolo, aglio"
+ },
+ "kuchmachi": {
+  "name": "Kuchmachi",
+  "description": "Frattaglie fritte — fegato, cuore e polmoni — con cipolla, melagrana e noci tritate. Servito caldo.",
+  "history": "Il kuchmachi nasce da una cucina parsimoniosa in cui dopo la macellazione nulla va sprecato. Si prepara spesso per le feste.",
+  "ingredientsText": "Fegato, cuore e polmoni di manzo o maiale, cipolla, noci, melagrana, coriandolo"
+ },
+ "kufta-bozbash": {
+  "name": "Kufta bozbash",
+  "description": "Zuppa di grandi polpette d'agnello e riso, ognuna con una prugna acida secca dentro, cotta con ceci e patate.",
+  "history": "La prugna nascosta in ogni polpetta è una sorpresa e una fonte di acidità che emerge in cottura.",
+  "ingredientsText": "Agnello, riso, ceci, patate, prugne acide secche, cipolla, zafferano, menta"
+ },
+ "kumpir": {
+  "name": "Kumpir",
+  "description": "Enorme patata al forno schiacciata con burro e formaggio e farcita con una dozzina di condimenti.",
+  "history": "Il kumpir è diventato famoso a Ortaköy, a Istanbul, dove si vende lungo il Bosforo.",
+  "ingredientsText": "Patate, burro, formaggio, mais dolce, olive, sottaceti, würstel"
+ },
+ "kumys": {
+  "name": "Kumis",
+  "description": "Bevanda fermentata di latte di cavalla, leggermente frizzante e rinfrescante.",
+  "history": "I nomadi delle steppe conoscono il kumis dall'antichità; si sbatte in un otre di pelle.",
+  "ingredientsText": "Latte di cavalla, fermento"
+ },
+ "kunefe": {
+  "name": "Künefe",
+  "description": "Dolce caldo di pasta kadayıf sfilacciata con formaggio non salato fuso, imbevuto di sciroppo.",
+  "history": "Il künefe è l'orgoglio di Hatay, nel sud della Turchia, e si serve appena sfornato con pistacchi.",
+  "ingredientsText": "Pasta kadayıf, formaggio non salato, burro, sciroppo di zucchero, pistacchi"
+ },
+ "kupaty": {
+  "name": "Kupati",
+  "description": "Salsicce fritte di maiale o manzo con spezie, aglio e crespino in budello naturale. Servite con melagrana e cipolla.",
+  "history": "In Georgia i kupati si friggono in padella o sulla brace. In epoca sovietica divennero popolari ben oltre il paese.",
+  "ingredientsText": "Maiale o manzo, budello naturale, aglio, crespino, coriandolo, pepe"
+ },
+ "kurt": {
+  "name": "Kurt",
+  "description": "Palline salate ed essiccate di latte acido pressato, che durano a lungo e placano la fame.",
+  "history": "Il kurt si portava nei lunghi viaggi; si sgranocchia o si scioglie in acqua per fare salse.",
+  "ingredientsText": "Latte acido, sale"
+ },
+ "kurze": {
+  "name": "Kurze",
+  "description": "Ravioli daghestani a goccia con bordo intrecciato, ripieni di carne, zucca, ortica o ricotta.",
+  "history": "La treccia del kurze mostra l'abilità della cuoca: più è fine il disegno, meglio è, si dice.",
+  "ingredientsText": "Farina di grano, acqua, agnello o manzo, cipolla, sale"
+ },
+ "kutaby": {
+  "name": "Qutab",
+  "description": "I qutab sono focacce sottili che conquistano per semplicità e gusto raffinato. Il ripieno va dalle erbe succose (coriandolo, aneto, spinaci) alla carne tenera o alla zucca. Si cuociono in padella asciutta fino a dorarli e poi si spennellano di burro fuso. Si servono con yogurt o una bevanda di latte fermentato. Uno spuntino ideale o una cena leggera.",
+  "quote": "I qutab sono focacce sottili ripiene di carne, erbe, zucca o formaggio, servite con salse allo yogurt",
+  "history": "La storia dei qutab risale all'antichità, quando si usavano gli avanzi della pasta del pane per preparare questo piatto gustoso.",
+  "ingredientsText": "Farina di grano 96 g\nOlio vegetale raffinato 1 cucchiaio\nCipolla 1\nBurro 1 cucchiaio\nPrezzemolo 80 g\nSommacco a piacere\nUn pizzico di sale"
+ },
+ "kuyrdak": {
+  "name": "Kuyrdak",
+  "description": "Padellata di agnello e frattaglie — fegato, cuore e rognoni — con cipolla.",
+  "history": "Il kuyrdak si cucina subito dopo la macellazione per offrire agli ospiti carne fresca.",
+  "ingredientsText": "Agnello, fegato, cuore, rognoni, grasso di coda, cipolla"
+ },
+ "kyata": {
+  "name": "Kata",
+  "description": "Focaccia sfogliata e ricca con un ripieno di farina, burro e zucchero, servita col tè.",
+  "history": "La kata è nota in Azerbaigian e Armenia; in alcune zone è dolce, in altre salata.",
+  "ingredientsText": "Farina di grano, burro, uova, latte, lievito, zucchero"
+ },
+ "kyufta": {
+  "name": "Kyufta",
+  "description": "Grandi palle di manzo finemente battuto, bollite e tagliate a fette. Servite con burro e cipolla.",
+  "history": "La kyufta è l'orgoglio di Gyumri. La carne non si macina ma si batte con mazzuoli di legno fino a ridurla in pasta.",
+  "ingredientsText": "Manzo, cipolla, uovo, burro, sale, pepe"
+ },
+ "kyukyu": {
+  "name": "Kuku",
+  "description": "Frittata al forno piena di erbe, a volte con noci e crespino, servita tiepida o fredda.",
+  "history": "Il kuku si prepara per Novruz; il colore verde simboleggia la primavera.",
+  "ingredientsText": "Uova, coriandolo, aneto, spinaci, cipollotto, noci, burro"
+ },
+ "lagman": {
+  "name": "Lagman",
+  "description": "Spaghetti tirati a mano con un sugo di carne e verdure: peperoni, ravanello, pomodori e aglio.",
+  "history": "Il lagman arrivò agli uzbeki da uiguri e dungani; la pasta si tira e si sbatte sul tavolo finché è sottile.",
+  "ingredientsText": "Farina di grano, manzo o agnello, peperoni, ravanello, pomodori, cipolla, aglio"
+ },
+ "lahmadzho": {
+  "name": "Lahmajo",
+  "description": "Il lahmajo è la «pizza» armena, semplice e saporita. Un sottile disco di pasta viene coperto di carne macinata, pomodori, cipolla e spezie e cotto finché croccante. Spesso si arrotola e si mangia con erbe, succo di limone o matsun. Uno spuntino di strada popolare e un preferito delle famiglie.",
+  "quote": "Gli armeni dicono che il lahmajo è «cibo per l'anima»: semplice e ricco di gusto, piace a tutti",
+  "history": "Nei paesi arabi il piatto si chiama lahmacun o lahm bi ajin. In attesa dell'ordine, i clienti osservano la pasta trasformarsi nel forno: si allarga, fa le bolle e si gonfia in pochi secondi.\n\nGli armeni sono la più grande comunità cristiana della Giordania dopo i cristiani arabi, e il lahmajo si vende nelle panetterie armene di Amman.",
+  "ingredientsText": "Per la pasta: kefir o matsoni 250 ml, farina di grano 400–450 g, sale ½ cucchiaino"
+ },
+ "lakume": {
+  "name": "Lakume",
+  "description": "Soffici frittelle di pasta lievitata, servite con tè, miele o carne.",
+  "history": "Le lakume si distribuiscono a feste e commemorazioni; la forma a rombo è la più tradizionale.",
+  "ingredientsText": "Farina di grano, lievito, latte, uova, zucchero, olio vegetale"
+ },
+ "lavash": {
+  "name": "Lavash",
+  "description": "Pane sottile non lievitato steso e cotto sulle pareti di un forno tonir. Il lavash secco si conserva per mesi.",
+  "history": "La preparazione del lavash come espressione della cultura armena è iscritta nel patrimonio immateriale UNESCO.",
+  "ingredientsText": "Farina di grano, acqua, sale"
+ },
+ "lepeshka-non": {
+  "name": "Non uzbeko",
+  "description": "Pane rotondo del tandoor con il centro sottile e stampato e il bordo gonfio.",
+  "history": "Il motivo si imprime con il timbro chekich; il pane non si posa mai capovolto, è irrispettoso.",
+  "ingredientsText": "Farina di grano, lievito, acqua, sale, sesamo o nigella"
+ },
+ "lobiani": {
+  "name": "Lobiani",
+  "description": "Pane ripieno di fagioli cotti schiacciati, cipolla e spezie. Un piatto semplice e sostanzioso che i georgiani preparano spesso nei giorni di magro.",
+  "history": "Il nome viene da lobio, «fagioli». È molto popolare in Racha, dove il lobiani si fa spesso con il lardo.",
+  "ingredientsText": "Farina di grano, lievito, fagioli rossi, cipolla, burro o olio, coriandolo"
+ },
+ "lobio": {
+  "name": "Lobio",
+  "description": "Il lobio dimostra che i fagioli possono essere una vera prelibatezza. Fagioli lessi conditi con noci, aglio, coriandolo e spezie diventano una massa tenera e profumata. Si serve caldo o freddo, come purea densa o a chicchi interi, in pentole di coccio.",
+  "quote": "Il lobio racconta l'ospitalità georgiana. Si serve con il gomi (polenta di mais) o semplicemente con il lavash",
+  "history": "I fagioli arrivarono nel Caucaso dalle Americhe in età moderna, ma divennero presto un pilastro della tavola georgiana. Il lobio si fa caldo nel coccio o freddo con le noci; si mangia con mchadi e sottaceti, soprattutto nei giorni di magro.",
+  "ingredientsText": "Fagioli 63 g (rossi o borlotti)\nNoci 13 g\nCipolla 0,4\nPomodoro 0,3\nAglio 0,4 spicchio\nCoriandolo 1,5 g\nKhmeli suneli 0,1 cucchiaio\nPeperoncino 0,1\nSale\nOlio vegetale 0,3 cucchiaio\nPepe nero"
+ },
+ "lokum": {
+  "name": "Lokum",
+  "description": "Morbidi cubetti di zucchero e amido aromatizzati con acqua di rose, pistacchio o limone e passati nello zucchero a velo.",
+  "history": "Il lokum divenne famoso a Istanbul tra Sette e Ottocento e si portava in dono in tutta Europa.",
+  "ingredientsText": "Zucchero, amido di mais, acqua, acqua di rose, zucchero a velo"
+ },
+ "lori-cheese": {
+  "name": "Formaggio Lori",
+  "description": "Formaggio semiduro in salamoia di latte vaccino, a pasta aperta.",
+  "history": "Prende il nome dalla regione di Lori, nel nord dell'Armenia, dove si produce.",
+  "ingredientsText": "Latte vaccino, caglio, sale"
+ },
+ "lyavangi": {
+  "name": "Lavangi",
+  "description": "Pollo ripieno di noci, cipolla e pasta di prugne acide, cotto al forno.",
+  "history": "Il lavangi è un piatto di Lankaran e del Talysh, nel sud dell'Azerbaigian, cotto nel tandoor per le feste.",
+  "ingredientsText": "Pollo, noci, cipolla, pasta di prugne acide, sale, pepe"
+ },
+ "lyguazha": {
+  "name": "Lyguazha",
+  "description": "Manzo o agnello stufati con cipolla, pomodoro e peperoncino.",
+  "history": "La lyguazha si serve spesso con la pasta (polenta di miglio), che sulla tavola cabardina sostituisce il pane.",
+  "ingredientsText": "Manzo o agnello, cipolla, concentrato di pomodoro, peperoncino, aglio"
+ },
+ "lyulya-kebab": {
+  "name": "Lyulya kebab",
+  "description": "Lunghi kebab di agnello tritato a coltello con cipolla e grasso di coda, grigliati allo spiedo sulla brace.",
+  "history": "La carne per il lyulya si trita a coltello e si impasta a lungo, altrimenti non sta sullo spiedo.",
+  "ingredientsText": "Agnello, grasso di coda, cipolla, sale, pepe, sommacco"
+ },
+ "lyvzha": {
+  "name": "Lyvzha",
+  "description": "Zuppa densa quasi come uno stufato, di carne o pollo con patate, cipolla e farina, insaporita col pepe.",
+  "history": "La lyvzha si cucina per le feste e si serve calda in ciotole fonde con le torte.",
+  "ingredientsText": "Manzo o pollo, patate, cipolla, farina di grano, pepe, erbe"
+ },
+ "maksym": {
+  "name": "Maksym",
+  "description": "Bevanda leggermente frizzante a base di cereali tostati: orzo, mais o grano.",
+  "history": "D'estate il maksym si vende per le strade di Bishkek da grandi botti.",
+  "ingredientsText": "Orzo o grano, acqua, sale, fermento"
+ },
+ "mantapur": {
+  "name": "Mantapur",
+  "description": "Zuppa con piccoli manti al forno in brodo e yogurt all'aglio.",
+  "history": "Il mantapur è un piatto invernale: i manti si dorano prima al forno e poi si coprono di brodo caldo.",
+  "ingredientsText": "Farina di grano, manzo macinato, cipolla, brodo, yogurt matsun, aglio"
+ },
+ "manti-armyanskie": {
+  "name": "Manti armeni",
+  "description": "Minuscole barchette aperte di pasta con carne, cotte al forno finché croccanti e servite con brodo e yogurt all'aglio.",
+  "history": "A differenza dei manty centroasiatici, i manti armeni sono piccoli, aperti e cotti al forno.",
+  "ingredientsText": "Farina di grano, manzo macinato, brodo, matsun, aglio, sommacco"
+ },
+ "manti-turetskie": {
+  "name": "Mantı turchi",
+  "description": "Minuscoli ravioli di carne serviti con yogurt all'aglio e burro al peperoncino.",
+  "history": "I più noti sono quelli di Kayseri: si dice che una brava cuoca ne faccia stare quaranta in un cucchiaio.",
+  "ingredientsText": "Farina di grano, uovo, manzo macinato, yogurt, aglio, burro, peperoncino"
+ },
+ "manty": {
+  "name": "Manty",
+  "description": "Grandi ravioli ripieni di agnello tritato a coltello e cipolla, cotti al vapore in una vaporiera a piani.",
+  "history": "I manty si mangiano con le mani, mordendo e bevendo il sugo all'interno, con latte acido o panna acida.",
+  "ingredientsText": "Farina di grano, agnello, grasso di coda, cipolla, cumino"
+ },
+ "mast-o-khiar": {
+  "name": "Mast-o-khiar",
+  "description": "Yogurt freddo con cetriolo, menta, noci, uvetta e petali di rosa.",
+  "history": "Il mast-o-khiar accompagna i piatti di riso e col caldo si mangia come zuppa rinfrescante.",
+  "ingredientsText": "Yogurt, cetriolo, menta, noci, uvetta, petali di rosa"
+ },
+ "mastava": {
+  "name": "Mastava",
+  "description": "Zuppa densa con riso, carne, carote e pomodori, servita con latte acido ed erbe.",
+  "history": "La mastava è una zuppa casalinga di tutti i giorni; il riso la rende sostanziosa come una pappa.",
+  "ingredientsText": "Riso, agnello, carote, patate, pomodori, cipolla, latte acido"
+ },
+ "matnakash": {
+  "name": "Matnakash",
+  "description": "Pane ovale morbido con crosta dorata e solchi longitudinali. È lievitato e spennellato di tè prima della cottura.",
+  "history": "Il nome significa «tirato con le dita»: i solchi si fanno a mano.",
+  "ingredientsText": "Farina di grano, lievito, acqua, zucchero, sale"
+ },
+ "matsoni": {
+  "name": "Matsoni",
+  "description": "Latte fermentato georgiano simile a uno yogurt denso, mangiato col miele o usato in cucina.",
+  "history": "Il matsoni si fa tradizionalmente in vasi di coccio; un tempo i venditori lo portavano di casa in casa.",
+  "ingredientsText": "Latte vaccino, fermento"
+ },
+ "matsun": {
+  "name": "Matsun",
+  "description": "Latte fermentato simile a uno yogurt denso, mangiato col cucchiaio e aggiunto a zuppe e salse.",
+  "history": "Il fermento del matsun si tramanda di generazione in generazione. È la base di molti piatti armeni, dal tan allo spas.",
+  "ingredientsText": "Latte vaccino, fermento"
+ },
+ "mchadi": {
+  "name": "Mchadi",
+  "description": "Piccole focacce di mais non lievitate cotte in padella asciutta. Si mangiano con formaggio, lobio e pkhali.",
+  "history": "Il mchadi è il pane tradizionale della Georgia occidentale. Non avendo farina di grano, è adatto a chi evita il glutine.",
+  "ingredientsText": "Farina di mais, acqua, sale"
+ },
+ "megruli-hachapuri": {
+  "name": "Khachapuri mingrelo",
+  "description": "Khachapuri rotondo con formaggio dentro e sopra, cosparso di sulguni prima della cottura. Ne risulta un pane ricco e molto formaggioso.",
+  "history": "Viene dalla Mingrelia (Samegrelo), nella Georgia occidentale, regione nota per la cucina piccante e l'amore per il sulguni.",
+  "ingredientsText": "Farina di grano, yogurt matsoni, uovo, sulguni, formaggio imereti, burro"
+ },
+ "menemen": {
+  "name": "Menemen",
+  "description": "Uova cotte in padella con pomodori, peperoni verdi e cipolla: una classica colazione turca.",
+  "history": "Se la cipolla vada nel menemen è ancora oggetto di vivace dibattito in Turchia.",
+  "ingredientsText": "Uova, pomodori, peperoni verdi, cipolla, olio d'oliva"
+ },
+ "mercimek-corbasi": {
+  "name": "Zuppa di lenticchie",
+  "description": "Crema di lenticchie rosse con carota e cipolla, servita con limone.",
+  "history": "La zuppa di lenticchie è nel menu di quasi ogni ristorante turco e si mangia a qualsiasi ora.",
+  "ingredientsText": "Lenticchie rosse, carota, cipolla, burro, limone"
+ },
+ "mezhadzhe": {
+  "name": "Mezhadzhe",
+  "description": "Pane di mais cotto in padella e servito con salse e formaggio.",
+  "history": "Il mezhadzhe è il pane tradizionale degli adighè, diffusosi insieme al mais.",
+  "ingredientsText": "Farina di mais, acqua, sale"
+ },
+ "midye-dolma": {
+  "name": "Midye dolma",
+  "description": "Cozze ripiene di riso speziato, pinoli e uvetta di Corinto, mangiate col limone nei chioschi di strada.",
+  "history": "I venditori di cozze fanno parte della vita serale di Istanbul e Smirne.",
+  "ingredientsText": "Cozze, riso, cipolla, pinoli, uvetta di Corinto, spezie, limone"
+ },
+ "mirza-ghasemi": {
+  "name": "Mirza ghasemi",
+  "description": "Melanzane affumicate sul fuoco e schiacciate con aglio, pomodori e uovo, servite col pane.",
+  "history": "Piatto della provincia caspica di Gilan, intitolato a un governatore locale.",
+  "ingredientsText": "Melanzane, aglio, pomodori, uova, curcuma"
+ },
+ "morasa-polo": {
+  "name": "Morasa polo",
+  "description": "«Riso ingioiellato» con scorza d'arancia candita, crespino, pistacchi e mandorle.",
+  "history": "Il morasa polo si serve ai matrimoni; le guarnizioni vivaci simboleggiano una vita dolce e ricca.",
+  "ingredientsText": "Riso, scorza d'arancia, carote, crespino, pistacchi, mandorle, zafferano, zucchero"
+ },
+ "motal": {
+  "name": "Formaggio motal",
+  "description": "Formaggio salato di pecora stagionato in una pelle di pecora, dal gusto deciso e aroma caratteristico.",
+  "history": "Il motal lo fanno i pastori in montagna; la stagionatura nella pelle gli dà il suo sapore unico.",
+  "ingredientsText": "Latte di pecora, caglio, sale"
+ },
+ "mtsvadi": {
+  "name": "Mtsvadi",
+  "description": "Spiedini georgiani di maiale o vitello grigliati sulla brace di tralci di vite. Serviti con cipolla affettata sottile e salsa tkemali.",
+  "history": "Grigliare sui tralci è un'antica tradizione delle regioni vinicole, soprattutto la Kakheti. La vite dà alla carne un leggero aroma affumicato.",
+  "ingredientsText": "Maiale o vitello, cipolla, sale, pepe, succo di melagrana"
+ },
+ "muhlama": {
+  "name": "Muhlama",
+  "description": "Formaggio filante fuso con farina di mais e burro, mangiato caldo con il pane.",
+  "history": "La muhlama viene da Trebisonda e Rize; piatti simili esistono in Georgia e Abcasia.",
+  "ingredientsText": "Formaggio stagionato, farina di mais, burro"
+ },
+ "mutaki": {
+  "name": "Mutaki",
+  "description": "Croccanti cannoli di pasta sottile ripieni di noci e zucchero, spolverati di zucchero a velo.",
+  "history": "Il nome significa «cuscinetto». I mutaki si preparano a Baku e Ganja per le feste.",
+  "ingredientsText": "Farina di grano, burro, panna acida, uova, noci, zucchero"
+ },
+ "nabat": {
+  "name": "Nabat",
+  "description": "Grandi cristalli di zucchero su fili, serviti col tè al posto dello zucchero normale.",
+  "history": "Il nabat cristallizza dallo sciroppo in diversi giorni e talvolta si aromatizza allo zafferano.",
+  "ingredientsText": "Zucchero, acqua, zafferano"
+ },
+ "nadugi": {
+  "name": "Nadughi",
+  "description": "Cagliata cremosa e morbida con menta ed erbe, arrotolata in sottili sfoglie di sulguni.",
+  "history": "Il nadughi è un sottoprodotto della caseificazione; in Mingrelia si serve come antipasto.",
+  "ingredientsText": "Cagliata nadughi, sulguni, menta, coriandolo, sale"
+ },
+ "narsharab": {
+  "name": "Narsharab",
+  "description": "Salsa densa agrodolce di succo di melagrana ridotto, servita con kebab e pesce.",
+  "history": "Il narsharab si fa in autunno a Goychay e Shamakhi, dove crescono le melagrane migliori.",
+  "ingredientsText": "Succo di melagrana, sale, spezie"
+ },
+ "naryn": {
+  "name": "Naryn",
+  "description": "Tagliolini sottili con carne di cavallo o agnello bollita e cipolla, serviti con brodo.",
+  "history": "Il naryn è un piatto di festa di Tashkent e della valle di Fergana, con pasta e carne tagliate a mano finissime.",
+  "ingredientsText": "Farina di grano, carne di cavallo o agnello, salsiccia kazy, cipolla, brodo"
+ },
+ "nasdzhyn": {
+  "name": "Nasjyn",
+  "description": "Torta osseta di zucca. Pasta sottile, ripieno abbondante e burro fuso sopra.",
+  "history": "Per le feste le torte ossete si fanno a tre, legate al sole, alla terra e all'acqua. Quella di zucca è leggermente dolce e si fa in autunno dopo il raccolto.",
+  "ingredientsText": "Farina di grano, lievito, kefir, burro, zucca, zucchero o miele"
+ },
+ "nazuk": {
+  "name": "Nazuk",
+  "description": "Rotolo di pasta lievitata ricca con un ripieno friabile di farina, burro e zucchero, tagliato in diagonale.",
+  "history": "Il nazuk si serve con tè e caffè e si prepara spesso a Natale e Pasqua.",
+  "ingredientsText": "Farina di grano, burro, panna acida, lievito, uovo, zucchero, vaniglia"
+ },
+ "nazuki": {
+  "name": "Nazuki",
+  "description": "Pane dolce con uvetta e cannella cotto nel forno tone, venduto lungo la strada vicino a Surami.",
+  "history": "Il nazuki è il simbolo di Surami: i venditori portano le pagnotte calde fino alle auto di passaggio.",
+  "ingredientsText": "Farina di grano, lievito, latte, uova, zucchero, uvetta, cannella, burro"
+ },
+ "nishalda": {
+  "name": "Nishalda",
+  "description": "Dolce bianchissimo e arioso di albumi montati con zucchero e radice di liquirizia.",
+  "history": "La nishalda si mangia durante il Ramadan dopo il tramonto, intingendo il pane.",
+  "ingredientsText": "Albumi, zucchero, radice di liquirizia"
+ },
+ "nushi-muraba": {
+  "name": "Confettura di noci verdi",
+  "description": "Noci verdi intere cotte nello sciroppo di zucchero finché scuriscono, servite col tè.",
+  "history": "Le noci si raccolgono a inizio estate, quando il guscio è ancora tenero, e si lasciano a lungo in ammollo prima della cottura.",
+  "ingredientsText": "Noci verdi, zucchero, acqua, chiodi di garofano, cannella"
+ },
+ "ojakhuri": {
+  "name": "Ojakhuri",
+  "description": "Maiale fritto con patate croccanti, cipolla e spezie, servito nel tegame di coccio ketsi. Un piatto «di famiglia» semplice e sostanzioso.",
+  "history": "Il nome significa «alla maniera di famiglia»: si cucinava per tutti con ciò che c'era a disposizione.",
+  "ingredientsText": "Maiale, patate, cipolla, aglio, khmeli suneli, coriandolo"
+ },
+ "oromo": {
+  "name": "Oromo",
+  "description": "Rotolo di pasta sottile ripieno di carne e zucca o patate, cotto al vapore.",
+  "history": "L'oromo cuoce nella vaporiera per manty e si serve con salsa o brodo.",
+  "ingredientsText": "Farina di grano, manzo o agnello, zucca, cipolla"
+ },
+ "osetr-kebab": {
+  "name": "Kebab di storione",
+  "description": "Pezzi di storione allo spiedo grigliati sulla brace e serviti con salsa di melagrana.",
+  "history": "Lo storione del Caspio è l'orgoglio della cucina di Baku; si griglia brevemente per mantenerlo succoso.",
+  "ingredientsText": "Storione, burro, limone, salsa di melagrana, sale"
+ },
+ "oshi-burida": {
+  "name": "Oshi burida",
+  "description": "Zuppa con sottili tagliolini fatti in casa, carne, legumi ed erbe.",
+  "history": "Burida significa «tagliato»: la pasta si taglia a coltello in strisce sottili.",
+  "ingredientsText": "Farina di grano, manzo, ceci, fagioli mungo, cipolla, pomodori, erbe"
+ },
+ "ostri": {
+  "name": "Ostri",
+  "description": "Stufato piccante di manzo in densa salsa di pomodoro con cetrioli sottaceto, aglio e spezie. Si serve con pane o patate.",
+  "history": "Il nome deriva da una parola che significa «piccante». L'ostri è un piatto popolare nelle taverne di Tbilisi.",
+  "ingredientsText": "Manzo, pomodori, concentrato di pomodoro, cetrioli sottaceto, cipolla, aglio, peperoncino, khmeli suneli"
+ },
+ "pahlava": {
+  "name": "Pakhlava",
+  "description": "La pakhlava è il simbolo dolce della cucina azera, con la sua struttura a strati e il gusto intenso. Sottili strati di pasta imbevuti di miele o sciroppo si alternano a noci o nocciole tritate. Ogni pezzo unisce crosta croccante e ripieno morbido. È immancabile sulla tavola di festa, soprattutto a Novruz.",
+  "quote": "La pakhlava non è solo un dolce ma parte della cultura: si prepara per Novruz, nozze e feste per condividere gioia e gratitudine",
+  "history": "La pakhlava azera è un dolce a molti strati con noci e sciroppo che ha un ruolo importante nella cultura e nelle feste del paese.\n\nAnche se gli storici citano menzioni antiche nei ricettari ottomani (XV secolo), anche l'Azerbaigian può rivendicare la sua parte nella storia di questo dolce.",
+  "ingredientsText": "Per la pasta: farina 35 g, latte 12 ml, burro 6 g, 1 uovo, zucchero 4 g, lievito secco 1 g, sale 1 g\nPer il ripieno: noci 30 g, burro 8 g, zucchero 15 g, fecola 1 cucchiaio\nPer lo sciroppo: miele 10 g, zucchero 10 g, acqua 10 ml, succo di limone 1 cucchiaio"
+ },
+ "pasta-adyg": {
+  "name": "Pasta (polenta di miglio)",
+  "description": "Polenta di miglio densissima che si taglia come pane e si serve con carne e shchips.",
+  "history": "Per gli adighè la pasta sostituiva il pane; si taglia con un filo per non schiacciarla.",
+  "ingredientsText": "Miglio, acqua, sale"
+ },
+ "pasuc-tolma": {
+  "name": "Tolma di magro",
+  "description": "Tolma quaresimale: foglie di cavolo ripiene di fagioli, lenticchie, ceci, bulgur e riso con spezie.",
+  "history": "La tolma pasuts si prepara in Quaresima. I tanti legumi del ripieno simboleggiano l'abbondanza.",
+  "ingredientsText": "Cavolo, fagioli, lenticchie, ceci, bulgur, riso, concentrato di pomodoro, cipolla, spezie"
+ },
+ "pelamushi": {
+  "name": "Pelamushi",
+  "description": "Budino denso di succo d'uva e farina che si rapprende negli stampi. Spesso cosparso di noci.",
+  "history": "Come la churchkhela, il pelamushi è un sottoprodotto della vinificazione: entrambi nascono dallo stesso succo addensato.",
+  "ingredientsText": "Succo d'uva, farina di grano o di mais"
+ },
+ "pide": {
+  "name": "Pide",
+  "description": "Pane a forma di barca con carne macinata, formaggio, uovo o verdure.",
+  "history": "La pide si cuoce in forni di pietra in tutta la Turchia; le versioni del Mar Nero sono particolarmente famose.",
+  "ingredientsText": "Farina di grano, lievito, carne macinata o formaggio, uovo, burro"
+ },
+ "piti": {
+  "name": "Piti",
+  "description": "Zuppa d'agnello con ceci, castagne, mela cotogna e zafferano, cotta lentamente in un coccio monoporzione. Prima si beve il brodo col pane, poi si mangia la carne.",
+  "history": "Il piti è il piatto simbolo di Shaki. I cocci restano in forno per ore, e il grasso di coda rende il brodo ricco.",
+  "ingredientsText": "Agnello, grasso di coda, ceci, castagne, mela cotogna, cipolla, zafferano"
+ },
+ "pkhali": {
+  "name": "Pkhali",
+  "description": "Antipasto di verdure o foglie tritate come spinaci, barbabietola o cavolo, mescolate con pasta di noci, aglio e spezie. Si forma in palline e si guarnisce con chicchi di melagrana.",
+  "history": "Il pkhali è uno dei principali piatti di magro della tavola georgiana. Ne esistono tante versioni quante sono le foglie commestibili dell'orto.",
+  "ingredientsText": "Spinaci o barbabietola, noci, aglio, coriandolo, khmeli suneli, aceto di vino, melagrana"
+ },
+ "pkhlovani": {
+  "name": "Pkhlovani",
+  "description": "Torta ripiena di spinaci, foglie di bietola o ortiche e formaggio, popolare in Racha e in Ossezia.",
+  "history": "Il pkhlovani si prepara in primavera, quando spuntano le foglie tenere.",
+  "ingredientsText": "Farina di grano, matsoni, spinaci o foglie di bietola, sulguni, erbe"
+ },
+ "plov": {
+  "name": "Pilaf",
+  "description": "Il pilaf è il re della cucina azera, ricco di sapori e tradizioni. Il riso cotto al vapore si serve con carne profumata (spesso agnello), frutta secca, castagne e spezie. Ogni componente si cuoce a parte e poi si unisce. Il pilaf è simbolo di ospitalità nelle grandi feste e nelle cene di famiglia.",
+  "quote": "Lo zafferano è il segreto del colore dorato e dell'aroma del pilaf azero: ogni chicco brilla come un gioiello",
+  "history": "Il pilaf, come molti piatti d'Oriente, affonda le radici nell'antica Persia e in Asia centrale, dove il riso si cucinava con carne e spezie.\n\nSi diffuse in Oriente lungo le vie commerciali e con le campagne militari fino all'Azerbaigian, la cui cucina conosce molti tipi di pilaf.",
+  "ingredientsText": "Cipolle 4 grandi\nUvetta ½ tazza\nAlbicocche secche 1 tazza\nPrugne secche ½ tazza\nCastagne 500 g\nUn pizzico di cannella\nBurro 400–600 g\nPer la crosta gazmakh: farina ½ tazza, uovo, kefir"
+ },
+ "pokhindz": {
+  "name": "Pokhindz",
+  "description": "Farina di grano tostata mescolata con miele o zucchero e burro, mangiata col cucchiaio o in palline.",
+  "history": "Il pokhindz è un dolce tradizionale di Capodanno, preparato in ogni famiglia e regalato ai bambini.",
+  "ingredientsText": "Farina di grano, miele o zucchero, burro"
+ },
+ "putuk": {
+  "name": "Putuk",
+  "description": "Zuppa d'agnello con ceci e prugne acide secche cotta in un coccio monoporzione.",
+  "history": "Il putuk è la versione armena della zuppa in coccio, parente del piti azero.",
+  "ingredientsText": "Agnello, ceci, patate, prugne acide secche, cipolla"
+ },
+ "qurutob": {
+  "name": "Qurutob",
+  "description": "Pezzi di pane sfogliato fatir imbevuti di salsa di qurut e guarniti con cipolla, pomodori ed erbe.",
+  "history": "Il qurutob è considerato il piatto nazionale del Tagikistan e si mangia con le mani da un vassoio comune di legno.",
+  "ingredientsText": "Pane fatir, qurut, cipolla, pomodori, cetrioli, erbe, olio vegetale"
+ },
+ "sabzi-govurma": {
+  "name": "Sabzi govurma",
+  "description": "Agnello stufato con tante verdure — spinaci, coriandolo, aneto, cipollotto — e prugne acide secche.",
+  "history": "Sabzi significa «verdure». Il piatto è amato soprattutto in primavera, quando arrivano le erbe giovani.",
+  "ingredientsText": "Agnello, spinaci, coriandolo, aneto, cipollotto, prugne acide secche, cipolla"
+ },
+ "sabzi-polo-mahi": {
+  "name": "Sabzi polo ba mahi",
+  "description": "Riso alle erbe con pesce fritto: il piatto tradizionale di Nowruz.",
+  "history": "Le erbe simboleggiano il rinnovamento e il pesce la vita; per questo si mangia il primo giorno di primavera.",
+  "ingredientsText": "Riso, prezzemolo, coriandolo, aneto, cipollotto, pesce, burro"
+ },
+ "saczivi": {
+  "name": "Satsivi",
+  "description": "Il satsivi è un piatto raffinato servito freddo, dalla consistenza e dal gusto complessi. La salsa di noci pestate con aglio, spezie e aceto diventa densa e vellutata. Vi si aggiunge pollo o tacchino lesso e si lascia insaporire. Il satsivi è immancabile sulla tavola di festa georgiana.",
+  "quote": "Il satsivi è un piatto di Natale a base di noci, coriandolo e spezie, simbolo di abbondanza e gioia",
+  "history": "Il nome è legato a tsiva, «freddo»: il satsivi si serve fresco. È uno dei piatti principali del Capodanno georgiano, con pollo, tacchino o verdure fritte.",
+  "ingredientsText": "Pollo o tacchino fino a 2 kg\nBurro 20 g\nCipolle 1 kg\nCoriandolo 4 rametti\nNoci 600 g\nPepe nero 1 cucchiaio\nCoriandolo macinato 1 cucchiaio\nZafferano imereti 1 cucchiaio\nChiodi di garofano 3–6\nUn pizzico di cannella\nAglio 4–8 spicchi\nAceto di vino bianco 1 cucchiaio\nSale"
+ },
+ "sadzh": {
+  "name": "Saj",
+  "description": "Carne, patate, melanzane e peperoni fritti su una padella di ferro bombata detta saj e serviti su di essa.",
+  "history": "Saj è sia la padella sia il piatto. Spesso sotto si lasciano le braci perché il cibo resti caldo in tavola.",
+  "ingredientsText": "Agnello o pollo, patate, melanzane, pomodori, peperoni, cipolla"
+ },
+ "samsa": {
+  "name": "Samsa",
+  "description": "Fagottini triangolari di sfoglia con agnello e cipolla, cotti sulle pareti del tandoor.",
+  "history": "La samsa del tandoor è un cibo di strada molto popolare in Uzbekistan, cosparso di sesamo o nigella.",
+  "ingredientsText": "Farina di grano, agnello, grasso di coda, cipolla, cumino, sesamo"
+ },
+ "sangak": {
+  "name": "Sangak",
+  "description": "Lungo pane piatto integrale cotto su un letto di ciottoli roventi.",
+  "history": "I ciottoli lasciano fossette nel pane; un tempo il sangak era il pane dell'esercito persiano.",
+  "ingredientsText": "Farina integrale, lievito madre, acqua, sale, sesamo"
+ },
+ "sarburma": {
+  "name": "Sarburma",
+  "description": "Torta sfogliata a chiocciola con ripieno di carne, arrotolata da un lungo cordone di pasta.",
+  "history": "Sarburma significa «arrotolato»; si prepara per le feste in grandi teglie.",
+  "ingredientsText": "Farina di grano, burro, uovo, agnello, cipolla"
+ },
+ "satsebeli": {
+  "name": "Satsebeli",
+  "description": "Salsa di pomodoro con aglio, peperoncino ed erbe. Si serve con carne, pollame e khachapuri.",
+  "history": "La parola satsebeli significa semplicemente «salsa». Un tempo si faceva con bacche e frutta; la versione al pomodoro è arrivata dopo.",
+  "ingredientsText": "Pomodori, aglio, peperoncino, coriandolo, basilico, sale"
+ },
+ "shah-plov": {
+  "name": "Pilaf dello scià",
+  "description": "Il pilaf dello scià è un gioiello della cucina azera, bello e squisito. Il riso si dispone a «corona» avvolto in una crosta croccante di lavash, con dentro carne tenera, frutta secca e noci. È un piatto per le grandi occasioni e simbolo della generosità della tavola azera.",
+  "quote": "Il pilaf dello scià è uno spettacolo: si porta in tavola intero e si taglia davanti agli ospiti",
+  "history": "Il pilaf dello scià (detto anche pilaf del khan o «pilaf reale») è un piatto di festa azero noto per la preparazione e la presentazione originali.\n\nLa sua storia è legata alla tradizione culinaria azera, in cui il pilaf ha un posto speciale.",
+  "ingredientsText": "Manzo 600 g\nRiso 600 g\nBurro chiarificato 350 g\nCipolle 250 g\nAlbicocche secche 150 g\nUvetta bionda 150 g\nAmoli secchi 100 g\nCastagne lesse 150 g\nCurcuma\nZafferano 3–5 pistilli\nSale\nCrespino 50 g (facoltativo)\nLavash sottile 400 g"
+ },
+ "shakarob": {
+  "name": "Shakarob",
+  "description": "Insalata di pomodori, cetrioli e cipolla con peperoncino ed erbe, servita con pilaf e kebab.",
+  "history": "Lo shakarob è il cugino tagiko dell'achichuk uzbeko e si prepara appena prima di servire.",
+  "ingredientsText": "Pomodori, cetrioli, cipolla, peperoncino, coriandolo, basilico"
+ },
+ "sharots": {
+  "name": "Sharots",
+  "description": "Noci su un filo ricoperte di succo d'uva addensato: la cugina armena della churchkhela.",
+  "history": "Lo sharots si fa in autunno dopo la vendemmia e si appende ad asciugare.",
+  "ingredientsText": "Noci, succo d'uva, farina"
+ },
+ "shchips": {
+  "name": "Shchips",
+  "description": "Salsa densa di brodo o panna addensata con farina tostata, con aglio e peperoncino.",
+  "history": "Lo shchips si serve con carne, pollo e pasta, ed è difficile immaginare una tavola adighè senza.",
+  "ingredientsText": "Brodo o panna, farina di grano, burro, aglio, peperoncino"
+ },
+ "shekerbura": {
+  "name": "Shakarbura",
+  "description": "Dolce a mezzaluna ripieno di mandorle o noci tritate e zucchero, decorato sopra con un motivo fatto con le pinzette.",
+  "history": "La shakarbura si prepara per Novruz. Il decoro superiore si chiama nakhysh, e ogni cuoca ha il suo.",
+  "ingredientsText": "Farina di grano, burro, uova, latte, lievito, mandorle o nocciole, zucchero, cardamomo"
+ },
+ "shekerchorek": {
+  "name": "Shakarchorek",
+  "description": "Frollino friabile di farina, burro e zucchero che si scioglie in bocca.",
+  "history": "Lo shakarchorek si prepara per Novruz insieme agli altri dolci della tavola di festa.",
+  "ingredientsText": "Farina di grano, burro, zucchero a velo, tuorlo, cardamomo"
+ },
+ "sheki-halva": {
+  "name": "Halva di Shaki",
+  "description": "Dolce di pizzo di farina di riso ripieno di nocciole e imbevuto di sciroppo denso.",
+  "history": "Il sottile pizzo di riso, detto reshta, si versa da un imbuto: un segreto tramandato nelle famiglie di Shaki.",
+  "ingredientsText": "Farina di riso, nocciole, zucchero, cardamomo, coriandolo, zafferano"
+ },
+ "sherbet": {
+  "name": "Sherbet",
+  "description": "Bevanda dolce e fresca di succhi di frutta, petali di rosa, basilico o zafferano, servita con il pilaf.",
+  "history": "Lo sherbet si beve a nozze e feste; colore e aroma cambiano con la stagione.",
+  "ingredientsText": "Acqua, zucchero, succo di limone, petali di rosa o semi di basilico, zafferano"
+ },
+ "shilaplavi": {
+  "name": "Shilaplavi",
+  "description": "Riso cotto con agnello e cipolla fino a diventare cremoso e un po' colloso, più vicino al risotto che al pilaf sgranato.",
+  "history": "Lo shilaplavi si fa nello Svaneti e in Racha per le feste, in grandi pentole perché basti per ogni ospite.",
+  "ingredientsText": "Riso, agnello, cipolla, sale svano, olio vegetale"
+ },
+ "shirazi-salad": {
+  "name": "Insalata shirazi",
+  "description": "Cetriolo, pomodoro e cipolla rossa a dadini con menta e agresto o succo di limone.",
+  "history": "Prende il nome da Shiraz, la città dei poeti e dei giardini nel sud dell'Iran.",
+  "ingredientsText": "Cetrioli, pomodori, cipolla rossa, menta secca, succo di limone, olio d'oliva"
+ },
+ "shirchoy": {
+  "name": "Shirchoy",
+  "description": "Tè con latte, burro e sale, a volte con pezzi di pane: una colazione sostanziosa.",
+  "history": "Lo shirchoy si beve presto la mattina in montagna, dove scalda e dà energia.",
+  "ingredientsText": "Tè, latte, burro, sale"
+ },
+ "shirin-plov": {
+  "name": "Pilaf dolce",
+  "description": "Pilaf dolce con frutta secca, castagne e zafferano, servito alle tavole di festa.",
+  "history": "Shirin significa «dolce»; è uno dei tanti tipi di pilaf azero.",
+  "ingredientsText": "Riso, uvetta, albicocche secche, castagne, burro, zafferano, zucchero"
+ },
+ "shivit-oshi": {
+  "name": "Shivit oshi",
+  "description": "Tagliatelle verde brillante all'aneto servite con spezzatino di carne e latte acido: un piatto del Khorezm.",
+  "history": "L'aneto va direttamente nell'impasto, così la pasta esce verde e profumata.",
+  "ingredientsText": "Farina di grano, aneto, manzo, patate, carote, latte acido"
+ },
+ "shkmeruli": {
+  "name": "Shkmeruli",
+  "description": "Pollo fritto cotto al forno in una cremosa salsa all'aglio nel tegame di coccio ketsi. L'aglio è generoso.",
+  "history": "Il piatto viene dal villaggio di Shkmeri, in Racha. I tegami di coccio trattengono il calore a lungo, perciò lo si serve direttamente in essi.",
+  "ingredientsText": "Pollo, panna o latte, aglio, burro, sale"
+ },
+ "sholeh-zard": {
+  "name": "Sholeh zard",
+  "description": "Budino di riso dolce con zafferano e acqua di rose, decorato con cannella e mandorle.",
+  "history": "Lo sholeh zard si cucina come voto e si condivide con i vicini, decorato con disegni e parole di cannella.",
+  "ingredientsText": "Riso, zucchero, zafferano, acqua di rose, burro, mandorle, cannella"
+ },
+ "shor-gogal": {
+  "name": "Shor gogal",
+  "description": "Panini sfogliati salati ripieni di farina, burro, finocchio e curcuma.",
+  "history": "Shor significa «salato». Lo shor gogal è la versione di Baku del gogal di Novruz.",
+  "ingredientsText": "Farina di grano, burro, uova, lievito, finocchio, curcuma, sale"
+ },
+ "shoti": {
+  "name": "Shoti",
+  "description": "Pane a forma di canoa cotto sulle pareti di un forno rotondo di argilla detto tone. Croccante fuori e morbido dentro.",
+  "history": "Le panetterie tone si trovano in ogni quartiere di Tbilisi. La mattina si compra lo shoti caldo e lo si mangia per strada.",
+  "ingredientsText": "Farina di grano, lievito, acqua, sale"
+ },
+ "shubat": {
+  "name": "Shubat",
+  "description": "Bevanda fermentata di latte di cammella, densa e leggermente dolce.",
+  "history": "Lo shubat si beve nel sud del Kazakistan, dove si allevano cammelli.",
+  "ingredientsText": "Latte di cammella, fermento"
+ },
+ "shurpa": {
+  "name": "Shurpa",
+  "description": "Zuppa ricca d'agnello con grossi pezzi di patate, carote, pomodori ed erbe.",
+  "history": "La shurpa si cuoce nel kazan sul fuoco; spesso la carne si rosola prima di sobbollire.",
+  "ingredientsText": "Agnello, patate, carote, pomodori, cipolla, ceci, erbe"
+ },
+ "simit": {
+  "name": "Simit",
+  "description": "Ciambella di pane croccante ricoperta di sesamo, venduta dai carretti e mangiata con formaggio e tè.",
+  "history": "Prima della cottura il simit si immerge nella melassa d'uva, che dà alla crosta il colore dorato.",
+  "ingredientsText": "Farina di grano, lievito, melassa d'uva, sesamo"
+ },
+ "siskal": {
+  "name": "Siskal",
+  "description": "Semplice pane di mais cotto in padella o sotto la brace, servito con carne e brodo.",
+  "history": "Il siskal è il pane quotidiano dei ceceni; in montagna si cuoceva direttamente nella cenere del focolare.",
+  "ingredientsText": "Farina di mais, acqua, sale"
+ },
+ "sohan": {
+  "name": "Sohan",
+  "description": "Dischi croccanti di zucchero, burro e grano germogliato con zafferano e pistacchi.",
+  "history": "Il sohan è il dolce simbolo di Qom, portato in regalo in scatole di latta.",
+  "ingredientsText": "Zucchero, burro, farina di grano, grano germogliato, zafferano, pistacchi, mandorle"
+ },
+ "sokhta": {
+  "name": "Sokhta",
+  "description": "Salsiccia bollita di stomaco d'agnello ripieno di fegato, riso e cipolla.",
+  "history": "La sokhta è un piatto di festa preparato subito dopo la macellazione di una pecora.",
+  "ingredientsText": "Stomaco d'agnello, fegato, riso, grasso di coda, cipolla, pepe"
+ },
+ "soko-ketsze": {
+  "name": "Funghi nel ketsi",
+  "description": "Funghi gratinati con sulguni nel tegame di coccio ketsi e serviti al suo interno.",
+  "history": "Il ketsi di coccio trattiene il calore, così il formaggio resta filante fino all'ultimo fungo.",
+  "ingredientsText": "Funghi, sulguni, burro, sale"
+ },
+ "sokos-khinkali": {
+  "name": "Khinkali ai funghi",
+  "description": "Khinkali ripieni di funghi, cipolla ed erbe: una versione senza carne dei famosi ravioli.",
+  "history": "I khinkali ai funghi si mangiano nei giorni di magro; anche questi si tengono per il ciuffo, ma contengono meno sugo.",
+  "ingredientsText": "Farina di grano, funghi, cipolla, coriandolo, sale"
+ },
+ "spas": {
+  "name": "Spas",
+  "description": "Zuppa calda di yogurt matsun con chicchi di grano, uovo ed erbe. Delicata, acidula e confortante.",
+  "history": "Lo spas è una zuppa casalinga invernale. Perché lo yogurt non impazzisca, si mescola senza sosta in un solo verso.",
+  "ingredientsText": "Yogurt matsun, chicchi di grano, uovo, burro, cipolla, menta, coriandolo"
+ },
+ "su-boregi": {
+  "name": "Su böreği",
+  "description": "Torta a strati di sfoglie bollite con formaggio bianco e prezzemolo, cotta nel burro.",
+  "history": "Il «börek d'acqua» si chiama così perché le sfoglie si immergono in acqua bollente prima di comporlo.",
+  "ingredientsText": "Farina di grano, uova, formaggio bianco, prezzemolo, burro"
+ },
+ "sudzhuk": {
+  "name": "Sujuk",
+  "description": "Salsiccia piatta di manzo essiccata all'aria con aglio e spezie, tagliata a fette sottili.",
+  "history": "Il sujuk è noto in tutta la regione, dall'Armenia alla Turchia. Le famiglie armene lo preparavano in autunno, con i primi freddi.",
+  "ingredientsText": "Manzo, grasso di manzo, aglio, cumino, paprika, pepe, sale"
+ },
+ "suluguni": {
+  "name": "Sulguni",
+  "description": "Formaggio in salamoia dalla pasta elastica e stratificata e dal gusto salato. Si mangia fresco, fritto e affumicato.",
+  "history": "Il sulguni viene dalla Mingrelia. Si impasta in acqua calda, che lo rende elastico e a strati.",
+  "ingredientsText": "Latte vaccino, caglio, sale"
+ },
+ "sumalak": {
+  "name": "Sumalak",
+  "description": "Pasta dolce di chicchi di grano germogliato cotta un giorno intero per Navruz.",
+  "history": "Il sumalak lo cucina tutto il quartiere di notte cantando e alternandosi a mescolare; non si aggiunge zucchero.",
+  "ingredientsText": "Grano germogliato, farina di grano, olio di semi di cotone, acqua"
+ },
+ "surj": {
+  "name": "Caffè armeno",
+  "description": "Caffè forte macinato finissimo, preparato nel jazzve e servito in tazzine con il fondo.",
+  "history": "Il caffè fa parte dell'ospitalità armena, e spesso si legge il fondo a tazza finita.",
+  "ingredientsText": "Caffè macinato finissimo, acqua, zucchero a piacere"
+ },
+ "sutlac": {
+  "name": "Sütlaç",
+  "description": "Budino di riso al latte gratinato in forno e spolverato di cannella.",
+  "history": "Il sütlaç si vende nei muhallebici, negozi che fanno solo dolci al latte.",
+  "ingredientsText": "Latte, riso, zucchero, farina di riso, vaniglia, cannella"
+ },
+ "tahchin": {
+  "name": "Tahchin",
+  "description": "«Torta» di riso al forno con yogurt, uovo e zafferano, con pollo all'interno e crosta croccante.",
+  "history": "Il tahchin si capovolge su un piatto prima di servire per mostrare la crosta dorata.",
+  "ingredientsText": "Riso, yogurt, tuorlo, zafferano, pollo, burro, crespino"
+ },
+ "tahdig": {
+  "name": "Tahdig",
+  "description": "La crosta di riso dorata e croccante dal fondo della pentola, servita come piatto a sé.",
+  "history": "A tavola ci si contende il tahdig: è la parte più ambita del riso persiano.",
+  "ingredientsText": "Riso, burro, yogurt, zafferano"
+ },
+ "tan": {
+  "name": "Tan",
+  "description": "Bevanda rinfrescante di yogurt matsun diluito con acqua fredda e un pizzico di sale. Si beve col caldo e con la carne.",
+  "history": "Il tan è il modo più semplice di gustare il matsun e si serve in quasi ogni locale armeno.",
+  "ingredientsText": "Yogurt matsun, acqua fredda, sale"
+ },
+ "tantuni": {
+  "name": "Tantuni",
+  "description": "Manzo tritato finissimo fritto in olio di semi di cotone e avvolto in un sottile lavash con erbe.",
+  "history": "Il tantuni è il cibo di strada di Mersin, cotto su un'ampia padella bombata.",
+  "ingredientsText": "Manzo, lavash, pomodori, cipolla, prezzemolo, sommacco, olio di semi di cotone"
+ },
+ "tarkhuna": {
+  "name": "Tarkhuna",
+  "description": "Limonata frizzante verde brillante al dragoncello, servita fredda.",
+  "history": "Le limonate a base di sciroppi naturali le rese famose Mitrofan Lagidze a Tbilisi all'inizio del Novecento.",
+  "ingredientsText": "Dragoncello, zucchero, acqua frizzante, acido citrico"
+ },
+ "tava-kebab": {
+  "name": "Tava kebab",
+  "description": "Polpettine di agnello macinato cotte in padella tava con uovo e pomodori.",
+  "history": "La tava è la padella in cui si serve il piatto; l'uovo mantiene il kebab succoso.",
+  "ingredientsText": "Agnello, cipolla, uova, pomodori, sale, pepe"
+ },
+ "tavuk-gogsu": {
+  "name": "Tavuk göğsü",
+  "description": "Budino al latte con filamenti finissimi di petto di pollo: il pollo quasi non si nota.",
+  "history": "Questo dessert insolito è sopravvissuto dalle cucine del palazzo ottomano.",
+  "ingredientsText": "Petto di pollo, latte, zucchero, farina di riso, cannella"
+ },
+ "tendir-chorek": {
+  "name": "Pane del tandir",
+  "description": "Pane rotondo cotto sulle pareti di un forno d'argilla tandir, con crosta croccante e mollica morbida.",
+  "history": "Quasi ogni cortile di villaggio ha un tandir, e si dice che il suo pane sia più buono nelle prime ore dopo la cottura.",
+  "ingredientsText": "Farina di grano, lievito, acqua, sale"
+ },
+ "testi-kebab": {
+  "name": "Testi kebab",
+  "description": "Carne e verdure cotte in una brocca di coccio sigillata che si rompe a tavola.",
+  "history": "Un piatto della Cappadocia: rompere la brocca è diventato uno spettacolo per gli ospiti.",
+  "ingredientsText": "Manzo o agnello, pomodori, peperoni, cipolla, aglio"
+ },
+ "tika-kebab": {
+  "name": "Tika kebab",
+  "description": "Pezzi di agnello marinato infilati negli spiedi con pezzetti di grasso di coda e grigliati sulla brace.",
+  "history": "Tika significa «pezzo». È il tipo di kebab più comune e compare a ogni banchetto.",
+  "ingredientsText": "Agnello, grasso di coda, cipolla, sale, pepe, sommacco"
+ },
+ "tkemali": {
+  "name": "Tkemali",
+  "description": "Salsa acida e piccante di amoli con aglio, aneto, coriandolo e menta poleggio. Il condimento per eccellenza di spiedini e patate fritte.",
+  "history": "Tkemali indica sia la salsa sia l'amolo con cui si fa. C'è il tkemali verde, di frutti acerbi, e quello rosso, di frutti maturi.",
+  "ingredientsText": "Amoli, aglio, aneto, coriandolo, menta poleggio, peperoncino, sale"
+ },
+ "tklapi": {
+  "name": "Tklapi",
+  "description": "Sottili fogli acidi di frutta essiccata di amoli o prugne, aggiunti al kharcho o mangiati come snack.",
+  "history": "Il tklapi è il modo georgiano di conservare la frutta per l'inverno, essiccata al sole su assi di legno.",
+  "ingredientsText": "Amoli o prugne"
+ },
+ "tolma-gruzinskaya": {
+  "name": "Tolma georgiana",
+  "description": "Foglie di vite ripiene di carne, riso ed erbe, stufate nel brodo e servite con matsoni all'aglio.",
+  "history": "In Georgia la tolma si prepara in primavera con foglie giovani; per l'inverno le foglie si mettono in salamoia.",
+  "ingredientsText": "Foglie di vite, macinato di manzo e maiale, riso, cipolla, coriandolo, menta, matsoni, aglio"
+ },
+ "tsakharadzhyn": {
+  "name": "Tsakharajyn",
+  "description": "Torta osseta con foglie di bietola e formaggio. Pasta sottile, ripieno abbondante e burro fuso sopra.",
+  "history": "Per le feste le torte ossete si fanno a tre, legate al sole, alla terra e all'acqua. Il tsakharajyn si prepara in primavera ed estate, quando le foglie di bietola sono giovani e tenere.",
+  "ingredientsText": "Farina di grano, lievito, kefir, burro, foglie di bietola, formaggio osseto, cipollotto"
+ },
+ "tsitsila-tabaka": {
+  "name": "Pollo tabaka",
+  "description": "Pollo schiacciato fritto sotto un peso fino a diventare croccante, servito con salsa all'aglio.",
+  "history": "Il nome viene dalla padella tapa in cui il pollo frigge sotto un coperchio pesante.",
+  "ingredientsText": "Galletto, burro, aglio, sale, pepe"
+ },
+ "ttu-lavash": {
+  "name": "Ttu lavash",
+  "description": "Sottile foglio agrodolce di purea di prugne, albicocche o corniole, essiccato al sole.",
+  "history": "Il nome significa «lavash acido». Si faceva d'estate per avere vitamine in inverno.",
+  "ingredientsText": "Prugne, albicocche o corniole"
+ },
+ "ttu-solenya": {
+  "name": "Sottaceti armeni",
+  "description": "Verdure miste sottaceto: cavolo, peperoni, carote, aglio, pomodori verdi.",
+  "history": "I sottaceti si servono con khash e khorovats e si preparano in autunno in grandi barattoli.",
+  "ingredientsText": "Cavolo, peperoni, carote, aglio, pomodori verdi, sale"
+ },
+ "tukhum-barak": {
+  "name": "Tukhum barak",
+  "description": "Ravioli del Khorezm ripieni di uova sbattute con latte e burro.",
+  "history": "Il ripieno liquido si versa nella pasta e si chiude in fretta: ci vuole vera abilità.",
+  "ingredientsText": "Farina di grano, uova, latte, burro, sale"
+ },
+ "tuppa": {
+  "name": "Tuppa",
+  "description": "Zuppa con corti tagliolini fatti in casa, carne e verdure, completata con pomodori.",
+  "history": "La tuppa si cucina nei villaggi di montagna tagiki nella stagione fredda.",
+  "ingredientsText": "Farina di grano, agnello, patate, carote, pomodori, cipolla"
+ },
+ "turshu-govurma": {
+  "name": "Turshu govurma",
+  "description": "Agnello fritto con cipolla, prugne acide secche e castagne in salsa agrodolce.",
+  "history": "Turshu significa «acido»; il piatto si serve con il pilaf.",
+  "ingredientsText": "Agnello, cipolla, prugne acide secche, castagne, zafferano"
+ },
+ "tzhvzhik": {
+  "name": "Tjvjik",
+  "description": "Fegato e altre frattaglie fritti con cipolla, pomodori e spezie. Un piatto veloce e sostanzioso.",
+  "history": "Il tjvjik si cucinava subito dopo la macellazione con le frattaglie più fresche. È noto grazie a un film armeno con lo stesso nome.",
+  "ingredientsText": "Fegato di manzo o agnello, rognoni, cuore, cipolla, pomodori, pepe, coriandolo"
+ },
+ "ualibakh": {
+  "name": "Walibakh",
+  "description": "Torta osseta al formaggio. Pasta sottile, ripieno abbondante e burro fuso sopra.",
+  "history": "Per le feste le torte ossete si fanno a tre, legate al sole, alla terra e all'acqua. Il walibakh è la torta osseta più comune e si prepara quasi ogni giorno.",
+  "ingredientsText": "Farina di grano, lievito, kefir, burro, formaggio osseto"
+ },
+ "uch-badzhi": {
+  "name": "Dolma «tre sorelle»",
+  "description": "«Tre sorelle»: melanzane, pomodori e peperoni ripieni di carne e riso e stufati insieme.",
+  "history": "Il nome viene dal cuocere le tre verdure nella stessa pentola. È una versione estiva della dolma.",
+  "ingredientsText": "Melanzane, pomodori, peperoni, agnello, riso, cipolla, erbe"
+ },
+ "urbech": {
+  "name": "Urbech",
+  "description": "Pasta densa di semi di lino, armelline o noci macinati a pietra, mangiata con miele e burro.",
+  "history": "In montagna l'urbech si portava in viaggio come fonte rapida di energia.",
+  "ingredientsText": "Semi di lino, armelline o noci"
+ },
+ "uzbekskiy-plov": {
+  "name": "Plov uzbeko",
+  "description": "Riso cotto nel kazan con agnello, carote gialle, ceci, cumino e teste d'aglio intere.",
+  "history": "La cultura e la tradizione del plov sono iscritte nel patrimonio immateriale UNESCO per l'Uzbekistan.",
+  "ingredientsText": "Riso devzira, agnello, carote gialle, cipolla, ceci, cumino, aglio, olio di semi di cotone"
+ },
+ "white-cherry-jam": {
+  "name": "Confettura di ciliegie bianche",
+  "description": "Confettura limpida di ciliegie bianche con limone: un classico della tavola del tè azera.",
+  "history": "La confettura si serve in piattini con il tè nei bicchieri armudu a forma di pera.",
+  "ingredientsText": "Ciliegie bianche, zucchero, limone"
+ },
+ "yantyk": {
+  "name": "Yantyk",
+  "description": "Sottili fagottini di carne o formaggio cotti in padella asciutta e spennellati di burro.",
+  "history": "Lo yantyk è parente dei chebureki, ma si cuoce in padella asciutta invece di friggerlo.",
+  "ingredientsText": "Farina di grano, agnello o formaggio bianco, cipolla, burro"
+ },
+ "yukha": {
+  "name": "Yukha",
+  "description": "Pane non lievitato sottilissimo cotto sul saj e conservato secco.",
+  "history": "Prima di mangiarla, la yukha si spruzza d'acqua e torna morbida.",
+  "ingredientsText": "Farina di grano, acqua, sale"
+ },
+ "zereshk-polo": {
+  "name": "Zereshk polo",
+  "description": "Riso allo zafferano con crespino aspro, servito con pollo e guarnito con pistacchi e mandorle.",
+  "history": "Il crespino aspro e lo zafferano dolce ne fanno un piatto di festa vivace.",
+  "ingredientsText": "Riso, crespino, pollo, zafferano, burro, zucchero, pistacchi, mandorle"
+ },
+ "zhent": {
+  "name": "Zhent",
+  "description": "Dolce di miglio tostato pestato con burro, zucchero, uvetta e noci.",
+  "history": "Lo zhent si serve col tè alle feste, pressato e tagliato a pezzi.",
+  "ingredientsText": "Miglio, burro, zucchero, uvetta, noci, ricotta"
+ },
+ "zhingyalov-hats": {
+  "name": "Zhingyalov hats",
+  "description": "Focaccia sottile ripiena di decine di erbe tritate finemente, cotta in padella asciutta e mangiata calda.",
+  "history": "Il piatto simbolo dell'Artsakh. In una sola focaccia entrano fino a 20 tipi di erbe selvatiche e dell'orto.",
+  "ingredientsText": "Farina di grano, acqua, spinaci, acetosa, ortica, coriandolo, aneto, cipollotto, olio vegetale"
+ },
+ "zhizhig-chorpa": {
+  "name": "Zhizhig chorpa",
+  "description": "Brodo di carne ricco con patate ed erbe, servito a parte con lo zhizhig galnash.",
+  "history": "Chorpa significa «brodo»; si beve dalla ciotola insieme a carne e gnocchetti.",
+  "ingredientsText": "Manzo o agnello, patate, cipolla, erbe, sale"
+ },
+ "zhizhig-galnash": {
+  "name": "Zhizhig galnash",
+  "description": "Carne bollita con gnocchetti di farina di grano o di mais, brodo e salsa all'aglio. Il piatto principale della tavola cecena.",
+  "history": "Il nome significa «carne con gnocchetti». Si cucina all'arrivo degli ospiti e per le feste.",
+  "ingredientsText": "Manzo o agnello, farina di grano o di mais, aglio, brodo, sale"
+ }
+}
