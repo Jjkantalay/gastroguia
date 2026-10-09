@@ -630,12 +630,16 @@ void page_photos(Buf *out, const Site *site, int lang) {
         snprintf(path, sizeof path, "/dishes/%s", d->slug);
         buf_puts(out, "<li><a href=\"");
         href(c, path);
-        buf_puts(out, "\">");
+        buf_puts(out, "\"><img src=\"");
+        buf_html(out, d->image);
+        buf_puts(out, "\" alt=\"\" loading=\"lazy\">");
         buf_html(out, dish_get(d, lang, F_NAME, NULL));
         buf_puts(out, "</a> — ");
         link_or_text(out, d->photo_source, d->photo_author && *d->photo_author ? d->photo_author : "Wikimedia Commons");
         buf_puts(out, ", ");
         link_or_text(out, d->photo_license_url, d->photo_license);
+        /* Найдено поиском по Commons, а не по Wikidata или Википедии */
+        if (d->photo_review) buf_puts(out, " <mark>?</mark>");
         buf_puts(out, "</li>\n");
     }
     buf_puts(out, "</ul>\n");

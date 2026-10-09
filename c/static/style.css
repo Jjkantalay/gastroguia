@@ -536,7 +536,15 @@ ul {
   display: flex;
   flex-direction: column;
   gap: 8px;
-  padding-inline-start: 20px;
+  list-style: none;
+}
+.credits img {
+  width: 96px;
+  height: 72px;
+  object-fit: cover;
+  border-radius: 6px;
+  margin-inline-end: 12px;
+  vertical-align: middle;
 }
 .dish__photo img {
   width: 100%;

@@ -147,6 +147,8 @@ static void add_photos(Site *site, const JVal *photos) {
         d->photo_license = json_str(p, "license");
         d->photo_license_url = json_str(p, "licenseUrl");
         d->photo_source = json_str(p, "source");
+        const JVal *review = json_get(p, "review");
+        d->photo_review = review && review->type == J_BOOL && review->b;
     }
 }
 

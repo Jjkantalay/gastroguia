@@ -12,6 +12,7 @@ typedef struct {
     unsigned allergens;                       /* биты по ALLERGEN_CODES */
     /* Автор и лицензия фото из content/photos.json; NULL — своё фото сайта */
     const char *photo_author, *photo_license, *photo_license_url, *photo_source;
+    int photo_review;                         /* фото найдено простым поиском — стоит проверить глазами */
     const char *text[MAX_LANGS][F_COUNT];     /* тексты по языкам; NULL — нет перевода */
     char *haystack;                           /* все тексты в нижнем регистре, для поиска */
 } Dish;
