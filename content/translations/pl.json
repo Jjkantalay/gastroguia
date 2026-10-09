@@ -1,0 +1,1818 @@
+{
+ "abgoosht": {
+  "name": "Abgusht (dizi)",
+  "description": "Zupa z jagnięciny z ciecierzycą i ziemniakami w kamiennym garnku: wywar pije się z chlebem, a resztę rozgniata.",
+  "history": "Dizi to tradycyjne danie robotniczych dzielnic Teheranu, z własnym rytuałem podawania.",
+  "ingredientsText": "Jagnięcina, ciecierzyca, biała fasola, ziemniaki, pomidory, suszona limonka, kurkuma"
+ },
+ "abkhazura": {
+  "name": "Abchazura",
+  "description": "Kotleciki z mielonej wołowiny i wieprzowiny z berberysem i przyprawami, zawinięte w siatkę i smażone.",
+  "history": "Nazwa wskazuje na abchaskie pochodzenie, ale danie na stałe należy do kuchni gruzińskiej.",
+  "ingredientsText": "Wołowina, wieprzowina, siatka wieprzowa, cebula, berberys, czosnek, kolendra"
+ },
+ "abysta": {
+  "name": "Abysta",
+  "description": "Gęsta niesolona kasza z mąki kukurydzianej, podawana zamiast chleba z serem i mięsem.",
+  "history": "Abystę gotuje się w kotle i podaje drewnianą łopatką, często z wciśniętymi kawałkami sera.",
+  "ingredientsText": "Mąka kukurydziana, woda"
+ },
+ "achapa": {
+  "name": "Aczapa",
+  "description": "Gotowana fasolka lub liście z pastą orzechową, adżyką i ziołami.",
+  "history": "Aczapa to abchaska kuzynka gruzińskiego pchali, często z fasolki szparagowej i buraków.",
+  "ingredientsText": "Fasolka szparagowa lub liście buraka, orzechy włoskie, adżyka, kolendra"
+ },
+ "achash": {
+  "name": "Aczasz",
+  "description": "Placki z mąki kukurydzianej lub pszennej z młodym serem, smażone na maśle.",
+  "history": "W abchaskich wsiach aczasz robi się na śniadanie ze świeżego domowego sera.",
+  "ingredientsText": "Mąka kukurydziana lub pszenna, młody ser, masło"
+ },
+ "achichuk": {
+  "name": "Aczyczuk",
+  "description": "Sałatka z cienko krojonych pomidorów i cebuli z chili i ziołami, podawana do plovu.",
+  "history": "Świeży aczyczuk równoważy tłusty plov; w Uzbekistanie nigdy nie podaje się plovu bez niego.",
+  "ingredientsText": "Pomidory, cebula, chili, bazylia, sól"
+ },
+ "achma": {
+  "name": "Aczma",
+  "description": "Warstwowe ciasto z serem: cienkie płaty gotowanego ciasta przekłada się serem i masłem i piecze. Smakiem i budową przypomina lasagne.",
+  "history": "Danie z Adżarii i Abchazji. Gotowanie płatów sprawia, że ciasto jest miękkie w środku i chrupiące z wierzchu.",
+  "ingredientsText": "Mąka pszenna, jajka, sulguni, ser imeretyński, masło"
+ },
+ "adana-kebab": {
+  "name": "Kebab z Adany",
+  "description": "Ostry kebab z siekanej nożem jagnięciny z płatkami chili, pieczony na szerokim szpikulcu nad węglem.",
+  "history": "Nazwa pochodzi od miasta Adana na południu Turcji; mięso sieka się nożem i zawsze miesza z tłuszczem z ogona.",
+  "ingredientsText": "Jagnięcina, tłuszcz z ogona, płatki chili, sól"
+ },
+ "adygeyskaya-sol": {
+  "name": "Sól adygejska",
+  "description": "Sól ucierana z czosnkiem i suszonymi ziołami: tymiankiem, koperkiem, kolendrą i pieprzem.",
+  "history": "Adygejczycy przygotowywali tę sól, by przez cały rok przyprawiać mięso i ser.",
+  "ingredientsText": "Sól, czosnek, tymianek, koperek, kolendra, czerwony pieprz"
+ },
+ "adygeyskiy-syr": {
+  "name": "Ser adygejski",
+  "description": "Miękki, łagodny ser z pasteryzowanego mleka o delikatnej konsystencji; jedzony świeży, smażony lub wędzony.",
+  "history": "Ser adygejski ścina się kwaśną serwatką zamiast podpuszczki; kształt zawdzięcza plecionemu koszykowi, w którym ocieka.",
+  "ingredientsText": "Mleko krowie, kwaśna serwatka, sól"
+ },
+ "adzhapsandali": {
+  "name": "Adżapsandali",
+  "description": "Gulasz warzywny z bakłażana, papryki, pomidorów i cebuli z mnóstwem ziół i czosnku. Na ciepło lub na zimno.",
+  "history": "Podobne gulasze warzywne są w całym Kaukazie. W Gruzji adżapsandali lubi się zwłaszcza latem, gdy warzywa są dojrzałe.",
+  "ingredientsText": "Bakłażan, papryka, pomidory, cebula, czosnek, kolendra, bazylia, olej roślinny"
+ },
+ "adzhika": {
+  "name": "Adżyka",
+  "description": "Ostra pasta z czerwonej papryki, czosnku, kolendry i soli ucierana na kamieniu. Wystarczy łyżka, by danie zapiekło.",
+  "history": "Adżyka po abchasku znaczy „sól”; dawniej paprykę ucierano z solą, by dłużej się przechowywała.",
+  "ingredientsText": "Ostra czerwona papryka, czosnek, kolendra, kozieradka błękitna, sól"
+ },
+ "afarar": {
+  "name": "Afarar",
+  "description": "Cienkie placki z dzikimi ziołami — pokrzywą, szczawiem, łobodą — i cebulą.",
+  "history": "Afarar piecze się wiosną, gdy w górach pojawia się pierwsza zieleń.",
+  "ingredientsText": "Mąka pszenna, woda, pokrzywa, szczaw, dymka, masło"
+ },
+ "akhar-khudar": {
+  "name": "Achar-chudar",
+  "description": "Kasza kukurydziana gotowana na mleku i wykończona masłem. Proste śniadanie.",
+  "history": "Kukurydza stała się jedną z głównych upraw Czeczenii, a kasze z niej je się codziennie.",
+  "ingredientsText": "Mąka kukurydziana, mleko, masło, sól"
+ },
+ "akuarchal": {
+  "name": "Akuarczal",
+  "description": "Małe placki z mąki kukurydzianej pieczone na gorącej patelni lub w żarze.",
+  "history": "Akuarczal to tradycyjny chleb Abchazów, podawany do zup i sosów.",
+  "ingredientsText": "Mąka kukurydziana, woda, sól"
+ },
+ "alani": {
+  "name": "Alani",
+  "description": "Suszone brzoskwinie nadziewane posiekanymi orzechami z cukrem i cynamonem. Naturalny przysmak bez pieczenia.",
+  "history": "Brzoskwinie suszy się w całości na słońcu po wyjęciu pestki. Takie słodycze robi się w Dolinie Araratu.",
+  "ingredientsText": "Suszone brzoskwinie, orzechy włoskie, cukier, cynamon"
+ },
+ "arganak": {
+  "name": "Arganak",
+  "description": "Klarowny rosół z kurczaka z małymi pulpecikami i ziołami. Lekka zupa świąteczna.",
+  "history": "Arganak gotowano na wesela i święta w Dolinie Araratu. Rosół długo się gotuje, by był klarowny.",
+  "ingredientsText": "Kurczak, ryż, jajko, cebula, kolendra, sól"
+ },
+ "arishta": {
+  "name": "Ariszta",
+  "description": "Domowy makaron jajeczny smażony na maśle i podawany z czosnkowym jogurtem.",
+  "history": "Arisztę robiono na zapas: makaron suszono i trzymano przez całą zimę. Gotuje się ją w Armenii i Arcachu.",
+  "ingredientsText": "Mąka pszenna, jajka, masło, jogurt matsun, czosnek"
+ },
+ "ash-reshteh": {
+  "name": "Asz-e reszte",
+  "description": "Gęsta zupa z makaronem, strączkami i ziołami, posypana kaszkiem, smażoną cebulą i miętą.",
+  "history": "Asz-e reszte gotuje się na Nouruz i na pożegnanie przed podróżą; makaron symbolizuje drogę.",
+  "ingredientsText": "Makaron reszte, ciecierzyca, fasola, soczewica, szpinak, zioła, kaszk, cebula, mięta"
+ },
+ "ashlyan-fu": {
+  "name": "Aszlan-fu",
+  "description": "Zimna ostra zupa z grubym makaronem, galaretką skrobiową, paskami omletu i octowym dressingiem.",
+  "history": "Aszlan-fu to danie dungańskie, które rozsławiło miasto Karakol nad Issyk-Kulem.",
+  "ingredientsText": "Makaron pszenny, galaretka skrobiowa, jajka, ocet, chili, czosnek, zioła"
+ },
+ "asure": {
+  "name": "Aszure",
+  "description": "Pudding z pszenicy, strączków, suszonych owoców i orzechów gotowany w wielkich garach i dzielony z sąsiadami.",
+  "history": "Według legendy Noe zrobił aszure z ostatnich zapasów po potopie; gotuje się ją w miesiącu muharram.",
+  "ingredientsText": "Pszenica, ciecierzyca, fasola, suszone morele, rodzynki, figi, orzechy włoskie, cukier, granat"
+ },
+ "avarskiy-hinkal": {
+  "name": "Chinkał awarski",
+  "description": "Duże kawałki gotowanego ciasta z mięsem, wywarem i sosem czosnkowym — nie mylić z gruzińskimi chinkali.",
+  "history": "Chinkał to główne danie Dagestanu; w wersji awarskiej puszyste ciasto kroi się w romby i gotuje w wywarze.",
+  "ingredientsText": "Mąka pszenna, kefir, soda, jagnięcina lub wołowina, czosnek, sos pomidorowy"
+ },
+ "ayran": {
+  "name": "Ajran",
+  "description": "Orzeźwiający napój z jogurtu rozcieńczonego zimną wodą, z solą, czasem z miętą.",
+  "history": "Ajran pije się w całym Kaukazie i w Turcji; szczególnie pasuje do tłustego mięsa i kebabów.",
+  "ingredientsText": "Jogurt, zimna woda, sól, mięta"
+ },
+ "badambura": {
+  "name": "Badambura",
+  "description": "Rożki z cienkiego ciasta francuskiego z migdałami i cukrem, posypane cukrem pudrem.",
+  "history": "Nazwa pochodzi od badam — „migdał”. W Baku badamburę piecze się na święta.",
+  "ingredientsText": "Mąka pszenna, masło, jajka, migdały, cukier, kardamon"
+ },
+ "badrijani-nigvzit": {
+  "name": "Badridżani nigwzit",
+  "description": "Cienkie plastry smażonego bakłażana zwinięte z pastą orzechową z czosnkiem i przyprawami, posypane granatem.",
+  "history": "Nazwa znaczy „bakłażany z orzechami”. Gruzińska uczta, supra, rzadko obywa się bez tej przystawki.",
+  "ingredientsText": "Bakłażan, orzechy włoskie, czosnek, kolendra, chmeli-suneli, ocet winny, granat"
+ },
+ "bagany": {
+  "name": "Piwo osetyjskie",
+  "description": "Ciemne domowe piwo z jęczmienia lub kukurydzy z chmielem, warzone na święta i obrzędy.",
+  "history": "Po osetyjsku piwo to bægæny; warzy się je w dużych kotłach i podaje we wspólnej czarze.",
+  "ingredientsText": "Jęczmień lub kukurydza, chmiel, woda, cukier"
+ },
+ "baghali-polo": {
+  "name": "Baghali polo",
+  "description": "Ryż z bobem i dużą ilością koperku, często podawany z duszoną golonką jagnięcą.",
+  "history": "Wiosenne danie, gdy pojawia się młody bób.",
+  "ingredientsText": "Ryż, bób, koperek, masło, szafran, golonka jagnięca"
+ },
+ "baklava": {
+  "name": "Baklawa",
+  "description": "Dziesiątki cieniutkich warstw ciasta z pistacjami, nasączone syropem — turecka odmiana pachławy.",
+  "history": "Baklawa pistacjowa z Gaziantepu jest zarejestrowana w UE jako chronione oznaczenie geograficzne.",
+  "ingredientsText": "Cienkie ciasto, masło, pistacje, cukier, woda, sok z cytryny"
+ },
+ "balyk-lyavangi": {
+  "name": "Lawangi rybne",
+  "description": "Ryba nadziewana orzechami, cebulą i pastą z kwaśnych śliwek, pieczona w piekarniku lub tandurze.",
+  "history": "Rybną wersję lawangi robi się nad Morzem Kaspijskim, zwykle z kutuma lub karpia.",
+  "ingredientsText": "Ryba, orzechy włoskie, cebula, pasta z kwaśnych śliwek, sól"
+ },
+ "barbari": {
+  "name": "Barbari",
+  "description": "Gruby owalny podpłomyk z rowkami, sezamem i czarnuszką — klasyczny chleb śniadaniowy.",
+  "history": "Barbari je się rano z serem, ziołami i herbatą; przypomina ormiański matnakasz.",
+  "ingredientsText": "Mąka pszenna, drożdże, woda, sól, sezam, czarnuszka"
+ },
+ "bastani-sonnati": {
+  "name": "Bastani sonnati",
+  "description": "Perskie lody z szafranem, wodą różaną i kawałkami mrożonej śmietany, posypane pistacjami.",
+  "history": "Lody często podaje się między dwoma waflami jak kanapkę.",
+  "ingredientsText": "Mleko, śmietanka, cukier, żółtka, szafran, woda różana, salep, pistacje"
+ },
+ "bastirma-kebab": {
+  "name": "Kebab bastirma",
+  "description": "Kebab z wołowiny lub jagnięciny marynowanej dobę w cebuli i occie przed grillowaniem.",
+  "history": "Długa marynata bardzo zmiękcza mięso, więc bastirmę grilluje się krótko.",
+  "ingredientsText": "Wołowina lub jagnięcina, cebula, ocet winny, sól, pieprz"
+ },
+ "basturma": {
+  "name": "Basturma",
+  "description": "Suszona na powietrzu wołowina w czamanie — ostrej paście z kozieradki, papryki i czosnku. Krojona bardzo cienko jako przystawka.",
+  "history": "Peklowanie mięsa z przyprawami jest w regionie znane od dawna. Suszenie na wietrze pozwalało przechować je miesiącami.",
+  "ingredientsText": "Polędwica wołowa, sól, kozieradka, papryka, czosnek, chili"
+ },
+ "baursak": {
+  "name": "Baursak",
+  "description": "Puszyste kulki lub romby z ciasta drożdżowego smażone w głębokim tłuszczu, podawane do herbaty.",
+  "history": "Baursaki smaży się na święta i dzieli z gośćmi; okrągły kształt symbolizuje słońce.",
+  "ingredientsText": "Mąka pszenna, drożdże, mleko, jajka, cukier, olej roślinny"
+ },
+ "bazhe": {
+  "name": "Badże",
+  "description": "Gęsty sos orzechowy z czosnkiem, przyprawami i octem. Do drobiu, ryb i smażonych warzyw.",
+  "history": "Badże to podstawa wielu gruzińskich dań, w tym saciwi. Lubiany zwłaszcza w zachodniej Gruzji i robiony na święta.",
+  "ingredientsText": "Orzechy włoskie, czosnek, kolendra, kozieradka błękitna, chili, ocet winny, woda"
+ },
+ "beshbarmak": {
+  "name": "Beszbarmak",
+  "description": "Gotowana konina lub jagnięcina na cienkich kwadratach ciasta z sosem cebulowym, podawana z wywarem.",
+  "history": "Nazwa znaczy „pięć palców”, bo beszbarmak tradycyjnie je się rękami.",
+  "ingredientsText": "Konina lub jagnięcina, mąka pszenna, cebula, wywar"
+ },
+ "boreg": {
+  "name": "Boereg",
+  "description": "Warstwowe ciasto z cienkich płatów z nadzieniem z sera i ziół, krojone w kwadraty.",
+  "history": "Boereg pieką Ormianie na całym świecie, zwłaszcza w rodzinach z Armenii Zachodniej.",
+  "ingredientsText": "Cienkie ciasto, biały ser, jajka, natka pietruszki, masło"
+ },
+ "bozartma": {
+  "name": "Bozartma",
+  "description": "Jagnięcina lub kurczak duszone z cebulą i pomidorami we własnym sosie do miękkości.",
+  "history": "Bozartma to codzienne danie; mięso od razu się dusi bez obsmażania, dlatego jest soczyste.",
+  "ingredientsText": "Jagnięcina lub kurczak, cebula, pomidory, szafran, sól, pieprz"
+ },
+ "bozbash": {
+  "name": "Bozbasz",
+  "description": "Gęsta zupa z jagnięciny z ciecierzycą, ziemniakami i pigwą lub jabłkami. Sycąca i lekko słodka.",
+  "history": "Bozbasz gotuje się w całym Zakaukaziu, w każdym regionie inaczej — w Erywaniu z pigwą, w Szyraku z groszkiem.",
+  "ingredientsText": "Jagnięcina, ciecierzyca, ziemniaki, pigwa, cebula, koncentrat pomidorowy, zioła"
+ },
+ "cacik": {
+  "name": "Cacık",
+  "description": "Zimne danie z jogurtu z ogórkiem, czosnkiem, miętą i oliwą.",
+  "history": "Cacık rozcieńcza się wodą i je jak zupę albo podaje gęsty do mięsa.",
+  "ingredientsText": "Jogurt, ogórek, czosnek, mięta, oliwa, sól"
+ },
+ "chahohbili": {
+  "name": "Czachochbili",
+  "description": "Czachochbili to aromatyczny gulasz z kurczaka, który oddaje ducha gruzińskiej uczty. Mięso duszone z pomidorami, cebulą, czosnkiem i przyprawami ma bogaty, wyrazisty smak. Pierwotnie robiono je z bażanta, dziś z kurczaka. Podaje się je z chlebem lub ryżem do wymaczania sosu.",
+  "quote": "Czachochbili gromadzi rodzinę przy stole; jego aromat wypełnia dom ciepłem",
+  "history": "Nazwa pochodzi od chochobi — „bażant”: danie pierwotnie robiono z dziczyzny. Później kurczak zastąpił bażanta, a pomidory, dziś niezbędne, trafiły do przepisu stosunkowo niedawno.",
+  "ingredientsText": "Kurczak 800 g\nCebula 3\nPomidory 4\nPapryka ½\nCzosnek 3 ząbki\nKolendra, natka pietruszki\nChili ½\nPrzyprawy i sól"
+ },
+ "chakapuli": {
+  "name": "Czakapuli",
+  "description": "Młoda jagnięcina lub cielęcina duszona w białym winie z estragonem, zielonymi kwaśnymi śliwkami i mnóstwem ziół. Wiosenne danie.",
+  "history": "Czakapuli wiąże się z Wielkanocą, gdy pojawiają się młode zioła, estragon i niedojrzałe śliwki — bez nich się go nie robi.",
+  "ingredientsText": "Jagnięcina lub cielęcina, estragon, zielone kwaśne śliwki, białe wino, kolendra, dymka, czosnek"
+ },
+ "chakka": {
+  "name": "Czakka",
+  "description": "Gęsty odsączony produkt z kwaśnego mleka, jedzony z ziołami i chlebem.",
+  "history": "Czakkę robi się, odsączając kwaśne mleko w workach — to coś między twarogiem a kwaśną śmietaną.",
+  "ingredientsText": "Kwaśne mleko, sól, zioła"
+ },
+ "chalop": {
+  "name": "Czałop",
+  "description": "Zimna zupa z jogurtu katyk i wody z ogórkiem, rzodkiewką i ziołami.",
+  "history": "Czałop ratuje w letnim upale, gdy w Uzbekistanie bywa ponad czterdzieści stopni.",
+  "ingredientsText": "Jogurt katyk, woda, ogórki, rzodkiewka, koperek, kolendra, sól"
+ },
+ "chanakhi": {
+  "name": "Czanachi",
+  "description": "Jagnięcina zapiekana w glinianym garnku z bakłażanami, ziemniakami, pomidorami i ziołami.",
+  "history": "Czanachi przyrządza się w porcjowych garnkach, gdzie warzywa duszą się w sosie z mięsa; szczególnie lubiane w Tbilisi.",
+  "ingredientsText": "Jagnięcina, bakłażany, ziemniaki, pomidory, cebula, czosnek, kolendra, bazylia"
+ },
+ "chashushuli": {
+  "name": "Czaszuszuli",
+  "description": "Wołowina duszona z pomidorami, cebulą, czosnkiem i chili. Proste domowe danie z gęstym, ostrym sosem.",
+  "history": "Czaszuszuli znaczy „duszone”. Takie gulasze robi się w całej Gruzji, a mięso i przyprawy zmieniają się z porą roku.",
+  "ingredientsText": "Wołowina, pomidory, cebula, czosnek, chili, kolendra, chmeli-suneli"
+ },
+ "chebureki": {
+  "name": "Czebureki",
+  "description": "Cienkie smażone pierogi w kształcie półksiężyca z soczystym nadzieniem z mielonej jagnięciny i cebuli.",
+  "history": "Czebureki to najbardziej znane danie Tatarów krymskich, lubiane daleko poza Krymem.",
+  "ingredientsText": "Mąka pszenna, woda, jagnięcina, cebula, zioła, olej roślinny"
+ },
+ "chechil": {
+  "name": "Czeczil",
+  "description": "Ser ciągnięty w nitki i zaplatany w warkocz, sprzedawany świeży lub wędzony.",
+  "history": "Czeczil wyciąga się ręcznie w gorącej wodzie i je do piwa lub w sałatkach.",
+  "ingredientsText": "Mleko krowie, podpuszczka, sól"
+ },
+ "chepalgash": {
+  "name": "Czepałgasz",
+  "description": "Cienkie placki z twarogiem i ziołami; po upieczeniu macza się je w gorącej wodzie, smaruje masłem i układa w stos.",
+  "history": "Czepałgasz piecze się, gdy w rodzinie rodzi się dziecko, i na święta. Stos kroi się jak tort.",
+  "ingredientsText": "Mąka pszenna, kefir, twaróg, dymka, masło, sól"
+ },
+ "chetlibzh": {
+  "name": "Czetlibż",
+  "description": "Kurczak w sosie śmietanowo-czosnkowym z czerwoną papryką — adygejskie danie świąteczne.",
+  "history": "Czetlibż robi się na wesela i dla gości; sos zagęszcza się mąką i podaje z pastą (kaszą jaglaną).",
+  "ingredientsText": "Kurczak, kwaśna śmietana, cebula, czosnek, mąka pszenna, czerwona papryka"
+ },
+ "chikhirtma": {
+  "name": "Czychyrtma",
+  "description": "Zupa z kurczaka zagęszczona roztrzepanymi jajkami i mąką, zakwaszona octem lub cytryną. Delikatna i lekko kwaskowa.",
+  "history": "W Gruzji czychyrtmę uważa się za najlepsze lekarstwo po uczcie. Jajka dodaje się na samym końcu, by się nie zważyły.",
+  "ingredientsText": "Kurczak, cebula, jajka, mąka pszenna, ocet winny, kolendra"
+ },
+ "chilov": {
+  "name": "Czilow",
+  "description": "Sypki ryż gotowany z fasolą, soczewicą lub ziołami, jako dodatek do mięsa i ryb.",
+  "history": "Czilow to prosta forma pilawu, w której ryż gotuje się razem z dodatkami, a nie osobno.",
+  "ingredientsText": "Ryż, fasola mung lub soczewica, masło, szafran, sól"
+ },
+ "chirbuli": {
+  "name": "Czyrbuli",
+  "description": "Adżarska jajecznica sadzona z pomidorami, cebulą, orzechami i ziołami.",
+  "history": "Czyrbuli to tradycyjne śniadanie w Adżarii; orzechy czynią je sycącym.",
+  "ingredientsText": "Jajka, pomidory, cebula, orzechy włoskie, kolendra, masło"
+ },
+ "chuchvara": {
+  "name": "Czuczwara",
+  "description": "Małe pierożki z mięsem podawane w rosole lub z kwaśnym mlekiem.",
+  "history": "Czuczwarę lepi cała rodzina i mrozi partiami na zimę.",
+  "ingredientsText": "Mąka pszenna, jajko, wołowina lub jagnięcina, cebula, kwaśne mleko"
+ },
+ "chudu": {
+  "name": "Czudu",
+  "description": "Cienki placek z mięsem, twarogiem, dynią lub ziołami, posmarowany masłem.",
+  "history": "Czudu piecze się w całym Dagestanie; nadzienie zmienia się z porą roku, a placki układa w stos.",
+  "ingredientsText": "Mąka pszenna, woda, mięso lub twaróg, zioła, masło"
+ },
+ "churchkhela": {
+  "name": "Czurczchela",
+  "description": "Orzechy nawleczone na nitkę, wielokrotnie maczane w zagęszczonym mąką soku winogronowym i suszone — słodka „kiełbaska”.",
+  "history": "Czurczchelę robi się jesienią po winobraniu. Brano ją w podróż, bo dobrze się przechowuje i jest bardzo pożywna.",
+  "ingredientsText": "Orzechy włoskie lub laskowe, sok winogronowy, mąka pszenna"
+ },
+ "chvishtari": {
+  "name": "Czwisztari",
+  "description": "Placki kukurydziane z serem w środku, smażone na chrupko. Topiący się ser czyni je miękkimi w środku.",
+  "history": "Danie ze Swanetii. Swanowie dodają sulguni do ciasta, więc czwisztari są bardziej sycące niż zwykłe mczadi.",
+  "ingredientsText": "Mąka kukurydziana, sulguni, masło, woda"
+ },
+ "chygyrtma": {
+  "name": "Czygyrtma",
+  "description": "Kurczak lub warzywa smażone z cebulą i pomidorami, na koniec z wbitymi jajkami.",
+  "history": "Czygyrtma jest szybka i prosta — z kurczakiem, szpinakiem lub bakłażanami.",
+  "ingredientsText": "Kurczak, cebula, pomidory, jajka, masło, zioła"
+ },
+ "cig-kofte": {
+  "name": "Çiğ köfte",
+  "description": "Ostre kulki z drobnego bulguru z koncentratem pomidorowym i paprykowym, jedzone w liściach sałaty.",
+  "history": "Dawniej çiğ köfte robiono z surowego mięsa; dziś zwykle sprzedaje się wersję bezmięsną.",
+  "ingredientsText": "Drobny bulgur, pasta paprykowa, koncentrat pomidorowy, cebula, zioła, melasa z granatów"
+ },
+ "dimlama": {
+  "name": "Dimlama",
+  "description": "Mięso i warzywa układane warstwami w kazanie i duszone pod przykryciem we własnym sosie.",
+  "history": "Dimlamę robi się latem, gdy warzyw jest pod dostatkiem; liście kapusty na wierzchu zatrzymują wilgoć.",
+  "ingredientsText": "Jagnięcina, ziemniaki, marchew, bakłażany, papryka, pomidory, kapusta, cebula"
+ },
+ "dograma": {
+  "name": "Dograma",
+  "description": "Kawałki chleba pokruszone do esencjonalnego wywaru z mięsem, cebulą i pomidorami.",
+  "history": "Dogramę przygotowuje się na święta, a cała rodzina rwie chleb i mięso rękami.",
+  "ingredientsText": "Chleb pszenny, jagnięcina, cebula, pomidory, wywar"
+ },
+ "dolma-armyanskaya": {
+  "name": "Dolma",
+  "description": "Dolma to jedno z najbardziej wyrafinowanych dań kuchni ormiańskiej i symbol gościnności. Delikatne, lekko kwaskowe liście winorośli otulają nadzienie z ryżu, mielonego mięsa i aromatycznych ziół. Podaje się ją z matsunem lub sosem czosnkowym; to obowiązkowe danie świąt i rodzinnych obiadów.",
+  "quote": "Dolma to sztuka równowagi: delikatne mięso, pachnący ryż i soczyste liście winorośli w harmonii od pierwszego kęsa",
+  "history": "Dolmę w liściach winorośli robi się w całym Kaukazie i na Bliskim Wschodzie. W Armenii nazywa się tołmą i podaje z czosnkowym matsunem; latem używa się młodych liści, na zimę się je marynuje.",
+  "ingredientsText": "Liście winorośli 400 g\nWołowina 600 g\nWieprzowina 100 g\nRyż długoziarnisty 100 g\nCebula 100 g\nŚwieża bazylia 20 g\nNatka pietruszki 20 g\nKolendra 20 g\nCzarny pieprz\nSól"
+ },
+ "dolma-azerbajdzhanskaya": {
+  "name": "Dolma",
+  "description": "Dolma to jedno z najulubieńszych dań kuchni azerskiej, przygotowywane z wielką starannością. Liście winorośli lub warzywa (bakłażany, pomidory, papryka) nadziewa się ryżem, mięsem mielonym i ziołami. Podaje się ją z czosnkowym jogurtem; to obowiązkowe danie świątecznego stołu.",
+  "quote": "Azerska dolma to nie tylko liście winorośli: nadziewa się też bakłażany, paprykę, pomidory, a nawet owoce, jak pigwę",
+  "history": "Nazwa dolma pochodzi od tureckiego czasownika doldurmaq — „napełniać”.\n\nW Azerbejdżanie dolma ma wiele odmian: oprócz liści winorośli nadziewa się paprykę, pomidory, pigwy, bakłażany oraz inne warzywa i owoce.",
+  "ingredientsText": "Mielona jagnięcina i wołowina 100 g\nLiście winorośli 120 g\nMięta, kolendra i koperek, po trochu\nMasło 20 g\nRyż 1 łyżka\nCebula ¼\nSól i pieprz"
+ },
+ "dondurma": {
+  "name": "Dondurma",
+  "description": "Ciągnące się lody z koziego mleka z salepem i mastyksem — tak twarde, że kroi się je nożem.",
+  "history": "Kahramanmaraş to ojczyzna dondurmy, a sprzedawcy robią z nią całe pokazy.",
+  "ingredientsText": "Mleko kozie, cukier, salep, mastyks"
+ },
+ "doshab": {
+  "name": "Doszab",
+  "description": "Gęsta melasa z odparowanego soku winogronowego lub morwowego, jedzona z chlebem i dodawana do słodyczy.",
+  "history": "Doszab odparowuje się jesienią w wielkich miedzianych kotłach bez dodatku cukru.",
+  "ingredientsText": "Sok winogronowy lub morwowy"
+ },
+ "dovga": {
+  "name": "Dowga",
+  "description": "Zupa z kwaśnego mleka lub jogurtu z ryżem i mnóstwem ziół, na ciepło lub zimno.",
+  "history": "Latem dowgę pije się zimną dla ochłody, zimą je się ciepłą. Miesza się w jedną stronę, by jogurt się nie zważył.",
+  "ingredientsText": "Jogurt, ryż, jajko, szpinak, szczaw, koperek, kolendra, mięta"
+ },
+ "dulkh-khyaltam": {
+  "name": "Dułch-chałtam",
+  "description": "Gotowane mięso z ziemniakami, cebulą i sosem czosnkowym, czasem z kluskami.",
+  "history": "Danie górskich rejonów Czeczenii, gdzie mięso i ziemniaki są podstawą zimowej diety.",
+  "ingredientsText": "Wołowina lub jagnięcina, ziemniaki, cebula, czosnek, mąka pszenna"
+ },
+ "dyushbara": {
+  "name": "Duszbara",
+  "description": "Malutkie pierożki z jagnięciną w klarownym rosole z miętą i octem czosnkowym.",
+  "history": "Wprawna kucharka robi duszbarę tak drobną, że na łyżce mieści się ponad dziesięć sztuk.",
+  "ingredientsText": "Mąka pszenna, jajko, jagnięcina, cebula, mięta, ocet winny, czosnek"
+ },
+ "dzavar-plov": {
+  "name": "Pilaw dzawar",
+  "description": "Pilaw z bulguru z przyrumienionym makaronem nitką i cebulą. Sypki dodatek do mięsa.",
+  "history": "Bulgur to jedno z najstarszych zbóż regionu. Na wsi robiono go samemu, gotując i susząc pszenicę.",
+  "ingredientsText": "Bulgur, makaron nitki, masło, cebula, wywar"
+ },
+ "dzykka": {
+  "name": "Dzykka",
+  "description": "Gęste danie ze świeżego sera, kwaśnej śmietany i mąki gotowanych, aż oddzieli się masło.",
+  "history": "Górscy pasterze robią dzykkę ze świeżego sera i jedzą ją na gorąco, maczając chleb.",
+  "ingredientsText": "Świeży ser osetyjski, kwaśna śmietana, mąka pszenna lub kukurydziana, sól"
+ },
+ "eech": {
+  "name": "Icz",
+  "description": "Zimna sałatka z bulguru z koncentratem pomidorowym, cebulą, ziołami i sokiem z cytryny. Danie postne.",
+  "history": "Icz robi się w Wielkim Poście, gdy unika się mięsa i nabiału. Dobrze się przechowuje, a nazajutrz smakuje jeszcze lepiej.",
+  "ingredientsText": "Bulgur, koncentrat pomidorowy, pomidory, cebula, natka pietruszki, sok z cytryny, olej roślinny"
+ },
+ "elarji": {
+  "name": "Elardżi",
+  "description": "Gęsta kasza kukurydziana z dużą ilością sulguni, mieszana, aż zacznie się ciągnąć. Na gorąco do mięsa i sosów.",
+  "history": "Klasyka kuchni megrelskiej. Elardżi długo i mocno miesza się drewnianą łopatką — od tego zależy, jak się ciągnie.",
+  "ingredientsText": "Mąka kukurydziana, sulguni, woda, sól"
+ },
+ "ezogelin-corbasi": {
+  "name": "Zupa ezogelin",
+  "description": "Zupa z czerwonej soczewicy z bulgurem, ryżem, koncentratem pomidorowym i suszoną miętą.",
+  "history": "Zupa nosi imię Ezo, młodej kobiety z Gaziantepu, której życie natchnęło pieśni.",
+  "ingredientsText": "Czerwona soczewica, bulgur, ryż, koncentrat pomidorowy, mięta, czerwona papryka"
+ },
+ "faloodeh": {
+  "name": "Faludeh",
+  "description": "Mrożony cienki makaron ryżowy w syropie z wody różanej, podawany z sokiem z cytryny.",
+  "history": "Faludeh z Szirazu to jeden z najstarszych mrożonych deserów świata.",
+  "ingredientsText": "Makaron ryżowy, cukier, woda różana, sok z cytryny"
+ },
+ "fatir": {
+  "name": "Fatir",
+  "description": "Wielowarstwowy maślany chleb z tandyru — podstawa kurutobu.",
+  "history": "Fatir rozwałkowuje się bardzo cienko i wielokrotnie składa z masłem między warstwami.",
+  "ingredientsText": "Mąka pszenna, masło, mleko, sól"
+ },
+ "fisinjan": {
+  "name": "Fisindżan",
+  "description": "Klopsiki lub kurczak w gęstym sosie z orzechów i melasy z granatów.",
+  "history": "Danie popularne w południowym Azerbejdżanie i Iranie, równoważące kwaśny granat słodyczą.",
+  "ingredientsText": "Kurczak lub mielona wołowina, orzechy włoskie, melasa z granatów, cebula, szafran"
+ },
+ "fydzhyn": {
+  "name": "Fydżyn",
+  "description": "Osetyjski pieróg z mięsem. Cienkie ciasto, dużo nadzienia i roztopione masło na wierzchu.",
+  "history": "Na święta osetyjskie pierogi piecze się po trzy, na znak słońca, ziemi i wody. W środku fydżyna zostawia się otworek, by uchodziła para, a sok nie wyciekał.",
+  "ingredientsText": "Mąka pszenna, drożdże, kefir, masło, wołowina, cebula, czosnek, pieprz"
+ },
+ "gata": {
+  "name": "Gata",
+  "description": "Gata to słodki symbol kuchni ormiańskiej, kojarzony z domowym ciepłem. To ciasto francuskie z nadzieniem z masła, mąki i cukru, chrupiące z zewnątrz i miękkie w środku. Bywa okrągła jak słońce lub podzielona na porcje; piecze się ją na święta lub po prostu do herbaty, a każdy region Armenii ma własny przepis.",
+  "quote": "Każdy region Armenii ma swoją gatę, ale jedno się nie zmienia: gromadzi ludzi przy jednym stole",
+  "history": "Pierwsza pisemna wzmianka o gacie pochodzi z XIII wieku, ale nie wiadomo, kiedy powstała. Wchłonęła ducha narodowego: mimo trudnych czasów aż do XX wieku Ormianie zachowali tożsamość i kulturę.\n\nGatę kocha się w Armenii i w diasporze, która z dala od domu zachowała cechy swojej kuchni.",
+  "ingredientsText": "Mąka pszenna 58 g\nMasło 33 g\nJogurt matsun 20 g\nSoda 1 łyżeczka\nSzczypta soli\nNa nadzienie: roztopione masło 13 g, cukier waniliowy 1 łyżeczka, mąka 40 g, cukier puder 41 g"
+ },
+ "gaz": {
+  "name": "Gaz",
+  "description": "Miękki nugat z pistacjami lub migdałami z manną tamaryszkową i wodą różaną.",
+  "history": "Gaz to słodycz Isfahanu, obsypywany mąką, by kawałki się nie sklejały.",
+  "ingredientsText": "Cukier, białka, manna, woda różana, pistacje lub migdały"
+ },
+ "gebzhalia": {
+  "name": "Gebżalia",
+  "description": "Roladki z młodego sera w sosie z maconi i mięty, podawane na zimno.",
+  "history": "Danie megrelskie robione ze świeżego sera w dniu jego produkcji.",
+  "ingredientsText": "Młody ser, maconi, mięta, chili, sól"
+ },
+ "gedlibzhe": {
+  "name": "Gedlibże",
+  "description": "Kurczak duszony w gęstym sosie śmietanowym z cebulą, czosnkiem i czerwoną papryką, podawany z pastą (kaszą jaglaną).",
+  "history": "Gedlibże to kabardyjskie danie świąteczne; sos zagęszcza się mąką zrumienioną na maśle.",
+  "ingredientsText": "Kurczak, kwaśna śmietana, cebula, czosnek, mąka pszenna, czerwona papryka"
+ },
+ "ghapama": {
+  "name": "Ghapama",
+  "description": "Cała dynia nadziewana ryżem, suszonymi owocami, orzechami i miodem, pieczona i podawana w cząstkach.",
+  "history": "Ghapama to danie zimowych świąt — jest nawet ludowa piosenka „Hej, Ghapama”.",
+  "ingredientsText": "Dynia, ryż, suszone morele, rodzynki, suszone śliwki, orzechy włoskie, miód, masło, cynamon"
+ },
+ "ghormeh-sabzi": {
+  "name": "Ghorme sabzi",
+  "description": "Duszone mięso z mnóstwem smażonych ziół, czerwoną fasolą i suszoną limonką.",
+  "history": "Ghorme sabzi często nazywa się ulubionym gulaszem Iranu; gotuje się długo, aż zioła ściemnieją.",
+  "ingredientsText": "Jagnięcina lub wołowina, natka pietruszki, kolendra, kozieradka, dymka, czerwona fasola, suszona limonka"
+ },
+ "gogal": {
+  "name": "Gogal",
+  "description": "Okrągłe bułeczki z ciasta francuskiego z korzennym nadzieniem z mąki, masła, kopru włoskiego i kurkumy, słone lub słodkie.",
+  "history": "Gogal to jeden z głównych przysmaków Nowruzu, obok szekerbury i pachławy.",
+  "ingredientsText": "Mąka pszenna, masło, jajka, drożdże, koper włoski, kurkuma, sól"
+ },
+ "gomi": {
+  "name": "Gomi",
+  "description": "Gęsta kasza kukurydziana bez soli i masła. Je się ją z sulguni, sosami i mięsem, trochę jak chleb.",
+  "history": "Gomi to podstawa diety zachodniej Gruzji. Dawniej robiono je z prosa, a po przybyciu kukurydzy — z mąki kukurydzianej.",
+  "ingredientsText": "Mąka kukurydziana, woda"
+ },
+ "govurma": {
+  "name": "Gowurma",
+  "description": "Mięso smażone we własnym tłuszczu na złoto. Tak dawniej konserwowano jagnięcinę na zimę.",
+  "history": "Usmażone mięso zalewano tłuszczem i trzymano w słojach. Dziś gowurmę gotuje się też jako osobne danie.",
+  "ingredientsText": "Jagnięcina, tłuszcz z ogona, cebula, sól"
+ },
+ "gozinaki": {
+  "name": "Gozinaki",
+  "description": "Orzechy skarmelizowane w miodzie i pokrojone w romby. Prosty przysmak z dwóch składników.",
+  "history": "Gozinaki to obowiązkowa noworoczna słodycz w Gruzji, kładziona na stół, by rok był słodki.",
+  "ingredientsText": "Orzechy włoskie, miód, cukier"
+ },
+ "gozleme": {
+  "name": "Gözleme",
+  "description": "Cienki placek złożony na serze, szpinaku lub ziemniakach i pieczony na sadżu.",
+  "history": "Gözleme wałkuje się i piecze na twoich oczach, tradycyjnie robią to wiejskie kobiety.",
+  "ingredientsText": "Mąka pszenna, woda, biały ser, szpinak, masło"
+ },
+ "guruli-gvezeli": {
+  "name": "Guruli gwezeli",
+  "description": "Pieróg w kształcie półksiężyca z serem i jajkami na twardo. Piecze się go na Boże Narodzenie, dlatego w Gruzji nazywa się go też bożonarodzeniowym chaczapuri.",
+  "history": "Danie z Gurii w zachodniej Gruzji. Kształt półksiężyca tłumaczy się różnie, m.in. podobieństwem do rogu lub księżyca.",
+  "ingredientsText": "Mąka pszenna, drożdże, jogurt maconi, sulguni, ser imeretyński, jajka na twardo"
+ },
+ "gutap": {
+  "name": "Gutap",
+  "description": "Cienkie półksiężyce z mięsem, dynią lub ziołami, pieczone na suchej patelni.",
+  "history": "Gutap to turkmeński kuzyn azerskiego kutabu.",
+  "ingredientsText": "Mąka pszenna, jagnięcina lub dynia, cebula, zioła"
+ },
+ "guubat": {
+  "name": "Guubat",
+  "description": "Trójkątne pierożki z serem adygejskim pieczone w piekarniku.",
+  "history": "Guubaty piecze się do herbaty i na święta; trójkątny kształt jest tradycyjny w adygejskich wypiekach.",
+  "ingredientsText": "Mąka pszenna, kefir, jajko, ser adygejski, masło"
+ },
+ "guymag": {
+  "name": "Gujmag",
+  "description": "Słodka kaszka z mąki zrumienionej na maśle z cukrem lub miodem, kurkumą i cynamonem.",
+  "history": "Gujmag robi się dla młodych matek i w chłodne dni, bo uchodzi za bardzo pożywny.",
+  "ingredientsText": "Mąka pszenna, masło, cukier lub miód, kurkuma, cynamon"
+ },
+ "gyrdzhyn": {
+  "name": "Gyrdżyn",
+  "description": "Prosty placek na ajranie pieczony na patelni lub w piekarniku, podawany z mięsem i herbatą.",
+  "history": "Gyrdżyn to codzienny chleb Karaczajów i Bałkarów, często z nadzieniem z sera lub ziemniaków.",
+  "ingredientsText": "Mąka pszenna, ajran, soda, sól"
+ },
+ "gyurza": {
+  "name": "Gjurza",
+  "description": "Pierożki z mięsem zamykane plecionym brzegiem przypominającym łuski węża, gotowane lub smażone.",
+  "history": "Gjurza to danie z Baku nazwane od żmii, bo wzór szwu przypomina jej łuski.",
+  "ingredientsText": "Mąka pszenna, jajko, jagnięcina, cebula, sól"
+ },
+ "hachapuri": {
+  "name": "Chaczapuri",
+  "description": "Chaczapuri to wizytówka kuchni gruzińskiej — placek z serem, który zdobywa serca prostotą i bogatym smakiem. Cienkie ciasto z roztopionym sulguni lub serem imeretyńskim łączy chrupiącą skórkę i delikatny środek. Zależnie od regionu jest okrągłe (Imeretia), w kształcie łódki (Adżaria) lub z serem na wierzchu (Megrelia). Podaje się je gorące, by ser się ciągnął.",
+  "quote": "Chaczapuri to nie tylko placek z serem, ale cała kultura kulinarna: gdziekolwiek jesteś w Gruzji, zawsze ma miejsce na stole",
+  "history": "Chaczapuri piecze się w całej Gruzji, a prawie każdy region ma swoją wersję: imeretyńską, megrelską, adżarską, guryjską. Nazwę zwykle tłumaczy się jako „chleb z twarogiem”, od chaczo (twaróg) i puri (chleb).",
+  "ingredientsText": "Mleko 250 ml\nWoda 250 ml\nŚwieże drożdże 10 g\nCukier 10 g\nSól 5 g\nMąka 700 g\nJajka 2\nOlej słonecznikowy 120 g\nSulguni 300 g\nSer imeretyński 300 g\nSer twardy 50 g\nMasło 100 g"
+ },
+ "hachapuri-imeretinskij": {
+  "name": "Chaczapuri imeretyńskie",
+  "description": "Okrągły zamknięty placek pełen słonego sera imeretyńskiego. Najpopularniejsze chaczapuri w Gruzji, pieczone w domu niemal codziennie.",
+  "history": "Nazwa pochodzi od regionu Imeretia w zachodniej Gruzji. Ciasto często robi się na maconi, co czyni je miękkim i lekko kwaskowym.",
+  "ingredientsText": "Mąka pszenna, jogurt maconi, soda, ser imeretyński, masło"
+ },
+ "hachapuri-penovani": {
+  "name": "Chaczapuri penowani",
+  "description": "Chaczapuri z ciasta francuskiego: ser zawija się w kwadrat lub kopertę i piecze na chrupko i złoto. Popularna przekąska uliczna w Tbilisi.",
+  "history": "Penowani znaczy „warstwowe”. Ta wersja pojawiła się później niż klasyczne i przyjęła się w miejskich piekarniach.",
+  "ingredientsText": "Ciasto francuskie, sulguni, ser imeretyński, masło"
+ },
+ "hachapuri-po-adzharski": {
+  "name": "Chaczapuri adżarskie",
+  "description": "Otwarta łódka z ciasta drożdżowego wypełniona roztopionym serem, tuż przed podaniem wieńczona surowym żółtkiem i kawałkiem masła. Je się ją, odrywając brzeg i mieszając z nadzieniem.",
+  "history": "Danie pochodzi z Adżarii na czarnomorskim wybrzeżu Gruzji. Kształt łódki łączy się z morskim życiem regionu, a żółtko ze słońcem nad morzem.",
+  "ingredientsText": "Mąka pszenna, drożdże, mleko, sulguni, ser imeretyński, jajka, masło"
+ },
+ "halim": {
+  "name": "Halim",
+  "description": "Gęsta kasza z pszenicy i mięsa ubita na gładko, jedzona z cynamonem, cukrem i masłem.",
+  "history": "Halim je się na śniadanie zimą i w ramadanie, sprzedawany w specjalnych lokalach.",
+  "ingredientsText": "Pszenica, indyk lub jagnięcina, masło, cynamon, cukier"
+ },
+ "hamsi-tava": {
+  "name": "Hamsi tava",
+  "description": "Czarnomorskie sardele obtoczone w mące kukurydzianej i smażone w wachlarz na patelni.",
+  "history": "Hamsi to symbol tureckiego wybrzeża Morza Czarnego, bohater piosenek i dowcipów.",
+  "ingredientsText": "Sardele, mąka kukurydziana, mąka pszenna, olej roślinny, cytryna"
+ },
+ "harissa": {
+  "name": "Harissa",
+  "description": "Gęsta kasza z całej pszenicy i kurczaka lub jagnięciny, gotowana godzinami i ubijana na gładko. Podawana z roztopionym masłem.",
+  "history": "Harissę gotuje się na święta i na pamiątkę 1915 roku, gdy przyrządzali ją obrońcy Musa Dagh. To jedno z najbardziej symbolicznych dań ormiańskich.",
+  "ingredientsText": "Łuskana pszenica, kurczak lub jagnięcina, masło, sól"
+ },
+ "hash": {
+  "name": "Chasz",
+  "description": "Chasz to nie tylko zupa, ale legenda kuchni ormiańskiej, wymagająca czasu, cierpliwości i szacunku dla tradycji. Gotuje się go z nóżek wołowych tak długo, aż mięso dosłownie odchodzi od kości. Podaje się go gorącego z czosnkiem, ziołami i suszonym ławaszem kruszonym prosto do wywaru, tradycyjnie wczesnym rankiem, często po długich ucztach.",
+  "quote": "Chasz łączy ludzi. Tradycyjnie je się go wcześnie rano, by naładować się energią na cały dzień",
+  "history": "Początkowo było to danie biedoty, później stało się symbolem ormiańskiej kultury i tradycji kulinarnej.\n\nLegenda mówi, że król, który nocował we wsi, spróbował chaszu i tak mu zasmakował, że uczynił go głównym daniem swojego stołu.",
+  "ingredientsText": "Nóżki wołowe 1,5 kg\nFlaki wołowe 500 g\nCzosnek 3 główki\nRzodkiew 1"
+ },
+ "hingalsh": {
+  "name": "Chingałasz",
+  "description": "Chingałasz to charakterystyczne danie kuchni czeczeńskiej: placki z niekwaszonego ciasta pszennego ze słodką dynią. Delikatne nadzienie doskonale łączy się z miękkim ciastem, a podaje się je z roztopionym masłem. By były miękkie, upieczone placki od wieków zanurza się w gorącej wodzie.",
+  "quote": "Danie jest tak sycące, że gdy gość je mało, gospodarz może powiedzieć: „Jesz, jakbyś dopiero co zjadł chingałasz”",
+  "history": "W Czeczenii od dawna uprawia się jęczmień, pszenicę, proso, kukurydzę, owies i ryż, a także len i bawełnę; jęczmień i pszenica to najstarsze zboża. Ciasto robiono z drożdżami i bez.\n\nCzeczeni od dawna znają drożdże chmielowe, zwane chojachar. Ciasto często zakwasza się kwaśnym mlekiem, a nadzienia to twaróg, świeży ser, purée ziemniaczane lub dynia.",
+  "ingredientsText": "Ciasto pszenne\nSłodka dynia\nMasło klarowane"
+ },
+ "hinkali": {
+  "name": "Chinkali",
+  "description": "Chinkali to nie zwykłe gruzińskie pierogi, lecz prawdziwa sztuka. Cienkie, elastyczne ciasto kryje soczyste nadzienie z mielonego mięsa (wołowiny lub wieprzowiny) z cebulą, czosnkiem i ziołami. Sekretem jest wywar w środku, który wybucha przy pierwszym kęsie. Je się je rękami, trzymając za „ogonek”, którego tradycyjnie się nie zjada.",
+  "quote": "Chinkali to kulinarna przygoda: każdy kęs to eksplozja soku i smaku",
+  "history": "Chinkali pochodzą z gór wschodniej Gruzji — Pszawi, Chewsuretii i Tuszetii. Górska wersja z siekanym mięsem i przyprawami to mtiuluri, miejska z ziołami — kalakuri. Je się je rękami, trzymając za ogonek, który zostawia się na talerzu.",
+  "ingredientsText": "Mąka 500 g\nWoda 400 ml\nSól 1½ łyżeczki\nCielęcina 250 g\nWołowina 250 g\nSmalec 100 g\nCebula 100 g\nCzosnek 2 ząbki\nKmin rzymski\nChili\nKolendra"
+ },
+ "horovacz-narsharab": {
+  "name": "Chorowac",
+  "description": "Chorowac to tradycyjne ormiańskie danie z grillowanych warzyw, idealne na grilla. Warzywa piecze się na węglu na świeżym powietrzu, a w domu w piekarniku.",
+  "quote": "Chorowac to danie przyrządzane z duszą",
+  "history": "Słowo chorowac po ormiańsku znaczy „grill”. Warzywa na sałatkę piecze się na węglu w plenerze albo w domu w piekarniku lub nad palnikiem. Podaje się je do szaszłyków, ziemniaków, ryby z grilla lub po prostu z ławaszem i świeżym chlebem.",
+  "ingredientsText": "Bakłażany 3\nPomidory 3\nPapryka 2\nCebula 1\nCzosnek 1 ząbek\nOlej roślinny\nSól\nCzarny pieprz\nZioła"
+ },
+ "hunkar-begendi": {
+  "name": "Hünkâr beğendi",
+  "description": "Duszona jagnięcina na purée z wędzonego bakłażana z serem i kremowym sosem.",
+  "history": "Nazwa znaczy „sułtanowi zasmakowało”; danie wiąże się z kuchnią pałacu osmańskiego.",
+  "ingredientsText": "Jagnięcina, bakłażany, mleko, masło, mąka pszenna, ser, pomidory"
+ },
+ "imam-bayildi": {
+  "name": "İmam bayıldı",
+  "description": "Bakłażany duszone w oliwie i nadziewane cebulą, czosnkiem i pomidorami, podawane na zimno.",
+  "history": "Nazwa znaczy „imam zemdlał” — według legendy z zachwytu nad smakiem.",
+  "ingredientsText": "Bakłażany, cebula, czosnek, pomidory, oliwa, natka pietruszki"
+ },
+ "imeruli-kveli": {
+  "name": "Ser imeretyński",
+  "description": "Miękki młody ser o łagodnym, słonym smaku — podstawa chaczapuri i samodzielna przystawka.",
+  "history": "Ser robi się w Imeretii i je niemal od razu; nie jest przeznaczony do długiego dojrzewania.",
+  "ingredientsText": "Mleko krowie, podpuszczka, sól"
+ },
+ "iron-tsykht": {
+  "name": "Ser osetyjski",
+  "description": "Miękki ser solankowy z mleka krowiego lub owczego, jedzony świeży i dodawany do pierogów.",
+  "history": "Żaden osetyjski pieróg nie obejdzie się bez tego sera; po osetyjsku nazywa się iron cycht.",
+  "ingredientsText": "Mleko krowie lub owcze, podpuszczka, sól"
+ },
+ "ishkhan": {
+  "name": "Pstrąg iszchan",
+  "description": "Pstrąg sewański pieczony lub grillowany na węglu z cytryną i ziołami. Delikatne białe mięso z bardzo małą ilością ości.",
+  "history": "Nazwa znaczy „książę”. Endemiczny pstrąg z jeziora Sewan jest dziś rzadki, więc hoduje się go w hodowlach.",
+  "ingredientsText": "Pstrąg, cytryna, estragon, masło, sól"
+ },
+ "ishlekli": {
+  "name": "Iszlekli",
+  "description": "Duży okrągły pieróg z mięsem i cebulą pieczony w gorącym piasku lub żarze.",
+  "history": "Iszlekli pieką nomadzi i pasterze w środku pustyni, zakopany w rozgrzanym piasku.",
+  "ingredientsText": "Mąka pszenna, jagnięcina, cebula, sól"
+ },
+ "ishli-kyufta": {
+  "name": "Iszli kufta",
+  "description": "Kulki z bulguru i mięsa z nadzieniem z podsmażonego mielonego mięsa i orzechów, gotowane lub smażone.",
+  "history": "Iszli kufta wymaga wprawy: skorupka ma być cienka, ale nie pęknąć przy gotowaniu.",
+  "ingredientsText": "Bulgur, wołowina, cebula, orzechy włoskie, masło, przyprawy"
+ },
+ "iskender-kebab": {
+  "name": "Kebab İskender",
+  "description": "Cienkie plastry mięsa z rożna na chlebie pide, polane sosem pomidorowym, skwierczącym masłem i jogurtem.",
+  "history": "Danie powstało w Bursie w XIX wieku, a rodzina jego twórcy wciąż używa tej nazwy.",
+  "ingredientsText": "Jagnięcina lub wołowina, chleb pide, sos pomidorowy, masło, jogurt"
+ },
+ "ispanakhi-matsvnit": {
+  "name": "Szpinak z maconi",
+  "description": "Gotowany szpinak z maconi, czosnkiem i ziołami. Lekki dodatek do mięsa.",
+  "history": "W kuchni gruzińskiej maconi dodaje się do sosów i przystawek, by złagodzić ostre dania.",
+  "ingredientsText": "Szpinak, maconi, czosnek, kolendra, sól"
+ },
+ "izgara-kofte": {
+  "name": "Köfte z grilla",
+  "description": "Kotleciki z mielonej wołowiny z cebulą i przyprawami, pieczone na grillu.",
+  "history": "Każde tureckie miasto ma swoje köfte, a w Stambule są lokale, które nie podają nic innego.",
+  "ingredientsText": "Mielona wołowina, cebula, bułka tarta, jajko, kmin rzymski, pieprz"
+ },
+ "jarma": {
+  "name": "Dżarma",
+  "description": "Orzeźwiający napój z prażonej mąki jęczmiennej zmieszanej z ajranem.",
+  "history": "Dżarmę pito w upale sianokosów: gasi pragnienie i dodaje sił.",
+  "ingredientsText": "Prażona mąka jęczmienna, ajran, sól"
+ },
+ "jiz-biz": {
+  "name": "Dżiz-biz",
+  "description": "Smażone podroby jagnięce z ziemniakami i cebulą — nazwa naśladuje skwierczenie na patelni.",
+  "history": "Dżiz-biz to danie bakijskich jadłodajni, przyrządzane szybko i podawane na gorąco.",
+  "ingredientsText": "Wątroba, nerki i serce jagnięce, tłuszcz z ogona, ziemniaki, cebula"
+ },
+ "jonjoli": {
+  "name": "Dżondżoli",
+  "description": "Marynowane pąki kwiatowe kłokoczki, krzewu rosnącego na Kaukazie. Podawane z cebulą i olejem jako przystawka do mięsa.",
+  "history": "Dżondżoli zbiera się wiosną i konserwuje na cały rok. Ma kwaskowy smak, trochę przypominający kapary.",
+  "ingredientsText": "Pąki kłokoczki, sól, ocet winny, cebula, olej roślinny"
+ },
+ "joojeh-kebab": {
+  "name": "Dżudże kabab",
+  "description": "Kawałki kurczaka marynowane w jogurcie, cytrynie i szafranie, grillowane na węglu.",
+  "history": "Szafran nadaje dżudże kababowi złoty kolor; często podaje się go razem z kubide.",
+  "ingredientsText": "Kurczak, jogurt, sok z cytryny, szafran, cebula"
+ },
+ "kabuskadzhyn": {
+  "name": "Kabuskadżyn",
+  "description": "Osetyjski pieróg z kapustą i serem. Cienkie ciasto, dużo nadzienia i roztopione masło na wierzchu.",
+  "history": "Na święta osetyjskie pierogi piecze się po trzy, na znak słońca, ziemi i wody. Pieróg z kapustą szczególnie lubi się jesienią i zimą.",
+  "ingredientsText": "Mąka pszenna, drożdże, kefir, masło, biała kapusta, ser osetyjski"
+ },
+ "kada": {
+  "name": "Kada",
+  "description": "Słodki wypiek z bogatego ciasta z nadzieniem z mąki, masła i cukru, kruchy w środku.",
+  "history": "W Gruzji kadę piecze się na święta. Ormianie i Azerowie mają podobne wypieki, a przepis różni się w każdej rodzinie.",
+  "ingredientsText": "Mąka pszenna, masło, cukier, jajka, jogurt maconi, drożdże, wanilia"
+ },
+ "kaghamb-tolma": {
+  "name": "Tołma z kapusty",
+  "description": "Ormiańskie gołąbki: liście kapusty z mięsem i ryżem duszone w sosie pomidorowym.",
+  "history": "Tołmę z kapusty robi się jesienią i zimą, gdy nie ma liści winorośli.",
+  "ingredientsText": "Biała kapusta, mielona wołowina, ryż, cebula, koncentrat pomidorowy, zioła"
+ },
+ "kalla-pacha": {
+  "name": "Kalla-pacza",
+  "description": "Esencjonalna zupa z głowy i nóżek jagnięcych gotowanych godzinami, podawana z czosnkiem i octem.",
+  "history": "Kalla-paczę je się wczesnym rankiem, jak chasz, zwłaszcza zimą.",
+  "ingredientsText": "Głowa jagnięca, nóżki jagnięce, ciecierzyca, czosnek, ocet winny"
+ },
+ "karniyarik": {
+  "name": "Karnıyarık",
+  "description": "Smażone przecięte bakłażany nadziewane mielonym mięsem, cebulą i pomidorami.",
+  "history": "Nazwa znaczy „rozcięty brzuch”; to mięsne rodzeństwo imam bayıldı.",
+  "ingredientsText": "Bakłażany, mielona wołowina, cebula, pomidory, zielona papryka"
+ },
+ "kartofdzhyn": {
+  "name": "Kartofdżyn",
+  "description": "Osetyjski pieróg z ziemniakami i serem. Cienkie ciasto, dużo nadzienia i roztopione masło na wierzchu.",
+  "history": "Na święta osetyjskie pierogi piecze się po trzy, na znak słońca, ziemi i wody. Nadzienie ziemniaczane pojawiło się, gdy ziemniaki rozpowszechniły się na Kaukazie w XIX wieku.",
+  "ingredientsText": "Mąka pszenna, drożdże, kefir, masło, ziemniaki, ser osetyjski"
+ },
+ "kashk-e-bademjan": {
+  "name": "Kaszk-e bademdżan",
+  "description": "Purée ze smażonych bakłażanów z kaszkiem, smażoną cebulą, czosnkiem i miętą.",
+  "history": "Kaszk to suszony fermentowany nabiał, który nadaje daniu słoną głębię.",
+  "ingredientsText": "Bakłażany, kaszk, cebula, czosnek, suszona mięta, orzechy włoskie"
+ },
+ "kashyk-burek": {
+  "name": "Kaszyk burek",
+  "description": "Malutkie pierożki w rosole mięsnym — nazwa znaczy „burek na łyżkę”.",
+  "history": "Pierożki robi się tak małe, że na łyżce mieści się kilka naraz.",
+  "ingredientsText": "Mąka pszenna, jajko, jagnięcina, cebula, wywar, mięta"
+ },
+ "kazan-kebab": {
+  "name": "Kazan kebab",
+  "description": "Żeberka jagnięce i ziemniaki smażone w kazanie na złoto.",
+  "history": "Kazan kebab podaje się na dużym półmisku z cienko krojoną cebulą i ziołami.",
+  "ingredientsText": "Jagnięcina, żeberka jagnięce, ziemniaki, cebula, kmin rzymski, olej bawełniany"
+ },
+ "kazy": {
+  "name": "Kazy",
+  "description": "Kiełbasa z mięsa i tłuszczu z końskich żeber w naturalnym jelicie, gotowana lub suszona.",
+  "history": "Kazy to ozdoba kazachskiego dastarchanu, podawana w plastrach.",
+  "ingredientsText": "Mięso z końskich żeber, tłuszcz koński, sól, pieprz, czosnek"
+ },
+ "kchuch": {
+  "name": "Kczucz",
+  "description": "Mięso i warzywa zapiekane w glinianym garnku, gdzie warzywa duszą się w sosie z mięsa do pełnej miękkości.",
+  "history": "Kczucz to nazwa zarówno dania, jak i glinianego garnka, w którym się je przyrządza.",
+  "ingredientsText": "Jagnięcina, bakłażan, ziemniaki, pomidory, papryka, cebula, zioła"
+ },
+ "kesme": {
+  "name": "Kesme",
+  "description": "Zupa z domowym makaronem krojonym nożem, mięsem i warzywami.",
+  "history": "Kesme znaczy „krojony”; to codzienna zupa w kirgiskich domach.",
+  "ingredientsText": "Mąka pszenna, jajko, wołowina, ziemniaki, marchew, cebula"
+ },
+ "khabizgina": {
+  "name": "Chabizgina",
+  "description": "Pieróg z purée ziemniaczanym i serem osetyjskim z górskich rejonów Gruzji i Osetii.",
+  "history": "Chabizgina to gruzińska nazwa osetyjskiego pieroga z ziemniakami; piecze się go w Kazbegi i Raczy.",
+  "ingredientsText": "Mąka pszenna, kefir, ziemniaki, ser osetyjski, masło"
+ },
+ "khadurdzhyn": {
+  "name": "Chadurdżyn",
+  "description": "Osetyjski pieróg z fasolą. Cienkie ciasto, dużo nadzienia i roztopione masło na wierzchu.",
+  "history": "Na święta osetyjskie pierogi piecze się po trzy, na znak słońca, ziemi i wody. Pieróg z fasolą piecze się w dni postne, gdy nie je się mięsa.",
+  "ingredientsText": "Mąka pszenna, drożdże, kefir, masło, czerwona fasola, cebula"
+ },
+ "khalvaitar": {
+  "name": "Chałwajtar",
+  "description": "Miękka chałwa z mąki zrumienionej na maśle z cukrem lub miodem i mlekiem.",
+  "history": "Chałwajtar robi się na święta i dla młodych matek jako pożywny przysmak.",
+  "ingredientsText": "Mąka pszenna, masło, cukier lub miód, mleko"
+ },
+ "khalyuzh": {
+  "name": "Chaluż",
+  "description": "Smażone trójkątne pierożki z serem adygejskim i cebulą lub ziemniakami.",
+  "history": "Chaluże robi się na święta; trójkątny kształt pomaga równo je usmażyć.",
+  "ingredientsText": "Mąka pszenna, kefir, ser adygejski, dymka, olej roślinny"
+ },
+ "khamrashi": {
+  "name": "Chamraszi",
+  "description": "Zupa z domowym makaronem, fasolą i małymi klopsikami.",
+  "history": "Chamraszi to zimowa zupa południowego Azerbejdżanu z bardzo cienkim, ręcznie krojonym makaronem.",
+  "ingredientsText": "Mąka pszenna, fasola, jagnięcina, cebula, zioła"
+ },
+ "khanum": {
+  "name": "Chanum",
+  "description": "Rolada z cienkiego ciasta z mięsem, ziemniakami lub dynią, gotowana na parze.",
+  "history": "Chanum gotuje się w parowarze do mant, potem kroi w plastry i polewa sosem.",
+  "ingredientsText": "Mąka pszenna, jagnięcina, ziemniaki, cebula, kmin rzymski"
+ },
+ "kharcho": {
+  "name": "Charczo",
+  "description": "Gęsta zupa wołowa z ryżem, kwaśnym tkemali lub tklapi, orzechami i przyprawami. Ostra, sycąca i aromatyczna.",
+  "history": "Charczo to jedna z najbardziej znanych za granicą zup gruzińskich. W Megrelii robi się ją bez ryżu i podaje raczej jak gulasz.",
+  "ingredientsText": "Wołowina, ryż, tkemali lub tklapi, orzechy włoskie, cebula, czosnek, kolendra, chmeli-suneli"
+ },
+ "khashil": {
+  "name": "Chaszil",
+  "description": "Gęsta kasza z mąki i wody podawana z roztopionym masłem i miodem lub melasą winogronową.",
+  "history": "Chaszil robi się w chłodne dni i dla młodych matek; w środku robi się dołek wypełniany masłem.",
+  "ingredientsText": "Mąka pszenna, woda, masło, miód lub melasa winogronowa"
+ },
+ "khashlama": {
+  "name": "Chaszłama",
+  "description": "Jagnięcina lub wołowina duszona w dużych kawałkach z warzywami we własnym sosie, czasem z piwem lub winem.",
+  "history": "Nazwa wiąże się ze słowem „gotować”. Chaszłamę robi się w dużym garnku dla całej rodziny, z warzywami ułożonymi warstwami.",
+  "ingredientsText": "Jagnięcina lub wołowina, ziemniaki, pomidory, papryka, cebula, zioła, sól"
+ },
+ "khasip": {
+  "name": "Chasip",
+  "description": "Kiełbasa w jelicie jagnięcym z siekanym mięsem, wątrobą i ryżem, gotowana w wywarze.",
+  "history": "Chasip robi się z jagnięcych podrobów na święta, nic się nie marnuje.",
+  "ingredientsText": "Jelito jagnięce, jagnięcina, wątroba, ryż, cebula, kmin rzymski"
+ },
+ "khingal": {
+  "name": "Chingał",
+  "description": "Szerokie kwadraty gotowanego ciasta z podsmażonym mięsem i cebulą, czosnkowym jogurtem i suszonym twarogiem kurut.",
+  "history": "Chingał robi się w Azerbejdżanie i na Kaukazie Północnym. Każdy region kroi ciasto inaczej — w kwadraty lub romby.",
+  "ingredientsText": "Mąka pszenna, jagnięcina, cebula, jogurt, czosnek, kurut"
+ },
+ "khoresh-bademjan": {
+  "name": "Choresz bademdżan",
+  "description": "Gulasz z jagnięciny ze smażonymi bakłażanami, pomidorami i kwaśnymi niedojrzałymi winogronami.",
+  "history": "Choresz to ogólna nazwa perskich gulaszy, zawsze podawanych z ryżem.",
+  "ingredientsText": "Jagnięcina, bakłażany, pomidory, niedojrzałe winogrona, cebula, kurkuma"
+ },
+ "khoresh-gheymeh": {
+  "name": "Choresz gejme",
+  "description": "Gulasz z jagnięciny z żółtym groszkiem łuskanym, pomidorem i suszoną limonką, z chrupiącymi słupkami ziemniaczanymi.",
+  "history": "Gejme tradycyjnie rozdaje się na zgromadzeniach religijnych w miesiącu muharram.",
+  "ingredientsText": "Jagnięcina, żółty groszek łuskany, koncentrat pomidorowy, suszona limonka, cebula, ziemniaki"
+ },
+ "khorovats-ovoshchnoy": {
+  "name": "Chorowac warzywny",
+  "description": "Bakłażany, pomidory i papryka pieczone na węglu, obrane i posiekane z czosnkiem i ziołami.",
+  "history": "Warzywa piecze się na tym samym żarze co mięsny chorowac i podaje razem z nim.",
+  "ingredientsText": "Bakłażany, pomidory, papryka, czosnek, kolendra, sól"
+ },
+ "khychiny": {
+  "name": "Chyczyn",
+  "description": "Cienkie placki z ziemniakami i serem lub mięsem, pieczone na suchej patelni i smarowane masłem.",
+  "history": "Chyczyn to danie bałkarskie i karaczajskie, popularne w całej Kabardo-Bałkarii.",
+  "ingredientsText": "Mąka pszenna, kefir, ziemniak, ser, masło"
+ },
+ "khyovla": {
+  "name": "Chowla",
+  "description": "Czeczeńska chałwa z prażonej mąki, masła i cukru lub miodu, krojona w romby.",
+  "history": "Chowlę robi się na stypy i święta i dzieli z sąsiadami.",
+  "ingredientsText": "Mąka pszenna, masło, cukier lub miód"
+ },
+ "kisir": {
+  "name": "Kısır",
+  "description": "Sałatka z drobnego bulguru z koncentratem pomidorowym i paprykowym, ziołami, cytryną i melasą z granatów.",
+  "history": "Kısır podaje się na domowych spotkaniach przy herbacie, zawinięty w liście sałaty.",
+  "ingredientsText": "Drobny bulgur, koncentrat pomidorowy, pasta paprykowa, dymka, natka pietruszki, cytryna, melasa z granatów"
+ },
+ "kobete": {
+  "name": "Kobete",
+  "description": "Duży okrągły pieróg z mięsem, ziemniakami i cebulą.",
+  "history": "Kobete piecze się na święta i uroczystości rodzinne, ozdobione wzorami z ciasta.",
+  "ingredientsText": "Mąka pszenna, masło, jajko, jagnięcina, ziemniaki, cebula"
+ },
+ "kok-choy": {
+  "name": "Kok czoj (zielona herbata)",
+  "description": "Zielona herbata pita z czarek przez cały dzień i podawana do każdego posiłku.",
+  "history": "Gospodarz napełnia czarkę gościa tylko do połowy, by często dolewać — to znak troski.",
+  "ingredientsText": "Zielona herbata, woda"
+ },
+ "kololik": {
+  "name": "Kołołak",
+  "description": "Zupa z dużymi kulami z mięsa i ryżu w wywarze pomidorowym — każda kula to niemal osobny posiłek.",
+  "history": "Danie z regionu Szyrak. Do mięsa dodaje się ryż i jajko, by kule trzymały kształt podczas gotowania.",
+  "ingredientsText": "Mielona wołowina, ryż, jajko, cebula, koncentrat pomidorowy, zioła, sól"
+ },
+ "koobideh": {
+  "name": "Kabab kubide",
+  "description": "Kebab z mielonej jagnięciny z cebulą na szerokich szpikulcach, podawany z ryżem, grillowanymi pomidorami i sumakiem.",
+  "history": "Kubide z ryżem, czyli czelow kabab, uchodzi za narodowe danie Iranu.",
+  "ingredientsText": "Jagnięcina, cebula, sól, pieprz, sumak, ryż, pomidory"
+ },
+ "kubdari": {
+  "name": "Kubdari",
+  "description": "Zamknięty pieróg z obfitym nadzieniem z siekanego nożem mięsa, cebuli i swańskich przypraw. Mięso się kroi, a nie mieli, więc nadzienie jest soczyste i w kawałkach.",
+  "history": "Tradycyjne danie Swanetii, górskiego regionu Gruzji. Przyprawia się je solą swańską — mieszanką soli z ziołami i przyprawami.",
+  "ingredientsText": "Mąka pszenna, drożdże, wołowina, wieprzowina, cebula, sól swańska, kolendra, czosnek"
+ },
+ "kuchmachi": {
+  "name": "Kuczmaczi",
+  "description": "Smażone podroby — wątroba, serce i płuca — z cebulą, granatem i posiekanymi orzechami. Podawane na gorąco.",
+  "history": "Kuczmaczi wywodzi się z oszczędnej kuchni, w której po uboju nic się nie marnuje. Często przyrządza się je na święta.",
+  "ingredientsText": "Wątroba, serce i płuca wołowe lub wieprzowe, cebula, orzechy włoskie, granat, kolendra"
+ },
+ "kufta-bozbash": {
+  "name": "Kufta bozbasz",
+  "description": "Zupa z dużymi pulpetami z jagnięciny i ryżu, każdy z suszoną kwaśną śliwką w środku, gotowana z ciecierzycą i ziemniakami.",
+  "history": "Śliwka ukryta w każdym pulpecie to niespodzianka i źródło kwaskowatości, która uwalnia się podczas gotowania.",
+  "ingredientsText": "Jagnięcina, ryż, ciecierzyca, ziemniaki, suszone kwaśne śliwki, cebula, szafran, mięta"
+ },
+ "kumpir": {
+  "name": "Kumpir",
+  "description": "Ogromny pieczony ziemniak rozgnieciony z masłem i serem i obłożony kilkunastoma dodatkami.",
+  "history": "Kumpir zasłynął w stambulskiej dzielnicy Ortaköy, gdzie sprzedaje się go nad Bosforem.",
+  "ingredientsText": "Ziemniaki, masło, ser, kukurydza, oliwki, pikle, kiełbaska"
+ },
+ "kumys": {
+  "name": "Kumys",
+  "description": "Fermentowany napój z mleka klaczy, lekko musujący i orzeźwiający.",
+  "history": "Kumys znają koczownicy stepowi od starożytności; ubija się go w skórzanym worku.",
+  "ingredientsText": "Mleko klaczy, zakwas"
+ },
+ "kunefe": {
+  "name": "Künefe",
+  "description": "Gorący deser z nitek ciasta kadayıf z topiącym się niesolonym serem, nasączony syropem.",
+  "history": "Künefe to duma Hatay na południu Turcji, podawana prosto z pieca z pistacjami.",
+  "ingredientsText": "Ciasto kadayıf, niesolony ser, masło, syrop cukrowy, pistacje"
+ },
+ "kupaty": {
+  "name": "Kupati",
+  "description": "Smażone kiełbaski z wieprzowiny lub wołowiny z przyprawami, czosnkiem i berberysem w naturalnym jelicie. Podawane z granatem i cebulą.",
+  "history": "W Gruzji kupati smaży się na patelni lub nad węglem. W czasach radzieckich zyskały popularność daleko poza krajem.",
+  "ingredientsText": "Wieprzowina lub wołowina, jelito naturalne, czosnek, berberys, kolendra, pieprz"
+ },
+ "kurt": {
+  "name": "Kurt",
+  "description": "Słone suszone kulki z prasowanego kwaśnego mleka, które długo się przechowują i zaspokajają głód.",
+  "history": "Kurt zabierano w dalekie podróże; je się go jako przekąskę i rozpuszcza w wodzie do sosów.",
+  "ingredientsText": "Kwaśne mleko, sól"
+ },
+ "kurze": {
+  "name": "Kurze",
+  "description": "Dagestańskie pierożki w kształcie kropli z plecionym brzegiem, z mięsem, dynią, pokrzywą lub twarogiem.",
+  "history": "Warkocz na kurze świadczy o kunszcie kucharki: im drobniejszy wzór, tym lepiej, jak mówią.",
+  "ingredientsText": "Mąka pszenna, woda, jagnięcina lub wołowina, cebula, sól"
+ },
+ "kutaby": {
+  "name": "Kutaby",
+  "description": "Kutaby to cienkie placki, które urzekają prostotą i wyrafinowanym smakiem. Nadzienie bywa różne — od soczystych ziół (kolendra, koperek, szpinak) po delikatne mięso lub dynię. Piecze się je na suchej patelni na złoto, a potem smaruje roztopionym masłem. Podaje się z jogurtem lub napojem z kwaśnego mleka. Idealna przekąska lub lekka kolacja.",
+  "quote": "Kutaby to cienkie placki z mięsem, ziołami, dynią lub serem, podawane z sosami jogurtowymi",
+  "history": "Historia kutabów sięga starożytności, gdy resztki ciasta chlebowego wykorzystywano do tego smacznego dania.",
+  "ingredientsText": "Mąka pszenna 96 g\nRafinowany olej roślinny 1 łyżka\nCebula 1\nMasło 1 łyżka\nNatka pietruszki 80 g\nSumak do smaku\nSzczypta soli"
+ },
+ "kuyrdak": {
+  "name": "Kujrdak",
+  "description": "Smażona jagnięcina z podrobami — wątrobą, sercem i nerkami — i cebulą.",
+  "history": "Kujrdak przyrządza się zaraz po uboju, by poczęstować gości świeżym mięsem.",
+  "ingredientsText": "Jagnięcina, wątroba, serce, nerki, tłuszcz z ogona, cebula"
+ },
+ "kyata": {
+  "name": "Kata",
+  "description": "Listkowy, bogaty placek z nadzieniem z mąki, masła i cukru, podawany do herbaty.",
+  "history": "Katę zna się w Azerbejdżanie i Armenii; w jednych rejonach jest słodka, w innych słona.",
+  "ingredientsText": "Mąka pszenna, masło, jajka, mleko, drożdże, cukier"
+ },
+ "kyufta": {
+  "name": "Kjufta",
+  "description": "Duże kule z drobno ubitej wołowiny, gotowane i krojone w plastry. Podawane z masłem i cebulą.",
+  "history": "Kjufta to duma Giumri. Mięsa się nie mieli, lecz ubija drewnianymi młotkami na pastę.",
+  "ingredientsText": "Wołowina, cebula, jajko, masło, sól, pieprz"
+ },
+ "kyukyu": {
+  "name": "Kuku",
+  "description": "Zapiekany omlet pełen ziół, czasem z orzechami i berberysem, podawany na ciepło lub zimno.",
+  "history": "Kuku robi się na Nowruz; zielony kolor symbolizuje wiosnę.",
+  "ingredientsText": "Jajka, kolendra, koperek, szpinak, dymka, orzechy włoskie, masło"
+ },
+ "lagman": {
+  "name": "Łagman",
+  "description": "Ręcznie ciągnięty makaron z sosem z mięsa i warzyw: papryki, rzodkwi, pomidorów i czosnku.",
+  "history": "Łagman przyszedł do Uzbeków od Ujgurów i Dunganów; makaron ciągnie się i uderza o stół, aż będzie cienki.",
+  "ingredientsText": "Mąka pszenna, wołowina lub jagnięcina, papryka, rzodkiew, pomidory, cebula, czosnek"
+ },
+ "lahmadzho": {
+  "name": "Lahmadżo",
+  "description": "Lahmadżo to ormiańska „pizza”, prosta i pełna smaku. Cienki placek pokrywa się mielonym mięsem, pomidorami, cebulą i przyprawami i piecze na chrupko. Często się go zwija i je z ziołami, sokiem z cytryny lub matsunem. Popularna przekąska uliczna i ulubione danie rodzin.",
+  "quote": "Ormianie mówią, że lahmadżo to „jedzenie dla duszy”: proste i bogate w smak, lubiane przez wszystkich",
+  "history": "W krajach arabskich danie nazywa się lahmacun lub lahm bi adżin. Czekając na zamówienie, goście obserwują przemianę ciasta w piecu: rozpływa się, bąbluje i rośnie w kilka sekund.\n\nOrmianie to największa społeczność chrześcijańska w Jordanii po arabskich chrześcijanach, a lahmadżo sprzedaje się w ormiańskich piekarniach w Ammanie.",
+  "ingredientsText": "Na ciasto: kefir lub maconi 250 ml, mąka pszenna 400–450 g, sól ½ łyżeczki"
+ },
+ "lakume": {
+  "name": "Lakume",
+  "description": "Puszyste smażone pączki z ciasta drożdżowego, podawane z herbatą, miodem lub mięsem.",
+  "history": "Lakume rozdaje się na święta i stypy; kształt rombu jest najbardziej tradycyjny.",
+  "ingredientsText": "Mąka pszenna, drożdże, mleko, jajka, cukier, olej roślinny"
+ },
+ "lavash": {
+  "name": "Ławasz",
+  "description": "Cienki niekwaszony chleb rozwałkowywany i pieczony na ściankach pieca tonir. Suszony ławasz przechowuje się miesiącami.",
+  "history": "Wypiek ławaszu jako wyraz kultury ormiańskiej wpisano na listę niematerialnego dziedzictwa UNESCO.",
+  "ingredientsText": "Mąka pszenna, woda, sól"
+ },
+ "lepeshka-non": {
+  "name": "Uzbecki non",
+  "description": "Okrągły chleb z tandyru z cienkim, stemplowanym środkiem i wypukłym brzegiem.",
+  "history": "Wzór odciska się stemplem czekicz; chleba nigdy nie kładzie się do góry dnem — to brak szacunku.",
+  "ingredientsText": "Mąka pszenna, drożdże, woda, sól, sezam lub czarnuszka"
+ },
+ "lobiani": {
+  "name": "Lobiani",
+  "description": "Placek z nadzieniem z rozgniecionej gotowanej fasoli, cebuli i przypraw. Proste, sycące danie, które Gruzini często robią w dni postne.",
+  "history": "Nazwa pochodzi od lobio — „fasola”. Szczególnie popularne w Raczy, gdzie lobiani robi się często z boczkiem.",
+  "ingredientsText": "Mąka pszenna, drożdże, czerwona fasola, cebula, masło lub olej, kolendra"
+ },
+ "lobio": {
+  "name": "Lobio",
+  "description": "Lobio dowodzi, że fasola może być prawdziwym przysmakiem. Gotowana fasola z orzechami, czosnkiem, kolendrą i przyprawami zmienia się w delikatną, aromatyczną masę. Podaje się je na ciepło lub zimno, jako gęste purée lub z całymi ziarnami, w glinianych garnkach.",
+  "quote": "Lobio opowiada o gruzińskiej gościnności. Podaje się je z gomi (kaszą kukurydzianą) lub po prostu z ławaszem",
+  "history": "Fasola dotarła na Kaukaz z Ameryki w czasach nowożytnych, ale szybko stała się filarem gruzińskiego stołu. Lobio robi się na gorąco w glinianym garnku lub na zimno z orzechami; je się je z mczadi i kiszonkami, zwłaszcza w dni postne.",
+  "ingredientsText": "Fasola 63 g (czerwona lub pstra)\nOrzechy włoskie 13 g\nCebula 0,4\nPomidor 0,3\nCzosnek 0,4 ząbka\nKolendra 1,5 g\nChmeli-suneli 0,1 łyżki\nChili 0,1\nSól\nOlej roślinny 0,3 łyżki\nCzarny pieprz"
+ },
+ "lokum": {
+  "name": "Rachatłukum",
+  "description": "Miękkie kostki z cukru i skrobi o smaku wody różanej, pistacji lub cytryny, obtoczone w cukrze pudrze.",
+  "history": "Lokum zasłynął w Stambule w XVIII–XIX wieku i woziło się go w prezencie po całej Europie.",
+  "ingredientsText": "Cukier, skrobia kukurydziana, woda, woda różana, cukier puder"
+ },
+ "lori-cheese": {
+  "name": "Ser Lori",
+  "description": "Półtwardy ser solankowy z mleka krowiego o otwartej strukturze.",
+  "history": "Ser nosi nazwę regionu Lori w północnej Armenii, gdzie się go wytwarza.",
+  "ingredientsText": "Mleko krowie, podpuszczka, sól"
+ },
+ "lyavangi": {
+  "name": "Lawangi",
+  "description": "Kurczak nadziewany orzechami, cebulą i pastą z kwaśnych ałycz, pieczony w piekarniku.",
+  "history": "Lawangi to danie Lenkoranu i Tałyszu na południu Azerbejdżanu, pieczone na święta w tandyrze.",
+  "ingredientsText": "Kurczak, orzechy włoskie, cebula, pasta z kwaśnych śliwek, sól, pieprz"
+ },
+ "lyguazha": {
+  "name": "Lyguaża",
+  "description": "Wołowina lub jagnięcina duszona z cebulą, pomidorem i czerwoną papryką.",
+  "history": "Lyguażę często podaje się z pastą (kaszą jaglaną), która na kabardyjskim stole zastępuje chleb.",
+  "ingredientsText": "Wołowina lub jagnięcina, cebula, koncentrat pomidorowy, czerwona papryka, czosnek"
+ },
+ "lyulya-kebab": {
+  "name": "Lula kebab",
+  "description": "Długie kebaby z siekanej jagnięciny z cebulą i tłuszczem z ogona, pieczone na szpikulcu nad węglem.",
+  "history": "Mięso na lulę sieka się nożami i długo wyrabia, inaczej nie utrzyma się na szpikulcu.",
+  "ingredientsText": "Jagnięcina, tłuszcz z ogona, cebula, sól, pieprz, sumak"
+ },
+ "lyvzha": {
+  "name": "Lywża",
+  "description": "Gęsta zupa, prawie gulasz, z mięsa lub kurczaka z ziemniakami, cebulą i mąką, przyprawiona pieprzem.",
+  "history": "Lywżę gotuje się na święta i podaje gorącą w głębokich miskach z pierogami.",
+  "ingredientsText": "Wołowina lub kurczak, ziemniaki, cebula, mąka pszenna, pieprz, zioła"
+ },
+ "maksym": {
+  "name": "Maksym",
+  "description": "Lekko musujący napój z prażonych zbóż — jęczmienia, kukurydzy lub pszenicy.",
+  "history": "Latem maksym sprzedaje się na ulicach Biszkeku z wielkich beczek.",
+  "ingredientsText": "Jęczmień lub pszenica, woda, sól, zakwas"
+ },
+ "mantapur": {
+  "name": "Mantapur",
+  "description": "Zupa z małymi zapiekanymi manti w wywarze z czosnkowym jogurtem.",
+  "history": "Mantapur to danie zimowe: manti najpierw zapieka się na złoto, potem zalewa gorącym wywarem.",
+  "ingredientsText": "Mąka pszenna, mielona wołowina, cebula, wywar, jogurt matsun, czosnek"
+ },
+ "manti-armyanskie": {
+  "name": "Manti ormiańskie",
+  "description": "Malutkie otwarte łódeczki z ciasta z mięsem, zapiekane na chrupko i podawane z wywarem i czosnkowym jogurtem.",
+  "history": "W odróżnieniu od środkowoazjatyckich mant ormiańskie manti są małe, otwarte i pieczone.",
+  "ingredientsText": "Mąka pszenna, mielona wołowina, wywar, matsun, czosnek, sumak"
+ },
+ "manti-turetskie": {
+  "name": "Mantı tureckie",
+  "description": "Malutkie pierożki z mięsem podawane z czosnkowym jogurtem i masłem z czerwoną papryką.",
+  "history": "Najsłynniejsze są z Kayseri — mówi się, że dobra kucharka zmieści czterdzieści mantı na łyżce.",
+  "ingredientsText": "Mąka pszenna, jajko, mielona wołowina, jogurt, czosnek, masło, czerwona papryka"
+ },
+ "manty": {
+  "name": "Manty",
+  "description": "Duże pierogi z siekaną jagnięciną i cebulą gotowane na parze w piętrowym parowarze.",
+  "history": "Manty je się rękami, nadgryzając i wypijając sok ze środka, z kwaśnym mlekiem lub śmietaną.",
+  "ingredientsText": "Mąka pszenna, jagnięcina, tłuszcz z ogona, cebula, kmin rzymski"
+ },
+ "mast-o-khiar": {
+  "name": "Mast-o chiar",
+  "description": "Zimny jogurt z ogórkiem, miętą, orzechami, rodzynkami i płatkami róży.",
+  "history": "Mast-o chiar towarzyszy daniom z ryżem, a w upał je się go jak chłodnik.",
+  "ingredientsText": "Jogurt, ogórek, mięta, orzechy włoskie, rodzynki, płatki róży"
+ },
+ "mastava": {
+  "name": "Mastawa",
+  "description": "Gęsta zupa z ryżem, mięsem, marchwią i pomidorami, podawana z kwaśnym mlekiem i ziołami.",
+  "history": "Mastawa to codzienna domowa zupa; ryż czyni ją sycącą jak kasza.",
+  "ingredientsText": "Ryż, jagnięcina, marchew, ziemniaki, pomidory, cebula, kwaśne mleko"
+ },
+ "matnakash": {
+  "name": "Matnakasz",
+  "description": "Miękki owalny chleb ze złotą skórką i podłużnymi rowkami. Na drożdżach, przed pieczeniem smarowany herbatą.",
+  "history": "Nazwa znaczy „ciągnięty palcami”: rowki na bochenku robi się ręcznie.",
+  "ingredientsText": "Mąka pszenna, drożdże, woda, cukier, sól"
+ },
+ "matsoni": {
+  "name": "Maconi",
+  "description": "Gruziński fermentowany produkt mleczny jak gęsty jogurt, jedzony z miodem lub dodawany do potraw.",
+  "history": "Maconi tradycyjnie zakwasza się w glinianych dzbanach; dawniej sprzedawcy nosili je od domu do domu.",
+  "ingredientsText": "Mleko krowie, zakwas"
+ },
+ "matsun": {
+  "name": "Matsun",
+  "description": "Fermentowany produkt mleczny podobny do gęstego jogurtu, jedzony łyżką i dodawany do zup i sosów.",
+  "history": "Zakwas matsunu przekazuje się z pokolenia na pokolenie. To podstawa wielu ormiańskich dań, od tanu po spas.",
+  "ingredientsText": "Mleko krowie, zakwas"
+ },
+ "mchadi": {
+  "name": "Mczadi",
+  "description": "Małe niekwaszone placki kukurydziane pieczone na suchej patelni. Je się je z serem, lobio i pchali.",
+  "history": "Mczadi to tradycyjny chleb zachodniej Gruzji. Nie zawiera mąki pszennej, więc nadaje się dla unikających glutenu.",
+  "ingredientsText": "Mąka kukurydziana, woda, sól"
+ },
+ "megruli-hachapuri": {
+  "name": "Chaczapuri megrelskie",
+  "description": "Okrągłe chaczapuri z serem w środku i na wierzchu, posypane sulguni przed pieczeniem. Bogaty, bardzo serowy placek.",
+  "history": "Pochodzi z Megrelii (Samegrelo) w zachodniej Gruzji, regionu słynącego z ostrej kuchni i miłości do sulguni.",
+  "ingredientsText": "Mąka pszenna, jogurt maconi, jajko, sulguni, ser imeretyński, masło"
+ },
+ "menemen": {
+  "name": "Menemen",
+  "description": "Jajka smażone na patelni z pomidorami, zieloną papryką i cebulą — klasyczne tureckie śniadanie.",
+  "history": "Czy cebula należy do menemenu, to w Turcji wciąż gorący spór.",
+  "ingredientsText": "Jajka, pomidory, zielona papryka, cebula, oliwa"
+ },
+ "mercimek-corbasi": {
+  "name": "Zupa z soczewicy",
+  "description": "Kremowa zupa z czerwonej soczewicy z marchwią i cebulą, podawana z cytryną.",
+  "history": "Zupa z soczewicy jest w menu niemal każdej tureckiej restauracji i je się ją o każdej porze.",
+  "ingredientsText": "Czerwona soczewica, marchew, cebula, masło, cytryna"
+ },
+ "mezhadzhe": {
+  "name": "Meżadże",
+  "description": "Chleb kukurydziany pieczony na patelni, podawany z sosami i serem.",
+  "history": "Meżadże to tradycyjny chleb Adygejczyków, który rozpowszechnił się wraz z kukurydzą.",
+  "ingredientsText": "Mąka kukurydziana, woda, sól"
+ },
+ "midye-dolma": {
+  "name": "Midye dolma",
+  "description": "Małże nadziewane przyprawionym ryżem, orzeszkami piniowymi i porzeczkami, jedzone z cytryną z ulicznych stoisk.",
+  "history": "Sprzedawcy małży to część wieczornego życia Stambułu i Izmiru.",
+  "ingredientsText": "Małże, ryż, cebula, orzeszki piniowe, porzeczki koryntki, przyprawy, cytryna"
+ },
+ "mirza-ghasemi": {
+  "name": "Mirza ghasemi",
+  "description": "Uwędzone nad ogniem bakłażany rozgniecione z czosnkiem, pomidorami i jajkiem, podawane z chlebem.",
+  "history": "Danie z kaspijskiej prowincji Gilan, nazwane od miejscowego namiestnika.",
+  "ingredientsText": "Bakłażany, czosnek, pomidory, jajka, kurkuma"
+ },
+ "morasa-polo": {
+  "name": "Morassa polo",
+  "description": "„Klejnotowy ryż” z kandyzowaną skórką pomarańczy, berberysem, pistacjami i migdałami.",
+  "history": "Morassa polo podaje się na weselach; barwne dodatki symbolizują słodkie i dostatnie życie.",
+  "ingredientsText": "Ryż, skórka pomarańczy, marchew, berberys, pistacje, migdały, szafran, cukier"
+ },
+ "motal": {
+  "name": "Ser motal",
+  "description": "Słony ser owczy dojrzewający w owczej skórze, o ostrym smaku i charakterystycznym aromacie.",
+  "history": "Motal robią pasterze w górach; dojrzewanie w skórze nadaje mu niepowtarzalny smak.",
+  "ingredientsText": "Mleko owcze, podpuszczka, sól"
+ },
+ "mtsvadi": {
+  "name": "Mcwadi",
+  "description": "Gruzińskie szaszłyki z wieprzowiny lub cielęciny pieczone nad żarem z winorośli. Podawane z cienko krojoną cebulą i sosem tkemali.",
+  "history": "Pieczenie na żarze z winorośli to dawna tradycja regionów winiarskich, zwłaszcza Kachetii. Winorośl daje mięsu lekki dymny aromat.",
+  "ingredientsText": "Wieprzowina lub cielęcina, cebula, sól, pieprz, sok z granatu"
+ },
+ "muhlama": {
+  "name": "Muhlama",
+  "description": "Roztopiony ciągnący się ser z mąką kukurydzianą i masłem, jedzony na gorąco z chlebem.",
+  "history": "Muhlama pochodzi z Trabzonu i Rize; podobne dania są w Gruzji i Abchazji.",
+  "ingredientsText": "Dojrzały ser, mąka kukurydziana, masło"
+ },
+ "mutaki": {
+  "name": "Mutaki",
+  "description": "Chrupiące rurki z cienkiego ciasta z orzechami i cukrem, posypane cukrem pudrem.",
+  "history": "Nazwa znaczy „poduszeczka”. Mutaki piecze się w Baku i Gandży na święta.",
+  "ingredientsText": "Mąka pszenna, masło, kwaśna śmietana, jajka, orzechy włoskie, cukier"
+ },
+ "nabat": {
+  "name": "Nabat",
+  "description": "Duże kryształy cukru na nitkach, podawane do herbaty zamiast zwykłego cukru.",
+  "history": "Nabat wyrasta z syropu przez kilka dni, czasem aromatyzowany szafranem.",
+  "ingredientsText": "Cukier, woda, szafran"
+ },
+ "nadugi": {
+  "name": "Nadughi",
+  "description": "Kremowy miękki twarożek z miętą i ziołami zawinięty w cienkie płaty sulguni.",
+  "history": "Nadughi to produkt uboczny serowarstwa; w Megrelii podaje się go jako przystawkę.",
+  "ingredientsText": "Twarożek nadughi, sulguni, mięta, kolendra, sól"
+ },
+ "narsharab": {
+  "name": "Narszarab",
+  "description": "Gęsty słodko-kwaśny sos z odparowanego soku z granatów, podawany do kebabów i ryb.",
+  "history": "Narszarab robi się jesienią w Göyçay i Szamachy, gdzie rosną najlepsze granaty.",
+  "ingredientsText": "Sok z granatów, sól, przyprawy"
+ },
+ "naryn": {
+  "name": "Naryn",
+  "description": "Drobno krojony makaron z gotowaną koniną lub jagnięciną i cebulą, podawany z wywarem.",
+  "history": "Naryn to świąteczne danie Taszkentu i Fergany, z ciastem i mięsem krojonymi ręcznie bardzo cienko.",
+  "ingredientsText": "Mąka pszenna, konina lub jagnięcina, kiełbasa kazy, cebula, wywar"
+ },
+ "nasdzhyn": {
+  "name": "Nasdżyn",
+  "description": "Osetyjski pieróg z dynią. Cienkie ciasto, dużo nadzienia i roztopione masło na wierzchu.",
+  "history": "Na święta osetyjskie pierogi piecze się po trzy, na znak słońca, ziemi i wody. Pieróg z dynią jest lekko słodki i piecze się go jesienią po zbiorach.",
+  "ingredientsText": "Mąka pszenna, drożdże, kefir, masło, dynia, cukier lub miód"
+ },
+ "nazuk": {
+  "name": "Nazuk",
+  "description": "Rolada z bogatego ciasta drożdżowego z kruchym słodkim nadzieniem z mąki, masła i cukru, krojona ukośnie.",
+  "history": "Nazuk podaje się do herbaty i kawy, często piecze na Boże Narodzenie i Wielkanoc.",
+  "ingredientsText": "Mąka pszenna, masło, kwaśna śmietana, drożdże, jajko, cukier, wanilia"
+ },
+ "nazuki": {
+  "name": "Nazuki",
+  "description": "Słodki chleb z rodzynkami i cynamonem z pieca tone, sprzedawany przy drodze koło Surami.",
+  "history": "Nazuki to wizytówka Surami: sprzedawcy podnoszą gorące bochenki aż do przejeżdżających aut.",
+  "ingredientsText": "Mąka pszenna, drożdże, mleko, jajka, cukier, rodzynki, cynamon, masło"
+ },
+ "nishalda": {
+  "name": "Niszalda",
+  "description": "Śnieżnobiały puszysty przysmak z białek ubitych z cukrem i korzeniem lukrecji.",
+  "history": "Niszaldę je się w ramadanie po zachodzie słońca, maczając w niej chleb.",
+  "ingredientsText": "Białka, cukier, korzeń lukrecji"
+ },
+ "nushi-muraba": {
+  "name": "Konfitura z zielonych orzechów",
+  "description": "Całe zielone orzechy włoskie gotowane w syropie cukrowym aż ściemnieją, podawane do herbaty.",
+  "history": "Orzechy zbiera się na początku lata, gdy łupina jest jeszcze miękka, i długo moczy przed gotowaniem.",
+  "ingredientsText": "Zielone orzechy włoskie, cukier, woda, goździki, cynamon"
+ },
+ "ojakhuri": {
+  "name": "Odżachuri",
+  "description": "Smażona wieprzowina z chrupiącymi ziemniakami, cebulą i przyprawami, podawana na glinianej patelni keci. Proste, sycące „rodzinne” danie.",
+  "history": "Nazwa znaczy „po rodzinnemu”: odżachuri gotowano dla całej rodziny z tego, co było pod ręką.",
+  "ingredientsText": "Wieprzowina, ziemniaki, cebula, czosnek, chmeli-suneli, kolendra"
+ },
+ "oromo": {
+  "name": "Oromo",
+  "description": "Gotowana na parze rolada z cienkiego ciasta z mięsem i dynią lub ziemniakami.",
+  "history": "Oromo gotuje się w parowarze do mant i podaje z sosem lub wywarem.",
+  "ingredientsText": "Mąka pszenna, wołowina lub jagnięcina, dynia, cebula"
+ },
+ "osetr-kebab": {
+  "name": "Kebab z jesiotra",
+  "description": "Kawałki jesiotra na szpikulcach pieczone na węglu i podawane z sosem z granatów.",
+  "history": "Kaspijski jesiotr to duma bakijskiej kuchni; piecze się go krótko, by pozostał soczysty.",
+  "ingredientsText": "Jesiotr, masło, cytryna, sos z granatów, sól"
+ },
+ "oshi-burida": {
+  "name": "Oszi burida",
+  "description": "Zupa z cienkim domowym makaronem, mięsem, strączkami i ziołami.",
+  "history": "Burida znaczy „krojony”: makaron kroi się nożem w cienkie paski.",
+  "ingredientsText": "Mąka pszenna, wołowina, ciecierzyca, fasola mung, cebula, pomidory, zioła"
+ },
+ "ostri": {
+  "name": "Ostri",
+  "description": "Ostry gulasz wołowy w gęstym sosie pomidorowym z kiszonymi ogórkami, czosnkiem i przyprawami. Podawany z chlebem lub ziemniakami.",
+  "history": "Nazwa pochodzi od słowa „ostry”. Ostri to popularne danie tbiliskich tawern.",
+  "ingredientsText": "Wołowina, pomidory, koncentrat pomidorowy, ogórki kiszone, cebula, czosnek, chili, chmeli-suneli"
+ },
+ "pahlava": {
+  "name": "Pachława",
+  "description": "Pachława to słodki symbol kuchni azerskiej, z warstwową strukturą i intensywnym smakiem. Cienkie warstwy ciasta nasączone miodem lub syropem przekłada się posiekanymi orzechami włoskimi lub laskowymi. Każdy kawałek łączy chrupiącą skórkę i delikatne nadzienie. Obowiązkowa na świątecznym stole, zwłaszcza na Nowruz.",
+  "quote": "Pachława to nie tylko deser, ale część kultury: piecze się ją na Nowruz, wesela i święta, by dzielić radość i wdzięczność",
+  "history": "Azerska pachława to wielowarstwowy deser z orzechami i syropem, odgrywający ważną rolę w kulturze i świętach kraju.\n\nChoć historycy wskazują wczesne wzmianki w osmańskich książkach kucharskich (XV wiek), Azerbejdżan również może upominać się o swój udział w historii tego deseru.",
+  "ingredientsText": "Na ciasto: mąka 35 g, mleko 12 ml, masło 6 g, 1 jajko, cukier 4 g, suche drożdże 1 g, sól 1 g\nNa nadzienie: orzechy włoskie 30 g, masło 8 g, cukier 15 g, skrobia ziemniaczana 1 łyżka\nNa syrop: miód 10 g, cukier 10 g, woda 10 ml, sok z cytryny 1 łyżka"
+ },
+ "pasta-adyg": {
+  "name": "Pasta (kasza jaglana)",
+  "description": "Bardzo gęsta kasza jaglana krojona jak chleb i podawana z mięsem i szczypsem.",
+  "history": "Pasta zastępowała Adygejczykom chleb; kroi się ją nitką, by jej nie zgnieść.",
+  "ingredientsText": "Kasza jaglana, woda, sól"
+ },
+ "pasuc-tolma": {
+  "name": "Tołma postna",
+  "description": "Postna tołma: liście kapusty nadziewane fasolą, soczewicą, ciecierzycą, bulgurem i ryżem z przyprawami.",
+  "history": "Tołmę pasuc robi się w Wielkim Poście. Mnogość strączków w nadzieniu symbolizuje obfitość.",
+  "ingredientsText": "Kapusta, fasola, soczewica, ciecierzyca, bulgur, ryż, koncentrat pomidorowy, cebula, przyprawy"
+ },
+ "pelamushi": {
+  "name": "Pelamuszi",
+  "description": "Gęsty budyń z soku winogronowego i mąki tężejący w foremkach. Często posypany orzechami.",
+  "history": "Jak czurczchela, pelamuszi to produkt uboczny winiarstwa — oba przysmaki powstają z tego samego zagęszczonego soku.",
+  "ingredientsText": "Sok winogronowy, mąka pszenna lub kukurydziana"
+ },
+ "pide": {
+  "name": "Pide",
+  "description": "Placek w kształcie łódki z mielonym mięsem, serem, jajkiem lub warzywami.",
+  "history": "Pide piecze się w kamiennych piecach w całej Turcji; szczególnie słynne są wersje czarnomorskie.",
+  "ingredientsText": "Mąka pszenna, drożdże, mielone mięso lub ser, jajko, masło"
+ },
+ "piti": {
+  "name": "Piti",
+  "description": "Zupa z jagnięciny z ciecierzycą, kasztanami, pigwą i szafranem, gotowana powoli w porcjowym glinianym garnku. Najpierw pije się wywar z chlebem, potem je mięso.",
+  "history": "Piti to wizytówka Szeki. Garnki stoją w piecu godzinami, a tłuszcz z ogona czyni wywar esencjonalnym.",
+  "ingredientsText": "Jagnięcina, tłuszcz z ogona, ciecierzyca, kasztany, pigwa, cebula, szafran"
+ },
+ "pkhali": {
+  "name": "Pchali",
+  "description": "Przystawka z siekanych warzyw lub liści — szpinaku, buraka czy kapusty — z pastą orzechową, czosnkiem i przyprawami. Formuje się z niej kulki i ozdabia granatem.",
+  "history": "Pchali to jedno z głównych postnych dań gruzińskiego stołu. Jest tyle wersji, ile jadalnych liści w ogrodzie.",
+  "ingredientsText": "Szpinak lub burak, orzechy włoskie, czosnek, kolendra, chmeli-suneli, ocet winny, granat"
+ },
+ "pkhlovani": {
+  "name": "Pchlowani",
+  "description": "Pieróg ze szpinakiem, liśćmi buraka lub pokrzywą i serem, popularny w Raczy i Osetii.",
+  "history": "Pchlowani piecze się wiosną, gdy pojawia się młoda zieleń.",
+  "ingredientsText": "Mąka pszenna, maconi, szpinak lub liście buraka, sulguni, zioła"
+ },
+ "plov": {
+  "name": "Pilaw",
+  "description": "Pilaw to król kuchni azerskiej, bogaty w smaki i tradycje. Gotowany na parze ryż podaje się z aromatycznym mięsem (najczęściej jagnięciną), suszonymi owocami, kasztanami i przyprawami. Każdy składnik przyrządza się osobno, a potem łączy. Pilaw to symbol gościnności na wielkich uroczystościach i rodzinnych obiadach.",
+  "quote": "Szafran to sekret złotego koloru i aromatu azerskiego pilawu: każde ziarenko lśni jak klejnot",
+  "history": "Pilaw, jak wiele dań Wschodu, ma korzenie w starożytnej Persji i Azji Środkowej, gdzie ryż gotowano z mięsem i przyprawami.\n\nRozprzestrzenił się po Wschodzie szlakami handlowymi i z wyprawami wojennymi aż do Azerbejdżanu, którego kuchnia zna wiele rodzajów pilawu.",
+  "ingredientsText": "Cebula 4 duże\nRodzynki ½ szklanki\nSuszone morele 1 szklanka\nSuszone śliwki ½ szklanki\nKasztany 500 g\nSzczypta cynamonu\nMasło 400–600 g\nNa skórkę gazmach: mąka ½ szklanki, jajko, kefir"
+ },
+ "pokhindz": {
+  "name": "Pochindz",
+  "description": "Prażona mąka pszenna wymieszana z miodem lub cukrem i masłem, jedzona łyżką lub w kulkach.",
+  "history": "Pochindz to tradycyjny noworoczny przysmak robiony w każdej rodzinie i dawany dzieciom.",
+  "ingredientsText": "Mąka pszenna, miód lub cukier, masło"
+ },
+ "putuk": {
+  "name": "Putuk",
+  "description": "Zupa z jagnięciny z ciecierzycą i suszonymi kwaśnymi śliwkami gotowana w porcjowym glinianym garnku.",
+  "history": "Putuk to ormiańska wersja zupy z garnka, krewna azerskiego piti.",
+  "ingredientsText": "Jagnięcina, ciecierzyca, ziemniaki, suszone kwaśne śliwki, cebula"
+ },
+ "qurutob": {
+  "name": "Kurutob",
+  "description": "Kawałki listkowego chleba fatir nasączone sosem z kurutu, z cebulą, pomidorami i ziołami.",
+  "history": "Kurutob uchodzi za narodowe danie Tadżykistanu i je się go rękami ze wspólnej drewnianej tacy.",
+  "ingredientsText": "Chleb fatir, kurut, cebula, pomidory, ogórki, zioła, olej roślinny"
+ },
+ "sabzi-govurma": {
+  "name": "Sabzi gowurma",
+  "description": "Jagnięcina duszona z dużą ilością zieleniny — szpinaku, kolendry, koperku, dymki — i suszonymi kwaśnymi śliwkami.",
+  "history": "Sabzi znaczy „zielenina”. Danie lubiane zwłaszcza wiosną, gdy pojawiają się młode zioła.",
+  "ingredientsText": "Jagnięcina, szpinak, kolendra, koperek, dymka, suszone kwaśne śliwki, cebula"
+ },
+ "sabzi-polo-mahi": {
+  "name": "Sabzi polo ba mahi",
+  "description": "Ryż z ziołami i smażona ryba — tradycyjne danie na Nouruz.",
+  "history": "Zioła symbolizują odnowę, a ryba życie; dlatego je się je w pierwszy dzień wiosny.",
+  "ingredientsText": "Ryż, natka pietruszki, kolendra, koperek, dymka, ryba, masło"
+ },
+ "saczivi": {
+  "name": "Saciwi",
+  "description": "Saciwi to wyrafinowane danie podawane na zimno, o złożonej konsystencji i smaku. Sos z orzechów utartych z czosnkiem, przyprawami i octem jest gęsty i aksamitny. Dodaje się do niego gotowanego kurczaka lub indyka i odstawia, by się przegryzło. Saciwi to obowiązkowe danie gruzińskiego świątecznego stołu.",
+  "quote": "Saciwi to bożonarodzeniowe danie z orzechów, kolendry i przypraw, symbol obfitości i radości",
+  "history": "Nazwa wiąże się ze słowem ciwa — „zimny”: saciwi podaje się schłodzone. To jedno z głównych dań gruzińskiego stołu noworocznego, z kurczakiem, indykiem lub smażonymi warzywami.",
+  "ingredientsText": "Kurczak lub indyk do 2 kg\nMasło 20 g\nCebula 1 kg\nKolendra 4 gałązki\nOrzechy włoskie 600 g\nCzarny pieprz 1 łyżka\nMielona kolendra 1 łyżka\nSzafran imeretyński 1 łyżka\nGoździki 3–6\nSzczypta cynamonu\nCzosnek 4–8 ząbków\nOcet z białego wina 1 łyżka\nSól"
+ },
+ "sadzh": {
+  "name": "Sadż",
+  "description": "Mięso, ziemniaki, bakłażany i papryka smażone na wypukłej żeliwnej patelni zwanej sadż i na niej podawane.",
+  "history": "Sadż to i patelnia, i danie. Często pod spodem zostawia się żar, by jedzenie było gorące przy stole.",
+  "ingredientsText": "Jagnięcina lub kurczak, ziemniaki, bakłażany, pomidory, papryka, cebula"
+ },
+ "samsa": {
+  "name": "Samsa",
+  "description": "Trójkątne pierożki z ciasta francuskiego z jagnięciną i cebulą, pieczone na ściankach tandyru.",
+  "history": "Samsa z tandyru to popularne uzbeckie jedzenie uliczne, posypane sezamem lub czarnuszką.",
+  "ingredientsText": "Mąka pszenna, jagnięcina, tłuszcz z ogona, cebula, kmin rzymski, sezam"
+ },
+ "sangak": {
+  "name": "Sangak",
+  "description": "Długi pełnoziarnisty podpłomyk pieczony na warstwie rozgrzanych kamyków.",
+  "history": "Kamyki zostawiają w chlebie wgłębienia; sangak był niegdyś chlebem perskiego wojska.",
+  "ingredientsText": "Mąka pełnoziarnista, zakwas, woda, sól"
+ },
+ "sarburma": {
+  "name": "Sarburma",
+  "description": "Warstwowy pieróg w kształcie ślimaka z nadzieniem mięsnym, zwinięty z długiego wałka ciasta.",
+  "history": "Sarburma znaczy „zwijany”; robi się ją na święta w dużych blachach.",
+  "ingredientsText": "Mąka pszenna, masło, jajko, jagnięcina, cebula"
+ },
+ "satsebeli": {
+  "name": "Sacebeli",
+  "description": "Sos pomidorowy z czosnkiem, chili i ziołami. Podawany do mięsa, drobiu i chaczapuri.",
+  "history": "Słowo sacebeli znaczy po prostu „sos”. Dawniej robiono go z jagód i owoców; wersja pomidorowa pojawiła się później.",
+  "ingredientsText": "Pomidory, czosnek, chili, kolendra, bazylia, sól"
+ },
+ "shah-plov": {
+  "name": "Szach-pilaw",
+  "description": "Szach-pilaw to klejnot kuchni azerskiej, piękny i wyśmienity. Ryż układa się w „koronę” owiniętą chrupiącą skórką z ławaszu, a w środku jest delikatne mięso, suszone owoce i orzechy. To danie na wyjątkowe okazje i symbol hojności azerskiego stołu.",
+  "quote": "Szach-pilaw to prawdziwe widowisko: wnosi się go w całości i kroi przy gościach",
+  "history": "Szach-pilaw (zwany też chan-pilawem lub „królewskim pilawem”) to azerskie danie świąteczne słynące z niezwykłego sposobu przyrządzania i podania.\n\nJego historia wiąże się z azerską tradycją kulinarną, w której pilaw zajmuje szczególne miejsce.",
+  "ingredientsText": "Wołowina 600 g\nRyż 600 g\nMasło klarowane 350 g\nCebula 250 g\nSuszone morele 150 g\nJasne rodzynki 150 g\nSuszona ałycza 100 g\nGotowane kasztany 150 g\nKurkuma\nSzafran 3–5 nitek\nSól\nBerberys 50 g (opcjonalnie)\nCienki ławasz 400 g"
+ },
+ "shakarob": {
+  "name": "Szakarob",
+  "description": "Sałatka z pomidorów, ogórków i cebuli z chili i ziołami, podawana do pilawu i kebabów.",
+  "history": "Szakarob to tadżycki kuzyn uzbeckiego aczyczuka, robiony tuż przed podaniem.",
+  "ingredientsText": "Pomidory, ogórki, cebula, chili, kolendra, bazylia"
+ },
+ "sharots": {
+  "name": "Szaroc",
+  "description": "Orzechy na nitce oblane zagęszczonym sokiem winogronowym — ormiańska kuzynka czurczcheli.",
+  "history": "Szaroc robi się jesienią po winobraniu i wiesza do wyschnięcia.",
+  "ingredientsText": "Orzechy włoskie, sok winogronowy, mąka"
+ },
+ "shchips": {
+  "name": "Szczyps",
+  "description": "Gęsty sos z wywaru lub śmietanki zagęszczony prażoną mąką, z czosnkiem i czerwoną papryką.",
+  "history": "Szczyps podaje się do mięsa, kurczaka i pasty; trudno wyobrazić sobie bez niego adygejski stół.",
+  "ingredientsText": "Wywar lub śmietanka, mąka pszenna, masło, czosnek, czerwona papryka"
+ },
+ "shekerbura": {
+  "name": "Szekerbura",
+  "description": "Wypiek w kształcie półksiężyca z mielonymi migdałami lub orzechami i cukrem, ozdobiony wzorem robionym szczypczykami.",
+  "history": "Szekerburę piecze się na Nowruz. Wzór na wierzchu nazywa się nachysz, a każda kucharka ma własny.",
+  "ingredientsText": "Mąka pszenna, masło, jajka, mleko, drożdże, migdały lub orzechy laskowe, cukier, kardamon"
+ },
+ "shekerchorek": {
+  "name": "Szekerczorek",
+  "description": "Kruche ciasteczko z mąki, masła i cukru, które rozpływa się w ustach.",
+  "history": "Szekerczorek piecze się na Nowruz razem z innymi słodyczami świątecznego stołu.",
+  "ingredientsText": "Mąka pszenna, masło, cukier puder, żółtko, kardamon"
+ },
+ "sheki-halva": {
+  "name": "Chałwa szekińska",
+  "description": "Słodycz z koronki z mąki ryżowej z orzechami laskowymi, nasączona gęstym syropem.",
+  "history": "Cienką ryżową koronkę, reszte, wylewa się przez lejek — to tajemnica przekazywana w rodzinach z Szeki.",
+  "ingredientsText": "Mąka ryżowa, orzechy laskowe, cukier, kardamon, kolendra, szafran"
+ },
+ "sherbet": {
+  "name": "Szerbet",
+  "description": "Słodki schłodzony napój z soku owocowego, płatków róży, bazylii lub szafranu, podawany do pilawu.",
+  "history": "Szerbet pije się na weselach i świętach; jego kolor i aromat zmieniają się z porą roku.",
+  "ingredientsText": "Woda, cukier, sok z cytryny, płatki róży lub nasiona bazylii, szafran"
+ },
+ "shilaplavi": {
+  "name": "Sziłaplawi",
+  "description": "Ryż gotowany z jagnięciną i cebulą do kremowej, lekko kleistej konsystencji — bliżej risotto niż sypkiego pilawu.",
+  "history": "Sziłaplawi robi się w Swanetii i Raczy na święta, w dużych kotłach, by starczyło dla każdego gościa.",
+  "ingredientsText": "Ryż, jagnięcina, cebula, sól swańska, olej roślinny"
+ },
+ "shirazi-salad": {
+  "name": "Sałatka szirazi",
+  "description": "Drobno pokrojony ogórek, pomidor i czerwona cebula z miętą i agrestem lub sokiem z cytryny.",
+  "history": "Nazwa pochodzi od Szirazu, miasta poetów i ogrodów na południu Iranu.",
+  "ingredientsText": "Ogórki, pomidory, czerwona cebula, suszona mięta, sok z cytryny, oliwa"
+ },
+ "shirchoy": {
+  "name": "Szirczoj",
+  "description": "Herbata z mlekiem, masłem i solą, czasem z kawałkami chleba — sycące śniadanie.",
+  "history": "Szirczoj pije się wcześnie rano w górach, gdzie rozgrzewa i dodaje sił.",
+  "ingredientsText": "Herbata, mleko, masło, sól"
+ },
+ "shirin-plov": {
+  "name": "Słodki pilaw",
+  "description": "Słodki pilaw z suszonymi owocami, kasztanami i szafranem, podawany na świąteczny stół.",
+  "history": "Szirin znaczy „słodki”; to jeden z wielu rodzajów azerskiego pilawu.",
+  "ingredientsText": "Ryż, rodzynki, suszone morele, kasztany, masło, szafran, cukier"
+ },
+ "shivit-oshi": {
+  "name": "Sziwit oszi",
+  "description": "Jaskrawozielony makaron z koperkiem podawany z gulaszem mięsnym i kwaśnym mlekiem — danie z Chorezmu.",
+  "history": "Koperek dodaje się prosto do ciasta, więc makaron wychodzi zielony i pachnący.",
+  "ingredientsText": "Mąka pszenna, koperek, wołowina, ziemniaki, marchew, kwaśne mleko"
+ },
+ "shkmeruli": {
+  "name": "Szkmeruli",
+  "description": "Smażony kurczak zapiekany w kremowym sosie czosnkowym na glinianej patelni keci. Czosnku się nie żałuje.",
+  "history": "Danie pochodzi ze wsi Szkmeri w Raczy. Gliniane patelnie długo trzymają ciepło, więc podaje się w nich szkmeruli.",
+  "ingredientsText": "Kurczak, śmietanka lub mleko, czosnek, masło, sól"
+ },
+ "sholeh-zard": {
+  "name": "Szole zard",
+  "description": "Słodki pudding ryżowy z szafranem i wodą różaną, ozdobiony cynamonem i migdałami.",
+  "history": "Szole zard gotuje się jako ślub i dzieli z sąsiadami, ozdobiony wzorami i napisami z cynamonu.",
+  "ingredientsText": "Ryż, cukier, szafran, woda różana, masło, migdały, cynamon"
+ },
+ "shor-gogal": {
+  "name": "Szor gogal",
+  "description": "Słone listkowe bułeczki z nadzieniem z mąki, masła, kopru włoskiego i kurkumy.",
+  "history": "Szor znaczy „słony”. Szor gogal to bakijska wersja nowruzowego gogalu.",
+  "ingredientsText": "Mąka pszenna, masło, jajka, drożdże, koper włoski, kurkuma, sól"
+ },
+ "shoti": {
+  "name": "Szoti",
+  "description": "Chleb w kształcie czółna pieczony na ściankach okrągłego glinianego pieca tone. Chrupiący z zewnątrz, miękki w środku.",
+  "history": "Piekarnie tone są w każdej dzielnicy Tbilisi. Rano kupuje się gorące szoti i je w drodze.",
+  "ingredientsText": "Mąka pszenna, drożdże, woda, sól"
+ },
+ "shubat": {
+  "name": "Szubat",
+  "description": "Fermentowany napój z mleka wielbłądziego, gęsty i lekko słodki.",
+  "history": "Szubat pije się na południu Kazachstanu, gdzie hoduje się wielbłądy.",
+  "ingredientsText": "Mleko wielbłądzie, zakwas"
+ },
+ "shurpa": {
+  "name": "Szurpa",
+  "description": "Esencjonalna zupa z jagnięciny z dużymi kawałkami ziemniaków, marchwi, pomidorów i ziołami.",
+  "history": "Szurpę gotuje się w kazanie na ogniu; mięso często obsmaża się przed gotowaniem.",
+  "ingredientsText": "Jagnięcina, ziemniaki, marchew, pomidory, cebula, ciecierzyca, zioła"
+ },
+ "simit": {
+  "name": "Simit",
+  "description": "Chrupiące obwarzanki w sezamie sprzedawane z ulicznych wózków, jedzone z serem i herbatą.",
+  "history": "Przed pieczeniem simit macza się w melasie winogronowej, która nadaje skórce złoty kolor.",
+  "ingredientsText": "Mąka pszenna, drożdże, melasa winogronowa, sezam"
+ },
+ "siskal": {
+  "name": "Siskał",
+  "description": "Prosty chleb kukurydziany pieczony na patelni lub w żarze, podawany z mięsem i wywarem.",
+  "history": "Siskał to codzienny chleb Czeczenów; w górach pieczono go wprost w popiele paleniska.",
+  "ingredientsText": "Mąka kukurydziana, woda, sól"
+ },
+ "sohan": {
+  "name": "Sohan",
+  "description": "Kruche krążki z cukru, masła i kiełkowanej pszenicy z szafranem i pistacjami.",
+  "history": "Sohan to słodka wizytówka Kom, kupowana na prezent w blaszanych puszkach.",
+  "ingredientsText": "Cukier, masło, mąka pszenna, kiełkowana pszenica, szafran, pistacje, migdały"
+ },
+ "sokhta": {
+  "name": "Sochta",
+  "description": "Gotowana kiełbasa z żołądka jagnięcego nadziewanego wątrobą, ryżem i cebulą.",
+  "history": "Sochta to świąteczne danie robione zaraz po uboju owcy.",
+  "ingredientsText": "Żołądek jagnięcy, wątroba, ryż, tłuszcz z ogona, cebula, pieprz"
+ },
+ "soko-ketsze": {
+  "name": "Grzyby z keci",
+  "description": "Grzyby zapiekane z sulguni na glinianej patelni keci i w niej podawane.",
+  "history": "Gliniana keci trzyma ciepło, więc ser ciągnie się do ostatniego grzybka.",
+  "ingredientsText": "Grzyby, sulguni, masło, sól"
+ },
+ "sokos-khinkali": {
+  "name": "Chinkali z grzybami",
+  "description": "Chinkali z grzybami, cebulą i ziołami — bezmięsna wersja słynnych pierogów.",
+  "history": "Chinkali z grzybami je się w dni postne; też trzyma się je za „ogonek”, ale mają mniej soku.",
+  "ingredientsText": "Mąka pszenna, grzyby, cebula, kolendra, sól"
+ },
+ "spas": {
+  "name": "Spas",
+  "description": "Gorąca zupa jogurtowa z matsunem, ziarnami pszenicy, jajkiem i ziołami. Łagodna, kwaskowa i rozgrzewająca.",
+  "history": "Spas to domowa zimowa zupa. By jogurt się nie zważył, miesza się ją bez przerwy w jedną stronę.",
+  "ingredientsText": "Jogurt matsun, ziarna pszenicy, jajko, masło, cebula, mięta, kolendra"
+ },
+ "su-boregi": {
+  "name": "Su böreği",
+  "description": "Warstwowy wypiek z gotowanych płatów ciasta z białym serem i natką, pieczony na maśle.",
+  "history": "„Wodny börek” zawdzięcza nazwę płatom ciasta zanurzanym we wrzątku przed składaniem.",
+  "ingredientsText": "Mąka pszenna, jajka, biały ser, natka pietruszki, masło"
+ },
+ "sudzhuk": {
+  "name": "Sudżuk",
+  "description": "Płaska, suszona na powietrzu kiełbasa wołowa z czosnkiem i przyprawami, krojona w cienkie plastry.",
+  "history": "Sudżuk zna się w całym regionie, od Armenii po Turcję. Ormiańskie rodziny robiły go jesienią, gdy robiło się chłodno.",
+  "ingredientsText": "Wołowina, łój wołowy, czosnek, kmin rzymski, papryka, pieprz, sól"
+ },
+ "suluguni": {
+  "name": "Sulguni",
+  "description": "Ser solankowy o elastycznej, warstwowej strukturze i słonym smaku. Je się go świeżego, smażonego i wędzonego.",
+  "history": "Sulguni pochodzi z Megrelii. Ser wyrabia się w gorącej wodzie, co czyni go ciągnącym i warstwowym.",
+  "ingredientsText": "Mleko krowie, podpuszczka, sól"
+ },
+ "sumalak": {
+  "name": "Sumalak",
+  "description": "Słodka pasta z kiełkowanych ziaren pszenicy gotowana przez cały dzień na Nowruz.",
+  "history": "Sumalak gotuje całe sąsiedztwo nocą przy pieśniach, mieszając na zmianę; cukru się nie dodaje.",
+  "ingredientsText": "Kiełkowana pszenica, mąka pszenna, olej bawełniany, woda"
+ },
+ "surj": {
+  "name": "Kawa ormiańska",
+  "description": "Mocna, drobno mielona kawa parzona w dżezwie i podawana w małych filiżankach z fusami.",
+  "history": "Kawa to część ormiańskiej gościnności, a z fusów często się wróży po wypiciu.",
+  "ingredientsText": "Drobno mielona kawa, woda, cukier do smaku"
+ },
+ "sutlac": {
+  "name": "Sütlaç",
+  "description": "Ryż na mleku zapiekany na złoto i posypany cynamonem.",
+  "history": "Sütlaç sprzedaje się w muhallebici — lokalach robiących tylko desery mleczne.",
+  "ingredientsText": "Mleko, ryż, cukier, mąka ryżowa, wanilia, cynamon"
+ },
+ "tahchin": {
+  "name": "Tahczin",
+  "description": "Zapiekane ryżowe „ciasto” z jogurtem, jajkiem, szafranem i kurczakiem w środku, z chrupiącą skórką.",
+  "history": "Tahczin przed podaniem odwraca się na półmisek, by pokazać złotą skórkę.",
+  "ingredientsText": "Ryż, jogurt, żółtko, szafran, kurczak, masło, berberys"
+ },
+ "tahdig": {
+  "name": "Tahdig",
+  "description": "Chrupiąca złota skórka ryżu z dna garnka, podawana jako osobne danie.",
+  "history": "Przy stole wszyscy walczą o tahdig — to najcenniejsza część perskiego ryżu.",
+  "ingredientsText": "Ryż, masło, jogurt, szafran"
+ },
+ "tan": {
+  "name": "Tan",
+  "description": "Orzeźwiający napój z jogurtu matsun rozcieńczonego zimną wodą ze szczyptą soli. Pije się go w upał i do mięsa.",
+  "history": "Tan to najprostszy sposób na matsun, podawany niemal w każdej ormiańskiej jadłodajni.",
+  "ingredientsText": "Jogurt matsun, zimna woda, sól"
+ },
+ "tantuni": {
+  "name": "Tantuni",
+  "description": "Drobno siekana wołowina smażona na oleju bawełnianym i zawinięta w cienki ławasz z ziołami.",
+  "history": "Tantuni to uliczne jedzenie Mersinu, smażone na szerokiej wypukłej patelni.",
+  "ingredientsText": "Wołowina, ławasz, pomidory, cebula, natka pietruszki, sumak, olej bawełniany"
+ },
+ "tarkhuna": {
+  "name": "Tarchuna",
+  "description": "Jaskrawozielona gazowana lemoniada estragonowa, podawana schłodzona.",
+  "history": "Lemoniady na naturalnych syropach rozsławił Mitrofan Lagidze w Tbilisi na początku XX wieku.",
+  "ingredientsText": "Estragon, cukier, woda gazowana, kwasek cytrynowy"
+ },
+ "tava-kebab": {
+  "name": "Tawa kebab",
+  "description": "Kotleciki z mielonej jagnięciny pieczone na patelni tawa z jajkiem i pomidorami.",
+  "history": "Tawa to patelnia, w której podaje się danie; jajko utrzymuje soczystość kebabu.",
+  "ingredientsText": "Jagnięcina, cebula, jajka, pomidory, sól, pieprz"
+ },
+ "tavuk-gogsu": {
+  "name": "Tavuk göğsü",
+  "description": "Mleczny pudding z bardzo drobnymi włóknami piersi kurczaka — kurczaka prawie nie czuć.",
+  "history": "Ten niezwykły deser przetrwał z kuchni pałacu osmańskiego.",
+  "ingredientsText": "Pierś z kurczaka, mleko, cukier, mąka ryżowa, cynamon"
+ },
+ "tendir-chorek": {
+  "name": "Chleb z tandyru",
+  "description": "Okrągły chleb pieczony na ściankach glinianego tandyru, z chrupiącą skórką i miękkim miąższem.",
+  "history": "Prawie każde wiejskie podwórko ma tandyr, a jego chleb podobno najlepiej smakuje w pierwszych godzinach po upieczeniu.",
+  "ingredientsText": "Mąka pszenna, drożdże, woda, sól"
+ },
+ "testi-kebab": {
+  "name": "Testi kebab",
+  "description": "Mięso i warzywa duszone w zapieczętowanym glinianym dzbanie, który rozbija się przy stole.",
+  "history": "Danie z Kapadocji — rozbijanie dzbana stało się widowiskiem dla gości.",
+  "ingredientsText": "Wołowina lub jagnięcina, pomidory, papryka, cebula, czosnek"
+ },
+ "tika-kebab": {
+  "name": "Tika kebab",
+  "description": "Kawałki marynowanej jagnięciny nadziane na szpikulce z kawałkami tłuszczu z ogona, pieczone na węglu.",
+  "history": "Tika znaczy „kawałek”. To najpopularniejszy rodzaj kebabu, obecny na każdej uczcie.",
+  "ingredientsText": "Jagnięcina, tłuszcz z ogona, cebula, sól, pieprz, sumak"
+ },
+ "tkemali": {
+  "name": "Tkemali",
+  "description": "Kwaśno-ostry sos z ałyczy z czosnkiem, koperkiem, kolendrą i miętą polej. Obowiązkowy dodatek do szaszłyków i smażonych ziemniaków.",
+  "history": "Tkemali to nazwa i sosu, i ałyczy, z której się go robi. Jest zielone tkemali z niedojrzałych owoców i czerwone z dojrzałych.",
+  "ingredientsText": "Ałycza, czosnek, koperek, kolendra, mięta polej, chili, sól"
+ },
+ "tklapi": {
+  "name": "Tklapi",
+  "description": "Cienkie arkusze kwaśnej pastyli z ałyczy lub śliwek, dodawane do charczo albo jedzone jako przekąska.",
+  "history": "Tklapi to gruziński sposób przechowywania owoców na zimę, suszonych na słońcu na drewnianych deskach.",
+  "ingredientsText": "Ałycza lub śliwki"
+ },
+ "tolma-gruzinskaya": {
+  "name": "Tołma gruzińska",
+  "description": "Liście winorośli nadziewane mięsem, ryżem i ziołami, duszone w wywarze i podawane z czosnkowym maconi.",
+  "history": "W Gruzji tołmę robi się wiosną z młodych liści; na zimę liście się marynuje.",
+  "ingredientsText": "Liście winorośli, mielona wołowina i wieprzowina, ryż, cebula, kolendra, mięta, maconi, czosnek"
+ },
+ "tsakharadzhyn": {
+  "name": "Cacharadżyn",
+  "description": "Osetyjski pieróg z liśćmi buraka i serem. Cienkie ciasto, dużo nadzienia i roztopione masło na wierzchu.",
+  "history": "Na święta osetyjskie pierogi piecze się po trzy, na znak słońca, ziemi i wody. Cacharadżyn piecze się wiosną i latem, gdy liście buraka są młode i delikatne.",
+  "ingredientsText": "Mąka pszenna, drożdże, kefir, masło, liście buraka, ser osetyjski, dymka"
+ },
+ "tsitsila-tabaka": {
+  "name": "Kurczak tabaka",
+  "description": "Spłaszczony kurczak smażony pod ciężarem na chrupko, podawany z sosem czosnkowym.",
+  "history": "Nazwa pochodzi od patelni tapa, na której kurczak smaży się pod ciężką pokrywą.",
+  "ingredientsText": "Kurczątko, masło, czosnek, sól, pieprz"
+ },
+ "ttu-lavash": {
+  "name": "Ttu ławasz",
+  "description": "Cienka słodko-kwaśna pastyla z przecieru ze śliwek, moreli lub derenia, suszona na słońcu.",
+  "history": "Nazwa znaczy „kwaśny ławasz”. Robiono go latem, by zimą były witaminy.",
+  "ingredientsText": "Śliwki, morele lub dereń"
+ },
+ "ttu-solenya": {
+  "name": "Ormiańskie kiszonki",
+  "description": "Mieszane warzywa kiszone: kapusta, papryka, marchew, czosnek, zielone pomidory.",
+  "history": "Kiszonki podaje się do chaszu i chorowacu; robi się je jesienią w dużych słojach.",
+  "ingredientsText": "Kapusta, papryka, marchew, czosnek, zielone pomidory, sól"
+ },
+ "tukhum-barak": {
+  "name": "Tuchum barak",
+  "description": "Chorezmijskie pierożki nadziewane jajkami roztrzepanymi z mlekiem i masłem.",
+  "history": "Płynne nadzienie wlewa się do ciasta i szybko zamyka, co wymaga prawdziwej wprawy.",
+  "ingredientsText": "Mąka pszenna, jajka, mleko, masło, sól"
+ },
+ "tuppa": {
+  "name": "Tuppa",
+  "description": "Zupa z krótkim domowym makaronem, mięsem i warzywami, wykończona pomidorami.",
+  "history": "Tuppę gotuje się w tadżyckich górskich wioskach w chłodnej porze roku.",
+  "ingredientsText": "Mąka pszenna, jagnięcina, ziemniaki, marchew, pomidory, cebula"
+ },
+ "turshu-govurma": {
+  "name": "Turszu gowurma",
+  "description": "Smażona jagnięcina z cebulą, suszonymi kwaśnymi śliwkami i kasztanami w słodko-kwaśnym sosie.",
+  "history": "Turszu znaczy „kwaśny”; danie podaje się z pilawem.",
+  "ingredientsText": "Jagnięcina, cebula, suszone kwaśne śliwki, kasztany, szafran"
+ },
+ "tzhvzhik": {
+  "name": "Tżwżik",
+  "description": "Smażona wątroba i inne podroby z cebulą, pomidorami i przyprawami. Szybkie, sycące danie.",
+  "history": "Tżwżik przyrządzano zaraz po uboju z najświeższych podrobów. Danie znane jest z ormiańskiego filmu o tym samym tytule.",
+  "ingredientsText": "Wątroba wołowa lub jagnięca, nerki, serce, cebula, pomidory, pieprz, kolendra"
+ },
+ "ualibakh": {
+  "name": "Ualibach",
+  "description": "Osetyjski pieróg z serem. Cienkie ciasto, dużo nadzienia i roztopione masło na wierzchu.",
+  "history": "Na święta osetyjskie pierogi piecze się po trzy, na znak słońca, ziemi i wody. Ualibach to najpopularniejszy osetyjski pieróg, pieczony niemal codziennie.",
+  "ingredientsText": "Mąka pszenna, drożdże, kefir, masło, ser osetyjski"
+ },
+ "uch-badzhi": {
+  "name": "Dolma „trzy siostry”",
+  "description": "„Trzy siostry”: bakłażany, pomidory i papryka nadziewane mięsem i ryżem i duszone razem.",
+  "history": "Nazwa wzięła się od gotowania trzech warzyw w jednym garnku. To letnia wersja dolmy.",
+  "ingredientsText": "Bakłażany, pomidory, papryka, jagnięcina, ryż, cebula, zioła"
+ },
+ "urbech": {
+  "name": "Urbecz",
+  "description": "Gęsta pasta z siemienia lnianego, pestek moreli lub orzechów mielonych na żarnach, jedzona z miodem i masłem.",
+  "history": "W górach urbecz zabierano w podróż jako szybkie źródło energii.",
+  "ingredientsText": "Siemię lniane, pestki moreli lub orzechy"
+ },
+ "uzbekskiy-plov": {
+  "name": "Plov uzbecki",
+  "description": "Ryż gotowany w kazanie z jagnięciną, żółtą marchwią, ciecierzycą, kminem i całymi główkami czosnku.",
+  "history": "Kultura i tradycja plovu zostały wpisane na listę niematerialnego dziedzictwa UNESCO jako dziedzictwo Uzbekistanu.",
+  "ingredientsText": "Ryż dewzira, jagnięcina, żółta marchew, cebula, ciecierzyca, kmin rzymski, czosnek, olej bawełniany"
+ },
+ "white-cherry-jam": {
+  "name": "Konfitura z białych czereśni",
+  "description": "Klarowna konfitura z białych czereśni z cytryną — klasyka azerskiego stołu herbacianego.",
+  "history": "Konfiturę podaje się w miseczkach do herbaty w gruszkowatych szklankach armudu.",
+  "ingredientsText": "Białe czereśnie, cukier, cytryna"
+ },
+ "yantyk": {
+  "name": "Jantyk",
+  "description": "Cienkie pierogi z mięsem lub serem pieczone na suchej patelni i smarowane masłem.",
+  "history": "Jantyk to krewny czebureków, ale piecze się go na suchej patelni zamiast smażyć.",
+  "ingredientsText": "Mąka pszenna, jagnięcina lub biały ser, cebula, masło"
+ },
+ "yukha": {
+  "name": "Jucha",
+  "description": "Bardzo cienki niekwaszony chleb pieczony na sadżu i przechowywany suchy.",
+  "history": "Przed jedzeniem juchę skrapia się wodą i znów robi się miękka.",
+  "ingredientsText": "Mąka pszenna, woda, sól"
+ },
+ "zereshk-polo": {
+  "name": "Zereszk polo",
+  "description": "Ryż szafranowy z kwaśnym berberysem, podawany z kurczakiem i posypany pistacjami i migdałami.",
+  "history": "Kwaśny berberys i słodki szafran czynią to danie barwnym świątecznym przysmakiem.",
+  "ingredientsText": "Ryż, berberys, kurczak, szafran, masło, cukier, pistacje, migdały"
+ },
+ "zhent": {
+  "name": "Żent",
+  "description": "Słodycz z utłuczonej prażonej kaszy jaglanej z masłem, cukrem, rodzynkami i orzechami.",
+  "history": "Żent podaje się do herbaty na święta, sprasowany i pokrojony w kawałki.",
+  "ingredientsText": "Kasza jaglana, masło, cukier, rodzynki, orzechy włoskie, twaróg"
+ },
+ "zhingyalov-hats": {
+  "name": "Żingialow hac",
+  "description": "Cienki placek nadziewany dziesiątkami drobno siekanych ziół, pieczony na suchej patelni i jedzony na gorąco.",
+  "history": "Wizytówka Arcachu. Do jednego placka trafia do 20 rodzajów dzikich i ogrodowych ziół.",
+  "ingredientsText": "Mąka pszenna, woda, szpinak, szczaw, pokrzywa, kolendra, koperek, dymka, olej roślinny"
+ },
+ "zhizhig-chorpa": {
+  "name": "Żiżig czorpa",
+  "description": "Esencjonalny rosół mięsny z ziemniakami i ziołami, podawany osobno do żiżig gałnasz.",
+  "history": "Czorpa znaczy „rosół”; pije się go z miski razem z mięsem i kluskami.",
+  "ingredientsText": "Wołowina lub jagnięcina, ziemniaki, cebula, zioła, sól"
+ },
+ "zhizhig-galnash": {
+  "name": "Żiżig gałnasz",
+  "description": "Gotowane mięso z kluskami z mąki pszennej lub kukurydzianej, wywarem i sosem czosnkowym. Główne danie czeczeńskiego stołu.",
+  "history": "Nazwa znaczy „mięso z kluskami”. Gotuje się je, gdy przychodzą goście, i na święta.",
+  "ingredientsText": "Wołowina lub jagnięcina, mąka pszenna lub kukurydziana, czosnek, wywar, sól"
+ }
+}
