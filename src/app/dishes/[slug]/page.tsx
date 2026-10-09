@@ -5,19 +5,61 @@ import { cache } from "react";
 import { DishCard } from "@/components/DishCard";
 import { SITE_ASSETS } from "@/lib/assets";
 import { DIFFICULTY_LABELS, formatTime, getDish, searchDishes } from "@/lib/dishes";
+import { cuisineLabel, label, language, languages, type Language } from "@/lib/i18n";
 import { photoCredit, safeUrl } from "@/lib/photos";
 
 type Params = Promise<{ slug: string }>;
+type SearchParams = Promise<{ lang?: string | string[] }>;
 
 const loadDish = cache(getDish);
 
-export async function generateMetadata({ params }: { params: Params }): Promise<Metadata> {
+type Dish = NonNullable<Awaited<ReturnType<typeof getDish>>>;
+
+// Тексты блюда на выбранном языке: перевод, иначе английский, иначе русский оригинал
+function localize(dish: Dish, lang: Language) {
+  const base = {
+    name: dish.name,
+    description: dish.description,
+    quote: dish.quote,
+    history: dish.history,
+    ingredientsText: dish.ingredientsText,
+    allergens: dish.allergens,
+    translated: lang.code === "ru",
+    fallbackEn: false,
+  };
+  if (lang.code === "ru") return base;
+  const own = dish.translations.find((t) => t.locale === lang.code);
+  const tr = own ?? dish.translations.find((t) => t.locale === "en");
+  if (!tr) return base;
+  return {
+    name: tr.name || dish.name,
+    description: tr.description || dish.description,
+    quote: tr.quote ?? null,
+    history: tr.history ?? null,
+    ingredientsText: tr.ingredientsText ?? null,
+    allergens: tr.allergens,
+    translated: true,
+    fallbackEn: !own,
+  };
+}
+
+const langOf = async (searchParams: SearchParams) => language([(await searchParams).lang].flat()[0]);
+
+export async function generateMetadata({ params, searchParams }: { params: Params; searchParams: SearchParams }): Promise<Metadata> {
   const dish = await loadDish((await params).slug);
   if (!dish) return {};
+  const lang = await langOf(searchParams);
+  const text = localize(dish, lang);
+  const cuisine = dish.cuisine ? cuisineLabel(lang, dish.cuisine.slug, `${dish.cuisine.name} кухня`) : null;
   return {
-    title: dish.cuisine ? `${dish.name} — ${dish.cuisine.name.toLowerCase()} кухня` : dish.name,
-    description: dish.description,
-    alternates: { canonical: `/dishes/${dish.slug}` },
+    title: cuisine ? `${text.name} — ${cuisine.toLowerCase()}` : text.name,
+    description: text.description,
+    alternates: {
+      canonical: lang.code === "ru" ? `/dishes/${dish.slug}` : `/dishes/${dish.slug}?lang=${lang.code}`,
+      languages: Object.fromEntries(
+        languages().map((l) => [l.code, l.code === "ru" ? `/dishes/${dish.slug}` : `/dishes/${dish.slug}?lang=${l.code}`]),
+      ),
+    },
     openGraph: dish.imageUrl ? { images: [dish.imageUrl] } : undefined,
   };
 }
@@ -32,9 +74,12 @@ function Section({ title, children }: { title: string; children: React.ReactNode
   );
 }
 
-export default async function DishPage({ params }: { params: Params }) {
+export default async function DishPage({ params, searchParams }: { params: Params; searchParams: SearchParams }) {
   const dish = await loadDish((await params).slug);
   if (!dish) notFound();
+  const lang = await langOf(searchParams);
+  const text = localize(dish, lang);
+  const cuisine = dish.cuisine ? cuisineLabel(lang, dish.cuisine.slug, `${dish.cuisine.name} кухня`) : null;
 
   const related = (await searchDishes({ cuisine: dish.cuisine?.slug, limit: 4 }))
     .filter((d) => d.slug !== dish.slug)
@@ -45,17 +90,19 @@ export default async function DishPage({ params }: { params: Params }) {
   }
 
   const credit = photoCredit(dish.slug);
-  const hasRecipe = dish.steps.length > 0;
+  // Шаги рецепта есть только по-русски
+  const hasRecipe = dish.steps.length > 0 && lang.code === "ru";
   const jsonLd = {
     "@context": "https://schema.org",
     "@type": hasRecipe ? "Recipe" : "Article",
-    name: dish.name,
-    headline: dish.name,
-    description: dish.description,
+    name: text.name,
+    headline: text.name,
+    description: text.description,
+    inLanguage: lang.code,
     image: dish.imageUrl ?? undefined,
     ...(hasRecipe
       ? {
-          recipeCuisine: dish.cuisine?.name,
+          recipeCuisine: cuisine ?? undefined,
           recipeCategory: dish.course ?? undefined,
           totalTime: dish.cookingTimeMin ? `PT${dish.cookingTimeMin}M` : undefined,
           recipeIngredient: dish.ingredients.map((i) => [i.name, i.amount].filter(Boolean).join(" — ")),
@@ -64,28 +111,31 @@ export default async function DishPage({ params }: { params: Params }) {
       : {}),
   };
 
-  const facts = [
+  // Время, сложность и прочее подписаны только по-русски — на других языках не показываем
+  const facts = (lang.code !== "ru" ? [] : [
     ["Время", formatTime(dish.cookingTimeMin)],
     ["Сложность", dish.difficulty ? DIFFICULTY_LABELS[dish.difficulty] : null],
     ["Порций", dish.servings],
     ["Калории", dish.calories ? `${dish.calories} ккал` : null],
-  ].filter(([, v]) => v != null);
+  ]).filter(([, v]) => v != null);
+  // Список ингредиентов с количествами хранится по-русски; на других языках — переведённый текст
+  const showIngredientList = dish.ingredients.length > 0 && (lang.code === "ru" || !text.ingredientsText);
 
   return (
-    <article className="flex flex-col gap-12 sm:gap-16">
+    <article lang={lang.code} dir={lang.dir} className="flex flex-col gap-12 sm:gap-16">
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd).replace(/</g, "\\u003c") }} />
 
       <div className="flex flex-col gap-8 md:flex-row md:justify-between">
         <div className="flex flex-col gap-2 md:w-1/2">
           {dish.imageUrl ? (
             // eslint-disable-next-line @next/next/no-img-element
-            <img src={dish.imageUrl} alt={dish.name} className="aspect-[4/3] w-full rounded-[25px] object-cover md:aspect-auto md:h-full md:max-h-[80vh]" />
+            <img src={dish.imageUrl} alt={text.name} className="aspect-[4/3] w-full rounded-[25px] object-cover md:aspect-auto md:h-full md:max-h-[80vh]" />
           ) : (
             <div className="aspect-[4/3] w-full rounded-[25px] bg-ink-soft" />
           )}
           {credit && (
             <p className="text-xs opacity-75">
-              Фото:{" "}
+              {label(lang, "photo")}:{" "}
               <a href={safeUrl(credit.source)} target="_blank" rel="noopener noreferrer" className="underline">
                 {credit.author}
               </a>{" "}
@@ -99,23 +149,41 @@ export default async function DishPage({ params }: { params: Params }) {
 
         <div className="flex flex-col gap-6 md:w-[46%]">
           <p className="text-sm">
-            <Link href="/dishes" className="hover:text-accent">// блюда</Link>
-            {dish.cuisine && (
+            <Link href="/dishes" className="hover:text-accent">// {label(lang, "crumb_dishes")}</Link>
+            {dish.cuisine && cuisine && (
               <>
                 {" / "}
-                <Link href={`/#${dish.cuisine.slug}`} className="hover:text-accent">{dish.cuisine.name.toLowerCase()} кухня</Link>
+                <Link href={`/#${dish.cuisine.slug}`} className="hover:text-accent">{cuisine.toLowerCase()}</Link>
               </>
             )}
           </p>
-          <h1 className="t-title">{dish.name}</h1>
-          {dish.cuisine && <p className="t-label rule pb-2">{dish.cuisine.name} кухня</p>}
-          <p className="t-body">{dish.description}</p>
+          <nav aria-label={label(lang, "language")} className="flex flex-wrap gap-x-3 gap-y-1 text-sm">
+            {languages().map((l) =>
+              l.code === lang.code ? (
+                <span key={l.code} lang={l.code} className="font-semibold underline">{l.name}</span>
+              ) : (
+                <Link
+                  key={l.code}
+                  lang={l.code}
+                  hrefLang={l.code}
+                  href={l.code === "ru" ? `/dishes/${dish.slug}` : `/dishes/${dish.slug}?lang=${l.code}`}
+                  className="opacity-75 hover:text-accent hover:opacity-100"
+                >
+                  {l.name}
+                </Link>
+              ),
+            )}
+          </nav>
+          <h1 className="t-title">{text.name}</h1>
+          {cuisine && <p className="t-label rule pb-2">{cuisine}</p>}
+          {text.fallbackEn && <p className="text-sm italic">{label(lang, "in_english")}</p>}
+          <p className="t-body">{text.description}</p>
 
-          {dish.quote && (
+          {text.quote && (
             <figure className="flex items-start justify-between gap-4">
               {/* eslint-disable-next-line @next/next/no-img-element */}
               <img src={SITE_ASSETS.quote} alt="" className="w-[10%] min-w-8" />
-              <blockquote className="w-[85%] text-lg italic sm:text-2xl">{dish.quote}</blockquote>
+              <blockquote className="w-[85%] text-lg italic sm:text-2xl">{text.quote}</blockquote>
             </figure>
           )}
 
@@ -132,8 +200,8 @@ export default async function DishPage({ params }: { params: Params }) {
         </div>
       </div>
 
-      <Section title="Ингредиенты">
-        {dish.ingredients.length > 0 ? (
+      <Section title={label(lang, "ingredients")}>
+        {showIngredientList ? (
           <ul className="flex flex-wrap gap-x-6 gap-y-4">
             {dish.ingredients.map((i) => (
               <li key={i.name} className="flex">
@@ -142,17 +210,17 @@ export default async function DishPage({ params }: { params: Params }) {
               </li>
             ))}
           </ul>
-        ) : dish.ingredientsText ? (
-          <p className="t-body whitespace-pre-line md:columns-2 md:gap-12">{dish.ingredientsText}</p>
+        ) : text.ingredientsText ? (
+          <p className="t-body whitespace-pre-line md:columns-2 md:gap-12">{text.ingredientsText}</p>
         ) : (
-          <p className="t-body">Пока не указаны.</p>
+          <p className="t-body">{label(lang, "not_specified")}</p>
         )}
       </Section>
 
-      {dish.allergens.length > 0 && (
-        <Section title="Аллергены">
+      {text.allergens.length > 0 && (
+        <Section title={label(lang, "allergens")}>
           <ul className="flex flex-wrap gap-3">
-            {dish.allergens.map((a) => (
+            {text.allergens.map((a) => (
               <li key={a} className="rounded-[clamp(6px,0.52vw,12px)] border border-ink px-3 pb-1.5 pt-1 text-base sm:text-xl">
                 {a}
               </li>
@@ -174,10 +242,10 @@ export default async function DishPage({ params }: { params: Params }) {
         </Section>
       )}
 
-      {dish.history && (
-        <Section title="Историческая справка">
+      {text.history && (
+        <Section title={label(lang, "history")}>
           <div className="t-body flex flex-col gap-4 md:block md:columns-2 md:gap-[6%]">
-            {dish.history.split(/\n{2,}/).map((p, i) => (
+            {text.history.split(/\n{2,}/).map((p, i) => (
               <p key={i} className="whitespace-pre-line md:mb-4 md:break-inside-avoid-column">{p}</p>
             ))}
           </div>
@@ -185,7 +253,7 @@ export default async function DishPage({ params }: { params: Params }) {
       )}
 
       {related.length > 0 && (
-        <Section title="Вам также может понравиться">
+        <Section title={label(lang, "also")}>
           <div className="grid gap-6 sm:grid-cols-3 sm:gap-[62px]">
             {related.map((d) => (
               <DishCard key={d.slug} dish={d} />
