@@ -102,6 +102,24 @@ static void add_names(Site *site, const JVal *names) {
     }
 }
 
+/* Полные переводы: content/translations/<код>.json, {"слаг": {"name": …, "description": …}} */
+static void add_translations(Site *site, const char *dir) {
+    for (int l = 0; l < NLANGS; l++) {
+        char path[1024];
+        snprintf(path, sizeof path, "%s/translations/%s.json", dir, LANGS[l].code);
+        JVal *t = load_json(path, 0);
+        if (!t || t->type != J_OBJ) continue;
+        for (size_t i = 0; i < t->len; i++) {
+            Dish *d = (Dish *)site_dish(site, t->keys[i]);
+            if (!d || t->items[i].type != J_OBJ) continue;
+            for (int f = 0; f < F_COUNT; f++) {
+                const char *v = json_str(&t->items[i], FIELD_KEYS[f]);
+                if (v && *v && !d->text[l][f]) d->text[l][f] = v;
+            }
+        }
+    }
+}
+
 static void add_cuisines(Site *site, const JVal *cs) {
     if (!cs || cs->type != J_ARR) return;
     for (size_t i = 0; i < cs->len; i++) {
@@ -155,6 +173,7 @@ int site_load(Site *site, const char *dir) {
     add_dishes(site, json_get(main, "dishes"));
     if (extra) {
         add_dishes(site, json_get(extra, "dishes"));
+        add_translations(site, dir);
         add_names(site, json_get(extra, "names"));
         /* Тексты, дописанные для старых блюд: заполняют только пустые поля */
         const JVal *sup = json_get(extra, "supplements");

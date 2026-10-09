@@ -87,7 +87,7 @@ export const dishes = pgTable(
   ],
 );
 
-export const LOCALES = ["en", "es"] as const;
+export const LOCALES = ["en", "es", "fr", "de", "it", "pt", "tr", "pl", "uk", "ar", "fa", "hi", "zh", "ja", "ko", "id", "ka", "hy", "az"] as const;
 export type Locale = (typeof LOCALES)[number];
 
 // Переводы текстов блюда; основной язык (русский) хранится в самой таблице dishes

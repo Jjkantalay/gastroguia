@@ -2,14 +2,19 @@ import { existsSync, readFileSync } from "node:fs";
 import { eq, sql } from "drizzle-orm";
 import { slugify } from "../lib/slug";
 import { connect } from "./client";
-import { mergeContent, type ContentFile } from "./content";
+import { mergeContent, type ContentFile, type TranslationsFile } from "./content";
 import * as schema from "./schema";
 
 // Загружает content/dishes.json и content/dishes-extra.json в базу. Повторный запуск обновляет данные, а не дублирует их.
 const read = (name: string) => JSON.parse(readFileSync(new URL(`../../content/${name}`, import.meta.url), "utf8"));
 const photosUrl = new URL("../../content/photos.json", import.meta.url);
 const photos = existsSync(photosUrl) ? read("photos.json") : {};
-const content: ContentFile = mergeContent(read("dishes.json"), read("dishes-extra.json"), read("i18n.json"), photos);
+const translations: Partial<Record<schema.Locale, TranslationsFile>> = {};
+for (const locale of schema.LOCALES) {
+  const url = new URL(`../../content/translations/${locale}.json`, import.meta.url);
+  if (existsSync(url)) translations[locale] = read(`translations/${locale}.json`);
+}
+const content: ContentFile = mergeContent(read("dishes.json"), read("dishes-extra.json"), read("i18n.json"), photos, translations);
 
 // Подхватываем .env при локальном запуске; в Docker переменные приходят из окружения
 try {

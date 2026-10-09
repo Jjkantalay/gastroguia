@@ -60,11 +60,20 @@ export type PhotoCredit = {
 };
 export type PhotosFile = Record<string, PhotoCredit>;
 
+// Формат content/translations/<язык>.json — полные тексты блюд на остальных языках
+export type TranslationsFile = Record<string, Partial<Omit<ContentTranslation, "allergens">>>;
+
 const capitalize = (s: string) => s.charAt(0).toUpperCase() + s.slice(1);
 
 /* Объединяет перенесённые блюда с добавленными: русский и английский тексты, аллергены словами */
-export function mergeContent(main: ContentFile, extra: ExtraFile, i18n: I18nFile, photos: PhotosFile = {}): ContentFile {
-  const words = (lang: "ru" | "en", codes: string[]) => {
+export function mergeContent(
+  main: ContentFile,
+  extra: ExtraFile,
+  i18n: I18nFile,
+  photos: PhotosFile = {},
+  translations: Partial<Record<Locale, TranslationsFile>> = {},
+): ContentFile {
+  const words = (lang: string, codes: string[]) => {
     const dict = i18n.languages.find((l) => l.code === lang)?.allergens ?? {};
     return codes.map((c) => capitalize(dict[c] ?? c));
   };
@@ -104,11 +113,35 @@ export function mergeContent(main: ContentFile, extra: ExtraFile, i18n: I18nFile
     },
   }));
 
+  // Коды аллергенов по русским словам — чтобы перевести аллергены старых блюд
+  const ruWords = i18n.languages.find((l) => l.code === "ru")?.allergens ?? {};
+  const codesOf = (d: ContentDish) =>
+    extra.dishes.find((x) => x.slug === d.slug)?.allergenCodes ??
+    Object.keys(ruWords).filter((c) => d.allergens.some((a) => a.toLowerCase().startsWith(ruWords[c].slice(0, 4).toLowerCase())));
+
+  const translate = (d: ContentDish): ContentDish => {
+    const tr = { ...d.translations };
+    for (const [lang, file] of Object.entries(translations) as [Locale, TranslationsFile][]) {
+      const t = file[d.slug];
+      if (!t?.name || !t.description) continue;
+      const cur = tr[lang];
+      tr[lang] = {
+        name: cur?.name ?? t.name,
+        description: cur?.description ?? t.description,
+        quote: cur?.quote ?? t.quote ?? null,
+        history: cur?.history ?? t.history ?? null,
+        ingredientsText: cur?.ingredientsText ?? t.ingredientsText ?? null,
+        allergens: cur?.allergens?.length ? cur.allergens : words(lang, codesOf(d)),
+      };
+    }
+    return { ...d, translations: tr };
+  };
+
   const photo = (d: ContentDish) => d.image ?? (photos[d.slug]?.image.startsWith("/") ? photos[d.slug].image : null);
   return {
     ...main,
     cuisines: [...main.cuisines, ...(extra.cuisines ?? []).filter((c) => !main.cuisines.some((m) => m.slug === c.slug))],
-    dishes: [...old, ...added].map((d) => ({ ...d, image: photo(d) })),
+    dishes: [...old, ...added].map((d) => ({ ...translate(d), image: photo(d) })),
     // Редиректы пустых карточек на каталог не нужны, если блюдо появилось
     redirects: main.redirects.filter((r) => !(r.destination === "/dishes" && known.has(r.source.replace("/bliuda/", "")))),
   };
